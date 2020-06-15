@@ -1,0 +1,7331 @@
+1. Moodle
+2. Tux Paint
+3. PSeInt
+4. Logisim
+5. gnuplot
+6. AcademiX
+7. Quite Universal Circuit Simulator
+8. OnixOS
+9. Cool Reader
+10. CiteSpace
+11. Klavaro Touch Typing Tutor
+12. Xournal
+13. GoldenDict
+14. Stellarium
+15. BigBlueButton
+16. LinuxCommand
+17. Jmol
+18. Arch Linux Desktop Install
+19. PICSimLab - PIC Simulator Laboratory
+20. XDXF - XML Dictionary Exchange Format
+21. Celestia
+22. eXe
+23. easygui
+24. Brain Workshop
+25. Zekr: Multimedia Quran Study Software
+26. wxMaxima
+27. Simulation of Urban MObility
+28. Arch Linux Fast Install
+29. Zero Install
+30. Tux of Math Command
+31. Impro-Visor
+32. Psychology Experiment Building Language
+33. forma.lms
+34. OpenBiblio
+35. BASIC-256
+36. DictionaryForMIDs
+37. LenMus
+38. TreeForm Syntax Tree Drawing Software
+39. MCU 8051 IDE
+40. MatCont
+41. GNU Solfege
+42. MuseScore
+43. Kiwix
+44. schoolsplay
+45. Mnemosyne Project
+46. vym - view your mind
+47. Ardublock
+48. Tux Typing
+49. MathGL
+50. Virastyar
+51. NetEmul
+52. FET- Free timetabling software
+53. Concordia
+54. Platform Independent Petri Net Editor
+55. ArUco
+56. Omnitux
+57. Jalmus
+58. VirtualX - Online Examination System
+59. GraphCalc
+60. PrimTux
+61. GNU 8085 Simulator
+62. The Number Race
+63. Web Security Dojo
+64. PreviSat
+65. Claroline
+66. Project X - DVB demux Tool
+67. Java Modelling Tools
+68. Ayaspell project
+69. Artha ~ The Open Thesaurus
+70. HariSree Malayalam Software Pack
+71. TORCS - The Open Racing Car Simulator
+72. ATutor (Learning Management System)
+73. Diskless Remote Boot in Linux (DRBL)
+74. Linux Educacional
+75. JMCAD - modeling of dynamic systems
+76. Learning with Texts (LWT)
+77. GCompris : I got IT
+78. jpeg2pdf
+79. 15 Million Games Chess Database
+80. ITG Virtual Lab (Virtual Microscopes)
+81. MathMod
+82. Kaldin | Online examination software
+83. Typing Guru
+84. Biogenesis
+85. CasADi
+86. asriedu
+87. LPub3D
+88. iTest
+89. Battlefield Bad Company 2 MASE
+90. TiLP - Ti Linking Program
+91. Performous
+92. UberStudent - Linux for Learners
+93. boats
+94. OSGeoLive
+95. Open-School Community Edition
+96. Agena
+97. circuitmod
+98. Subliminal Blaster 4
+99. freeLib
+100. Seagull
+101. TiEmu - a TI89(ti)/92(+)/V200 emulator.
+102. Dual Clip Translator
+103. OpenTeacher
+104. Java Concurrent Animated
+105. مكتبة القرطاس
+106. biblatex
+107. Linguistic Tree Constructor
+108. Gambit
+109. NoteLab
+110. openSUSE Education
+111. Canorus
+112. Excel to Arff Converter
+113. OWASP Juice Shop
+114. GPicSync
+115. Akura
+116. Quiz/Survey/Test Online
+117. Nootka
+118. E-FOTO
+119. xoscope: digital oscilloscope
+120. ILIAS LMS
+121. Jacksum
+122. K3DSurf
+123. EduSec College Management System
+124. eAdventure
+125. WIKINDX
+126. JSmol
+127. Finanx 12c
+128. openSIS Community Edition
+129. MathJax
+130. Luz do Saber
+131. Koha Live DVD
+132. GNSS-SDR
+133. eduActiv8
+134. Calc2LaTeX
+135. Xena - Digital Preservation Software
+136. DSpace
+137. testMaker
+138. Fedora Commons
+139. LinuxKidX
+140. simon
+141. jMusic - Composition in Java
+142. School Software
+143. TunesViewer
+144. IMS Open Corpus Workbench
+145. Jasmin - a Java assembler
+146. Heritrix: Internet Archive Web Crawler
+147. Al-Anvar: Quran Research Software
+148. The Open ISES Project
+149. jMemorize
+150. dslibris
+151. Dokeos
+152. Open Vietnamese Dictionary Project
+153. Rapla, resource scheduling
+154. Ground Station Software Suite
+155. Free Dictionaries
+156. Geophar
+157. Guitar Chord Diagram Maker
+158. English to Telugu Dictionary
+159. moebinv
+160. Digital Logic Design
+161. Strong Java Chess Engines Game
+162. SanDic
+163. Johnny Simulator
+164. SoccerSketch
+165. CompPad
+166. pySioGame / eduActiv8
+167. refbase - Web Reference Database
+168. NewGenLib
+169. Xiphos (see github)
+170. Advanced Trigonometry Calculator
+171. Childsplay
+172. Docear
+173. radlab
+174. ECG Logger
+175. Escuelas Linux
+176. Stud.IP
+177. PythonCard
+178. VideLibri
+179. TemaTres: controlled vocabulary server
+180. Appsource School Management System
+181. Portable SLiMS
+182. bflow* Toolbox
+183. Paint on Whiteboard Desktop
+184. Virtual T
+185. Gui Library window9
+186. Pauker
+187. MRiLab
+188. CatMDEdit - metadata editor
+189. Word Search Creator
+190. Moodle Live Classes and Webinar Plugin
+191. Mechvibes
+192. SDRLive
+193. SigPack
+194. PS-Drone
+195. Hypersocket VPN
+196. School ERP Plus
+197. Green
+198. College Time Table (CTT)
+199. TESTIMAGES
+200. Facilino
+201. صحيح البخاري
+202. Karel the Robot
+203. NumericalChameleon
+204. PhysMo - Video Motion Analysis
+205. adms
+206. MediaWiki
+207. Structorizer
+208. FindThatWord
+209. The Player Project
+210. G3D Innovation Engine
+211. Origami Editor 3D
+212. Spammer
+213. Aurora Conky Theme
+214. DROID
+215. Diccionario De Rimas
+216. ORSA
+217. linSmith
+218. Marcion
+219. Guido van Robot
+220. VeNCrypt
+221. Argunet
+222. Roger's Math Whiteboard
+223. GKmap -K-map disclosure
+224. PyGlossary
+225. Open Exam
+226. MyOpenLab
+227. DICT Development Group
+228. nuBASIC
+229. NET-Simulator
+230. GameOver
+231. Web Appointment Scheduling System
+232. Starehe School Management
+233. Formulator MathML Editor
+234. Olam English Malayalam Dictionary
+235. Free Academic Timetable Software
+236. JPC
+237. Bell-412
+238. KingJamesPureBibleSearch
+239. NeuronDotNet - Neural Networks in C#
+240. ResCarta
+241. FreeSMS (Free Student Management System)
+242. BigBlueButton Ilias Plugin
+243. VStar
+244. Extcalc
+245. Quiz Maker Portable
+246. Perseus' Java Hopper
+247. Web based bibliography management system
+248. docebo reborn
+249. fmurf
+250. Xsuite (xdrae-xinfo-xedit)
+251. Free Dean's Office for MOODLE
+252. MyABCs
+253. edulibreos
+254. Edition Visualization Technology
+255. Hypernomicon
+256. ZDT
+257. Klest-crossword
+258. Web School ERP
+259. PASTE
+260. VSL: Virtual Steganographic Laboratory
+261. TSP Solver and Generator
+262. Quine-McCluskey minimizer
+263. BibleTime
+264. Cool typing tutor
+265. JDBC Tester
+266. TICO
+267. Open Faculty Evaluation System
+268. ThManager
+269. Vocabulary Learning Tool
+270. JChart2D
+271. People Counter
+272. xowa
+273. BibTeXML
+274. Marathi / Hindi Typing
+275. OFSET
+276. SchoolMate
+277. ProQuiz V2
+278. AminePlatform
+279. PP3 -- Celestial Charts Generator
+280. Web-CAT
+281. UltraStar-NG (obsolete)
+282. openSIS
+283. UnityMol
+284. JaCoP
+285. cvsba
+286. DESMO-J
+287. AContent
+288. Matlab Fingerprint Recognition Code
+289. Eulumdat_3D - QLumEdit2
+290. jQuizShow (Millionaire game)
+291. Calculadora Calculo Numérico
+292. VNC Reflector
+293. Pachyderm
+294. Daisy Pipeline GUI
+295. LibreGrammar (LanguageTool fork)
+296. FLTR
+297. Greenie
+298. Alfanous
+299. Group Explorer
+300. WxGeometrie
+301. sdcv
+302. DaVinci Concurrente
+303. EZOP
+304. FastMRCView
+305. LAMPSchool
+306. myScite
+307. DIY Book Scanner Image Postprocessor
+308. Speedcoin
+309. JFractionLab
+310. libliveDVD
+311. Digital Pali Reader
+312. linuxopedi
+313. Algebra Helper
+314. Campus Project
+315. The BOSS Online Submission System
+316. WordFlashReader
+317. A Byte of Python in German
+318. The Linux Schools Project
+319. UC Sniffer
+320. kanji-poster
+321. ENIAC
+322. Loro - Un Sistema de Programación
+323. WikSpeak
+324. sel - Sistema de Evaluaciones en Línea
+325. TextCite: Publication Quotation Manager
+326. Variations
+327. 3DS Java3D Loader
+328. Archon: Archival Information System
+329. JConvert - Unit Conversion (Java based)
+330. phpGesCen
+331. GATA
+332. Avida Digital Life Platform
+333. Science Olympiad Scoring System
+334. SimpleDSO
+335. Cambridge Rocketry Simulator
+336. ReciteWord
+337. Cabra
+338. Maktabah Al-Miftah
+339. jMIR
+340. Raspbian For Robots by Dexter Industries
+341. Visual ExpressionCalculator
+342. javaNetSim
+343. eduCommons
+344. SCRAM
+345. JUDO
+346. EarToner
+347. JLex and CUP Java based Decompiler
+348. Natural Language Toolkit
+349. Regex Creator
+350. Typing Baba: Hindi Typing Tutor
+351. XLogo
+352. Glossword
+353. The Dictionary System
+354. Tucunaré
+355. Fresh Memory
+356. elive
+357. choco
+358. Compilatio
+359. grammarscope
+360. Multi-Lingual Vocabulary Trainer
+361. DNAStrider
+362. WiimoteCommander
+363. ADiKtEd
+364. SISFO JIBAS
+365. Speech and Debate Timekeeper
+366. interact
+367. ScoreDate
+368. Web Curator Tool (moved to Github)
+369. EspaBiblio 3.3 (Giordano Bruno)
+370. Linux Knowledge Base and Tutorial
+371. Catakig
+372. Claroline packages
+373. Gauss–Jordan elimination
+374. Pinyin to IPA Conversion Tools
+375. 8085asm - Simple 8085 assembler
+376. Audacity-Extra
+377. GUAJE FUZZY
+378. Java-Calculator
+379. ProtoMol- Molecular Dynamics Simulation
+380. Shelk-test
+381. eLML - eLesson Markup Language
+382. FunkyPlot - Math. Function Plotting
+383. JFrame
+384. SimpleDict Dictionary
+385. SoundRuler
+386. Swedish-English Open Dictionary
+387. Digital Preservation Recorder
+388. Assignment Calculator
+389. CW Trainer
+390. Internote
+391. JQM Java Quine McCluskey
+392. MangaED
+393. Property Management Software
+394. WatchmakerSuite
+395. OpenTCP
+396. ClaSS
+397. Exam-O-Matic
+398. Extended Java WordNet Library
+399. GNUitarra/Guitar helper
+400. Sarf - Arabic Morphology System
+401. WordTrain
+402. ZeGrapher
+403. meteo in 2o.pl
+404. whiteboard
+405. BanglaDictX
+406. HatchKeeper
+407. KGeography
+408. KML-Editor
+409. MPEG TS, PS and ES tools
+410. OpenDict
+411. Savsoft Quiz v2.0
+412. Tux Math Scrabble
+413. UKnow4Kids Educational Linux Distro
+414. Virtual Motherboard
+415. booksorg
+416. eSIMS-School Student management-India
+417. libby
+418. mywoo 六法全書
+419. Online Exam System
+420. Axiom Computer Algebra System
+421. Buka
+422. Calangos
+423. DaZero
+424. FLAQUIZTV - Family Quiz Game
+425. Gato (Graph Animation Toolbox)
+426. PaperShala - Online Examination Software
+427. Scilab Image Processing Toolbox
+428. TKD Scoring Wi-Fi
+429. Test case generator
+430. Turing and Post Machines: C++ Simulators
+431. Zeena School Management
+432. clipsmm - A C++ CLIPS Interface
+433. kseg
+434. Brihaspati
+435. General Chemistry Lab Simulator
+436. qvge
+437. 2048 Python , AI , 1 or 2 players
+438. Countdown Timers
+439. Desktop Chinese Dictionary
+440. Ezhil-Lang
+441. N-Type
+442. SiAdmin
+443. Diogenes
+444. Finite Transform Library
+445. IRT-Computerized Adaptive Testing
+446. KSimus
+447. Testmaster
+448. TextStat
+449. xrayutilities
+450. Logo3D
+451. DWDS/Dialing Concordance
+452. Virtual Library for Moodle
+453. Zocalo Prediction Markets
+454. mXparser - Math Parser Java C# Library
+455. qmol
+456. Cambridge Rocketry Toolbox for Octave
+457. InteractiveWhiteboard Common File Format
+458. MSR Tools
+459. Raspberry Pi Emulator (legacy)
+460. XLogo4Schools
+461. delinux
+462. pychemqt
+463. LaTeX2MathML
+464. Network Simulator (fork CORE - Live USB)
+465. SU1X
+466. Simuquant
+467. Spellchecker : next generation
+468. The ButterFly - Security Project
+469. The Manhattan Virtual Classroom
+470. full mips simulator
+471. Jacareto
+472. Balder
+473. Control Interface Victor 86C, Voltcraft
+474. Dutchroll Software
+475. GMP Fortran library
+476. Koha Stow Extras
+477. MD5-utils
+478. Overhead Imagery Research Data Set
+479. RosarioSIS
+480. Virtual TI Pro
+481. parashell - Parallel Port Control
+482. HCRF library (including CRF and LDCRF)
+483. QuickREx Regular Expressions
+484. MDic Dictionary
+485. Adaptive Typing Tutor
+486. Dokumentationsreihe Linuxhandbuch
+487. Esperanta Vortaro
+488. GMDSS VHF DSC Simulator
+489. Python IDLE lif (Language include file)
+490. QamIDEN
+491. Repast
+492. SchoolTool
+493. Simple Firewall
+494. Sistema de Gestion Academica (SGA)
+495. Structio. Constructing Knowledge in Col
+496. Vtudien: Từ điển Anh-Việt
+497. cuneiform
+498. eMKatic
+499. eduTrac Student Information System
+500. Archimede
+501. Build Your Own Jeopardy
+502. Evaristo
+503. GISMO
+504. InPitch
+505. JSMachines
+506. Kurdi Nus
+507. Lib CONIO (conio_am.h) GCC C++
+508. Monia Suite
+509. Nosleep Software Open Source (Inactive)
+510. Perstem
+511. Regex Match Maker (RegExmm)
+512. Sistema de Gestion Escuela
+513. jFAST - the Finite Automata Simulator
+514. ugtrain
+515. Holynix
+516. Wirawan Test
+517. Archive of Formal Proofs
+518. Fake Name Generator
+519. Intelligere SCS
+520. Ivan's Accounting Tools
+521. LinguaSubtitle
+522. Master Mouse
+523. OpenExpert
+524. Pigale
+525. Tux2live - Your Linux Live Builder
+526. WeBWorK Online Homework Delivery System
+527. eTests
+528. quizzy -- PHP AJAX quiz library
+529. sudoku Solver
+530. Arabic WordNet
+531. BatPro
+532. Brandy Basic V Interpreter
+533. Classroom Scheduler
+534. GeMarge
+535. Gromit-MPX
+536. KAREL 3D WebGL
+537. Line
+538. Magic Images
+539. Manhali
+540. Manifest Maker
+541. Math Worksheet Generator
+542. OpenEuclide
+543. Portugol Viana
+544. STM: Student/Teacher Manager
+545. ScSpectrometer
+546. Serial Communicator
+547. SunCalculator
+548. Tete Ear Training Software
+549. Travian VN Clone script T3 - 2013
+550. VRP Solver
+551. Vulnerable Operating Systems
+552. nse-fetch
+553. ASCIIMathML
+554. GNU Typing Trainer
+555. Bibliograph
+556. Clavis NG CE
+557. French Verb Conjugation Rules
+558. Guitar Chord and Scale Diagrammer
+559. JPetriNet
+560. Lhogho - The Real Logo Compiler
+561. OSU Quiz
+562. Pioneer University/College System
+563. QTItools
+564. VuFind
+565. sistem nilai kurtilas online
+566. Asset Management System
+567. Cisco IOS command line simulator
+568. Flash Quiz
+569. GenDoc
+570. JS Reader
+571. Java GNU Scientific Library
+572. Libro
+573. ODS3 Virtual Machine Challenge
+574. Oasi - Open Document Speaker
+575. OpSim - Open Source Process Simulator
+576. OpenThermo
+577. PDF Annot
+578. RCXDownload and RCXDirectMode
+579. SECD
+580. Viva Visitor & Volunteer ID tracking
+581. dict-es
+582. gambol
+583. hping2
+584. katamotz lectura
+585. phpwebsite Scholarship Award System
+586. scriptLattes
+587. spserver
+588. AutoSim
+589. CPU schedule
+590. Carnatic Music Typesetting
+591. Encyclopedia Creator
+592. Freeloader Linux
+593. GeoCalculator
+594. GraceMX
+595. Guitar Note Practice
+596. I Was Here
+597. Jigsaw
+598. LucidChamber-paint
+599. Lurch
+600. MatrixGame
+601. Mini MD5 Cracker
+602. Motorola 6800 Simulator
+603. Open Finite Element Analysis
+604. OpenAlgoViz
+605. ProviewPi
+606. QuizEngine
+607. Quizzer
+608. SimplePDF
+609. Standard Content Archive Management
+610. SystemDynamics
+611. Vrutha Sahayi
+612. dbook
+613. jinx linux
+614. SITools2
+615. siestta
+616. Al_Lamy
+617. Ascalaph Graphics
+618. Avenzoar Digital Pathology Tool
+619. Conect-A3XN-ndo
+620. Convince Me
+621. Digital Preservation Software Platform
+622. EVAlgebra - Clifford algebra calculator
+623. ITPoster.net
+624. LCD TFT 240 320 hx8347a SSD1289 sdcard
+625. LCSIM - Laboratory Circuit Simulator
+626. LegoUSB
+627. MesoRD
+628. MobiDict
+629. SILICA
+630. SPINA
+631. Simple Dumping Monitor for Arduino
+632. Sphaerica
+633. Students Voting System
+634. The Chorderator Chord Generator
+635. TimeTableGenerater
+636. TuxWordSmith
+637. XWICKED: Crossword editor
+638. biblatex-gost
+639. blockem
+640. cosmogoniA Linux Live!
+641. pw.mac
+642. veb blog
+643. logisim
+644. Along32
+645. BigBlueButton ILIAS
+646. Bingo Cards
+647. BotoSeis
+648. CrossBgBible
+649. CrossRef Citation Plugin
+650. CyberDojo
+651. DebitCalculator
+652. Dictator
+653. GeekOS
+654. Griffin Typing
+655. Hindawi Indic Programming System
+656. JBioFramework
+657. JColorGrid
+658. KJV Bible (fortune format)
+659. KWordQuiz
+660. Koha Tools
+661. Linux Letters and Numbers
+662. LullySec
+663. MixIDE
+664. MyChineseFlashCards
+665. Netkit
+666. OfflineEd: DB
+667. Open Schulte table
+668. PMB
+669. PyGeo - Dynamic 3d Geometry in Python
+670. RTSim
+671. RTuinOS
+672. Rebol Programming For Absolute Beginners
+673. Rephrase
+674. Savsoft Quiz v1.0
+675. Simple Client Server Chat Example
+676. Simulador de escalonamento de processos
+677. Susa
+678. TestGuru
+679. TurtleGraphics
+680. Typing Trainer
+681. VIMINAL
+682. Whitaker's Words Latin Dictionary
+683. iMark
+684. interpedia
+685. pfcalc
+686. qyouti
+687. Лінгвісто (Linguisto)
+688. Our Scrapbook
+689. WebTester Online Testing
+690. Chapel
+691. Agenda y Reservacion de Citas
+692. AnetTest
+693. BiSiDat - biological signals database
+694. Bulgarian-English Open Dictionary
+695. CP1-Simulator
+696. Camscope
+697. Cidian: Chinese-English dictionary
+698. Collective Mind Technology
+699. CourseWork
+700. Digital Logic Simulator (DiLoSim)
+701. Dive Into Python
+702. Documentación de Python
+703. Dual N-Back Lite
+704. Entropy Compression Algorithms
+705. Explosives Calculation
+706. Fuzzy machine learning framework
+707. General Hidden Markov Model Library
+708. Graph Package
+709. Impossible Mission 1 HTML5
+710. Interactive Neural Network Simulator
+711. JAlma
+712. Java Jeopardy
+713. JavaLogo
+714. KAREL 3D
+715. Light Speed!
+716. Little Wizard
+717. MathStudio
+718. Memorize words FlashCard system
+719. Metronomek
+720. Middle School Homework Page
+721. Mojde Persian Bible Software
+722. Morning Exercises
+723. Music-Player
+724. NExEv
+725. Newman
+726. Oberon V4
+727. PL0-Compiler
+728. PhPress
+729. PyBooklet
+730. PyCrust
+731. PyPlot
+732. QuestionSet
+733. Rocksnake Geo Mapping Tool
+734. SILENT
+735. Simple Bible Game
+736. Simple Library
+737. Simples - Controle de Estoque
+738. StochKit
+739. Suiteki
+740. Supply Chain Competition Game
+741. TGuitar
+742. The Practice of Parallel Programming
+743. Toves
+744. Vsemi10ti - All ten fingers education
+745. WebSquare
+746. XWICKED: Crossword viewer
+747. Xebece
+748. abcmusiex
+749. avestafonts
+750. clavier virtuel japonais
+751. debian10autoconfig
+752. diauxic growth model ensemble
+753. gKamus
+754. lilpM32
+755. online virtual laboratory of electricity
+756. qtrans
+757. vofce
+758. حَصْنْ اَلْمُسْلَمْ
+759. 4917 Microprocessor Emulator
+760. Aelius Brazilian Portuguese POS-Tagger
+761. Blood Bank
+762. C++ Travel Customer Choice Model Library
+763. CaesarCipher
+764. DDI Alliance
+765. Digital Gaffiot
+766. Digital Learning Sciences (DLS)
+767. Diglo
+768. ForensicZone
+769. Frevo
+770. General Knowledge Machine Project
+771. Histoire Mondiale
+772. Kana Invaders
+773. LetoLMS (formerly Paidei)
+774. Limiro
+775. Limsoft
+776. debian10autoconfig
+777. diauxic growth model ensemble
+778. gKamus
+779. lilpM32
+780. online virtual laboratory of electricity
+781. qtrans
+782. vofce
+783. حَصْنْ اَلْمُسْلَمْ
+784. 4917 Microprocessor Emulator
+785. Aelius Brazilian Portuguese POS-Tagger
+786. Blood Bank
+787. C++ Travel Customer Choice Model Library
+788. CaesarCipher
+789. DDI Alliance
+790. Digital Gaffiot
+791. Digital Learning Sciences (DLS)
+792. Diglo
+793. ForensicZone
+794. Frevo
+795. General Knowledge Machine Project
+796. Histoire Mondiale
+797. Kana Invaders
+798. LetoLMS (formerly Paidei)
+799. Limiro
+800. Limsoft
+801. MARC Library ( SobekCM )
+802. MLA Auto-Generator
+803. MatrixUser
+804. Mecanica
+805. MolMarker
+806. Netviz
+807. Oirlis
+808. Open Elms - LMS/CMS for Business
+809. Open Knowledge Initiative (OKI)
+810. PHP Choral Music Library
+811. PHPTestManager
+812. Qamoos
+813. Science Lab Inventory & Order Management
+814. Speaking Images for Kids
+815. The Tao of Soccer
+816. TuxMinds
+817. Virtual MR Scanner
+818. VoToL
+819. Voc2brain
+820. Yamwi
+821. gematria
+822. guglinatts
+823. openBaraza UMIS
+824. toMOTko
+825. Bibliophile
+826. Descriptive Examination System(DES)
+827. PCuaderno, teacher grade book.
+828. neblipedia, enciclopedia libre offline
+829. HPN cli calculator
+830. OpenGLM
+831. Subliminal Messages Free
+832. A Helpful Terminal Emulator
+833. Alan
+834. Alumni Tracking Database
+835. Alumni-Online
+836. Arduino Doodles
+837. ArgSemSAT
+838. Arnold
+839. CaMPI
+840. DIY Arduino Boards IO I2C
+841. DynamicJava
+842. EasyQuizzer
+843. EduOrb
+844. ExamWeb
+845. FreeFret
+846. FreeReportBuilder
+847. GNU Numerology System
+848. General Graphics Interface
+849. Graph Editor
+850. Gravitation
+851. Hasenschule
+852. Hebrew Alef Bet Flashcards
+853. IDL2Matlab: IDL to Matlab/Scilab
+854. IFS Tools
+855. IN Harmony Sheet Music Cataloging Tool
+856. Iduna DAIsy Reader
+857. Inwicast Mediacenter
+858. J-VRPsolver
+859. JQuestions
+860. Kana no Quiz
+861. LangLearn
+862. Learn and Play
+863. LingoTeach
+864. Logic Circuit Simulation in C++
+865. MGB OpenSource Guestbook
+866. MOKA - 3D Topological Modeler
+867. Marathi Virtual Keyboard
+868. Matlab Visual Servoing Toolbox
+869. MorseLab
+870. Music Theory Environment
+871. My Basic Facts Quiz
+872. Myquiz
+873. NAT Braille
+874. Neo's ebook
+875. Ohod Quiz Game
+876. OpenChem Workbench
+877. OpenVLAB
+878. Portable Moodle - MoodlEasy
+879. PredatorPreySimulation
+880. PsyScript - getting experiments done
+881. PyMathProg
+882. Python Docs in Bulgarian
+883. QuickWeb
+884. Rubik's_cube_3x3x3_Simulator
+885. Sadd - IFBA
+886. Scale Finder
+887. SchoolAlumni Portal
+888. Seed Library Database
+889. Shape Grammar Interpreter
+890. Simplex OPTIMA
+891. Small Utilities Project
+892. Squeak
+893. TaranisIDE
+894. Théorie musicale/instruments de musique
+895. VEduino Library for Arduino
+896. VSOL
+897. Vanilla Draw
+898. XBNF
+899. Yans - Yet Another Network Simulator
+900. ZDic
+901. ZH Mono
+902. alfa+legal
+903. bootf2BCA
+904. chatbot_chung
+905. computing the k shortest paths
+906. faif
+907. illness index
+908. jFirewallSim
+909. openDLX
+910. phimatex
+911. phpSyntaxTree
+912. simBio
+913. simple-odspy
+914. unalog
+915. weka-MTreeClusterer
+916. المصحف المفسر
+917. 7train METS generation tool
+918. Android Arabic Reader
+919. Brain Speed Test
+920. JNP Timer for Desktops and Laptops
+921. Javaclient for Player/Stage
+922. Jbookshelf
+923. Open-Data-Vault-Models
+924. OpenOffice.org Chemistry
+925. Simulator Virtual Net for Web 2.0
+926. Tiny Typing Tutor
+927. AQA-AODV
+928. AVRGude
+929. AarMail - Anonymous Emailer
+930. Aidear family management system
+931. Alarm Sim
+932. Almagest
+933. AnimEasy - Graphic animation to Inkscape
+934. Anki Stream
+935. Another Fractal Generator
+936. AprendeClick
+937. Arabic Reader for J2ME
+938. AspQuestionnaire
+939. Astro-Online - Widget Based Astrology
+940. Babiloo
+941. Blob Extractor
+942. Blue|Smash
+943. Br-Gogo
+944. C/C++ Program Perfometer
+945. COS - Astrolab
+946. CRC
+947. CSV Loader
+948. CWT Library
+949. Conductor's Beat
+950. CoolingPower
+951. Crossword Master
+952. Cryptography Tools
+953. CwTutor
+954. DOOR - Digital Open Object Repository
+955. Daylight Chart
+956. Distributed Sniffer
+957. DoceboLMS, e-learning platform and SCORM
+958. EPeriodic
+959. ERP Demo Application
+960. Easy Monitor
+961. EduMIPS64
+962. Euclidean
+963. Euler for GTK+
+964. ExSyS
+965. FB Chart Designer
+966. FPlus
+967. Flash Cards PHP
+968. FlexTest
+969. Free Objects for Crystallography
+970. FreeCell Java Solver
+971. FreeDB2MySQL
+972. Frndz Boolean Expression Simplifier
+973. Fung-Calc
+974. GACS
+975. Games for French pre-school
+976. Geometry
+977. GlabUke
+978. GnuPinch
+979. GoGraph
+980. GoogleTranslator2.0
+981. Graphy
+982. GutenPy
+983. Ideenmanufaktur Games Project
+984. JMorseTrainer
+985. JPianoTrain
+986. JaLingo
+987. JadeTower: Tutorial Code
+988. Java Address Book - JAddressBook
+989. Java Math-CAS
+990. KEduca Project
+991. Kamus Plus
+992. KanaSensei
+993. LEGADEE
+994. LUCID
+995. Labrador SLMS
+996. LeitnerBox
+997. Let's Memorize Japanese
+998. Librarian DB
+999. Library Manager
+1000. Ligne du temps (Flex 2)
+1001. Lingvist
+1002. Lyon-Grenoble condor scenery
+1003. Materio
+1004. Math Ninja
+1005. MathTran - Translation of math content
+1006. Mendeleev Molecular Weight Calculator
+1007. MobileMath
+1008. Montessori Bells
+1009. MyVocabtionary
+1010. Navmol
+1011. Net-Billetterie
+1012. NetMODE
+1013. NightAssistant
+1014. OAK-Repository
+1015. Online Attendance System
+1016. OoOfficeAutomation
+1017. Open Chord
+1018. OpenClassroom
+1019. Optimum Path Calculator
+1020. Orbit Wizard
+1021. Ortalama Hesaplayıcı 3.0
+1022. Osnofian Embedded Linux (x86)
+1023. PDF Annotation Engine
+1024. PIDGIN-GPG
+1025. PIHMgis
+1026. ParseL
+1027. Particle in Mesh Viewer
+1028. Passed or fail Exam Result System
+1029. Pibox
+1030. Projectile
+1031. PsiCoder
+1032. Pulga Iterator
+1033. PyStarDict
+1034. QTI Creator for OpenOffice 2
+1035. QualityControlForRadiology
+1036. QuestionDB
+1037. RINO Software
+1038. RPilot
+1039. RYMOS
+1040. Real-time Fractals
+1041. Registro Elettronico v2
+1042. Ro3n
+1043. SIRIUS
+1044. SQLCommander
+1045. SayWhat?
+1046. School Admin Project
+1047. Segue CMS
+1048. Shaft
+1049. Shortest Path Graph A star
+1050. Simple MVC Example in Java
+1051. Simple Spaced Repetition
+1052. Singular
+1053. Smulsa 2001
+1054. Snack: Learning Software for Nutrition
+1055. Speed Reading Client
+1056. StepIntoChinese
+1057. Student Information System
+1058. Study planner
+1059. TAO Translator
+1060. Tek-e-Tot
+1061. Television Gratis / Free TV
+1062. Testa OTMS
+1063. TetrisDAI
+1064. The Gavrog Project
+1065. The Java Turtle Package
+1066. Tk-Yupana
+1067. Ultimate Calc
+1068. VTSurvey
+1069. Vapour Liquid Equilibrium using Java
+1070. VerbOS
+1071. Verbes
+1072. Visual DB Script
+1073. Vocab Builder
+1074. Warps And Morphs
+1075. Web Interface to Octave
+1076. WebGrader : An Automated Essay Grader
+1077. WebXSSDetector
+1078. Whoola
+1079. WikiWind
+1080. Wizard to learn words
+1081. Woodys Fishing Hole
+1082. X4L RELOAD TOOLS
+1083. Yodao Free
+1084. arclog
+1085. charlix
+1086. eConf
+1087. freeschool - open source for schools
+1088. garlic
+1089. gedcom2wiki
+1090. iPeer
+1091. jsGorithm: simple algorithm animation
+1092. jsTypingTutor
+1093. jscl-meditor
+1094. karelNB
+1095. labsystem
+1096. libtdms
+1097. microHAL
+1098. openStages
+1099. phpCitationManager
+1100. pseudo-c-compiler
+1101. pySimiam
+1102. shadowsocks-heroku
+1103. smartIDS
+1104. ssc32 servo controller
+1105. thetis
+1106. tkXMLiVE XML intelligence Visual Editor
+1107. turing machine simulation
+1108. umlnetsym
+1109. verilog compiler
+1110. yachaywasi
+1111. 希科系统（CxServer）
+1112. @School
+1113. Arabic alphabet Learner
+1114. Arduino Sketch Chooser
+1115. Argotik
+1116. Associative Indexing Service
+1117. Backtrack menu and Backtrack tools
+1118. Bayesian Network Tools in Java (BNJ)
+1119. BgEng Dictionary
+1120. Bible-Questor
+1121. Big Integer Library
+1122. Bookingpad
+1123. Draft Traditional Hymnbook
+1124. E-Learning Applications Suite
+1125. Encyclopodia - encyclopedia on the iPod
+1126. Exam4Fun
+1127. File-Spector : Binary File Analyser
+1128. FlashQard
+1129. GaugeBook
+1130. Idea Futures Prediction Market
+1131. Indywiki
+1132. IntraSchool CMS
+1133. JIBAS
+1134. Java CAI Framework
+1135. KORA
+1136. KORAIS
+1137. Lazy Wavelet Transform
+1138. Libycus
+1139. Luecky
+1140. Luz do Saber
+1141. MQAT
+1142. MathParser Java - Math Parser library
+1143. MecSchool
+1144. Moodle Bangla Pack
+1145. Motorcycle BlackJack
+1146. Motorsport
+1147. NewbieDOC: Debian newbie documentation
+1148. Open Biblio
+1149. Open-USB-IO board
+1150. PConMe©
+1151. PseInt-rebel
+1152. S-Match
+1153. SDict Viewer
+1154. SES Super-Encypherment Scrambler
+1155. SIMS CommandReporter Java API
+1156. School Management System
+1157. Schooladmin
+1158. SpeedSightRead
+1159. Sturesy
+1160. Test Suites Results Parser and Browser
+1161. Tools for Samsung Mobilephones
+1162. Tribuit - vocabulary trainer in java
+1163. UMich OAI Toolkit
+1164. Virtual Math Teams
+1165. Visual SQL Builder
+1166. Vocabulary Trainer (Java)
+1167. Web-enabled LETS System
+1168. WebPA [Now Moved to GitHub]
+1169. WiiC
+1170. barcode-java
+1171. eKitaab - EBook Catalog Manager Software
+1172. glossary project
+1173. intelligent thinking system solving
+1174. note taking simplified
+1175. simpleJ
+1176. vociteach
+1177. Command School Student Management System
+1178. JUnit Generator
+1179. LAN Tournament Manager
+1180. Happy Penguin
+1181. Klen-library
+1182. 2D-Physics-Engine
+1183. A Toddler Game
+1184. AI Neural Networks
+1185. APPLUS-ENERGIE
+1186. AROUNDMe collaboration server
+1187. Agnix Embedded Real-time OS Kernel
+1188. Agora
+1189. Alumni-Online
+1190. Android Math Challenge
+1191. Anusaaraka
+1192. Aptitude test software
+1193. Arabic Roots and Derivatives
+1194. Arageli
+1195. Artist
+1196. Automagic Marker
+1197. Autshumato TMS
+1198. BASIC Stamp Tools for Linux
+1199. BNU_thesis
+1200. BeOS RDP Client
+1201. Befunge Interpreter
+1202. BibCiter
+1203. BigAl
+1204. BinaryCrypt
+1205. Blackboard Link Checker
+1206. Bodington (tm)
+1207. Brainfuck-Library in Chez Scheme
+1208. C4 - Christian's C++ Code Collection
+1209. CARLOS
+1210. CCR Plus
+1211. CGTutorial
+1212. COFALE
+1213. CPAMUST
+1214. CacheCleaner
+1215. Calculadora Computação
+1216. CharlieBot
+1217. Chemical Reaction
+1218. Chinese Flashcards
+1219. ChordTester
+1220. Chronicles2000
+1221. CinsImp
+1222. CiteMite
+1223. Claroline Certificate Print Mod
+1224. Claroline Course Exchange
+1225. ClassWeb
+1226. Classroom Response System
+1227. Collage
+1228. Command line Multiplication practice
+1229. CompLearn Toolkit
+1230. ComposerQuiz
+1231. Containers library for Lazarus
+1232. Controllers for Sanyo Projectors
+1233. Convey
+1234. CyberBrau
+1235. CyberGestionnaire
+1236. CyberTester
+1237. DLESE: Digital Lib. for Earth System Ed.
+1238. DSpace Live DVD
+1239. DefLang
+1240. Delphi Learning Package for Moodle
+1241. Dexios Bible Study Tool
+1242. Digital Exam
+1243. Digitization Metadata Editor
+1244. Distributed Proofreaders
+1245. Dlab
+1246. Docebo ELearning Joomla plugin
+1247. Doctus
+1248. EClass.Net
+1249. EEIP.Java
+1250. ERS
+1251. EarTeach desktop Ear Trainer
+1252. EduExpression
+1253. EduKit
+1254. Educat
+1255. Education Managment School I System
+1256. Educazionik
+1257. EggsHam
+1258. Ekaaty Linux
+1259. English-Catalan Dictionary Project
+1260. Enhanced Content Models
+1261. Entrada
+1262. Evrika
+1263. Exam maker
+1264. Examination Online
+1265. Exuberanza Scripts
+1266. FSL - OpenUSS
+1267. Fast Decimals to Fractions
+1268. FileTagger
+1269. Flashcard for Chinese characters
+1270. Folder
+1271. ForLatin
+1272. FrAid System and Language
+1273. Free Turing
+1274. FriPIC
+1275. G.A.V.
+1276. GDialog Add-on for X
+1277. GLOBALBASE PROJECT
+1278. GLUT Complex Function Plotter
+1279. GNU CERTIFIED
+1280. GRE Mnemonic Dictionary
+1281. Galapago
+1282. Gaviota Endgame Tablebases Java API
+1283. Gemwest
+1284. GenSim
+1285. Genepi
+1286. Geothek
+1287. German Verb Quarry
+1288. GesCoEs
+1289. Gibbon
+1290. Graph ToolBox
+1291. Graphical Calculator
+1292. GêBR
+1293. HTML CSS Code Tester
+1294. HTML testsystem
+1295. Hadoop-EC
+1296. Hanzi Helper - Chinese study aid
+1297. Hanzi Recognizer
+1298. Hating Kanji
+1299. HiddenWords
+1300. Home Library
+1301. Host Capture with DHCP Lease Parser
+1302. ImageJ
+1303. Implementing OBE in Technical Education
+1304. InsecureWebApp
+1305. Isotope Decentralized MMORPG
+1306. JChords
+1307. JDFeditor
+1308. JDict
+1309. JHOVE
+1310. JTestCase
+1311. Java Assignment Automarker
+1312. Java Hybrid Distance Learning
+1313. Java Modeling Language (JML)
+1314. Java Point
+1315. Java Time Series Analyzer
+1316. Java White Board
+1317. Java-Editor
+1318. Java3D DEM Viewer
+1319. JavaExtEditor
+1320. Joomla! Global Chinese Promotion Project
+1321. JuggleAnim juggling animation applet
+1322. Jump Start UI for Eclipse
+1323. JxtASK : W2P academic shared knowledge
+1324. K-Level 2.0 [revised]
+1325. KS Boolean Expression
+1326. KaNaPi
+1327. Kollapse Lite: Null Byte
+1328. Kreuzwortraetselwoerterbuch
+1329. Kuran - Quran viewing and reciting
+1330. LC2 ISA Simulator
+1331. LC3uArch
+1332. LEA
+1333. LEDBADGE LINUX INTERFACE
+1334. LISE // Linux School Edition
+1335. Language Explorer
+1336. Language KISS
+1337. Language Learning System
+1338. LineDDA
+1339. LogicCalculus
+1340. MBDyn_sim_suite
+1341. MStorage
+1342. MVied Editor
+1343. Makin' Bakon Typing Tutor
+1344. MarkList
+1345. Math4Child
+1346. MathExpression
+1347. MathGraph
+1348. MathJax for SVG
+1349. Mathgam
+1350. Mezmory
+1351. KaNaPi
+1352. Kollapse Lite: Null Byte
+1353. Kreuzwortraetselwoerterbuch
+1354. Kuran - Quran viewing and reciting
+1355. LC2 ISA Simulator
+1356. LC3uArch
+1357. LEA
+1358. LEDBADGE LINUX INTERFACE
+1359. LISE // Linux School Edition
+1360. Language Explorer
+1361. Language KISS
+1362. Language Learning System
+1363. LineDDA
+1364. LogicCalculus
+1365. MBDyn_sim_suite
+1366. MStorage
+1367. MVied Editor
+1368. Makin' Bakon Typing Tutor
+1369. MarkList
+1370. Math4Child
+1371. MathExpression
+1372. MathGraph
+1373. MathJax for SVG
+1374. Mathgam
+1375. Mezmory
+1376. MiniCore
+1377. MiniMorse
+1378. Moodle Question Parser
+1379. Moodle RADIUS Authentication Plugin
+1380. MoodlePeers
+1381. Mormon Documentation Project
+1382. Multiple Choice Examination System
+1383. Mwamko: Virtualization Control
+1384. MyWorld Engine
+1385. Myrtle
+1386. NPK MUD-like environment
+1387. NXT BT
+1388. NetworX-Non-Profit, Social Community
+1389. NotesTyper
+1390. Numerist
+1391. OPDFGen
+1392. OSC message for QT
+1393. OSLearning
+1394. OSR
+1395. ObjectVolume
+1396. Occay! RPN Desktop Calculator
+1397. Of Mages and Magic
+1398. OmniHelp tripane on-line help viewer
+1399. OnFORME
+1400. Online Grades & Attendance
+1401. MiniCore
+1402. MiniMorse
+1403. Moodle Question Parser
+1404. Moodle RADIUS Authentication Plugin
+1405. MoodlePeers
+1406. Mormon Documentation Project
+1407. Multiple Choice Examination System
+1408. Mwamko: Virtualization Control
+1409. MyWorld Engine
+1410. Myrtle
+1411. NPK MUD-like environment
+1412. NXT BT
+1413. NetworX-Non-Profit, Social Community
+1414. NotesTyper
+1415. Numerist
+1416. OPDFGen
+1417. OSC message for QT
+1418. OSLearning
+1419. OSR
+1420. ObjectVolume
+1421. Occay! RPN Desktop Calculator
+1422. Of Mages and Magic
+1423. OmniHelp tripane on-line help viewer
+1424. OnFORME
+1425. Online Grades & Attendance
+1426. MiniCore
+1427. MiniMorse
+1428. Moodle Question Parser
+1429. Moodle RADIUS Authentication Plugin
+1430. MoodlePeers
+1431. Mormon Documentation Project
+1432. Multiple Choice Examination System
+1433. Mwamko: Virtualization Control
+1434. MyWorld Engine
+1435. Myrtle
+1436. NPK MUD-like environment
+1437. NXT BT
+1438. NetworX-Non-Profit, Social Community
+1439. NotesTyper
+1440. Numerist
+1441. OPDFGen
+1442. OSC message for QT
+1443. OSLearning
+1444. OSR
+1445. ObjectVolume
+1446. Occay! RPN Desktop Calculator
+1447. Of Mages and Magic
+1448. OmniHelp tripane on-line help viewer
+1449. OnFORME
+1450. Online Grades & Attendance
+1451. Online Mockup and Quiz
+1452. Open Cezeri Library
+1453. Open English-Thai Dictionary Project
+1454. Open Enrollment LMS
+1455. Open For Contents
+1456. Open Learning System
+1457. Open Library Mangement System
+1458. Open Source Portfolio
+1459. Open Source University
+1460. OpenAstrology
+1461. OpenCalc
+1462. OpenSAL
+1463. OpenSimMPLS (Visit http://goo.gl/ADQ2hl)
+1464. Opsis: Teaching BST Algorithms
+1465. Other Visual Simulation of an O.S.
+1466. Otodidak
+1467. PHP Login Without MySql
+1468. PHPFootball
+1469. Parola
+1470. Peklo
+1471. Periodic Table
+1472. Perseus' Art and Archaeology Module
+1473. Pick and Click
+1474. Plaggie1.1
+1475. Pobble
+1476. Podo
+1477. Pop Quiz
+1478. Popup
+1479. Program Q AIML
+1480. Programming language KAREL
+1481. PyHypnoMetronome
+1482. PyKanjiCard
+1483. PygLibs - Python game libraries
+1484. Pymprovisator: The jazz musicians helper
+1485. Python Console Library Project
+1486. Python Japanese Flash Cards
+1487. Pythońol: Spanish Language Learning Sof
+1488. QNANWidgets
+1489. QStarDict
+1490. QTed
+1491. QVision: Computer Vision Library for Qt
+1492. QtX3
+1493. Quati
+1494. Quick Japanese Dictionary
+1495. Quiz!
+1496. Quizdrill
+1497. RM Sim
+1498. RRDtool tutorial
+1499. RacingStripes
+1500. RadiationHelper
+1501. Remote Code Execution for BlueJ
+1502. Revisaid
+1503. RocketReader Readability
+1504. SASHA
+1505. SCORM-aicc_script-Interpreter
+1506. SCoreQDis
+1507. STORM - Student Online Record Management
+1508. Score Reading Trainer
+1509. Scorer
+1510. Scribenotes
+1511. Serotonin Prediction Markets
+1512. Shandian Chinese/Japanese Flashcards
+1513. Sight Reading Trainer
+1514. SignStream
+1515. Simbrain
+1516. Simple API for Binary REpresentations
+1517. Simple Gravity Simulator
+1518. Simple dictionary applications
+1519. SimpliMath
+1520. Single-Server-Queue-SIMULATION
+1521. Skippity
+1522. Skolelinux-Live
+1523. Slisp
+1524. Spacecraft Simulation Framework
+1525. SpellTime
+1526. Remote Code Execution for BlueJ
+1527. Revisaid
+1528. RocketReader Readability
+1529. SASHA
+1530. SCORM-aicc_script-Interpreter
+1531. SCoreQDis
+1532. STORM - Student Online Record Management
+1533. Score Reading Trainer
+1534. Scorer
+1535. Scribenotes
+1536. Serotonin Prediction Markets
+1537. Shandian Chinese/Japanese Flashcards
+1538. Sight Reading Trainer
+1539. SignStream
+1540. Simbrain
+1541. Simple API for Binary REpresentations
+1542. Simple Gravity Simulator
+1543. Simple dictionary applications
+1544. SimpliMath
+1545. Single-Server-Queue-SIMULATION
+1546. Skippity
+1547. Skolelinux-Live
+1548. Slisp
+1549. Spacecraft Simulation Framework
+1550. SpellTime
+1551. Spork
+1552. Springbots, Genetic Algorithm
+1553. SteghideGUI
+1554. Strum
+1555. Student Evaluation System
+1556. Student Information System
+1557. SuSim
+1558. SymSAP
+1559. Symbolic Logic Exploration
+1560. Syntactic Neural Network Library
+1561. TMIS
+1562. TOMA
+1563. Tank Battles
+1564. Terremoto
+1565. The Baby Game
+1566. The Brookshear Machine
+1567. The Cathedral and The Bazaar - BG
+1568. The Key Concepts
+1569. The Robotics Primer Workbook
+1570. The Young Library
+1571. Tortue - A LOGO Interpreter in Java
+1572. Trident Project
+1573. Trilobots: A Genetic Algorithm Shooter
+1574. Turn In - Document Submission System
+1575. TutorMates - MathML Equation Editor
+1576. Tuxpaint Stamps for Australian Schools
+1577. UIUC OAI Metadata Harvesting Project
+1578. Ubuntu 12.04 LTS Xarxipelag
+1579. Uplug corpus tools
+1580. VCon
+1581. VESMA
+1582. VNetwork
+1583. VOXX
+1584. Vallect
+1585. Vectronics
+1586. Venn Diagrams
+1587. Virtual Crash Cart
+1588. Vocabulary
+1589. Vodyanoy Brewing Application
+1590. WarpTunnel
+1591. Web Components for Mathematics
+1592. Web Teaching
+1593. WebDjVuTextEd
+1594. WebSchool
+1595. Wiki Note Maker
+1596. Wikt
+1597. WizBang
+1598. Worksheet Creator
+1599. X-Bc - a GUI to the shell calculator bc
+1600. XODO - O COMPILADOR
+1601. Tuxpaint Stamps for Australian Schools
+1602. UIUC OAI Metadata Harvesting Project
+1603. Ubuntu 12.04 LTS Xarxipelag
+1604. Uplug corpus tools
+1605. VCon
+1606. VESMA
+1607. VNetwork
+1608. VOXX
+1609. Vallect
+1610. Vectronics
+1611. Venn Diagrams
+1612. Virtual Crash Cart
+1613. Vocabulary
+1614. Vodyanoy Brewing Application
+1615. WarpTunnel
+1616. Web Components for Mathematics
+1617. Web Teaching
+1618. WebDjVuTextEd
+1619. WebSchool
+1620. Wiki Note Maker
+1621. Wikt
+1622. WizBang
+1623. Worksheet Creator
+1624. X-Bc - a GUI to the shell calculator bc
+1625. XODO - O COMPILADOR
+1626. XePersian
+1627. YAD_Designer
+1628. Yet Another C Chatting Algorithm
+1629. ZIPPAR
+1630. ZeonBots IRC BotService
+1631. a-LMS Learning Management System
+1632. airportsimulation
+1633. alx library
+1634. apertium-moodle
+1635. cinc
+1636. coarrays
+1637. comal-linux
+1638. cvatink2
+1639. e-Tutor Online Course Management Tools
+1640. eFront Thai Edition
+1641. eGraph - Algebra Worksheet Builder
+1642. eStudy
+1643. eTest Student-Testing Package
+1644. eValuate
+1645. easyjasub
+1646. eding
+1647. egg-fu
+1648. eledSQL
+1649. elibsrv
+1650. enCore Learning Environment
+1651. flashcards (granule)
+1652. gTurnos
+1653. gcmorse
+1654. geo
+1655. html5 flashcards and course program
+1656. iBookshelf
+1657. idic
+1658. illustrative_progs
+1659. infoCID
+1660. iso2l
+1661. ixbar3000
+1662. j2e-translator
+1663. jWords
+1664. javaroadmap
+1665. jeartraining
+1666. jg3d
+1667. kubos
+1668. lazyread
+1669. libirt
+1670. logology
+1671. lottie vectors
+1672. matexe
+1673. mathwar
+1674. mbFXWords
+1675. mcatalog
+1676. mgarch
+1677. mps
+1678. oaPAPI - The Open Access Policies API
+1679. orario_elettronico
+1680. play-SVG
+1681. ppC++
+1682. pyFlashCards
+1683. readaloud
+1684. schoolWare
+1685. single-honeypot
+1686. swiginac
+1687. sys-info
+1688. terraineer
+1689. visualFSA
+1690. vmips
+1691. vrp
+1692. wfb2sql
+1693. yEdGen
+1694. yeungon
+1695. 复旦Sakai共享版
+1696. QPeriodicTable
+1697. QWiktionary
+1698. Teacher Control Panel
+1699. miniTraff
+1700. Ezilla
+1701. Network Research Labs
+1702. SRU Client Tool
+1703. #algos@freenode Programming algorithm
+1704. (a)pps/g
+1705. .irk dump
+1706. 0xcafed0c5
+1707. 2D Computer Graphics / Imaging Framework
+1708. 2D Elastic Main Phase Modeling
+1709. 2ERPro
+1710. 3D Captcha
+1711. 3D HIV
+1712. 3DPlot
+1713. A Day in the Bay
+1714. A Game Of Text 1.0.2
+1715. A crypto tech system
+1716. A dictionary for mobile phones
+1717. A logic calculator
+1718. A simulator for the ASURO
+1719. A star
+1720. AASMOT
+1721. AB Mathematingo
+1722. ABUL_BCD
+1723. ACAR
+1724. ACI HyperView
+1725. ACIP Tools and Content
+1726. ACM Contester
+1727. ACM Olimp
+1728. ACM System
+1729. ACME School
+1730. ACMLCWebsite
+1731. ACOptim
+1732. ADA
+1733. ADLM
+1734. AG's Library Manager
+1735. AH! - Architect Helper
+1736. AI Path
+1737. AI Search Agent Framework
+1738. AI Tutor
+1739. AI-Tournament Game
+1740. AILOKS
+1741. AJAX Education & Communication Platform
+1742. ALEPH-w
+1743. ALFANET_QTIAuthor
+1744. ALFANET_QTIEngine
+1745. AL_library
+1746. AMADIS - Learning Projects Environment
+1747. AMEE client example
+1748. AMoRE - Automata, Monoids, and RegExps
+1749. ANJIMS - Journaling Information System
+1750. AODV Simulator
+1751. APData - Academic Publication Database
+1752. APIS QTIv2 Assessment Engine
+1753. ARNU
+1754. ARaC
+1755. ASCII Scrabble
+1756. ASCOLDA
+1757. ATACH
+1758. ATFinder
+1759. ATFinder (lib)
+1760. ATOMATRIX
+1761. ATS - Alpine Tool Set
+1762. AUM CSPRNG & Stream Cipher
+1763. AVAELE - Avaliações eletronicas
+1764. AVR Progger
+1765. AWoTS
+1766. AXSeL
+1767. AaMI
+1768. AbDict
+1769. Abakus
+1770. Abhyaas, which means to study in Marathi
+1771. Abruzzo GNU/Linux
+1772. Absence calculator
+1773. Absfracked
+1774. Absolut Library System
+1775. Abyss Studio Game Engine
+1776. APData - Academic Publication Database
+1777. APIS QTIv2 Assessment Engine
+1778. ARNU
+1779. ARaC
+1780. ASCII Scrabble
+1781. ASCOLDA
+1782. ATACH
+1783. ATFinder
+1784. ATFinder (lib)
+1785. ATOMATRIX
+1786. ATS - Alpine Tool Set
+1787. AUM CSPRNG & Stream Cipher
+1788. AVAELE - Avaliações eletronicas
+1789. AVR Progger
+1790. AWoTS
+1791. AXSeL
+1792. AaMI
+1793. AbDict
+1794. Abakus
+1795. Abhyaas, which means to study in Marathi
+1796. Abruzzo GNU/Linux
+1797. Absence calculator
+1798. Absfracked
+1799. Absolut Library System
+1800. Abyss Studio Game Engine
+1801. Academia - portal solution for college.
+1802. Academia Tics
+1803. Academic Exchange
+1804. Academic groups (Moodle block)
+1805. Acadevia Learn
+1806. AccInformaciónRecursos
+1807. Accha
+1808. Accinf
+1809. ActiveUsers Block for Moodle
+1810. Activity Prediction Software
+1811. Acumen Digital Library Sytem
+1812. AdMail
+1813. Ada Package Testing
+1814. AdaLogo
+1815. AdaptWeb
+1816. Adaptive Quiz Generation Software
+1817. Adaptivity XML Tools
+1818. Adept
+1819. Advanced Calculator
+1820. Advanced Mathematics Suite
+1821. Advanced Test Interface (ATI)
+1822. Adventure 3D Povray Library
+1823. Aeris
+1824. Aero &amp; Astro Engineering Software
+1825. Affine_transformations_GUI
+1826. Agenda VR3 Timetable
+1827. Agile Author
+1828. Agorae
+1829. AiM Assessment in Mathematics
+1830. Aide à lire
+1831. AjaxSearchApi in Moodle
+1832. AkacioGPS
+1833. Aktub
+1834. Al kotobiya
+1835. AlMutarjim
+1836. Albaven
+1837. Aldo
+1838. Alejandria - Documentación Reciclanet
+1839. Alexandria
+1840. Alexandria
+1841. Alexandria - OpenSource Library Manager
+1842. Alexandria Bibliography GroupWare
+1843. AlgVar
+1844. AlgebraSql
+1845. Algorithmique distribuée pour Othello
+1846. Alias
+1847. Alice
+1848. Aloha MOO Web Server
+1849. Aluminium
+1850. Alumni Communication Software
+1851. Alumni Manager
+1852. Alumni Online Plus
+1853. Alumni on Rails
+1854. AlumniScript
+1855. Always Look on the Bright Side
+1856. Amazing Game
+1857. AmazonTP
+1858. Ambar Dictionary
+1859. American Sign Language Learning Aid
+1860. Amino
+1861. Aminoacid Converter
+1862. Amok Parser
+1863. Ampare Read Books Records
+1864. Amphora
+1865. An algebraic modeling language
+1866. An open source Digital Library Software
+1867. AnaGrade IB/IG Grade Analyzer
+1868. AnaXagora
+1869. AndreaTomadinPhysicsSnippets
+1870. Android HTML5 Canvas Tutorial
+1871. Anfislab
+1872. Angry Calculator
+1873. Anie
+1874. AnimeTosho Batch Downloader
+1875. Anki
+1876. AnkiQT Lite
+1877. Ankieter
+1878. AnnotateIt!
+1879. Annoty
+1880. Answers - SCORM Compliant LMS
+1881. Ant Algorithms
+1882. Ante Diem
+1883. Anti-Plagiarism Graph Generator
+1884. AntiBabel
+1885. AnyKiosk
+1886. Aorta p2p Tasklet cluster
+1887. Apanto
+1888. Apellicon
+1889. ApiLabo
+1890. Aplicatia Bacalaureat 2010
+1891. Apollo85
+1892. Apostil
+1893. Apousiologos (local network version)
+1894. Apousiologos for Linux
+1895. Appr
+1896. Approximate Counting of Graph Colorings
+1897. AprematAutor
+1898. Aprenda Token Ring
+1899. Aprendiendo estructuras de datos
+1900. AraPicto
+1901. Arabic Enterprise Linux Videos
+1902. Arabic Missile Commando
+1903. Arabic OCR Image Segmentation
+1904. ArabicNormalizer
+1905. Arandu
+1906. Arbeitsjournal
+1907. Arboratrix: graphical parse-tree editor
+1908. ArchAngel INC
+1909. ArchiTest
+1910. Arduino Inter-Chip Serial Communication
+1911. Arduino Libraries
+1912. Arduino Solar Controller
+1913. ArduinoPERL
+1914. Arduloko OS
+1915. Areasteroids
+1916. ArgoUML
+1917. Argos - The swarmanoid simulator
+1918. Aristotle
+1919. Arithmetic Calculator
+1920. Arithmetic Tester
+1921. Arithmetic-Helper
+1922. Arithmetics Drill
+1923. Arktur-TNG
+1924. Armarius
+1925. Arquitectura de Altas Prestaciones - UGR
+1926. Art Quizer
+1927. Arteduca
+1928. Artificial Intelligence for Dummies
+1929. Artificial Life Contest
+1930. AsChart
+1931. Ascent
+1932. Asedio
+1933. Assignment Centre Student Module
+1934. Assignment Collector/Grader
+1935. Assignment Manager
+1936. Astrog
+1937. Astroinfos
+1938. Astrolabe Generator
+1939. Astronomy-test
+1940. Athena Flashcard Manager
+1941. Athena Research Assistant
+1942. Athenea
+1943. Atheneum
+1944. Atlantida Multilingual Dictionary
+1945. Atlantis
+1946. Atlantis Poker Library and Game
+1947. Attendo
+1948. Atum Student Management System
+1949. Audiowhizz
+1950. Aules uoc PAC3
+1951. Aurox Linux
+1952. AuthWare CMS
+1953. Authenticated User Community
+1954. Auto secure service
+1955. AutoTeach
+1956. Autocondat
+1957. Automated Examination System
+1958. Automated Tutorials Script
+1959. Automatic Grader Framework in Java
+1960. Automatic Paraphraser
+1961. Avalog: Proof Generator
+1962. Avatal Learn Station
+1963. Avian Freeware Suite
+1964. Avicenna
+1965. Awesome Latin Study Program
+1966. AydaYazyk Interpreter
+1967. Azul e-Testing
+1968. B.O.S.S
+1969. B4 SCORM Browser
+1970. BACKO
+1971. BASE Seeds
+1972. BATES
+1973. BAUS!
+1974. BEDBUG CSPRNG & Stream Cipher
+1975. BEeN GRUBed
+1976. BF3Conn
+1977. BIAR
+1978. BJS
+1979. BLCU-Fall2011-Scheme-Instructor
+1980. BLCU-Fall2011-Smalltalk-Instructor
+1981. BLEU (Body Language Effect on Users)
+1982. BLRP
+1983. BLiMP: BibTeX Library Management Project
+1984. BMTools
+1985. BNCC Information System
+1986. BPhilCal
+1987. BRiCS Programming Enviornment
+1988. BSAC
+1989. BSTPlotter
+1990. BabyDevelop IDE
+1991. BabyTALK
+1992. Bada
+1993. Balance of the Planet (2004)
+1994. Ballena Vocabulary Trainer
+1995. Banana Kernel
+1996. Bank Management system
+1997. BaseCon
+1998. Basic Big Float Module
+1999. Basic E-Learning Tool Set (BELTS)
+2000. Basic ERP
+2001. Basic SHOP - FAGOC
+2002. Basic language for text processing
+2003. BasicJ
+2004. Basmati
+2005. Bat2015
+2006. Bat2015plus
+2007. Bazaar - MySQL Educational System
+2008. Bean Bowl
+2009. BeanValidator
+2010. Bee testing tool.
+2011. BellStegano
+2012. Belvedere Knowledge Mapping
+2013. Benkyou
+2014. Benkyou Studio
+2015. BergenBlink
+2016. BerichTex
+2017. Bert's Computing Suite
+2018. Bess Peer Assessment Software
+2019. Bewegung
+2020. BiBlioMX ES
+2021. BiBlioMX Plugin lite
+2022. BibGlimpse MEDLINE Retriever
+2023. BibTeX2html — from BibTeX to your blog
+2024. BibTeXlipse
+2025. BibWorm
+2026. Bibel
+2027. BibleTrivia
+2028. Biblia Sacra
+2029. Biblio:SchoolLibrary
+2030. BiblioEbook
+2031. BiblioMan
+2032. BiblioMarc
+2033. Bibliolinex - Gestion de Bibliotecas
+2034. Biblioteca
+2035. Biblioteca
+2036. Biblioteca Livre
+2037. Biblioteca On-line
+2038. Biblioteca Virtual de Imagens Médicas
+2039. Bibliotheca Universalis
+2040. BiblosPK
+2041. Biblox
+2042. Bibwiki
+2043. Big Daddy's Math Drills
+2044. BigLux
+2045. BilReader
+2046. Billing Project
+2047. Binclock
+2048. Bingo Card Creator
+2049. BioMail scientific references automation
+2050. BioQuest
+2051. Biogenesis X Mod
+2052. Bioinformatics Learning Tutorial
+2053. BioloidNativeInterface
+2054. Biomedical Technician Training
+2055. Biorithms
+2056. Bishop Carroll School Tracker
+2057. Black Jack, console card game for Linux
+2058. Blat(mat)
+2059. Blauwahl
+2060. Blindensehersatzsystem SeebyTouch
+2061. Blindschleiche
+2062. Blog URL Exposer
+2063. Blokken
+2064. Bloomie
+2065. Blooming CQF
+2066. BluES like universal eEducation System
+2067. Blue Basin
+2068. BlueBoy SIS
+2069. BlueOxygen Brigade
+2070. BoPlanets planetarium
+2071. Board Wars
+2072. Bola-Man
+2073. BolsaMais
+2074. BookProvision
+2075. BookSnippets
+2076. BookWorm Book Review System
+2077. Bookman
+2078. Books Manager
+2079. Books and Quotes Collector
+2080. Bookular
+2081. Bookware Library Management Software
+2082. Borges Documents Management System
+2083. BorlandC in fullscreen by JTW
+2084. Boundary Shift Integral
+2085. Boustrophedon Speed-Reader
+2086. Boustrophedon-Reader
+2087. BraceletDesign
+2088. Bracer
+2089. Braille Writing Tutor
+2090. Braille codes
+2091. BrailleConverter
+2092. Brailleboard
+2093. BrainDamage 3D
+2094. BrainFlux
+2095. BrainGain
+2096. BrainLibs
+2097. BrainTerrace
+2098. Brainy
+2099. Bridge Designer and Contest
+2100. BrumTab
+2101. BookWorm Book Review System
+2102. Bookman
+2103. Books Manager
+2104. Books and Quotes Collector
+2105. Bookular
+2106. Bookware Library Management Software
+2107. Borges Documents Management System
+2108. BorlandC in fullscreen by JTW
+2109. Boundary Shift Integral
+2110. Boustrophedon Speed-Reader
+2111. Boustrophedon-Reader
+2112. BraceletDesign
+2113. Bracer
+2114. Braille Writing Tutor
+2115. Braille codes
+2116. BrailleConverter
+2117. Brailleboard
+2118. BrainDamage 3D
+2119. BrainFlux
+2120. BrainGain
+2121. BrainLibs
+2122. BrainTerrace
+2123. Brainy
+2124. Bridge Designer and Contest
+2125. BrumTab
+2126. Buchstaben & Zahlen - Spiel
+2127. Buddhadharma Dictionary
+2128. BuddypressEaD
+2129. Buki Waza
+2130. BukkitTestPlugin
+2131. Bulgaria@Sourceforge.net
+2132. Bulgarian Linux Tutorial
+2133. BullyJMS
+2134. Bureau Virtuel
+2135. Burrokeet
+2136. Business Math Suite
+2137. Business Oriented Objects for Java
+2138. BusyTurtle
+2139. Butiá Robot
+2140. ByoDyn
+2141. C Applications for Engineers and Novices
+2142. C deveveloper tests and examples
+2143. C# ClassLib
+2144. C++ Command Line Parsing
+2145. C++ Revenue Management Open Library
+2146. C++ Server Pages
+2147. C-CPP Calendar
+2148. CABLE
+2149. CAI Software Creator
+2150. CAROT
+2151. CAS Authentication for ILLiad and Aeon
+2152. CAT
+2153. CAT e-Learning Platform
+2154. CATEST
+2155. CATS: Constructing Assessments
+2156. CAVA
+2157. CBA Reading Probe Dev. Program
+2158. CBAA Moodle Plugin
+2159. CBAA Triangle for Moodle
+2160. CBIRColor
+2161. CBT-Server
+2162. CC Options II
+2163. CCEL Desktop
+2164. CCTS Tools
+2165. CCTV - Tools for Vietnamese Language
+2166. CHUP
+2167. CIN-system
+2168. CISPGE
+2169. CL4fpc
+2170. CLEiM
+2171. CLIS
+2172. CLOWN
+2173. CLUE - C Learning Undergrad Environment
+2174. CMI Service for IEEE 1484.11.3 Schema
+2175. CMS Admin 2.0
+2176. CMS for an employment search system
+2177. COBAS
+2178. CODENAME: Monkey-Bots
+2179. COEVAL - Compiled Or Evaluated Language
+2180. COMP5541 - Team 3 Final Project
+2181. COMTOR
+2182. CONICET Social Network
+2183. CORREGIDOR
+2184. COVCELL
+2185. CPP free library of genetic algorithms
+2186. CRaPI  framework for simulated RoboCup
+2187. CS Team Blackjack Project
+2188. CS Wars
+2189. CS1372 Sakai Auto-grader for C
+2190. CSCL Workspace
+2191. CSU Moodle
+2192. CTW - Cooperative Text Writer
+2193. CVE
+2194. CVSView
+2195. Cairo tool
+2196. Calcolatore di voti
+2197. Calcula Vetor
+2198. Calidad
+2199. Calx - the RPN-based calculator
+2200. CamBoard
+2201. Cammie
+2202. Campo de Marte
+2203. Campus
+2204. Campus Inbox
+2205. Cancuen (Serpent's City)
+2206. Cantaletras blind children tutoring
+2207. Canteen Calandreta
+2208. Cantine
+2209. CaptionHidder
+2210. Car Town Car Management System
+2211. Carbon Calulator
+2212. CardsFit
+2213. Carroll Student Planner
+2214. Casa Brasil
+2215. Casa de la Enseñanza y el Aprendizaje
+2216. Case Simulation Engine
+2217. CatMDServices
+2218. CatOGC
+2219. Catalogo
+2220. Caxo XML Outliner
+2221. Ceka
+2222. Celiz Judge System
+2223. CellSOM
+2224. Cello
+2225. Cellocity LInux Operating System
+2226. Cellular
+2227. Cellular Automata
+2228. Cellular Automata Visualization Program
+2229. CenPRA Logo
+2230. Centre
+2231. Centre d'informations (CI)
+2232. Cerebrospinal Fluid Analysis
+2233. Certificate FAT for Moodle
+2234. Chaco the Chaos Collection
+2235. ChangeCounter
+2236. ChangeCounter-beta
+2237. Character Match
+2238. ChartDraw
+2239. CheT Chemnitzer Thesaurus
+2240. ChemLearning
+2241. ChemVisio
+2242. Chemical and structural biology editor
+2243. Chemin Optimal
+2244. Chemistry Tools
+2245. Cherokee Language Machine Translator
+2246. Chessfun for children.
+2247. ChiPHPug
+2248. Child Care Center Web Application
+2249. Child Saver
+2250. ChinVoc
+2251. Chinese Language Formula
+2252. Choix-ECN
+2253. ChordTheory
+2254. Christian Club CMS
+2255. Chutor
+2256. Cinege - a library system in Java
+2257. CiteULike
+2258. Civicswiki
+2259. Ckbase
+2260. ClaraDiagram
+2261. ClariNotes
+2262. Clarolex - Class Room Learning Explorer
+2263. Claroline Forum plug-in
+2264. Class4All
+2265. ClassManager
+2266. ClassMark
+2267. ClassPi
+2268. ClassSimple
+2269. ClassVault
+2270. Classbook
+2271. Classic Game Maker
+2272. Classroom
+2273. Classroom Games Suite
+2274. CleVer
+2275. CleanOS
+2276. ClearWork
+2277. Clematis (The Java Workspace)
+2278. Clever Academic Team System
+2279. CleverFigures
+2280. Clicker Project
+2281. Clifford Algebras-Mathematica and Matlab
+2282. Clilypboard
+2283. Clio
+2284. Closed Project
+2285. CloudGardeners
+2286. Clustering demo
+2287. Co-Curricular Activities Management
+2288. CoCoMa
+2289. CoFFEE
+2290. CoPT, Corpus Processing Tools
+2291. Coarse-fine interpolation for AMR
+2292. CobaltCMS
+2293. Code 2 Gether
+2294. Code Score
+2295. CodeApplet
+2296. CodeBlocks etools
+2297. CodeCastle
+2298. CodeTurtle
+2299. Coders PlayGround - CPG
+2300. Codex Mapping Software
+2301. Codix - Carta Online
+2302. Coeos
+2303. CoffeeMaker
+2304. Cogit: Case Studies
+2305. Coin Games
+2306. Colibrí SIGB
+2307. CollabLearning
+2308. Collaborative Coding Contest
+2309. Collaboratory
+2310. College Laboratory Integration
+2311. College Time Table
+2312. Colmeia Gerenciador de Curriculos
+2313. Coloridadd
+2314. Colors
+2315. ComCom
+2316. ComEdu
+2317. ComLinC
+2318. ComVironment
+2319. Command Line Calculator
+2320. Command Line Instruction Framework
+2321. Comment.it Web Annotation System
+2322. Community Events Communication Software
+2323. Community Learning Network
+2324. Community of learners of Japanese
+2325. Compatipal System Emulator Wizard
+2326. Codix - Carta Online
+2327. Coeos
+2328. CoffeeMaker
+2329. Cogit: Case Studies
+2330. Coin Games
+2331. Colibrí SIGB
+2332. CollabLearning
+2333. Collaborative Coding Contest
+2334. Collaboratory
+2335. College Laboratory Integration
+2336. College Time Table
+2337. Colmeia Gerenciador de Curriculos
+2338. Coloridadd
+2339. Colors
+2340. ComCom
+2341. ComEdu
+2342. ComLinC
+2343. ComVironment
+2344. Command Line Calculator
+2345. Command Line Instruction Framework
+2346. Comment.it Web Annotation System
+2347. Community Events Communication Software
+2348. Community Learning Network
+2349. Community of learners of Japanese
+2350. Compatipal System Emulator Wizard
+2351. Compilador AGL
+2352. Compilador C
+2353. CompiladorJavaUnivali
+2354. Compiler Design (at ETH Zuerich)
+2355. Complete Scuba Toolkit
+2356. Complex of Adaptors and Terminals(CAT)
+2357. Computer Accessibility
+2358. Computer Breaker
+2359. Computer Club Communication Software
+2360. Computer Science Laboratory manuals
+2361. Computer Science Tutorials
+2362. Computer Vision DigiQuilt
+2363. Computing with units
+2364. Concerto Digital Assets Management Tool
+2365. Concrete5 Thai Edition
+2366. Conference (Plone AT product)
+2367. Conflict Resolution Markup Language
+2368. Conjugaison
+2369. Connect4Java
+2370. Connotea
+2371. Consensus Decision Making
+2372. Console Fractal Tree Generator
+2373. Conspectus
+2374. Constitution of Swaziland
+2375. Content Authoring Tool
+2376. ContentDM Exporter
+2377. Contestant
+2378. ContextBlogger
+2379. Control and Managment for Schools
+2380. ControlAula
+2381. ControlEscola
+2382. Controle Fuzzy p/ tap de Transformadores
+2383. ControleBiblioteca
+2384. Conversations with Natalie J
+2385. Converter
+2386. Convertidor Binario
+2387. Conway's Game Of Life
+2388. Conzilla
+2389. CookingHelper
+2390. Cool
+2391. Cooperation-IWS
+2392. Cooperator
+2393. Copenhagen
+2394. CopperAuthor
+2395. CopperCore
+2396. CopsAndRobbers
+2397. Coptic Encoder
+2398. Core Learning System
+2399. CoreK
+2400. CoreWars 8086 & Java
+2401. CoreWarsAsm
+2402. Corionis Starfire
+2403. CorneliOS web OS & application framework
+2404. Cornell Web Lab Collaboration Server
+2405. Correct learning
+2406. Cospace Dance
+2407. CountMyData
+2408. Course Content Template
+2409. Course Feedback System
+2410. CourseManager
+2411. CourseNotebook2
+2412. CourseTool
+2413. Covopedia
+2414. CowCatcher - Java Course Development
+2415. Cowsay automation
+2416. CpG Island Explorer
+2417. CppUtx
+2418. Cracker-ng
+2419. Cramlet
+2420. Crayon
+2421. Crazy Turtle Solver
+2422. CrazyCar fuzzyControl
+2423. CreativeVoteSystem
+2424. Credits System 2.0
+2425. CritterGod
+2426. Critters
+2427. CroALa-xml
+2428. Crocos
+2429. Cross Calculator
+2430. CrossDef - XDXF Web Dictionary
+2431. Crossword
+2432. Cru
+2433. Crujisim
+2434. Crunchy
+2435. CryptoLabs
+2436. CryptoToolsPack
+2437. CryptoWikiApplets
+2438. Cryptography Workshop
+2439. CrystalPath
+2440. Cunanum
+2441. Curriculum Manager
+2442. Curso de LaTeX
+2443. CvHMM
+2444. Cyber Army Direct
+2445. Cybertory Virtual Molecular Biology Lab
+2446. Cynus
+2447. CódigoJV
+2448. DAArch: Digital Archive for Architecture
+2449. DACUM Automation Program
+2450. DAF ASYS 3v07
+2451. DART Student Information System
+2452. DASSGUI
+2453. DATAONTO
+2454. DB Design Tools
+2455. DBL-Browser
+2456. DBNL
+2457. DBSchools
+2458. DCAS Ether
+2459. DCEditor
+2460. DEER (Data Entry Engine for Reports)
+2461. DG - Differential Geometry
+2462. DIASER
+2463. DIGTECH
+2464. DILPS
+2465. DLF Aquifer Development for Interop.
+2466. DLSim
+2467. DLearn
+2468. DM Dictionary
+2469. DM-graphs
+2470. DMOZ whitelist generator
+2471. DNA Simulation
+2472. DOMjudge programming contest jury system
+2473. DORY
+2474. DPubS
+2475. DSA Practical Driving Test Monitor
+2476. DSFM Management System
+2477. DSGraph
+2478. DSO screenshot
+2479. DSO to connect with PC
+2480. DSPemu - TMS320F243 emulator
+2481. DVA-Profession
+2482. DVDMCQ
+2483. DXM Dosage Calculator
+2484. DaNNet
+2485. DachsEnglishSoft
+2486. Daedalus School Management System
+2487. Damn Vulnerable Web App
+2488. Damon
+2489. Daodict
+2490. DarkBeginnings Codebase SourceProject
+2491. DarkMaps
+2492. Data Processing Model
+2493. Data for Esperanto dictionary
+2494. Database Normalization Tool
+2495. Dataverse Network
+2496. DavarLearn
+2497. Dave's Referencing System
+2498. Dax OS
+2499. Dbus drawing board
+2500. DeMMaTTouL
+2501. DeNovo
+2502. Deanna
+2503. Debatable
+2504. Debate OS
+2505. Debian Hórus
+2506. DebianCE Open Certification Platform
+2507. DebtPayoff
+2508. Deep Foundations Designe and Calculation
+2509. Demetrius
+2510. Demo Chat
+2511. DemocracyNow
+2512. Denzo Guitar Software
+2513. Dependency Discovery Tool
+2514. DeporXest
+2515. Describe Crypto
+2516. DesignPattern Lab
+2517. Desktionary - dictionary for desktop
+2518. Desktop Dictionary
+2519. Desktop Environment For Kids
+2520. DetectorCalibration
+2521. Dev Web
+2522. Dia.Logis - Logiksimulator
+2523. Diagnostic Tools for Mammography
+2524. Diagram Drawer
+2525. Diagram Flow Maker
+2526. Diagrami
+2527. Dialogs Online Forum (CGI/C)
+2528. Diaspana
+2529. Dibrary
+2530. DicoMaths 64-bit
+2531. DictExpress - Dictionary Protocol Server
+2532. Dictation
+2533. Dictionary Port to Java
+2534. Dictionary Server
+2535. Dictionary for Chemistry
+2536. Dictionary framework
+2537. Dictionnaire
+2538. Dictographe
+2539. Didac
+2540. Didactor
+2541. Didaskon
+2542. Difux
+2543. DigCC
+2544. DigiJSim
+2545. Digiscope
+2546. Digital Asset Management System
+2547. Digital Coliseum
+2548. Digital Information Object Manager
+2549. Digital educational resources
+2550. Digitales Kursnotenbuch 2
+2551. Digrary
+2552. Dijkstromania
+2553. Dilsy
+2554. Dinah text based learning environment
+2555. DingsBums?! flashcard learning
+2556. Dinua : social network
+2557. Dispatcher
+2558. Disposition
+2559. DistanceC
+2560. Distributed Inference
+2561. Distributed System for Music Composition
+2562. DistributedJ
+2563. Distrubuted Dynamips
+2564. Divine Logic
+2565. Diving Calculator
+2566. Do Your Giancoli
+2567. DocRegis
+2568. DocTuar - manuals for intranet
+2569. Docebo ELearning Drupal plugin
+2570. Docker 1.0
+2571. Doctor-Doc
+2572. Document Archive
+2573. Documentacion del API de OpenOffice.org
+2574. Documentación Web 2
+2575. Documentación en español sobre Lamp
+2576. Dodona
+2577. Dokeos LMS to Joomla Component (JLMS)
+2578. DomainMath IDE
+2579. Dominans
+2580. Dominoes on Acid
+2581. Dona Custódia
+2582. Donatus Parsing Tools for Portuguese
+2583. Doolhof
+2584. Doremi
+2585. DotCAT
+2586. DotNetProcessing
+2587. Dr. Scenario
+2588. Dragon Character Training
+2589. Drawtivity
+2590. DrdSim
+2591. Dream Box LMS
+2592. Drill Creator
+2593. DrinkMixer
+2594. Drone WayPointer
+2595. Drum Rhythmz
+2596. Dublin Core Resource Manager
+2597. DukeBot
+2598. Dulęba Świadectwa
+2599. Dustyscript:Computer Programs for Kids
+2600. DutaBahasa
+2601. Dvorak Typing Tutor
+2602. Dvt:: Vocabulary Trainer
+2603. Dysgu
+2604. Dzienniczek 3
+2605. E-Festo
+2606. E-Reader
+2607. E-Remise
+2608. E107 Standard Plugins
+2609. E2Exam: LAMP for the Education
+2610. EASIMEN
+2611. EAT Pure Data
+2612. EBE
+2613. EBM Library Consult Service (LCS)
+2614. EBookshelf
+2615. ECCO
+2616. ECE264S09PA4
+2617. ECForms
+2618. EClassroom
+2619. EDGE-AD
+2620. EDITS
+2621. EDO-Folder
+2622. EDUCAR
+2623. EDUSquared
+2624. ED_Gauderia
+2625. EDesk2
+2626. Dvorak Typing Tutor
+2627. Dvt:: Vocabulary Trainer
+2628. Dysgu
+2629. Dzienniczek 3
+2630. E-Festo
+2631. E-Reader
+2632. E-Remise
+2633. E107 Standard Plugins
+2634. E2Exam: LAMP for the Education
+2635. EASIMEN
+2636. EAT Pure Data
+2637. EBE
+2638. EBM Library Consult Service (LCS)
+2639. EBookshelf
+2640. ECCO
+2641. ECE264S09PA4
+2642. ECForms
+2643. EClassroom
+2644. EDGE-AD
+2645. EDITS
+2646. EDO-Folder
+2647. EDUCAR
+2648. EDUSquared
+2649. ED_Gauderia
+2650. EDesk2
+2651. EEViewer
+2652. EFL Educational programs
+2653. EGachine
+2654. EGg0: Robotics Programming with Python
+2655. EHPMuseum
+2656. EIFFE-L
+2657. EITester
+2658. EKoSim
+2659. ELITE 0 (space sim in a SciFi framework)
+2660. ELearnTab
+2661. ELibraryManager
+2662. EM Demo
+2663. EMCAR
+2664. EMM OS
+2665. ENAU Students Booklet
+2666. ENSC Playground
+2667. ENSCI
+2668. EOPAS: Linguistic A/V Annotation
+2669. EQUIL
+2670. ERP School
+2671. ERSID Stroboscopic Document Reader(RSVP)
+2672. ESEO OBDH Core software
+2673. ESMF_GME_CCSM
+2674. ETDR (EduTainment Done Right)
+2675. ETH Lecture Communicator
+2676. EEViewer
+2677. EFL Educational programs
+2678. EGachine
+2679. EGg0: Robotics Programming with Python
+2680. EHPMuseum
+2681. EIFFE-L
+2682. EITester
+2683. EKoSim
+2684. ELITE 0 (space sim in a SciFi framework)
+2685. ELearnTab
+2686. ELibraryManager
+2687. EM Demo
+2688. EMCAR
+2689. EMM OS
+2690. ENAU Students Booklet
+2691. ENSC Playground
+2692. ENSCI
+2693. EOPAS: Linguistic A/V Annotation
+2694. EQUIL
+2695. ERP School
+2696. ERSID Stroboscopic Document Reader(RSVP)
+2697. ESEO OBDH Core software
+2698. ESMF_GME_CCSM
+2699. ETDR (EduTainment Done Right)
+2700. ETH Lecture Communicator
+2701. ETOR
+2702. EThOS Toolkit
+2703. EV3-JavaBrick
+2704. EVAAB - Learning Module to Moodle
+2705. EVERYSYSTEM
+2706. EVK Educational video codec
+2707. EWU Software Grading Application
+2708. EZ Arabic
+2709. EZ Reusable Objects (EZRO)
+2710. Early Alert Portlet
+2711. Earworm
+2712. Easaier
+2713. Easy Courseware
+2714. Easy Desktop Environment (ezde)
+2715. Easy HTTP: Easy Web Service Support
+2716. Easy Java Graphics
+2717. Easy LFS initramfs
+2718. Easy Matrix Calculator
+2719. Easy-SEND
+2720. EasyCBR
+2721. EasyCSP
+2722. EasyCite
+2723. EasyGrade Class Management System
+2724. EasyPastry
+2725. Ebook Library
+2726. Echelon - A Writing Center Portal
+2727. EchoDep Hub and Spoke
+2728. Eclair
+2729. Eclipse Eiffel Development Tools (EDT)
+2730. Eclipse Flow Chart Generator
+2731. EcoAccess Environmental Learning Site
+2732. EcoTester
+2733. EdLite-light-weight web classrooms
+2734. EdRepo
+2735. Edgewood RCS497 Group Project
+2736. Edict Masher
+2737. Editor IMS QTI & GoogleMaps
+2738. Edu Expressions
+2739. EduCater
+2740. EduKT
+2741. EduKate Java Office Suite
+2742. EduLinux
+2743. EduMarket
+2744. EduOS - Educational OS Resource
+2745. EduPy
+2746. EduQuill
+2747. EduSlid
+2748. EduSuite
+2749. EduTube - Streaming video for E-Learning
+2750. Educara SURVEY
+2751. Educate@Home
+2752. EducateSys
+2753. EducatieDeschisa
+2754. Education Account Ability (EAA)
+2755. Education Assistant
+2756. Education Bits
+2757. Education Ellie
+2758. Education Online Project
+2759. Education Tracker
+2760. Education tool - number systems
+2761. Educational
+2762. Educational Coffee Machine
+2763. Educational Robots
+2764. Educational System
+2765. Educational System Modeling
+2766. Eduflex
+2767. Edumachina Student-information System
+2768. Edutella - a P2P network for RDF data
+2769. Efes
+2770. Efficacy
+2771. Efficient Symbolic Tools
+2772. Egotistics
+2773. Ekonom
+2774. Electric Charge SIM
+2775. Electronic Constructor
+2776. Electronic Evaluation System
+2777. Eledge Open Learning Management System
+2778. Elements of Mathematics
+2779. Elena
+2780. Elettronica e telecomunicazioni
+2781. Elsee Linux
+2782. Elvenware Source Code
+2783. Email analyser - Les Furets Comateux
+2784. Embedded TeachMaster
+2785. Emilda
+2786. Emle - Electronic Math Lab Equipment
+2787. Emma: rating tree
+2788. Empty project.
+2789. EmulaSO
+2790. Emulation Framework
+2791. Emustru: An English Tutor
+2792. En tu idioma
+2793. Enabler - College Techfests and beyond
+2794. Encyclopedia Site Generator
+2795. Eng-Bul-Eng dictionary for handhelds
+2796. English Grammar Tips for Russian Speaker
+2797. English Verbs Test Generator
+2798. English-Russian Dictionary
+2799. English/Russian dictionary
+2800. English/Turkish Best Dictionary
+2801. Enigma
+2802. Enigma-Simulation
+2803. EnotifWiki
+2804. Enrollment and Grading System for All
+2805. Ensiklopedia Islam
+2806. Enterprise Library Management System
+2807. EntitySim
+2808. Entraineur HSK
+2809. EntropyCompressTool
+2810. Epaile
+2811. Epsilon
+2812. EquaTri
+2813. Equation Solver
+2814. Eratostene
+2815. Eryx
+2816. Esciurus - a personal electronic library
+2817. Escola Virtual EPL PAC3
+2818. EscolaGNU
+2819. EscolaGest
+2820. Escuela 2.0
+2821. Esg2Net100
+2822. EsoTransformer
+2823. Espanglish
+2824. Esperanto-Rusa vortaro por poŝtelefonoj
+2825. EstType
+2826. Enigma
+2827. Enigma-Simulation
+2828. EnotifWiki
+2829. Enrollment and Grading System for All
+2830. Ensiklopedia Islam
+2831. Enterprise Library Management System
+2832. EntitySim
+2833. Entraineur HSK
+2834. EntropyCompressTool
+2835. Epaile
+2836. Epsilon
+2837. EquaTri
+2838. Equation Solver
+2839. Eratostene
+2840. Eryx
+2841. Esciurus - a personal electronic library
+2842. Escola Virtual EPL PAC3
+2843. EscolaGNU
+2844. EscolaGest
+2845. Escuela 2.0
+2846. Esg2Net100
+2847. EsoTransformer
+2848. Espanglish
+2849. Esperanto-Rusa vortaro por poŝtelefonoj
+2850. EstType
+2851. Estonian-Russian dictionary
+2852. EstudianteControl
+2853. Ethos
+2854. Euclide
+2855. EulerSharp
+2856. EulerTop
+2857. Europass Admin
+2858. Evalua A Tu Profesor
+2859. Evaluacion Multiple Choice
+2860. Evaluador de variabilidad de formas 2D
+2861. Event Manager
+2862. EventStream
+2863. Evidence bucket
+2864. EvoJ
+2865. EvoLab
+2866. Evolving Language Dictionary
+2867. Ex Libris
+2868. ExStudio
+2869. ExaNet, Exámenes en red
+2870. ExactCalc
+2871. ExamCreate
+2872. ExamSim
+2873. Examination Results Explorer
+2874. Example Code Manager
+2875. Exercicios de Matematica Basica
+2876. Exercise Submission System
+2877. Exerciseur
+2878. Exercícios de Lógicas não-Classicas
+2879. Exipnos
+2880. Exomatic
+2881. ExpLab
+2882. ExpTools
+2883. Expediente de Adecuacion Curricular ExAC
+2884. Expedientes Genéricos (ExGen)
+2885. Expertiza
+2886. ExtempFile
+2887. Extended Form of examination
+2888. Extension Based Internet Edu Sys
+2889. Extra Site@School modules - I
+2890. EzySchoolReport
+2891. Eğitim Kitapları
+2892. FAKT
+2893. FALCON - Text Search Java Project
+2894. FAQ management system
+2895. FAVS
+2896. FC_Kelvin_Convert
+2897. FCalculator
+2898. FFPVS
+2899. FH-Ingolstadt Beer Game
+2900. FHSTOOLKIT
+2901. FIT Runner
+2902. FLE3 is a Learning Environment
+2903. FLENS
+2904. FLTR Japanese Verb Conjugator
+2905. FOLST
+2906. FOSS Evaluation
+2907. FOSSMMO
+2908. FPGA remote lab
+2909. FSIS
+2910. FSuB-TerminalServer
+2911. FUN
+2912. FUNNIE
+2913. FVisualizer
+2914. Fabus - distance learning
+2915. FactorIt
+2916. Fake User SHell Interface (fushi)
+2917. Fast Coder
+2918. FastClick
+2919. FastMRCLib
+2920. FastRand
+2921. Faults injection framework
+2922. Felo -- estimate the fencing strength
+2923. Festa
+2924. FiMaLib
+2925. Fiction book library
+2926. Ficus
+2927. FileCards
+2928. Filius
+2929. Filk Archiving Project
+2930. FilonLevyOptionPricer
+2931. Find the "magic" in a number.
+2932. FindAKanji
+2933. Findability 4 All
+2934. FireDictionary
+2935. FireStudios
+2936. Firefly UML
+2937. FirmWorx
+2938. First 2 Week with Blender
+2939. First Lego League Software
+2940. FirstStep programming language
+2941. Fitness Helper
+2942. FixeEngine
+2943. Fizygraph
+2944. Flamenco
+2945. Flare
+2946. Flash and Java activities in Moodle
+2947. FlashCardPrinter
+2948. FlashE
+2949. FlashVideo for Moodle
+2950. Flashcard Factory
+2951. Flashcard Studio
+2952. Flashcard Tutor
+2953. Flat-File Forum
+2954. Flatland VR
+2955. Flectioned
+2956. Fleeble - The Essential Agent Framework
+2957. Flervalgssystem
+2958. FlexLibrary
+2959. FlexiTime
+2960. Flexo
+2961. Flextronica
+2962. Flight Gear Aviation Training Device
+2963. FliteTutor - a CBT Concept
+2964. Flitsen
+2965. FlossWare
+2966. Flower Production Predictor
+2967. Fluo - Explore Esperanto
+2968. Flute Listening Quiz
+2969. Flyff Target Changer
+2970. Fn
+2971. FoHaCo
+2972. Focus/SIS Student Information System
+2973. Foo Blocks
+2974. ForChat - Forum-chat room management
+2975. Forensics04
+2976. Fork of Openbiblio V0.61
+2977. Formula-O-Matic
+2978. FormulaC
+2979. Fortune pt_BR
+2980. Foruli - The PHP Bookshelf
+2981. Four In Row Arena
+2982. Fox 612
+2983. Fractal Browser
+2984. Fractal KISS
+2985. Fractions
+2986. Framework-Testing
+2987. Free Knowledge Project
+2988. Free Live OS Zoo
+2989. Free Recite
+2990. Free Simulation in Physics
+2991. Free Testing Environment
+2992. Free and Easy
+2993. FreeBon Ship Hull Interpolation Package
+2994. FreeCard
+2995. FreeEMa
+2996. FreeLMS
+2997. FreeMIS
+2998. FreeMarket
+2999. FreeSpeak
+3000. FreeTerm
+3001. Fork of Openbiblio V0.61
+3002. Formula-O-Matic
+3003. FormulaC
+3004. Fortune pt_BR
+3005. Foruli - The PHP Bookshelf
+3006. Four In Row Arena
+3007. Fox 612
+3008. Fractal Browser
+3009. Fractal KISS
+3010. Fractions
+3011. Framework-Testing
+3012. Free Knowledge Project
+3013. Free Live OS Zoo
+3014. Free Recite
+3015. Free Simulation in Physics
+3016. Free Testing Environment
+3017. Free and Easy
+3018. FreeBon Ship Hull Interpolation Package
+3019. FreeCard
+3020. FreeEMa
+3021. FreeLMS
+3022. FreeMIS
+3023. FreeMarket
+3024. FreeSpeak
+3025. FreeTerm
+3026. Freeband
+3027. Freeradius
+3028. French Python
+3029. FriSub
+3030. Frndz Graph Plotter
+3031. FroZenLight
+3032. FunType
+3033. Funiter
+3034. Furry Ice Project
+3035. Futures Gateway Educational Tool Suite
+3036. Fuzzy AI
+3037. Fuzzy Information Retrieval System
+3038. FuzzyCar
+3039. Fysik 2D
+3040. G2EE
+3041. GA General
+3042. GAMS Development Environment
+3043. GAPworks
+3044. GATOOL - Genome Assembly Tool
+3045. GAVS+
+3046. GAuditor - The Graph Auditor Tool
+3047. GBA Emulator for teaching and homebrew
+3048. GBHL Alumni Portal
+3049. GCalc
+3050. GCipher
+3051. GDB-TF
+3052. GDM-OSI V.G.A.
+3053. GDiravi
+3054. GENERASITE
+3055. GENEX
+3056. GESTACADWEB
+3057. GET_IT - Game Engine Tutorial in TCL
+3058. GEZEL
+3059. GEscol
+3060. GEstion Des ELeves
+3061. GFlashCards
+3062. GHMessen
+3063. GHomework (The Homework Helper)
+3064. GIL
+3065. GIP : Gestion Informatisée des PPRE
+3066. GIntranet
+3067. GLWaves
+3068. GLam Library
+3069. GNE
+3070. GNOME Mallet
+3071. GNOME WAV Merger
+3072. GNOSIS
+3073. GNS-3 LiveUSB (fork)
+3074. GNU EPrints
+3075. GNU L@NyN
+3076. GNU Library
+3077. GNUSWork
+3078. GORINDO
+3079. GPA Chart Maker
+3080. GPAplusplus
+3081. GPInstruct
+3082. GPL Library System
+3083. GPLconx
+3084. GPortal
+3085. GRE Flash Cards
+3086. GRE Verbal word-learning software.
+3087. GRaPe - Gene Reaction Protein Builder
+3088. GTK Ada Simplified Wrapper
+3089. GTK+ Multiple-Choice test practice
+3090. GTKards
+3091. GTX470OGLSM3
+3092. GTouch
+3093. GUI Graph Algorithms
+3094. GWAAU
+3095. GWUS
+3096. Gabbie natural language command system
+3097. Galgje
+3098. Galileos Choice
+3099. Galàpagos
+3100. Gambas components: Dict & aspell clients
+3101. GameOfLifeQT
+3102. Gamefeed
+3103. Gamoliyas
+3104. Ganesha LMS by ANEMA
+3105. Gatekeeper 4 -- Network Registration
+3106. Gauss-Newton Curve Fitting
+3107. Gauß-Helfer
+3108. GdAI
+3109. Gdarim
+3110. Gdi2_prak1
+3111. GemCat
+3112. Gemi
+3113. GenDocWeb
+3114. GeneSearcher
+3115. GeneTech
+3116. General Intensional Programming System
+3117. Generate!
+3118. Generateur Playlist
+3119. GenericDataStructures
+3120. GeniTutor - Private tutoring application
+3121. GenomeDiff
+3122. GeoFuchs
+3123. GeoGebra
+3124. GeoLocator
+3125. GeoStoryteller
+3126. Geocatalogo - Metadata
+3127. GeomExakt
+3128. Geometra
+3129. Geometric Formula Solver (GFS)
+3130. Geometrical Simulator
+3131. Geoplan-Geospace Java
+3132. Geospace Analysis Package
+3133. Geoworks
+3134. Gerador de Fichas do Ciclo em Goiania
+3135. Gerard
+3136. Gestion ClasseS
+3137. Gestion Des Stocks
+3138. Gestion Escuela
+3139. Gestion d'Élčves PyEcole
+3140. Gestion de crèches
+3141. GestionAlumnos
+3142. Gestión de Alta Alumnos en Escuela
+3143. Gestión de Carros de Portátiles
+3144. Gestor Escuelas
+3145. Get ASCII Value
+3146. Get DOS Configuration of hardware
+3147. GiantDragon's open software collection
+3148. Gifawt Is a Free And Working Telescol
+3149. Gift Finder
+3150. Gikot, a desktop agent framework
+3151. Gild
+3152. Gisi
+3153. Gitin
+3154. Global Circle: Lesson Builder
+3155. GlobusQUICK
+3156. Glove
+3157. GlyphStudy Open Source Projects
+3158. Gnogito
+3159. Gnome Flow
+3160. Gnome Matlab integrated Enviorment
+3161. GnomeConverter
+3162. GnomeRSVP
+3163. Gnomonos
+3164. GnuBook
+3165. GnuTutor
+3166. GoKo Proejct
+3167. Godzebra
+3168. GoldenDict
+3169. Golo Programming Language
+3170. Google Notebook
+3171. Google Search Client
+3172. Goosync - Synchronize GMail Accounts
+3173. Goss Monitoring
+3174. Gotham
+3175. GrAVi
+3176. GraDiX
+3177. Grabble: Anagrams Java applet game
+3178. Grade Point Average Calculator
+3179. GradeBase
+3180. GradeBook ++
+3181. GradeMonkey
+3182. GradeSignifier
+3183. Grades 4 Zaurus
+3184. Gradesystem
+3185. Graduation Studio
+3186. Grafinho
+3187. Grammar of Missale Romanum 1962
+3188. Gran Hermana
+3189. Graph Theory Tool
+3190. Graph plotter
+3191. GraphCAD
+3192. GraphEA
+3193. GraphLab
+3194. GraphPloter v0.0.1
+3195. Graphical Multiuser Virtual Environment
+3196. Graphical Process Simulation System
+3197. Graphics Calculator
+3198. Graphite for Pocket PC
+3199. Graphx
+3200. Grapple
+3201. Greek PCLinuxOS Education
+3202. Green/Eco-friendly - phpCarbonCalc
+3203. GreenTest
+3204. GreenTrainer
+3205. Gregorian
+3206. Gretools - vocabulary building tool
+3207. GriVoc
+3208. Grid Computing Education Lab
+3209. Groovix Pac
+3210. Group 2 Pintos Project
+3211. Group Appointment Calendar
+3212. Group Self and Peer Assessment - Moodle
+3213. GroupLog
+3214. GroupWiki
+3215. Grow IEP
+3216. Growing Up Software
+3217. Gruppeneinteilung
+3218. Gráficas 2D
+3219. Gtk+ Language Trainer
+3220. Gtk+ Multiple Choice tool
+3221. Gtk+/CLI IDP Interface
+3222. Guerilla Tactics
+3223. Gui-Fi
+3224. Guided Logic Excercises
+3225. Guitar Chops Trainer
+3226. Greek PCLinuxOS Education
+3227. Green/Eco-friendly - phpCarbonCalc
+3228. GreenTest
+3229. GreenTrainer
+3230. Gregorian
+3231. Gretools - vocabulary building tool
+3232. GriVoc
+3233. Grid Computing Education Lab
+3234. Groovix Pac
+3235. Group 2 Pintos Project
+3236. Group Appointment Calendar
+3237. Group Self and Peer Assessment - Moodle
+3238. GroupLog
+3239. GroupWiki
+3240. Grow IEP
+3241. Growing Up Software
+3242. Gruppeneinteilung
+3243. Gráficas 2D
+3244. Gtk+ Language Trainer
+3245. Gtk+ Multiple Choice tool
+3246. Gtk+/CLI IDP Interface
+3247. Guerilla Tactics
+3248. Gui-Fi
+3249. Guided Logic Excercises
+3250. Guitar Chops Trainer
+3251. GulaMan
+3252. Gulus
+3253. Guma
+3254. Gumpire
+3255. Gutenbrowser
+3256. Gutenreader
+3257. GyaanOS - The OS for Technology Sudents
+3258. Gymkhanas for LibreGeoSocial
+3259. HAWK - PDF Text Search Java Project
+3260. HCDC
+3261. HERDIN NeON
+3262. HFSchlExtension
+3263. HISPACEDIC
+3264. HORUS Reasoning and Learning System
+3265. HPC Middleware
+3266. HSU Moodle
+3267. HTMLTimeline
+3268. HTMLearn Multiple Choice online Test
+3269. HUVisCrypt
+3270. HZ Classic Puzzle Games
+3271. HamExam
+3272. Hama
+3273. HanZi Flashcards
+3274. Hand Analyser
+3275. Handheld, CE, Palm Function Calculator.
+3276. GulaMan
+3277. Gulus
+3278. Guma
+3279. Gumpire
+3280. Gutenbrowser
+3281. Gutenreader
+3282. GyaanOS - The OS for Technology Sudents
+3283. Gymkhanas for LibreGeoSocial
+3284. HAWK - PDF Text Search Java Project
+3285. HCDC
+3286. HERDIN NeON
+3287. HFSchlExtension
+3288. HISPACEDIC
+3289. HORUS Reasoning and Learning System
+3290. HPC Middleware
+3291. HSU Moodle
+3292. HTMLTimeline
+3293. HTMLearn Multiple Choice online Test
+3294. HUVisCrypt
+3295. HZ Classic Puzzle Games
+3296. HamExam
+3297. Hama
+3298. HanZi Flashcards
+3299. Hand Analyser
+3300. Handheld, CE, Palm Function Calculator.
+3301. Handwritten
+3302. HandyVok
+3303. Hang Man
+3304. Hangman Solver
+3305. HardCoder Competition Conductor
+3306. HariSree Kannada Software Pack
+3307. HarpID3
+3308. Harpies
+3309. Harrow
+3310. Harvard Forge
+3311. Harvasset
+3312. Harvester for Cornell Research
+3313. Harvey
+3314. HausiManager
+3315. HeadCalc
+3316. Heat Exchanger Design
+3317. Hebrew To English Dictionary
+3318. Hecate
+3319. Hectare
+3320. HedoL Programming Language
+3321. Heffalump
+3322. Hello World Revisited
+3323. Hello-World
+3324. HelloWorld7db
+3325. Help with communication and learning
+3326. Hendrix
+3327. Henry
+3328. HermeneutiX
+3329. Herramienta de gestión del expediente
+3330. Hey!Lua
+3331. Hi, math!
+3332. Hide&Tweet
+3333. HideMyFile
+3334. HighFlyer
+3335. Hildegard
+3336. Hile
+3337. Himitsu
+3338. Hipo - Hypothetical Computer
+3339. Historia
+3340. Ho Wang Training System
+3341. Hobbes Game
+3342. Hoib
+3343. HojaEvaluacion
+3344. Hole-drilling Eccentricity
+3345. Hollow13: ToDo
+3346. Holo Projector Simulation GUI Library
+3347. HomeMade Dictionary
+3348. Homeschool
+3349. Horner-Schema
+3350. Hotel Management System Pune University
+3351. Hendrix
+3352. Henry
+3353. HermeneutiX
+3354. Herramienta de gestión del expediente
+3355. Hey!Lua
+3356. Hi, math!
+3357. Hide&Tweet
+3358. HideMyFile
+3359. HighFlyer
+3360. Hildegard
+3361. Hile
+3362. Himitsu
+3363. Hipo - Hypothetical Computer
+3364. Historia
+3365. Ho Wang Training System
+3366. Hobbes Game
+3367. Hoib
+3368. HojaEvaluacion
+3369. Hole-drilling Eccentricity
+3370. Hollow13: ToDo
+3371. Holo Projector Simulation GUI Library
+3372. HomeMade Dictionary
+3373. Homeschool
+3374. Horner-Schema
+3375. Hotel Management System Pune University
+3376. HotelWebService
+3377. Hotreference
+3378. How it workbench
+3379. How to code a numerical model
+3380. HugeCPPNum
+3381. Hugh's Mud
+3382. Human Portal
+3383. Humane Assembly Language Tools
+3384. Humber NG
+3385. HyperJournal
+3386. HyperPress
+3387. HyperType
+3388. Hyperbook: on-line hypermedia editor
+3389. Hypergherkin library
+3390. Hyperglossary
+3391. Hypertext eLibrary
+3392. Hystrix
+3393. HøLUG - Ho [Chi Minh City] LUG
+3394. I copy
+3395. I-School
+3396. I. Java Automaton and Grammar User Resou
+3397. I/O Timing
+3398. IAProber
+3399. IBIS-ID
+3400. ICA05 deconstructed - source code
+3401. IDC
+3402. IDRA InDexing & Retrieving Automatically
+3403. IEEE LOM Application Profiling Tool
+3404. IEP-IPP
+3405. IES-BellX
+3406. IGVC IITK Data
+3407. IIControl
+3408. ILIASClientSideTools
+3409. ILIASObjectBookingSystem
+3410. ILIASPersonalWaitingList Plugin
+3411. IMS QTI Test System
+3412. IMVA
+3413. INDIGO - SIP Creation Tool
+3414. INDISS
+3415. INetSim
+3416. IOMETER
+3417. IPv6 Namer
+3418. IRTweb
+3419. ISC - The ISAAC Stream Cipher
+3420. ISEGS: Exercise Generating System
+3421. IT for all schools
+3422. ITB Computer Science Code
+3423. ITSB Mentor Program (Connecting Youths)
+3424. ITSB2006
+3425. ITeach
+3426. IUPportfolio
+3427. Ianus
+3428. Icarion
+3429. Iccarus and Dadelus School Animation
+3430. Idiomind
+3431. Ift6801 Adventure
+3432. IgboLoc
+3433. Image Markup Tool
+3434. ImoveisPW2012-1
+3435. Implicit Graph Search Library
+3436. Improve your English: Listen to the song
+3437. Improvisor
+3438. Impulse - Visualize Engineering Concepts
+3439. ImseVimse
+3440. In silico fragmentation evaluation
+3441. InC-EPL
+3442. Indiana Common Transcripts
+3443. Inexpensive Questionnaire Suite
+3444. InfUcionica
+3445. Info-Charge
+3446. InfoCentral
+3447. InfoML Tools
+3448. InfoWeb
+3449. Informatic test
+3450. Informatics Virtual Learning Environment
+3451. Informatie schermen
+3452. Infoschool
+3453. InfraCalc
+3454. Inhaler
+3455. Inherit3D
+3456. InnovaCampus
+3457. Inside-out Polyhedral Library
+3458. Instant Messaging For Education
+3459. Integral Curve
+3460. Integration
+3461. Integration of Module into Moodle
+3462. Intelligent Sudoku Solver
+3463. Intelligent Thought Entertainment
+3464. Intelligere snippet repo browser
+3465. IntenseVT
+3466. InterBible
+3467. Interactive Atlas of Histology
+3468. Interactive BDD Environment
+3469. Interactive History
+3470. Interactive Math Flash Cards
+3471. Interactive Math Handwriting Recognizer
+3472. Interactive Web Physics
+3473. Interactive music theory learning tool
+3474. Intern Tracker
+3475. Internalize
+3476. Internation
+3477. Internet Coursereader
+3478. Internet DICT web service
+3479. Internet Mathematics Assessment System
+3480. Internet Vocabulary Trainer
+3481. IntervalRpnCalculator
+3482. Intervalence
+3483. Intervention / Enrichment Scheduler
+3484. Interwhat?
+3485. Intranet Education
+3486. IntsGen
+3487. Inventoriana
+3488. Inverse Compositional AAM
+3489. Ionia Student Online
+3490. Irve
+3491. Islamic Gaming Project
+3492. Islamic Hadith Assistant
+3493. Islandora
+3494. Itadaki
+3495. Its420
+3496. Ivan Dolvich's Vocable Trainer
+3497. J-Bird
+3498. J-Course
+3499. J-Quiz
+3500. J2EE Application
+3501. J2EE Polls Component
+3502. J3 - Jason's Java Jiten
+3503. J3dPathway
+3504. JACAC
+3505. JAFER Z39.50 ToolKit
+3506. JAM - Just Another Messenger
+3507. JAMES
+3508. JARP
+3509. JBeginner
+3510. JBiblio
+3511. JBook
+3512. JBookMaker-linux
+3513. JBookManager
+3514. JCOOP
+3515. JCPUSim
+3516. JCSim: Digital Circuits Simulator
+3517. JCalculator
+3518. JCardBox
+3519. JCodeBase
+3520. JCollapse
+3521. JCrypTool - Eclipse based Crypto Toolkit
+3522. JCrypTool Plug-ins
+3523. JDSML Image Server
+3524. JDictClient - JAVA dict server client
+3525. JDing
+3526. JDrafting
+3527. JDynA
+3528. JESUBOTs - FRC Team #5809
+3529. JET Virtual Library
+3530. JEvaluation
+3531. JExecute
+3532. JFC for Mac OS X
+3533. JFX-Tabbed-Browser
+3534. JFiki
+3535. JFluidFlow
+3536. JFunctionViewer
+3537. JFunctionViewer
+3538. JGames
+3539. JGradeBook
+3540. JGrader
+3541. JIMaths - helping children learn maths.
+3542. JIveo
+3543. JKoha - Java implementation of koha ILS
+3544. JLitList
+3545. JLog/JScriptLog - Prolog in Java*
+3546. JMakeZtxt
+3547. JMathQuiz
+3548. JMathToolkit
+3549. JMeasure
+3550. JMill
+3551. JMoodle
+3552. JNetTutor
+3553. JOCalculator
+3554. JOOTS
+3555. JOSSER
+3556. JOthi
+3557. JPACS:Java Processor and Cache Simulator
+3558. JPlate
+3559. JPresenter - a Java presentation player
+3560. JQIZ
+3561. JQuizAPI
+3562. JRPN
+3563. JResearchTool
+3564. JRipples
+3565. JRobot - Tool for Mitsubishi RVM1 robot
+3566. JS Graphics Library
+3567. JS Turtle Graphics
+3568. JSCode
+3569. JSFTutorial
+3570. JSentiWordNet
+3571. JShoe
+3572. JSim8086
+3573. JStega
+3574. JStencilReport
+3575. JStreb0r
+3576. JStudio Workshop
+3577. JTAG-O-MAT
+3578. JTasks
+3579. JTheory - A music theory tool.
+3580. JTrafico
+3581. JTycho
+3582. JUsefuls
+3583. JVocabulary
+3584. JWeb
+3585. JWebPresenter
+3586. JWord King James Version of the Bible
+3587. JXML2OWL
+3588. JaMOOka
+3589. Jaba
+3590. Jac
+3591. Jack C Compiler for Jackal 3.0
+3592. Jago
+3593. JakiJudge
+3594. Jakka
+3595. Jalapeno - the word wizard
+3596. Jalmus
+3597. Jalt - Japanese Learning Tools
+3598. Jangada
+3599. JapKatsuyou
+3600. JapText
+3601. Japanese Language Study Tool
+3602. Japanese Tools
+3603. Japanese e-learning system
+3604. Japanese-to-English Micro Dictionary
+3605. Jarel
+3606. Java AI Gaming Engine
+3607. Java Algorithm Framework
+3608. Java CardioPulmonary SIMulations
+3609. Java Combinatorial Optimization Platform
+3610. Java Desktop Pane
+3611. Java Formal Derivation
+3612. Java Function Parser
+3613. Java Graphing Calculator
+3614. Java Metronome
+3615. Java Miabot Library
+3616. Java Performance TestClient
+3617. Java Queue and Agents Framework
+3618. Java Quiz
+3619. Java Radial Viscous Fingering Simulator
+3620. Java SCORM API
+3621. Java Simple Codes
+3622. Java Simple System Modeller
+3623. Java Vocabulary Trainer
+3624. Java thread examples
+3625. JavaBitWise
+3626. JavaCSP
+3627. JavaCareers
+3628. JavaCritic
+3629. JavaCrumbs
+3630. JavaGame Framework
+3631. JavaJUSP
+3632. JavaScript Library Archive
+3633. JavaStructurizer
+3634. Javalobby Community Platform
+3635. Javamony
+3636. Javascript Web Terminal console player
+3637. Jazzee
+3638. JeParody
+3639. JeromeDL - e-Library with Semantics
+3640. Jeroo OpenSourced
+3641. Jhai PC
+3642. JiLetters - kids can learn the alphabet
+3643. Jigsaw
+3644. Jisho-san
+3645. Jlibrary
+3646. JobShop MBP
+3647. Jogoteca
+3648. Johannes Kepleris
+3649. JohanneumAbiturprüfungszulassung
+3650. John Looney
+3651. JavaCSP
+3652. JavaCareers
+3653. JavaCritic
+3654. JavaCrumbs
+3655. JavaGame Framework
+3656. JavaJUSP
+3657. JavaScript Library Archive
+3658. JavaStructurizer
+3659. Javalobby Community Platform
+3660. Javamony
+3661. Javascript Web Terminal console player
+3662. Jazzee
+3663. JeParody
+3664. JeromeDL - e-Library with Semantics
+3665. Jeroo OpenSourced
+3666. Jhai PC
+3667. JiLetters - kids can learn the alphabet
+3668. Jigsaw
+3669. Jisho-san
+3670. Jlibrary
+3671. JobShop MBP
+3672. Jogoteca
+3673. Johannes Kepleris
+3674. JohanneumAbiturprüfungszulassung
+3675. John Looney
+3676. Jonas dictionary
+3677. Joomla High School Component
+3678. Jorge - OpenSource Bibliography Manager
+3679. JotAzul - An Object Oriented Java IDE
+3680. Journ-E
+3681. Jpav-Incubator
+3682. JsUnit
+3683. Jsar (JavaScript Animation editoR)
+3684. Jspim
+3685. JudgeOS
+3686. JustTest
+3687. K-12 OSS Web Software Project
+3688. K-RAE
+3689. K.N.I.G.H.T
+3690. K12 Address book
+3691. KAPDF
+3692. KARE Grid Sim
+3693. KAS
+3694. KChemius Chemie-Lernprogramm
+3695. KCite Citation Assistant
+3696. KEDR
+3697. KEEP Toolkit
+3698. KEMET project
+3699. KENTROS XC
+3700. KEWL
+3701. KEuklid
+3702. KFileCardLearn
+3703. KHomework (The Homework Helper)
+3704. KLearnNotes2
+3705. KLight
+3706. KLogo-Turtle
+3707. KMeansAniX
+3708. KMemo
+3709. KNMA Programming Contest Hosting System
+3710. KPopupDictionary
+3711. KRAE
+3712. KSC Email Tracker
+3713. KSalomon
+3714. KSlovar
+3715. KTilde
+3716. KVerbs
+3717. KVocbulary
+3718. KVortaro
+3719. KWeather
+3720. KaBook Audiobook mp3 bookmark text links
+3721. Kabriolet.Mobile
+3722. KaiZen
+3723. Kalku
+3724. Kalodidaskalos
+3725. Kalodidaskalos
+3726. Kam zařadíš...
+3727. Kana Learning Tool
+3728. Kana Quizzer
+3729. Kana no Shiai (Kana Game)
+3730. Kana no quiz
+3731. Kana-chan
+3732. KanaKata
+3733. KanaMobile
+3734. KanaQuiz
+3735. Kanji No Sensei
+3736. Kanji Strike
+3737. Kanji XML
+3738. Kanji2PDF
+3739. Kaph Survey Interface
+3740. Karamelo
+3741. Kard, game for young children
+3742. KashaCVW
+3743. Katamotz Ejercicios
+3744. Kayrugold Productions
+3745. Kebec - Virtual University
+3746. Kedo Kicad Libraries
+3747. KeepOnJS
+3748. Kemet API project - Ancient Egypt
+3749. Kemet Look And Feel - Ancient Egypt
+3750. Kemuri
+3751. Kendo Tournament Generator
+3752. Kennismanager
+3753. KerMod - Moderated Online Meetings
+3754. KewlWrite
+3755. Key for Electrical Engineers
+3756. Keyano
+3757. Keyboard Layouts
+3758. Keynes
+3759. Khess
+3760. KiGa 3000
+3761. Kiwi
+3762. Klahowya Student Portfolio Solution
+3763. Klicklack
+3764. Klicky
+3765. Kliker
+3766. KnightSleuth - (dead project)
+3767. Know-It-All
+3768. Knowledge Acquisition Widget - kaw
+3769. Knowledge Map System
+3770. Knowledge and Language Acquisition Model
+3771. KnowledgeQuiz
+3772. KoaForm
+3773. Koha Live CD Lite
+3774. Kolmogorov
+3775. KongMoneo
+3776. Konway - Game of Life Simulator
+3777. Konzentration
+3778. Konzertsaal
+3779. Kopyalama Panosu v1.0
+3780. Koulux
+3781. Kronophobia
+3782. KrySyS
+3783. KtCalc
+3784. KuMaS
+3785. Kumbi's OpenSource Projects
+3786. Kyrios Ensino
+3787. L.E.I.C.A.
+3788. LAAPhysics
+3789. LANSim
+3790. LASAD
+3791. LDSIM
+3792. LEA
+3793. LED sign conversion
+3794. LEM Engine
+3795. LETS-Talk
+3796. LGS-Helfer
+3797. LILACA (Langton's Ant Celluar Automaton
+3798. LIMS-A
+3799. LIPOCOVI
+3800. LISSARD
+3801. LLSOLL
+3802. LOE Software
+3803. LOOPIN
+3804. LSM Stack Browser & 3D Plotter
+3805. LSS/ASS
+3806. LTU D0010E Labs
+3807. LUAndroid
+3808. LUG-DD Lectures
+3809. LUSID
+3810. LVP 2.0
+3811. LYDIAN
+3812. La Escuela Feliz - jcarvaja
+3813. LaSuli
+3814. LaTeX-pearls
+3815. Lab Óptica
+3816. LabBook
+3817. LabCrab
+3818. LabHome
+3819. Labor für Evolutionäre Algorithmen
+3820. Laboratorio Psico-Medico
+3821. Labs4Wikiversity
+3822. Ladybug
+3823. LamaDict
+3824. LameUtils
+3825. LancheSaudavel
+3826. LangTeacher
+3827. LangTrainer
+3828. Language Constructor
+3829. Language Informant
+3830. Language KISS HTML5
+3831. Language Learning
+3832. Language Learning Tools
+3833. Language Meaning Translator
+3834. Language Quizzes
+3835. Language School (Firefox extension)
+3836. Language Syntax Diagram Library
+3837. Language Tutor Tool
+3838. LanguagePro
+3839. Lapião Digital
+3840. Large Document Search Engine
+3841. Large Text File converter
+3842. LaserGame
+3843. Lasfore
+3844. Last Java Collection Library
+3845. Latein goes Internet
+3846. Law Leecher
+3847. Lawnet Downloader
+3848. Lawtec Components for Zope
+3849. Lazybones Command-to-Action Interpreter
+3850. Ldict training program
+3851. LangTeacher
+3852. LangTrainer
+3853. Language Constructor
+3854. Language Informant
+3855. Language KISS HTML5
+3856. Language Learning
+3857. Language Learning Tools
+3858. Language Meaning Translator
+3859. Language Quizzes
+3860. Language School (Firefox extension)
+3861. Language Syntax Diagram Library
+3862. Language Tutor Tool
+3863. LanguagePro
+3864. Lapião Digital
+3865. Large Document Search Engine
+3866. Large Text File converter
+3867. LaserGame
+3868. Lasfore
+3869. Last Java Collection Library
+3870. Latein goes Internet
+3871. Law Leecher
+3872. Lawnet Downloader
+3873. Lawtec Components for Zope
+3874. Lazybones Command-to-Action Interpreter
+3875. Ldict training program
+3876. LeELa player
+3877. Learn It!
+3878. Learn Networking
+3879. Learn to count
+3880. LearnCSProgramming
+3881. LearnCircuits
+3882. LearnLoop
+3883. LearnML
+3884. Learncurve
+3885. Learning Factory
+3886. Learning Linux system programing in C
+3887. Learning Matrix
+3888. Learning Music Notes
+3889. Learning Object Metadata (LOM) Java API
+3890. Learning Objects Repository (LORe)
+3891. Learning Plus
+3892. Learning Roadmap Studio
+3893. Learning-Words - J2ME
+3894. LearningAddition
+3895. Lecturer
+3896. Lectures
+3897. LegoBee
+3898. Lehrerstunden Verwaltung
+3899. Leibnitz
+3900. Leite
+3901. Lending Library
+3902. Lenski Admin
+3903. Leonardo
+3904. Lesson Plan
+3905. Lesson Tools
+3906. LessonControl
+3907. Levana
+3908. Levenshtein distance Java Libarary
+3909. LfPlugins for ILIAS
+3910. LiLiDaB Lightweight Literature Database
+3911. LiNeTT - a Little NeTwork Toolkit
+3912. Lib Clock for GCC (C++)
+3913. Lib Date for GCC (C++) 3.0 RC
+3914. Lib Finance Math GCC (C++) Lotus 123
+3915. Lib Financial Mathematics GCC (C++) Adv
+3916. Lib Financial Mathematics for Lua
+3917. Lib Hyper Math for GCC (C++)
+3918. Lib Measurement Angles for C++ (GCC)
+3919. Lib Roman/Arabic for GCC (C++)
+3920. LibraTawk
+3921. Librarian Guide
+3922. Librarian software Methodios
+3923. Libraro
+3924. Library Access Tools
+3925. Library Builder
+3926. Library Management System
+3927. Library Search
+3928. Library Shelf Reading Training
+3929. Library System
+3930. LibraryManager
+3931. LibraryOrganize
+3932. LibraryThing2iPodNotes
+3933. Libravi
+3934. Libredu
+3935. Librerian
+3936. Libri Amici
+3937. LibriVox EXPLORER from CommonVox.org
+3938. Librix
+3939. Libros Parlantes
+3940. Liceo Scientifico Imperia
+3941. Life-Simulator
+3942. LifeManager
+3943. Liferay School Portal
+3944. LightSpeed Notes
+3945. Lightweight REST JEE Arch Pattern
+3946. Lilian - sequential data toolkit
+3947. LimeLight
+3948. LinJap 2
+3949. LinUV - Docs and Projects
+3950. LinVision
+3951. Lindenmayer
+3952. LingNUX Russian-FR-EN Dictionary
+3953. LinguaTrain
+3954. Linguistic Laboratory
+3955. Linguistica
+3956. Lingvist words game
+3957. Lingvist-Asker
+3958. Lingvist. Irregular Verbs
+3959. LingvoTools
+3960. Linha do Texto Semiotic Classifier Game
+3961. LinqYedict
+3962. Linspire Documentation Project
+3963. Linux Assembly
+3964. Linux Brochure Project
+3965. Linux FileSystem -Library
+3966. Linux From Scratch
+3967. Linux Guist - Multi Lingual OS for Asia
+3968. Linux IPLE 2
+3969. Linux K-demy
+3970. Linux Kernel Module Programming Guide BR
+3971. Linux Migration Project
+3972. Linux Paideia Project
+3973. Linux Parallel Port+
+3974. Linux RAM Disk Educational Module (rxd)
+3975. Linux TiTan
+3976. Linux World Atlas
+3977. Linux network security and Management
+3978. Linux pentru romani
+3979. Linux-KDE Romania
+3980. Linux/BSD command summaries
+3981. LinuxEllSchool Project
+3982. LinuxFUD
+3983. LinuxForKids.org
+3984. LinuxNewbie.net (LNN) Web Portal
+3985. LinuxSPA
+3986. Linuxcursus voor beginners in 60 uur
+3987. Linuxgym
+3988. LiquidMath
+3989. Lire un fichier texte en une ligne
+3990. Lissajous figures
+3991. ListVok
+3992. LitSearch
+3993. LiteDict
+3994. Little Metal
+3995. Live Glossary
+3996. LiveSytem GNU/Linux for some task
+3997. Load Monitor
+3998. Loads of Linux Links
+3999. Local Content Server
+4000. Loga
+4001. Logfile Pattern Analysis - Logpat
+4002. Logic Learner Graphical Logic Simulator
+4003. Logic functions analyzer
+4004. Logical Adder
+4005. Logical Analyze
+4006. Logikbaukasten
+4007. Loginsystem
+4008. Logo++
+4009. Lojban Glossary Builder
+4010. Lolindrath
+4011. Lompad
+4012. Long NUmber
+4013. LookIng4LO
+4014. Los Conquis
+4015. Lose Face
+4016. Loud Rain
+4017. LoveCalculatorProfound
+4018. LowSars
+4019. Ltestpackage
+4020. LuCAS
+4021. LuSeismo
+4022. Lucky Star
+4023. LuckyWords
+4024. Ludwig Course Management System
+4025. Luminance Desktop
+4026. Lógó nyelv
+4027. M.A.N.G.
+4028. M.U.R.K.S.
+4029. MA Library Software
+4030. MA Online
+4031. MAEstream
+4032. MARC Toolkit for Libraries
+4033. MARC/Perl
+4034. MATHOOL
+4035. MATrainer
+4036. MDE SDK
+4037. MDS Quizz
+4038. MEBT
+4039. MEDCAMPUS
+4040. MEISE
+4041. METS API
+4042. METSbuilder
+4043. MGEsp
+4044. MHelper for PPC
+4045. MIC Simulation Kit
+4046. MIDI Keyboard Coach
+4047. MIDP Calculator
+4048. MIRACH
+4049. MISSy
+4050. MIT Mobile Web
+4051. MIT Open Source Community
+4052. MITSIM Lab.
+4053. MIX Machine Emulation
+4054. MKS Interface Projects
+4055. MKhoster Document Plagiarism Checker
+4056. MLE - Mobile Learning Engine
+4057. MMOWGLI
+4058. MODS FR
+4059. MORSEL
+4060. MOSE
+4061. MOTE CSPRNG & Stream Cipher
+4062. MOVLUG LugTray
+4063. MPI plugin for KDevelop
+4064. MPVS
+4065. MPVideonoleggio
+4066. MSN3
+4067. MSqBAT
+4068. MTED
+4069. MU
+4070. MUD Server in Scheme
+4071. MUFUMBO the MVC page builder
+4072. MULTIATHLON
+4073. MUTW (Blue)
+4074. MUTW (Orange)
+4075. MYGP - Middle Years Grading Program
+4076. MYPHPFRAME
+4077. MacEwan LMS Tools
+4078. Machine Learning Tools in Java (MLJ)
+4079. Magallanes Solar System
+4080. Magistro
+4081. Mahara
+4082. Mahara RADIUS Authentication Plugin
+4083. Mahatma68k
+4084. Mahori
+4085. MaiaProject
+4086. MailCourse
+4087. Make A pRetty Table Analysis
+4088. Make It True
+4089. MalaysiaLinuxDoc
+4090. ManC++
+4091. ManChamp
+4092. Mando - Low cost interactive whiteboard
+4093. MangaReaper
+4094. Manual Manager
+4095. ManyMinds
+4096. Maps 2D XY
+4097. Maratona Linux ICPC LATAM
+4098. Marc4ELibraryManager
+4099. MarcXimiL
+4100. MariBelajar ELearning
+4101. Mark It
+4102. Market-Stats
+4103. Markov4JMeter
+4104. Markus
+4105. MasaFi OSCB
+4106. Master 1 IAGE Project
+4107. MasterMathemactics
+4108. Match Manager
+4109. Math Balloon Pop
+4110. Math Converter
+4111. Math Engine
+4112. Math Flash Jr
+4113. Math Helper
+4114. Math Magic
+4115. Math Methods In History:: Opsmodelling
+4116. Math Test
+4117. Math Trainer
+4118. Math en jeu!
+4119. Math quiz generator
+4120. Math tests for 5-8 aged children
+4121. Math-PiXel Edu-ImageProcessor
+4122. Math4J: A Mathematics Library
+4123. MathBase
+4124. MathForge Application Environment
+4125. MathGenius
+4126. MathLearn
+4127. MathQuizGame
+4128. MathTizzy
+4129. MathTutor
+4130. MathUtils
+4131. MathWare
+4132. MathWorx
+4133. Mathematical Assistant on Web
+4134. Mathematical Discussion System
+4135. Mathematical Music Theory
+4136. Mathematical Test Works Generator
+4137. Mathematux
+4138. Mathmaker
+4139. MathsPHP
+4140. MattsMathTools
+4141. Matzelworkz - Tutoriumsverwaltung
+4142. Maui Topic Indexer
+4143. Maux
+4144. Maven 2 Prototype
+4145. Max Software CAI
+4146. MaxBase
+4147. MaxEducation Suite
+4148. MaxExtreme
+4149. MaxGrade
+4150. Maxch
+4151. MayaCalculator
+4152. MbUnit
+4153. McCarthy programming language
+4154. MeTA->phi
+4155. MediArk
+4156. Media Lending Database
+4157. MediaDB
+4158. MediaGlyphs
+4159. MediaTexte
+4160. MediaWiki Quiz Creator
+4161. Mediateca
+4162. MediawikiGUI
+4163. Medic Project
+4164. Medical Linux
+4165. Medwiki
+4166. Melosion - A Serious Music Game
+4167. MemAid
+4168. MemorizEasy
+4169. Memory Alpha
+4170. Memory Place
+4171. Memory-MHP
+4172. MemoryChantsOiseau
+4173. MemoryMaster
+4174. Memovix
+4175. Mendeleev periodic table (MPT)
+4176. Mental-math
+4177. Mentic
+4178. Mentis
+4179. Merlin
+4180. Merlin - Modulo de Seguimiento
+4181. Merlin-portlet
+4182. Merupu
+4183. Mesa3D for MiniGUI
+4184. Meshgen
+4185. MetaDatabase
+4186. MetaXplode
+4187. MetriK Conversion Utility
+4188. Meu Dicionario Japones
+4189. MiJAL (Minor Java Algebra Library)
+4190. MicroTiger
+4191. Middleton
+4192. Midi-keyboard Teacher
+4193. Midlet Dictionary
+4194. MightyMaxim
+4195. Migma
+4196. Miguel Gea
+4197. Milestones - Day Countdown
+4198. Miller/Swerkstrom Artificial Creativity
+4199. Million Musician Challenge
+4200. Milo
+4201. MimaSim
+4202. MimerDesk
+4203. MindMap and Knowledgemanager
+4204. Mini-Calc
+4205. MiniPauker
+4206. Minimal Linux Like Kernel
+4207. Minuet
+4208. Mio Japanese Suite
+4209. Mirak Knowledge System (MKS)
+4210. Mission Amalthea
+4211. Mission to the ISS
+4212. MladiVedez
+4213. MnITS Internet Training System
+4214. Mnemisis
+4215. Mnemosyne Plugin for TeXmacs
+4216. MoRe4ABM
+4217. Moava
+4218. MobVoc - Mobile Vocabulary Trainer
+4219. Mobile Clicker
+4220. Mobile Interactive Audio Book
+4221. Mobile Library Management System
+4222. Mobile Planetarium for Java Phones
+4223. Mobile Response System
+4224. MobileBookViewer
+4225. Model Analysis Framework
+4226. Modulations
+4227. Mogabal - mGBL
+4228. Mojibake
+4229. Molle
+4230. Molly
+4231. Momona SIS
+4232. Mongolian Language Translation System
+4233. Mono Books. The Development Guides.
+4234. MonoMyth - The Mythology Chart Creator
+4235. Monorom
+4236. Monte Carlo Baseball Simulation
+4237. Moodle Audioconference Module
+4238. Moodle Calendar
+4239. Moodle Enhanced Chat Module
+4240. Moodle Knowledge Building module
+4241. Moodle Mail Module
+4242. Moodle TS2
+4243. Moodle Teacher Plan Module
+4244. Moodle at chemistry UQAM
+4245. Moodle presubscribe
+4246. Moodle-Marratech Integration Project
+4247. Moodle2 Tools for Teachers
+4248. Morphological Lexicon
+4249. Morscool
+4250. Morseall
+4251. Mountonmeshée
+4252. MovingShapes
+4253. MpcReader
+4254. Mpp Project
+4255. Mr Arduino
+4256. Msc Articles
+4257. Mstorage
+4258. Mu Operating System
+4259. MuGLIn GNU/Linux Installation
+4260. Mukto
+4261. Mulatab
+4262. Multi-Learning
+4263. Multi-lingual vocabulary system
+4264. MultiMomentAufnahme
+4265. Multiagent Simulator Applet
+4266. Multiformat language dictionary
+4267. Multilingual Crosswords
+4268. Multimediaflashcards
+4269. Multimodal interface to mathematics
+4270. Multiple Choice Questions - Five Methods
+4271. Multiplication Station
+4272. Mura
+4273. MusculiTest
+4274. Musenbac
+4275. Music Management Software
+4276. Music Notation Tutor
+4277. Music Notepad
+4278. Music Portfolio Manager
+4279. Musical Instrument Assistant
+4280. Musical Skill Coach
+4281. MustangBASIC
+4282. MutanT
+4283. Muzzle
+4284. My Book List
+4285. My Java Zone Carrusel
+4286. My Library System
+4287. My Online Teacher++ (MOT++)
+4288. My Virtual Library
+4289. My homework helper
+4290. My-E-Lib
+4291. MyBookshelf
+4292. MyCoRe
+4293. MyConta
+4294. MyCourses
+4295. MyDBemu
+4296. MyDi - Piano Tutor
+4297. MyDict
+4298. MyEPICS 2.0
+4299. MyLMS
+4300. MyLang
+4301. MyPHPSchool
+4302. MySHI
+4303. MyShell
+4304. MyTechMaster Moodle Modules
+4305. MyWord
+4306. MyWords
+4307. Mygaion
+4308. MythSim.org
+4309. MythTV Storm Alert
+4310. NAC
+4311. NAC EJT 2009 Game
+4312. NARA Uploader
+4313. NA_WorkSheet
+4314. NCBI Viewer
+4315. NIMSpro
+4316. NModel Remote Stepper
+4317. NORTEM
+4318. NOSE
+4319. NPRIM
+4320. NSDL
+4321. NTER
+4322. NULL
+4323. NV1B CMS
+4324. NVT - Vocabulary trainer
+4325. NXShield
+4326. NZGazelle : New Zealand Gazette Search
+4327. Nada Amin's Software Projects
+4328. Naiban
+4329. Nalanda
+4330. Nalandapl
+4331. Nano OptoElectronic Simulation
+4332. Narrator - A graph-based modelling tool
+4333. Narvik
+4334. National Digital Library of Bhutan
+4335. Natural Deduction Planner
+4336. Ncurses-based morse code tutor
+4337. Ndav -- a WebDAV tool
+4338. NeISS
+4339. Needle in the Haystack
+4340. Nekoshka
+4341. Nellip
+4342. Nemesis Real Time OS Kernel
+4343. NemesisRD
+4344. Nepali Ngram Corpus
+4345. Neptune Network Emulator
+4346. NerdyTools
+4347. Nereus
+4348. Net Classroom
+4349. Net Lingua
+4350. NetAnimator
+4351. NetBit Fuzzer
+4352. NetLogo-R-Extension
+4353. NetProg
+4354. Netvux
+4355. NetworkBotWars
+4356. Neural Net Lab
+4357. Neural Network Library
+4358. NeuralObjectz
+4359. Neutron Activation Analysis Software
+4360. NevGame
+4361. Neve
+4362. Nevenas Metronome
+4363. News Reference
+4364. Nexist
+4365. Next Generation Go Server
+4366. Next Modules
+4367. Nightsky
+4368. Nihongo Nirvana
+4369. Nihongo conjugator
+4370. Nikamo
+4371. Niklaus' Zettel
+4372. Ninas
+4373. Ninive
+4374. Nivelamento
+4375. No Risk Planning
+4376. NoFaltEX - Students Control
+4377. Nobirds seq diff
+4378. Nonlinear Finite Element Toolbox
+4379. Noomow Edukasi
+4380. Not a Real Pseudo - The Interpreter
+4381. Notalie
+4382. Note
+4383. Note Taker Allocation
+4384. NoteCafe
+4385. NoteManager-DE
+4386. Noteable
+4387. Notejam
+4388. Nuclear Data Table
+4389. NumExp
+4390. NumbersGame
+4391. Numeric PHP
+4392. Numerical Cruncher
+4393. Numerical Gecko Eclipse Plugin
+4394. Numerikus
+4395. NunzionPlans
+4396. NutriAce
+4397. Német szótanuló
+4398. Némo
+4399. O3 programming contest system
+4400. OA-SIS
+4401. OAI-SOAP
+4402. OAI4J: a client library for PMH and ORE
+4403. OAR
+4404. OASYS GPL: Online peer Assessment SYStem
+4405. OCFlow
+4406. OCJUG Playground
+4407. ODAO
+4408. OGAPE
+4409. OGR implementation in Cell BE
+4410. OIP
+4411. OJAX - Ajax powered metasearch service
+4412. OJR
+4413. OJudge
+4414. OLPC English Literacy Tool
+4415. OLR
+4416. OMGTables
+4417. OO GetOpts for Java
+4418. OO Patterns UNO
+4419. OOC-GCC
+4420. OPACIAL
+4421. OPENSAE
+4422. OPML Convergence Tools
+4423. OPSS
+4424. OR Project
+4425. OSGi Patterns
+4426. OSIS-UP
+4427. OSLO - Open Source Library for OCL
+4428. OSMIS
+4429. OSPC
+4430. OUclassOfHonoursDegree
+4431. OWCCP
+4432. Object-Oriented Tutorial, Ruby language
+4433. Odzilla
+4434. OfficeVishwa
+4435. Offline test result
+4436. Often Educational Software
+4437. OhodO
+4438. Okopo
+4439. Oleg's J Page
+4440. Ollo's vocabulary utility
+4441. Olshed
+4442. OmegaFlash
+4443. OmniCS
+4444. One Method Of A Database Design
+4445. OneBook Education Technology
+4446. OneKind
+4447. Online Academic Games
+4448. Online Bibliography
+4449. Online Large Integer Calculator
+4450. Online Library Management System
+4451. Online Programming Judge
+4452. Online Testing System
+4453. Online Video Lectures
+4454. Online exam open framework
+4455. Online img2epub
+4456. OnlineExam
+4457. Ontology Based Tagging
+4458. OpalEditor
+4459. Open Admin for Schools on VirtualBox
+4460. Open Biblio
+4461. Open Bioprocess Monitor
+4462. Open Black Box Builder
+4463. Open Business Simulation Framework
+4464. Open Context
+4465. Open Dictionary Assistent
+4466. Open Educate CMS
+4467. Open Gradebook
+4468. Open Grant System
+4469. Open JavaScript Guide
+4470. Open Journal Systems
+4471. Open Language Learning System
+4472. Open Learning Management System
+4473. Open Learning Support
+4474. Open Library
+4475. Open Library
+4476. Open Link Repository System
+4477. Open Medias Project
+4478. Open Remote Collaboration Tool, OpenRCT
+4479. Open Repository
+4480. Open School
+4481. Open School Admin
+4482. Open School Journal
+4483. Open Slate
+4484. Open Software Program Coding Standards
+4485. Open Source Dictionay [Pundict]
+4486. Open Source Online Testing System
+4487. Open Source Systems for Libraries
+4488. Open Source in Education
+4489. Open Source in the Hood
+4490. Open Spell
+4491. Open Spell
+4492. Open Student Space
+4493. Open Text Reader Documentation Project
+4494. Open Translation Engine
+4495. Open Universiteit yOUlearn
+4496. Open Up Math
+4497. Open Wound
+4498. Open iDNC
+4499. Open source help
+4500. Open source learning library
+4501. Open-Driving-3D
+4502. Open-HBS (HonorarBeauftragtenSystem)
+4503. Open-Source Software Development Club
+4504. OpenAlumni
+4505. OpenBerg e-Book architecture
+4506. OpenBiblos
+4507. OpenBlueprint
+4508. OpenCET
+4509. OpenCNC
+4510. OpenCV-AR
+4511. OpenCalculator - a java calculator
+4512. OpenCards
+4513. OpenClass
+4514. OpenCoolResearch: C++ Tools for research
+4515. OpenDL
+4516. OpenDWS (Open Data Warehousing Suite)
+4517. OpenDocument Text Library
+4518. OpenEd
+4519. OpenEduAdm
+4520. OpenExVis
+4521. OpenFacts
+4522. OpenFacts2
+4523. OpenFiniteMath
+4524. OpenGF
+4525. OpenISE
+4526. OpenJudge Project
+4527. OpenKVM
+4528. OpenLEA
+4529. OpenLMS
+4530. OpenLibrary
+4531. OpenLocator
+4532. OpenMCQ
+4533. OpenMKS
+4534. OpenMark
+4535. OpenMentor
+4536. OpenMosix Simulation
+4537. OpenNet Media Collaboration Tools Suite
+4538. OpenOGI Library
+4539. OpenOPAC - Complete Library Management
+4540. OpenPC^2
+4541. OpenPIV
+4542. OpenPPLTrainer
+4543. OpenPalestra
+4544. OpenPoppy the c# chatbot
+4545. OpenQTI
+4546. OpenRIA
+4547. OpenRTDynamics
+4548. OpenRequest
+4549. OpenRoom
+4550. OpenSIMPLY
+4551. OpenSIS
+4552. OpenSTEM
+4553. OpenSched
+4554. OpenSchoolJournal
+4555. OpenSchools Project
+4556. OpenSiteSearch
+4557. OpenSource Interactive Kiosk System
+4558. OpenSource Software for Basic Education
+4559. OpenSource Tournament Management Suite
+4560. OpenSpectr
+4561. OpenStone
+4562. OpenTAC2
+4563. OpenTASSEL
+4564. OpenTTCN adapters & codecs
+4565. OpenUserful
+4566. OpenWBT
+4567. OpenWV
+4568. OpenWave
+4569. OpenWebSurvey
+4570. OpenYaku
+4571. Opencosmic
+4572. Opengrade Class Management System
+4573. Openweb Knowledgebase
+4574. Operacion Libertad Duradera 1.0
+4575. Opulus
+4576. Orangeboard Lambda Calculus Interpreter
+4577. Oratorum
+4578. Orbog - a web-based dictionary project.
+4579. Ordenando
+4580. Ordinal calculator
+4581. OrthoInspector
+4582. Orthoepikon: a reading-aloud assistant
+4583. Ortoprog
+4584. Oscar
+4585. Osmo
+4586. Ouobpo
+4587. Our Data Structure Library
+4588. Our Simple Imperative Language
+4589. OurSchool
+4590. Ouroborus
+4591. Owl's Workshop for Language Study
+4592. OxyMedia
+4593. P3 Emulator
+4594. PAB-Gesamtschulinformatikkurs
+4595. PADict
+4596. PALOMA Suite
+4597. PAS Generator
+4598. PBIEC
+4599. PBL-MD
+4600. PCM - Parallel Content-Based Matching
+4601. PDF interactive viewer
+4602. PDMGE
+4603. PEAL2
+4604. PERL BIBLE
+4605. PESC CollegeTranscript Jar
+4606. PETAL
+4607. PEscola
+4608. PG Calculator
+4609. PHP Academic Advisor
+4610. PHP Colegio
+4611. PHP Fitness Manager
+4612. PHP Grade Book
+4613. PHP Interbloqueo
+4614. PHP Interview System
+4615. PHP MARC
+4616. PHP Papers DB
+4617. PHP Vocabulary Trainer MySQL, PostgreSQL
+4618. PHPBrain
+4619. PHPEcho CMS
+4620. PHPEduca
+4621. PHPFIT
+4622. PHPMYEXAM
+4623. PHPProjectLibrary
+4624. PHPSpace
+4625. PHPTrainer
+4626. PHPcompris, a edukational tool.
+4627. PHPsTeam
+4628. PHRezy
+4629. PH_Playground
+4630. PHiLiP - Processadores Hipotéticos
+4631. PIB01loesung08
+4632. PIC CUM USB
+4633. PIC Cloud
+4634. PICQ
+4635. PING!
+4636. PLAY Embedded
+4637. PLE (Personal Learning Environment)
+4638. PLE CMS
+4639. PLECOTUS-Project
+4640. PLEIAS
+4641. PMWiki PowerLink
+4642. PNP for Java
+4643. POESIA (Internet content filter)
+4644. POLLES
+4645. POT server/client
+4646. POline
+4647. PP3 -- Stellar Maps Generator
+4648. PRISM - Social Networking for Academics
+4649. PROAI for Fedora configured for sets
+4650. PRSEI
+4651. PSCafePOS
+4652. PSIsoft - The PSIMAP Software Project
+4653. PSL_CALC
+4654. PSTL-FW4EX
+4655. PSU ACM Programming Repository
+4656. PSim2
+4657. Palette
+4658. Palindrome Quiz
+4659. Palm TaCo
+4660. PalmWords
+4661. Palomino
+4662. Pamvotis - IEEE 802.11 WLAN Simulator
+4663. Pandemonium
+4664. PangInput
+4665. Pangles
+4666. Panglossa LexHoard
+4667. Panglossa Universal Language Course
+4668. Papyrus - Gestion de bibliothčque
+4669. ParMa
+4670. Parable
+4671. Parabola Biblioteca
+4672. Paradise CMS
+4673. Parallel Neural Networks
+4674. Parallel_Algorithms
+4675. Parent Portal community edition
+4676. Parley Box
+4677. Parser & Plotter
+4678. Partage
+4679. Particle Swarm Optimization DC2010
+4680. Pascal In Eclipse (Pascaline)
+4681. Pascal's Canvas
+4682. Patmus Bibliographic References Manager
+4683. Pattern Recognition Analysis Project
+4684. Pattern Sandbox
+4685. Pavlov: Study Via Operant Conditioning
+4686. Peanut KB
+4687. Peer Education System
+4688. Peer Evaluation
+4689. PegaSysCMS - Supporting Education
+4690. Penn Lambda Calculator
+4691. Penney Ante
+4692. Perceptum
+4693. Perfect Labyrinth Simulation
+4694. Perfect Pitch
+4695. PerfectScore
+4696. PeriodiChrome
+4697. Periodic Table Java Applet
+4698. Periodic Table for Gnome
+4699. Periodic Table of Elements
+4700. Perl Read Some (Man Pages)
+4701. Perl Tutorial Interactive Help System
+4702. Perl definition grabber
+4703. PerlPoint
+4704. Perlconc - a concordancing program
+4705. Persian Mobile Dictionary
+4706. Personal CD Database
+4707. Personal English Trainer
+4708. Personal Research Advisor Wizard (PRAW)
+4709. Perspectives Homework System
+4710. Pet Adoption Software
+4711. Petite
+4712. PetriOpti
+4713. Pets
+4714. PfP Learning Management System (PfP LMS)
+4715. PhP Open School system
+4716. PhPubli
+4717. PhPyCli
+4718. Phantom Cluster
+4719. Philology Students Training System
+4720. Phonix
+4721. Phono
+4722. Phonology Charts
+4723. Php Teacher Assistance
+4724. Php/Mysql Site Builder
+4725. PhpMuse
+4726. PhpMyDictionary
+4727. PhpMyIndexer
+4728. PhpMyStudent
+4729. PhpToolCase
+4730. PhraseComposer
+4731. Phrasebook
+4732. Physical Constants (headers/programming)
+4733. Physical Interactivity
+4734. Physics Lab data Acquisition System
+4735. Physics Solving Toolkit
+4736. Physics education software
+4737. Physicssite
+4738. Pi Personal Information Manager
+4739. PickSeat
+4740. Picofarm
+4741. Picture Perfect
+4742. Piculator
+4743. Pietermaritzburg Linux User's Co-op
+4744. Pilo Visual Tools for Scheme <PVTS>
+4745. PimSched
+4746. PinGismo - software tools for schools
+4747. PingDis!
+4748. PingoS Tipptrainer
+4749. Pink Image Processing Library
+4750. PippoAcl
+4751. Piraruku
+4752. Pizza Business
+4753. Placar
+4754. Placówki Opiekuńczo Wychowawcze
+4755. Placówki Zapewniające Pomoc w Hostelu
+4756. Planes de Trabajo Individualizados
+4757. PlanetDR
+4758. Plano de Ensino
+4759. Platonia simulator- physics without time
+4760. Plexicon
+4761. Pliny Scholarly Notetaking Environment
+4762. PloneSGS
+4763. PloneWebFestival
+4764. Pnyx : des élections virtuelles!
+4765. Pocket Tester for Pocket PC
+4766. Pocket Visual Editor
+4767. Podium Presentation System
+4768. Poetica Studios Retired Projects
+4769. Points
+4770. Political Science: Campaign Simulator
+4771. Political economy library
+4772. Politico!
+4773. Poly Equate
+4774. Polylux
+4775. PolymorphTables
+4776. Pomodoro
+4777. Pond Scum
+4778. PongEx_Phidgets
+4779. Pool Video Switch
+4780. Populationsentwicklung
+4781. Poradnia Ds. Przeciwdziałania Przemocy
+4782. Porphyry
+4783. Portrait École - Volet sécurité
+4784. PotatoSQL: Software for Database Design
+4785. Potnia
+4786. Power Reader
+4787. PowerLawFluidFlow
+4788. PowerPauker
+4789. Powl
+4790. PrIMe Data Management
+4791. Practical Guides
+4792. PracticeGroups, a Moodle block
+4793. PracticeMaster
+4794. Prairial
+4795. PrakMan
+4796. Praktomat
+4797. Preguntator
+4798. Preschool Primer
+4799. President Matchup
+4800. Pretoria Linux Users Group
+4801. Pomodoro
+4802. Pond Scum
+4803. PongEx_Phidgets
+4804. Pool Video Switch
+4805. Populationsentwicklung
+4806. Poradnia Ds. Przeciwdziałania Przemocy
+4807. Porphyry
+4808. Portrait École - Volet sécurité
+4809. PotatoSQL: Software for Database Design
+4810. Potnia
+4811. Power Reader
+4812. PowerLawFluidFlow
+4813. PowerPauker
+4814. Powl
+4815. PrIMe Data Management
+4816. Practical Guides
+4817. PracticeGroups, a Moodle block
+4818. PracticeMaster
+4819. Prairial
+4820. PrakMan
+4821. Praktomat
+4822. Preguntator
+4823. Preschool Primer
+4824. President Matchup
+4825. Pretoria Linux Users Group
+4826. Primary InterfaCe for Opac
+4827. Priotelus
+4828. ProProvaADSTR1
+4829. Procesamiento Digital de Señales-FRH
+4830. Professor Tux
+4831. Proficio
+4832. ProfissionalizacaoObrigatoria
+4833. Prog. umg. Offener Antrieb
+4834. Programas Análisis/Métodos Numericos
+4835. Programming Assignment Collector
+4836. Programming Book-Python 2.6
+4837. Programming Evaluation System
+4838. Progress Report Manager
+4839. Proj1
+4840. Project BIB
+4841. Project Cimrman
+4842. Project Gaffel
+4843. Project Goya
+4844. Project Module for Moodle
+4845. Project OSCM: Open Source Cruise Missile
+4846. Project Punica
+4847. Project3dKidneyPrinted
+4848. ProjectGalileo
+4849. Projek Munsyi
+4850. Projektmageri
+4851. Projet Cours-Japonais.fr
+4852. Projeto Magno
+4853. ProjetoHD
+4854. Projetos PW 2018
+4855. Projets-Linux du GuLSE
+4856. ProteinShader
+4857. Proyecto Nahual
+4858. PràcTIC
+4859. Prácticas Libres
+4860. Ps and Qs: Processing QTI using PHP
+4861. PseudoTrans
+4862. Psp Kanji
+4863. Pub-Sub Perftest
+4864. PubSearch
+4865. PubSearch 2
+4866. Public Academic Knowledge Internet DB
+4867. PublicLMS
+4868. Publications Map
+4869. Puce's Samples
+4870. Puissance43
+4871. Purdue Penumbra Educational Environment
+4872. Pwnlab
+4873. PyAlgebraII
+4874. PyConnotea
+4875. PyEducator
+4876. PyFlash
+4877. PyFlashCard
+4878. PyGavel
+4879. PyJflash
+4880. PyJflash
+4881. PyLogo
+4882. PyMARC
+4883. PySet
+4884. PySlovar
+4885. PySword
+4886. PyTrail
+4887. PyTranslateList
+4888. Pyberry
+4889. Pydicom by examples
+4890. Pysics
+4891. Pysycache
+4892. Pytest: testing and evaluation framework
+4893. Python Communication Library
+4894. Python Education Suite
+4895. Python Futsal Simulator Server
+4896. Python Infusion
+4897. Python Linguistic Laboratory
+4898. Python Robot Simulation Environment
+4899. Python gtk2 Vocabulary Trainer
+4900. Python in Scheme
+4901. Pythree
+4902. Pytner
+4903. Q-Engine
+4904. Q.W.A.C.K.
+4905. QA Assistant
+4906. QACards
+4907. QASE
+4908. QBookReader
+4909. QEspik
+4910. QFlashCards
+4911. QGAMESS
+4912. QGama
+4913. QJDicExample
+4914. QM Stores Management System
+4915. QMatrix
+4916. QPunkt Lehr- und Informationssystem
+4917. QRCROSS
+4918. QSquidClassRoom
+4919. QTCharpoly
+4920. QTI Magic
+4921. QTI Works
+4922. QUESTIONARIONLINE
+4923. QVAugmented
+4924. QWikipedia
+4925. Qlogico
+4926. Qt Learning apps
+4927. Qt Metronome
+4928. QtGameOfLife
+4929. QtVision/AmiVision
+4930. QtXGame
+4931. QuEd - The Questionnaire Editor
+4932. Quad Genius Pro
+4933. Quaderno di Musica per le scuole Medie
+4934. Quadrille multimedia assessment system
+4935. Quae
+4936. Quaestio - Quiz Maker
+4937. Quaestor CBA
+4938. Qualified Resident Wizard
+4939. QuantitativeFinance
+4940. Quantum walk library
+4941. QueLang
+4942. Quebaba
+4943. Questionmark - Moodle Connector
+4944. Questionnaire generation and evaluation
+4945. Questionário
+4946. Queue simulator
+4947. Quick & Dirty Study Utility
+4948. Quick R Intro
+4949. QuickBrownFox Online Typing Tutor
+4950. QuickLecture
+4951. QuickQWERTY
+4952. QuickSlide
+4953. Quickcount
+4954. QuikDic
+4955. Quimeleon
+4956. Quirinus
+4957. Quisitor
+4958. Quix
+4959. Quiz Cards
+4960. Quiz Java - Promotori Finanziari Edition
+4961. Quiz Maker
+4962. Quiz Me
+4963. QuizComposer
+4964. QuizY
+4965. Quiztron
+4966. Quotations
+4967. Qutranpy
+4968. Qwizz
+4969. R.I.G.O.
+4970. RADLib
+4971. RAGE on Java
+4972. RAID ON CODE PIRATE (ROCOP)
+4973. RAIDmap
+4974. RAMBLE
+4975. RCMS (Redleaf Course Management System)
+4976. RCOSjava
+4977. RCPQuizEngine
+4978. RCXJavaC
+4979. RCmania
+4980. REAP
+4981. REDOSPLAT
+4982. RELATED - REmotes LAboraTories extenED
+4983. REPEATS
+4984. RGP
+4985. RIDE the Story
+4986. RLS AVON
+4987. ROA
+4988. ROLE WP7 Codebase
+4989. ROXS Tool
+4990. RPMwiki
+4991. RPN Fraction Calculator
+4992. RPi-64
+4993. RSListDecoder
+4994. RSSceSim
+4995. RT Schedule
+4996. RUDB
+4997. RUE - Resource Utilization Explorer
+4998. RUS - ENG and ENG - RUS dictionary
+4999. Race Track
+5000. RaceAdmin
+5001. Raige
+5002. RailPattern
+5003. Rain Bot
+5004. RanBunHyou Randomized Study Materials
+5005. Rana, Restriction Analysis Libraries
+5006. Random
+5007. Random Maths Question Generator
+5008. Random Number Generator
+5009. RandomSelector
+5010. Randomized Algorithms Control Toolbox
+5011. Randomly sampling k-colorings of a graph
+5012. Raph's EIVD Works
+5013. Rapid Math Trainer
+5014. Raptor-AntiPhish
+5015. RasWWW
+5016. RatCalc
+5017. Rating Test
+5018. RayWatch
+5019. ReBAC Java Library
+5020. Readable and Writable worDbook
+5021. Reading Teacher
+5022. Real Time Free Surface Solver (RTFSS)
+5023. Rechentrainer
+5024. Recon Calc
+5025. Recursive to Iterative in Java
+5026. Reference Keeper
+5027. Refractions
+5028. RegExRecon
+5029. RegExplorer
+5030. Regatta - Software for schools
+5031. RegeXeX
+5032. Registermaschinensimulation
+5033. Registro profesores escuela
+5034. Regular Express
+5035. Reinforcement Learning Robot Simulator
+5036. Relativity
+5037. RemasterPi
+5038. Remembook
+5039. Rememorizer
+5040. ReportKeeper
+5041. Res-On - View your Results Online
+5042. Research Connect
+5043. Research Mapping Tool
+5044. Research Master
+5045. Research Project Calculator
+5046. Research Project Helper
+5047. ReservesDirect course reserves system
+5048. Resource Manager
+5049. ResourceBrowser
+5050. Resources for Closely Related Languages
+5051. Resources for education programs
+5052. Retine
+5053. Reusable Interactive Case Study Tools
+5054. Reuse
+5055. Review Your Peers
+5056. Revision Forum
+5057. Revisuic
+5058. RexSimulator
+5059. Rhymes
+5060. RiRa
+5061. Rich Client Platform Tutorials
+5062. Rise of the Legend
+5063. RoJudge
+5064. Robo Quiz Framework
+5065. RoboCodezilla
+5066. RoboCup Mixed Reality League
+5067. RoboPlayer
+5068. Robocode Depot
+5069. Robocode championship manager
+5070. Roboter
+5071. Robotypo
+5072. Robugs 3D
+5073. Rock Out With COmputers
+5074. Rogue Terminal
+5075. Roman Numeral Calculator
+5076. Roman Numeral Conversion API
+5077. Romanian Online Judge
+5078. RoninCMS
+5079. Rose Soup
+5080. Rotkreuzhandbuch - die CD
+5081. Route 678
+5082. Rpi Executor
+5083. Rubato
+5084. Rubrics
+5085. Ruby Win Learn Widget Series
+5086. RubyMoss
+5087. Rubyturgy
+5088. RunAsApproximator
+5089. RunCC
+5090. Running Reality
+5091. Runscho
+5092. S.L.A.E. (Squid Log Analyzer Express )
+5093. S1000D Transformation Toolkit
+5094. SAC - Symbolic Analysis and Control
+5095. SAE - School Administration System
+5096. SAFAPP-PHASE
+5097. SAFEX
+5098. SAGA
+5099. SAM
+5100. SAM (Servo Actuation Manipulator)
+5101. SASHA Packages
+5102. SAgent86
+5103. SB-MASE
+5104. SCCORI-Agent
+5105. SCEC VDO
+5106. SCElect
+5107. SCRUM och eXtreme Programming
+5108. SCS: Simple Contest System
+5109. SDL_vnc
+5110. SDTraffic
+5111. SEAM
+5112. SEDA Educational Solution
+5113. SEEtron Mini SSC controller Java library
+5114. SENAYAN Library Automation
+5115. SENSEN (SENSible/Epidiptic Network)
+5116. SERVIA
+5117. SGQI-Gerenciador de Quotas de Impressao
+5118. SHAME metadata editing framework
+5119. SIBEP
+5120. SIES
+5121. SIGES
+5122. SIGES
+5123. SIMAC
+5124. SIMFOS
+5125. SIMIA
+5126. SIMPLE
+5127. SIMULA- Ambiente de Simulaзгo de Agent
+5128. SINSEL
+5129. SIO-HistoStages-Admin
+5130. SIT Theatrical Lighting Projec
+5131. SIVeL
+5132. SKMS
+5133. SLAPS
+5134. SMLT
+5135. SMP (student management program)
+5136. SMakeWav - Command line WAV file creator
+5137. SOA Using Java Web Services
+5138. SPACS
+5139. SPAID
+5140. SPARQLINGui
+5141. SPEmatic
+5142. SPLMS
+5143. SPM - Web-based Student Projects Manager
+5144. SPM Suite
+5145. SPS 4 Linux
+5146. SPiFFy: Simple PHP Framework for Fedora
+5147. SProa
+5148. SQLPractice
+5149. SQS - the Simple Queueing System
+5150. SQueRe
+5151. SRecite
+5152. SSEP - Election Simulation System
+5153. SSSim
+5154. SSTest
+5155. ST netzSchach
+5156. STACK online assessment
+5157. STAR Communication Board
+5158. STB-DVB
+5159. STICS Performer
+5160. STRUDLE
+5161. SType
+5162. SUSHI - Universal Student Help Interface
+5163. SW Musician Tool
+5164. SW2PSA
+5165. SWUNOJ
+5166. SXM++
+5167. SXMDoc
+5168. Saaghar
+5169. Sadhana
+5170. Sage Forge collaborative course Developm
+5171. Sailing Race Coding
+5172. SakhrLinux
+5173. Salco32
+5174. Sally - Bellringing Software Suite
+5175. SaltSoft
+5176. SaltyEngine
+5177. Samurai Kanji
+5178. Sanat
+5179. Sanity's Mathe-Trainer
+5180. Satellite Tracking C++ library
+5181. Sathi : an automated grading system
+5182. Satiagraha, o jogo
+5183. Satyanash Scheduler
+5184. Sax for PHP (Sax4PHP)
+5185. Saxogram Vocabulary List Builder
+5186. Scalable Arch for Interactive Learning
+5187. ScaleConverterNM
+5188. Scenario Toolkit
+5189. ScheduleViz: Course Schedule Plannner
+5190. Schedulist
+5191. Scheme Natural Language Toolkit
+5192. Schoodule
+5193. School Administration
+5194. School Closures Database System
+5195. School Club Management System
+5196. School Computer Lab Schedule
+5197. School Data Navigator
+5198. School Homework
+5199. School Management
+5200. School Manager
+5201. School Online Data Analysis
+5202. School Portal Africa
+5203. School Reporting Tools
+5204. School Runner
+5205. School System Subscription
+5206. School managent system (SUSI)
+5207. School practice for economists
+5208. School register
+5209. School-Online
+5210. SchoolB@G
+5211. SchoolData
+5212. SchoolHeadman
+5213. SchoolMentor
+5214. SchoolOS Digital Library
+5215. Schooly
+5216. Schuduling of teachers-students meetings
+5217. Schulwerkzeug
+5218. Sci-Wi
+5219. SciLoq
+5220. Scidoc N6
+5221. Science Fair In A Box
+5222. Scientia - The science database
+5223. Scientific Searcher
+5224. Scilab SQL interface
+5225. Scollar
+5226. Scrabble Finder
+5227. ScrabbleBabble
+5228. Scribe
+5229. Scriptio
+5230. Scriptol
+5231. Scripts Fundraising Manager
+5232. Scripts4EasyLife
+5233. Scripture
+5234. ScriptureStudy
+5235. Scriptures Reader
+5236. Scrupless
+5237. Scythia
+5238. Search Engine
+5239. Search-ODT
+5240. Searchpath: Library Research Tutorial
+5241. SecondTutor
+5242. Seguro Distributor
+5243. Selective Harvester
+5244. Selenium DSL
+5245. Self Learning Guitar
+5246. Selftest
+5247. SemXQ Suite for Infosystem Intelligence
+5248. Semantic Mapping Testing
+5249. Semantic Personal Digital Library
+5250. Semantic Weblog Monitoring Framework
+5251. Semantic Workbench
+5252. SeminarSite
+5253. Semtinel
+5254. Senda
+5255. SeniorQuoter
+5256. Sente
+5257. Serbian Dictionary
+5258. Serentus
+5259. Serial Box
+5260. Serious Business
+5261. Server optimized Linux (SoL)
+5262. Serverbased Share System
+5263. Serveur Linux pour l'Internet Scolaire
+5264. Set-for
+5265. Sets as Boxes
+5266. SexOMut
+5267. Sexy Code Checker
+5268. Seyda
+5269. Shadow netWorkspace
+5270. Shakespeare Word Generator
+5271. Sharada-Braille-Writer
+5272. Shark Virtual Library
+5273. Sharp
+5274. SharpSerialization
+5275. ShelfLister for Voyager ILS
+5276. Shell Script Bank
+5277. Shen's
+5278. ShiVaSmiles
+5279. Shibbolised Jabber Instant Messaging
+5280. Shooting Simulation in Sensor Network
+5281. Short-term courses management
+5282. Shuttle Commander
+5283. SiBSoft (Simple Bank Software)
+5284. SiGA-UEFS
+5285. SiGDeK (Simple Game Dev Kit)
+5286. SiSaya
+5287. SiZoop
+5288. SierpinskiChaosGame
+5289. Sigenca
+5290. SightChordApp
+5291. SignWriting Apps
+5292. SignalDiagrams
+5293. Sikher
+5294. Silicis- formal [verification] framework
+5295. SimAlgPro
+5296. SimAutomata
+5297. SimNetQ
+5298. SimPL
+5299. SimPS
+5300. SimPyx
+5301. SimSpec
+5302. SimTor
+5303. SimVida, Artificial Life Simulator
+5304. Simone
+5305. Simpla-Basic concept language
+5306. Simple C++ string and vector classes
+5307. Simple CAN Trace GUI
+5308. Simple CoUrses OnLine Administration
+5309. Simple Compiler
+5310. Simple Computer Software Database
+5311. Simple Digital Signage
+5312. Simple Education System
+5313. Simple Fraction Test
+5314. Simple Genetic Algorithm API
+5315. Simple Library System
+5316. Simple Load Tester
+5317. Simple Logo
+5318. Simple Mathematics Helper
+5319. Simple Online Examination for Developers
+5320. Simple Poll Administrator
+5321. Simple Student
+5322. Simple Temp Conv
+5323. Simple Virtual Machine
+5324. Simple discrete event simulation
+5325. Simple matrix calculator
+5326. SimpleDic
+5327. SimpleDomino
+5328. SimpleJ
+5329. SimpleOpenBibilio
+5330. SimplePotter3D
+5331. SimpleSciGraph
+5332. SimpleScrambler
+5333. SimpleScript
+5334. Simplex
+5335. Simulador CSMA-CD
+5336. Simulador Ecaes - CUSE
+5337. Simulador do Gerenciamento de processos
+5338. SimulationServiceStation
+5339. Simuled
+5340. Simured, multicomputer network simulator
+5341. Sinensis
+5342. Sirkku
+5343. Sistem UAT Peperiksaan Sekolah
+5344. Sistema Bibliotecario Organizador
+5345. Sistema de Gestion de I.E.S.
+5346. Sistema de Multi Acervo da UEFS
+5347. Sistema de Torneo Futbol
+5348. Sistema de administracion escolar
+5349. Six Year Plan for High School Students
+5350. Skalax
+5351. Skidbladnir
+5352. SkillBook Skill Management System
+5353. Skills Evaluator
+5354. Skole Værktøjer
+5355. Skribanto
+5356. SkyWalker
+5357. Slick from Cellocity
+5358. Slidery
+5359. Small educational utilities
+5360. Smart Grapher
+5361. SmartBot - The Chatting Encyclopedia
+5362. Smartphone Sermonnotes
+5363. Snackware
+5364. Snakememory
+5365. Snaps
+5366. SoDiLinux 2013 - WiildOs based
+5367. SoFi Solution Finder
+5368. Socialnet
+5369. Socialscape
+5370. SoftNumJa
+5371. SoftRenderer
+5372. Software Engineering Techniques
+5373. Software Escuela Barranquilla
+5374. Software Scout de Venezuela
+5375. Software To Reuse Computers To Teach
+5376. Software de análise e seq genético
+5377. Software for Teaching Graph Theory
+5378. Software for library
+5379. SoftwareQualityEasilyDeveloped
+5380. Some educational Physics Applications
+5381. SonasoundP - Real-time phonetics
+5382. Sonyer
+5383. Soowka
+5384. Sorkent Trivia
+5385. SortDemo
+5386. SortKit
+5387. Soul Menu / Map
+5388. Sound Grid
+5389. Sounder - Phonetic Spell Checker
+5390. Space Orbits Manipulator
+5391. SpamFryer
+5392. Span-Gles
+5393. Spanakopita
+5394. Spanish Vocabulary Quizzer
+5395. Special DBL
+5396. SpeeD ReaD ("Speedy Read-y")
+5397. Speechy - HTML Slides with Audio/Video
+5398. Speed Typing Test
+5399. Speed Your Read
+5400. Spell Quest
+5401. Spellinator
+5402. SpellingPractice
+5403. Spheriosity
+5404. Spiking Neuronal Network Simulator
+5405. Springbok
+5406. Springerlink_download
+5407. SrnaCalc
+5408. Stackful
+5409. Stakeout
+5410. Standard Deviation Calculator
+5411. Standardized Test Practice Engine
+5412. Star Vocaboly for GRE/SAT
+5413. Steak
+5414. Steganograph
+5415. Steganometrographia
+5416. Stenella
+5417. Step
+5418. Step-by-step
+5419. Stocasticvs - new generation CAMC
+5420. Stopwatch
+5421. Storemaster
+5422. StoryWiki
+5423. Streetprint Engine
+5424. Structured Automated Testing System
+5425. Structured Forum
+5426. Structurized.info -- (E-books Catalogue)
+5427. Struts Time Entry
+5428. Student Control
+5429. Student Management System Network
+5430. Student Personal Information Manager
+5431. Student Renderer
+5432. Student Shuffler
+5433. Student360
+5434. Students DataBase Manager
+5435. Students Scheduler
+5436. Studentski servis
+5437. Studierplatz
+5438. Studio3
+5439. Studis 2.0
+5440. Study Engine
+5441. Study Fast
+5442. StudyTrainer
+5443. StudyWare Bible
+5444. Studycalc
+5445. SuSolver
+5446. SubLearn
+5447. SubNet
+5448. SubTeacher
+5449. Submit, Read, Review
+5450. SubsTogether
+5451. Sudocute
+5452. Sudoku MC
+5453. Sudoku Maker
+5454. Sudoku alg on a cognac chest
+5455. Sugar OpenMSX
+5456. SugarMemo - learning tool for memorizing
+5457. SuiviSio
+5458. SuliPortál magyar iskolaportál
+5459. SuperELO
+5460. Surface
+5461. Surviving bots
+5462. Swing Artist
+5463. Swing Timetable Platform (gstpl)
+5464. SwingScollar
+5465. Swinging-Worksheets
+5466. Switch:A case tool written in Java
+5467. Sydewynder
+5468. Syllog
+5469. Symath
+5470. Symphaty
+5471. Syntax Untangler
+5472. SyntheticWSI
+5473. Synumemetry 2.0
+5474. System Designer
+5475. SystemSpecifyer
+5476. Słuchanka
+5477. T
+5478. TABL: Tables Are Better than Lines
+5479. TADP Project
+5480. TADS 2017 - Pagina Pessoal
+5481. TAGS
+5482. TARStack
+5483. TCP Emulator
+5484. TCPteach
+5485. TD Online Management System
+5486. TENCompetence
+5487. TEaCH - The Educator's Communication Hub
+5488. TICO
+5489. TIGCC for Linux
+5490. TIKAPP - Neural network library and to
+5491. TLA/TLC graphic editor
+5492. TLDP Audio Video Project
+5493. TM Sim
+5494. TMC Robot
+5495. TML - Text Mining Library for LSA
+5496. TMS
+5497. TOCRoSS
+5498. TOM
+5499. TOMUSS
+5500. TOPCLASS
+5501. TP-SO-martesNoche
+5502. TPEngine
+5503. TPM
+5504. TROM - TheoryOfRelationToObjectMapping
+5505. TRS for Linux
+5506. TSP Flaming
+5507. TSimPanel
+5508. TSys
+5509. TTCN mp file passer
+5510. TTworkbench adapters & codecs
+5511. TUS
+5512. TUurlijk
+5513. Tablet 83
+5514. Tablet Workbook
+5515. Tafel
+5516. Tagged Simple Exemel TEST
+5517. Taiwanese Toolbox
+5518. Taka Kanji Database
+5519. Take Ownership, Excel!
+5520. Taller GNU/Linux UNLaM
+5521. TandemDictionary
+5522. Tangara
+5523. Taorluath
+5524. Tapir
+5525. Tapper
+5526. TauRouter
+5527. Tautologica Logic Suite
+5528. Tavole Numeriche
+5529. TeXFlasher
+5530. Tea Time Numerical Analysis
+5531. TeaCrypt-lib
+5532. Teach Center
+5533. Teacher student web
+5534. TeacherHelp
+5535. TeacherHelper
+5536. TeacherTools [OpenSource]
+5537. Teachers Aid
+5538. Teaching Assistant (TA) Hours Logger
+5539. Teaching Planner
+5540. Teachmar
+5541. Team Maker
+5542. TeamRocket - EDF
+5543. Technoforge Open Hardware Dev Suite
+5544. Teclas Divertidas
+5545. Tede
+5546. TeeDict
+5547. TelEduc
+5548. Teleballot
+5549. Test Bank System
+5550. Test Generator
+5551. Test for sourceforge
+5552. Test software with share features
+5553. TestCpuAndRam
+5554. TestYard Team Edition
+5555. Testbed for Ad-Hoc Protocol Evaluation
+5556. Testdesk
+5557. Testovač à la Ježísheck
+5558. Testsoft
+5559. Tetris-like game to learn foreign words
+5560. TexOut
+5561. Text Flashcard
+5562. Text plagiarism detection software
+5563. TextComparer
+5564. TextEAD
+5565. TextMachine
+5566. TextMaven-Vocabulary & Dictionary tools
+5567. TextTrainer
+5568. Textmaterial for informatics
+5569. Texto Livre documentation support projec
+5570. Textual pupil report system
+5571. Thai Dictionary
+5572. The API library call CI5010RS422.DLL
+5573. The Anarchism FAQ
+5574. The Astronomia project
+5575. The BS Eagle Project
+5576. The Bitacora a Documentation Project
+5577. The Business Guide to FLOSS
+5578. The Daily Bible
+5579. The Dummy Doc Project
+5580. The Easy Dictionary Maker
+5581. The Extended BON Toolsuite
+5582. The Figaro
+5583. The HEAD
+5584. The Hardware Database
+5585. The Highschool Ballot System
+5586. The Home Library Archive
+5587. The INFORM Project
+5588. The Kana Project
+5589. The Knowledgebase
+5590. The Language Machine
+5591. The Latin Project
+5592. The Legal Index Project
+5593. The MOTET Cipher & SE Scrambler
+5594. The Machine Simulator
+5595. The Monster Journal
+5596. The NeuroScholar System
+5597. The Neverending Tale
+5598. The Note Taking Tool (TNTT)
+5599. The Online Lending Library
+5600. The Open Platform for E-Learning (OPEL)
+5601. The Open Translation Project
+5602. The Planets Digital Preservation Suite
+5603. The Pocket Linux Guide
+5604. The Polish OpenBSD Documentation Project
+5605. The Prodigy Project
+5606. The Quiz of Country and Their Capital
+5607. The Romance Conjugator
+5608. The SPLINE e-learning Platform
+5609. The Sage
+5610. The Sandbox Libraries
+5611. The Scheduler
+5612. The Shape Guessing Game
+5613. The Skipper Accessibility Project
+5614. The Species Analyst
+5615. The Sprout Project
+5616. The Tab Completion Grade Book
+5617. The Tech-Head Society
+5618. The Tinikling Project
+5619. The Twins
+5620. The VP7 WKP
+5621. The WILD Project
+5622. The Wall Project: Wall3 - The Inquisitor
+5623. The Watermark Initiative
+5624. The Web Translating System
+5625. The Wrap!
+5626. The all new Platform Independent Tunnel
+5627. The babbleback machine
+5628. The cham3a dictionary
+5629. The damf application pack
+5630. The gAIme
+5631. The grinj
+5632. The little red circle
+5633. The numeric method of Newton Raphson
+5634. TheIndex - inteligent ebook librarian
+5635. TheSLinux
+5636. Thesis: Plagiarism Detection Tool
+5637. ThetaCircle
+5638. Thin client based school system
+5639. Think Python
+5640. Think3D
+5641. Thomas' finnischer Vokabeltrainer
+5642. Thoschel
+5643. Thought Patches
+5644. Thout Reader
+5645. Thread
+5646. ThrowMe2D
+5647. Thumbnailer - PDF to JPEG solution
+5648. Thump - The Ultimate Maze Puzzle
+5649. Thwomper
+5650. Thérel
+5651. TiClone
+5652. Tich
+5653. Time Manager for Usability Lab
+5654. Timetable Manintenace system
+5655. Timetable to Diary Tool
+5656. TippFixX
+5657. TizOz OS : Operating System
+5658. ToDo - A Personal Agenda
+5659. ToL Glossary System
+5660. ToSpeak - Learn a new language
+5661. Toddler Tap
+5662. Toets generator
+5663. TooHot Crossword Puzzle Applet
+5664. Topcat
+5665. Topographical Services Implementation
+5666. Torah Tools
+5667. Tori assim
+5668. Tortoise
+5669. Tortuga Jay
+5670. Toss
+5671. Tournament Manager
+5672. Toward A Philosophy Of Computing
+5673. TraSim
+5674. Trace Indian Vehicle Number
+5675. TraceyText
+5676. TiClone
+5677. Tich
+5678. Time Manager for Usability Lab
+5679. Timetable Manintenace system
+5680. Timetable to Diary Tool
+5681. TippFixX
+5682. TizOz OS : Operating System
+5683. ToDo - A Personal Agenda
+5684. ToL Glossary System
+5685. ToSpeak - Learn a new language
+5686. Toddler Tap
+5687. Toets generator
+5688. TooHot Crossword Puzzle Applet
+5689. Topcat
+5690. Topographical Services Implementation
+5691. Torah Tools
+5692. Tori assim
+5693. Tortoise
+5694. Tortuga Jay
+5695. Toss
+5696. Tournament Manager
+5697. Toward A Philosophy Of Computing
+5698. TraSim
+5699. Trace Indian Vehicle Number
+5700. TraceyText
+5701. Track This! Hurricane Tracker
+5702. Trackback for DSpace
+5703. Traduc
+5704. Traductor (Ingles-Español)
+5705. Traffic Light with Atmel ARM
+5706. Trage
+5707. Trajectory
+5708. TransLength
+5709. TransferHTTP Controller
+5710. Transition Timer
+5711. TranslatOr
+5712. TranslateCards
+5713. Translation Text
+5714. Trash Codes
+5715. TrayDICT
+5716. Treble
+5717. Tree of Computer Science
+5718. TreeDraw
+5719. Treex
+5720. Treven
+5721. Tri a Bulles avec visualisation
+5722. TriangleCalculator
+5723. Triangolo
+5724. Tribuit
+5725. Triple-A
+5726. Tripler
+5727. Trofast Stavekontrol
+5728. TroopLib
+5729. TrueXperience Multimedia Conferencing
+5730. Truth Tables Educational Tool
+5731. TruthTable
+5732. Tuna Assembler
+5733. Tunasoft Daemon
+5734. Turing Machine Compiler Collection
+5735. TutoTech.org
+5736. Tutorialis (Tutorial Management System)
+5737. Tux Learn Notes
+5738. Tux Print
+5739. Tux Writer
+5740. Tux's Turtle
+5741. TuxTables
+5742. TuxTalk
+5743. Tuxorial
+5744. Tuxpaint Addons
+5745. Tweet analysis/querying - Team Burton
+5746. Twinkle Flashcards
+5747. Twitter Research
+5748. Two Line Calculator
+5749. Typing Trainer
+5750. Typing Tutor
+5751. Typing Tutor
+5752. Typing Tutor
+5753. U-SKIS - all versions
+5754. UC-WISE Tag Broswer
+5755. UCM-Ágora
+5756. UHomework
+5757. UIBK-PP Desktop Software Suite
+5758. UK educational metadata toolkit
+5759. UM Cognitive Processing Environment
+5760. UM Grad Admit
+5761. UMM Banking System Simulator
+5762. UMS Tools
+5763. USCGA BCI
+5764. USESoft
+5765. USG-ITHB MIS
+5766. UT CS307 Unit Test Framework
+5767. UT Educational IR Package
+5768. UT Radius Login
+5769. UTE - UNIX Treffen Essen
+5770. UTN Bigbang
+5771. UTN-FRBA_SO-2c-2007
+5772. UUUC
+5773. UWA ANDS VIVO Project
+5774. UWC Student Management System
+5775. UWF Unmanned Systems
+5776. Ubuntu 14.04 LTS Xarxipelag i386
+5777. Ubuwiki Offline
+5778. Ucheba
+5779. UltimateCalculator
+5780. UnBGames
+5781. UnIRODS
+5782. Uncle Flasher
+5783. Underground IM - Java Instant Messenger
+5784. Underwater Library
+5785. Uni Test
+5786. Unibiblio
+5787. Unicademic
+5788. Unilivre
+5789. Unimozer
+5790. Unique Word identifier
+5791. UnitsC++
+5792. Universal TCL Dictionary
+5793. Universal Tag Finder
+5794. Universal Translator
+5795. University Admission System
+5796. University Course Schedule Builder
+5797. University Grade Calculater
+5798. University Library Management System
+5799. University Management Information System
+5800. University Schedule Planner
+5801. University Scheduler Engine
+5802. University of Utah CONTENTdm API
+5803. Unix network configuration simulator
+5804. Uno Por Todos
+5805. Unoweb-s
+5806. Untitled OpenGL/SDL project
+5807. UoPhx .NET
+5808. UpStage
+5809. UpperBound Learning Tools
+5810. Urlaha
+5811. Urutau
+5812. Ustad Mobile
+5813. UtopiaBiz
+5814. V Uniersity
+5815. V-MAP
+5816. V2DC
+5817. VAT4Net
+5818. VDAB Course Work
+5819. VDEX Java Binding
+5820. VDMath
+5821. VDSI
+5822. VHS Project Training System
+5823. VIF
+5824. VMatrixLib
+5825. VR Hanoi Towers - Java Applic
+5826. VR World Creator
+5827. VSD DATABASE
+5828. VTDL - Virtual Technological Dev. Lab
+5829. VVReg
+5830. Valoración competencia trabajo en grupo
+5831. Vector Visual 3D (W3D)
+5832. Vedic Mathematics Tutorial
+5833. Vehikel
+5834. VennABC
+5835. Verbotrix, system tray learning solution
+5836. Verbum
+5837. Vernacular
+5838. Verto Compiler
+5839. Very Big Numbers Tool
+5840. Video module for Moodle
+5841. VigiWeb
+5842. Vigibou
+5843. Vireo ETD Management System
+5844. Virginia - The Smart Language Teacher
+5845. Virtop
+5846. Virtu@lSchool
+5847. Virtual Bookshelf
+5848. Virtual Catalog
+5849. Virtual Collaboratory
+5850. Virtual Computer Lab
+5851. Virtual Converence
+5852. Virtual Data Center
+5853. Virtual Lab
+5854. Virtual Lightbox for Museums
+5855. Virtual Loom Weave Analysis Software
+5856. Virtual MLC
+5857. Virtual Oscilloscope
+5858. Virtual Professor
+5859. Virtucoll Virtual Learning Environment
+5860. Visakhapatnam Linux User Group
+5861. Visión por Computador
+5862. Visual Examinator
+5863. Visual Integer Factor
+5864. Visual Lambda Calculator with Mind Maps
+5865. Visual Simulation of Operating Systems
+5866. VisualAp
+5867. VisualMathWorks
+5868. VisualMaths
+5869. VisualOS
+5870. VisualVocab Vocabulary Trainer
+5871. VitiCR
+5872. Vmorse
+5873. VocTrain
+5874. VocTrainee
+5875. VocWiki
+5876. Vocab Helper
+5877. VocabTrainer
+5878. Vocabulala
+5879. Vocabulary Builder
+5880. Vocabulary Learning Assistant
+5881. Vocabulary Learning Booster
+5882. Vocabulary Teacher (linvoc)
+5883. Vocabulary Tester
+5884. VocabularyMem
+5885. VocabularyReminder
+5886. Vocabumonkey
+5887. Vocatout: the learn vocabulary project
+5888. Vocatra
+5889. Voice Interactive Classroom
+5890. Voiso
+5891. Vokabeltrainer
+5892. Voko-iloj de Reta Vortaro
+5893. Voktrainer
+5894. Voles - Vocabulary Learning Aid
+5895. Vortex Based Mathematics
+5896. Voyager IA Extracts
+5897. Vuni
+5898. Vyhodnoceni PPA1
+5899. WASOLIC
+5900. WAVE Platform
+5901. WBG-Book-Managment-System (BMS)
+5902. WEB Interface Builder Project
+5903. WHURLE - web-based XML/XSLT learning env
+5904. WIBS - Windsor Internet Booking System
+5905. WIMS
+5906. WRripper
+5907. WS2000PC weather station framework
+5908. WSHP - Lending and Service Controlsystem
+5909. WSU Question & Tutoring System
+5910. WTFlash
+5911. WTPL
+5912. WaJEi - old
+5913. WackoWiki Fork
+5914. Warwick Maze Courseware
+5915. Watchtem, Watch them all!
+5916. WayoWano
+5917. WeHelpBUS
+5918. Weaso Evo
+5919. Web Application Security Papers Archive
+5920. Web Archives Workbench
+5921. Web Assisted Teaching Environment
+5922. Web Based Diagram Editor
+5923. Web Dictionary
+5924. Web Geometry Laboratory
+5925. Web Librarian
+5926. Web Of Web
+5927. Web Papers & Docs
+5928. Web Register
+5929. Web Teacher Evaluations
+5930. Web Text eXtraction and analysis Tools
+5931. Web based Management notes for college
+5932. Web of Life
+5933. Web system for ASPects
+5934. Web-Based File Submission System
+5935. Web-based Library Catalog
+5936. Web-based Vocabulary Trainer
+5937. Web-based ebook trainer and tester
+5938. WebAPP CMS V 1.0 SE
+5939. WebAssignmentGenerator
+5940. WebChip
+5941. WebCollAPs
+5942. WebDoc 2.0
+5943. WebEnq, online survey tool
+5944. WebMA
+5945. WebMapReduce
+5946. WebMathUI-013
+5947. WebNavigationFramework (WNF)
+5948. WebNotes Cooperative
+5949. WebOlimp 2
+5950. WebPAS
+5951. WebPT
+5952. WebPortugol
+5953. WebPresentation
+5954. WebReplay
+5955. WebReports
+5956. WebServiceCall
+5957. WebTEACH
+5958. WebTjener
+5959. WebTurtle
+5960. Webdesk Workstation - College X
+5961. Website@School
+5962. Webtracks
+5963. Webtrainer
+5964. Wednus Darwin
+5965. WeiLiYu
+5966. Weights and Measures Converter
+5967. Weka-KNN
+5968. Wendy
+5969. What The Fsck
+5970. Whiki Hierarchic Content Magagement
+5971. Whitespace development IDE
+5972. WhoOwnsTheFish
+5973. WiSim - Business Game
+5974. WiTilt v3.3 Demo program
+5975. Wii on Linux WOL
+5976. WikiCursos
+5977. WikiOnCD
+5978. WikiTimeScale
+5979. WikiYetu
+5980. Wikibook Ada Programming
+5981. Wikicat
+5982. Wikipedia on DVD
+5983. Wimba Moodle Integration
+5984. Windows Log on Background Changer
+5985. Wireless IP Simulator
+5986. Wireless Land Server for UML
+5987. Wireless Routing Simulation Suite
+5988. Wireless network visual tools for NS
+5989. WissenSchaf(f)t?
+5990. Wizard's Kid-Safe LiveCD
+5991. WnVis
+5992. Wo3 Hen3 Chan2
+5993. Women
+5994. Word Reference Java API
+5995. Word Search Solver (wss)
+5996. Word Tutor
+5997. WordByWord
+5998. WordPractice
+5999. WordSearch Creator
+6000. WordSegment
+6001. WordTest
+6002. Wordbank - save those words!
+6003. Wordcorr
+6004. Wordsearch Solver
+6005. Workflow-RH
+6006. Working Centre Linux Project
+6007. Worksheet Generator for LUeK
+6008. WorldSchool.org
+6009. WortMann
+6010. Wossname
+6011. WriteScanner
+6012. Wulf Lexicon
+6013. Wörterbuch kiswahili-deutsch.info
+6014. X-LC1 2.0
+6015. X-Pro-L
+6016. X-word
+6017. X509auth
+6018. XAlgo
+6019. XCalc mobile calculator and plotter
+6020. XCheck
+6021. XD Dictionary
+6022. XDL: eXtreme Distance Learning
+6023. XESCOLA
+6024. XML Acronym Demystifier
+6025. XML To User Interfaces (xml2ui)
+6026. WordTest
+6027. Wordbank - save those words!
+6028. Wordcorr
+6029. Wordsearch Solver
+6030. Workflow-RH
+6031. Working Centre Linux Project
+6032. Worksheet Generator for LUeK
+6033. WorldSchool.org
+6034. WortMann
+6035. Wossname
+6036. WriteScanner
+6037. Wulf Lexicon
+6038. Wörterbuch kiswahili-deutsch.info
+6039. X-LC1 2.0
+6040. X-Pro-L
+6041. X-word
+6042. X509auth
+6043. XAlgo
+6044. XCalc mobile calculator and plotter
+6045. XCheck
+6046. XD Dictionary
+6047. XDL: eXtreme Distance Learning
+6048. XESCOLA
+6049. XML Acronym Demystifier
+6050. XML To User Interfaces (xml2ui)
+6051. XML-Security Plug-In
+6052. XML-based expression evaluator
+6053. XMLForm (CocoonHive)
+6054. XNum integer arithmetic library
+6055. XPTA.lab
+6056. XRaySink
+6057. XRayTracer
+6058. XSF - XML Simulation Framework
+6059. XSL Playground
+6060. XSmartExerciseSystem
+6061. XToGen
+6062. XWinGreek - keyboard for Classical Greek
+6063. XamGraph
+6064. Xamnet
+6065. Xenei.Demitrius a knowledge base system
+6066. Xerxes Metasearch Application
+6067. Xical
+6068. XmgFit
+6069. Y3slist
+6070. YADIYTAF
+6071. YAMSS
+6072. YANDES
+6073. YANG J. (Yet Another Network Generator)
+6074. YASA - Yet another scheduling analyzer
+6075. YASP: Educational processor's IDE
+6076. YOPS
+6077. YSHS Game Dev
+6078. YaCC - Yet another COSI Clone
+6079. YaWPS
+6080. Yabman: Yet Another Bibliography Manager
+6081. YalaDict
+6082. Yanian calendar
+6083. YapBib
+6084. Yardstick - The Online Psychometric
+6085. Yatikiri - Elearning IMS-SCORM
+6086. Yet Another Conference Management System
+6087. Yet Another Kana Learning Game
+6088. Yet Another Library Management SYStem
+6089. Yet Another Perl Conference Manager
+6090. Yet Another Research Tool
+6091. Yggdrasill
+6092. YouMakeMusic
+6093. Your Agenda Online
+6094. Your realtime news online!
+6095. Yufind (VUfind Yale Branch)
+6096. Z2D Java
+6097. ZATreeX
+6098. ZLagos SDK
+6099. ZPDBook
+6100. ZSFile Manager
+6101. ZT Praktiketako Kalkuluak
+6102. ZUTT
+6103. ZZR-Chinese donation management system
+6104. Zabaan
+6105. Zaralinux
+6106. ZephIR
+6107. Zeta - zeta potential calculation tools
+6108. Zhang Hong's Freeware
+6109. ZhuaShuShell
+6110. ZoPark
+6111. Zope Open Archives Cataloguer
+6112. Zope-edu
+6113. a3at.project
+6114. aCME-groupware
+6115. aDORe Federation
+6116. aMS - advanced Modeling System
+6117. ab initio Computational Chemistry
+6118. abelujo
+6119. abib script
+6120. abop-ptbr
+6121. aboul dynamic dictionary/glossary
+6122. absences manager
+6123. academic web information system
+6124. acm.edu.pl
+6125. acoma
+6126. ZT Praktiketako Kalkuluak
+6127. ZUTT
+6128. ZZR-Chinese donation management system
+6129. Zabaan
+6130. Zaralinux
+6131. ZephIR
+6132. Zeta - zeta potential calculation tools
+6133. Zhang Hong's Freeware
+6134. ZhuaShuShell
+6135. ZoPark
+6136. Zope Open Archives Cataloguer
+6137. Zope-edu
+6138. a3at.project
+6139. aCME-groupware
+6140. aDORe Federation
+6141. aMS - advanced Modeling System
+6142. ab initio Computational Chemistry
+6143. abelujo
+6144. abib script
+6145. abop-ptbr
+6146. aboul dynamic dictionary/glossary
+6147. absences manager
+6148. academic web information system
+6149. acm.edu.pl
+6150. acoma
+6151. ZT Praktiketako Kalkuluak
+6152. ZUTT
+6153. ZZR-Chinese donation management system
+6154. Zabaan
+6155. Zaralinux
+6156. ZephIR
+6157. Zeta - zeta potential calculation tools
+6158. Zhang Hong's Freeware
+6159. ZhuaShuShell
+6160. ZoPark
+6161. Zope Open Archives Cataloguer
+6162. Zope-edu
+6163. a3at.project
+6164. aCME-groupware
+6165. aDORe Federation
+6166. aMS - advanced Modeling System
+6167. ab initio Computational Chemistry
+6168. abelujo
+6169. abib script
+6170. abop-ptbr
+6171. aboul dynamic dictionary/glossary
+6172. absences manager
+6173. academic web information system
+6174. acm.edu.pl
+6175. acoma
+6176. adaschevici
+6177. admailx
+6178. adnandict
+6179. aeternaICT Script Scheduler
+6180. aguacate
+6181. alf
+6182. algheme
+6183. algomusic
+6184. algorithm discussion tools
+6185. alliancemate
+6186. alterworld
+6187. aml
+6188. ampclib
+6189. amy_test_20060803p - Ëãň Ðťĳ
+6190. analytic geometry concepts
+6191. angua
+6192. anoj
+6193. anyRadix
+6194. apice
+6195. apis googlemaps
+6196. archibaldo
+6197. are2011
+6198. articles-reading-rules-utf
+6199. as2
+6200. asaptester
+6201. asdflkjasdfsdf
+6202. askcards
+6203. askybox
+6204. assassin-creed
+6205. assenze_digitali
+6206. atividades
+6207. ato
+6208. auTutor - to-learn environment
+6209. automobile
+6210. autoverkauf
+6211. aveX
+6212. awareNet
+6213. aztree library
+6214. bEngine
+6215. baba
+6216. baffle
+6217. balance and level up script
+6218. baybayin
+6219. bbCalc
+6220. bbperf
+6221. bedic
+6222. bekwaamheidsinventarisatie
+6223. belalang
+6224. belief-matching
+6225. bellmanzadeh fuzzy decision maker
+6226. asdflkjasdfsdf
+6227. askcards
+6228. askybox
+6229. assassin-creed
+6230. assenze_digitali
+6231. atividades
+6232. ato
+6233. auTutor - to-learn environment
+6234. automobile
+6235. autoverkauf
+6236. aveX
+6237. awareNet
+6238. aztree library
+6239. bEngine
+6240. baba
+6241. baffle
+6242. balance and level up script
+6243. baybayin
+6244. bbCalc
+6245. bbperf
+6246. bedic
+6247. bekwaamheidsinventarisatie
+6248. belalang
+6249. belief-matching
+6250. bellmanzadeh fuzzy decision maker
+6251. bfi (brainfuck interpreter)
+6252. bhagavad-gita
+6253. biblatex-dw
+6254. bibliomori
+6255. biblioteca php
+6256. bibnet.org - data management
+6257. bibo
+6258. bibsis
+6259. bildster
+6260. bitpack
+6261. bits-a-gogo (obsolete)
+6262. blackjackcs2511
+6263. blueCT
+6264. bmp24_io
+6265. bonesim
+6266. botMania
+6267. brainstamp
+6268. c4.5
+6269. c4psy
+6270. cRX - Regular Expression C library
+6271. cair
+6272. calculadoraSimple
+6273. calibre_nubes
+6274. carPooling
+6275. cartabon
+6276. caseGen
+6277. catqc
+6278. cazare web
+6279. cbe
+6280. cbgp-rpsl
+6281. ccQuiz
+6282. cde4php - Cross Database Engine for PHP
+6283. cemu
+6284. chandutexter
+6285. charpoly
+6286. checkip
+6287. chidiom
+6288. chinese learning geeks' corner
+6289. chinesefonts
+6290. chturu
+6291. cinematiKa
+6292. cinit - fast and intelligent init system
+6293. circuitsimulator
+6294. cl4ptp's admin files
+6295. classification system
+6296. clatos
+6297. cleffer
+6298. clipnotes
+6299. cocoa_mips_simulator
+6300. code2web
+6301. college management for web
+6302. colobo
+6303. common hardware recovery solutions
+6304. compe565_lab4
+6305. connectX
+6306. console net-checkers
+6307. copads
+6308. cosmos
+6309. course/control Reserves Mgmt. System
+6310. coursebuilder
+6311. coursor
+6312. cpp_ezlib
+6313. crashlog
+6314. crosslexic
+6315. crot
+6316. csjava package
+6317. csm artifact and exhibition management
+6318. cursus informaticabeheer via open source
+6319. d-collide
+6320. dLibra Digital Library Framework
+6321. daia
+6322. dawin
+6323. dbConnector
+6324. deal.II - PROJECT MOVED
+6325. debianebook
+6326. define
+6327. deiyako
+6328. delcom
+6329. deleted-project
+6330. demecoles
+6331. demo-Show
+6332. denadra
+6333. der-vyos-praktiker
+6334. dictonarium
+6335. didicero
+6336. dinOS
+6337. dirtylittleprotector
+6338. distance Education Application
+6339. docendo
+6340. dokume_chan
+6341. donations
+6342. dotBible - Bible Reader
+6343. dotuseful
+6344. dpss
+6345. drbl-hadoop
+6346. dsn web server
+6347. dualword
+6348. dualword-chem
+6349. dualword-wiki
+6350. duanM
+6351. dude
+6352. dummyftp
+6353. dutrain
+6354. dwos
+6355. dyslect
+6356. dzTemplates - Container pseudo templates
+6357. dzongkha-dictionaries
+6358. e-Collaboration for GPS/DGPS
+6359. e-Metis - ML
+6360. e-Rest
+6361. e-Salvation
+6362. e-Sinais
+6363. e-Texto
+6364. e-Video Store Front
+6365. e-aprendo
+6366. e-biblos
+6367. eBMS
+6368. eBPM
+6369. eCharacter
+6370. eExercise
+6371. eFlashcard
+6372. eLab
+6373. eLibrarian
+6374. eLum
+6375. eMandarina
+6376. eMarks Grading System
+6377. eMusicTutor - Music tutor
+6378. ePICE
+6379. ePodcast: Extending Podcast for Learning
+6380. ePortfolio
+6381. eREAD
+6382. eReviewBook
+6383. eSH - elektroniczny Spis Hufca
+6384. eSchoolManager
+6385. eSlackeros
+6386. eTVSM
+6387. eTeachingKit
+6388. eTesting tool UebManager
+6389. eUcoMap
+6390. eVille Community
+6391. eWave
+6392. eWorkbook
+6393. easy geometric multigrid
+6394. easyRefDB
+6395. ecademicus-webs
+6396. ecampus
+6397. ecberkeley
+6398. economizzer
+6399. edMan - Education Management System
+6400. edUTL
+6401. edidebit
+6402. edmund
+6403. eds-claroline
+6404. eduBase
+6405. eduMagnet
+6406. educatPortal
+6407. educatioXXI
+6408. education TPV
+6409. edulibre Os
+6410. eduplone
+6411. egotna, training needs analysis.
+6412. egzamSystem
+6413. eid
+6414. elateXam e-assessment
+6415. elcAdmin: Early Learning Center Software
+6416. electure
+6417. elementary_arithmetic_exercises
+6418. elibrary999
+6419. elinfo_parabolic
+6420. ellakberry
+6421. emacs-ringing
+6422. enCore Learning Environment Doc
+6423. enCore Open Source MOO Project
+6424. encuestas_pseint
+6425. endeavour
+6426. english schema gnuteca derived
+6427. eprog
+6428. epubPasHeaderReader
+6429. eq-diagr
+6430. equ-iitg formal equivalence checker
+6431. ergolang
+6432. es-ve
+6433. escom-henoc
+6434. escuelaPec3
+6435. espanes
+6436. esperantodl
+6437. etabeta
+6438. etis Town
+6439. eubirdb - birdwatching DB and software
+6440. eugen library
+6441. evaluation tools module for moodle
+6442. eval|ON
+6443. examenCarneB
+6444. explicanto
+6445. extemp
+6446. extractiso2709
+6447. eyeEdu
+6448. fLowRider
+6449. fPotencia
+6450. fUNSoftWare
+6451. fWIIne
+6452. fast powerful CALC
+6453. fb-graphics
+6454. fb2combiner
+6455. fetlar
+6456. fhnw-cpp
+6457. fhnw-tinL
+6458. file for secret of 8
+6459. file generator
+6460. file system collection
+6461. fillopaideia
+6462. fisica
+6463. fit7h student projects
+6464. fktorrent
+6465. flashcards (JFlash)
+6466. flashhouse
+6467. flcalc
+6468. flodotch - Flo, Domme, Thomas and Chris
+6469. fnord
+6470. foo
+6471. fordTalker
+6472. forensextract
+6473. formula
+6474. forvir
+6475. foss-concept
+6476. fossile-project
+6477. frCoder
+6478. fractal-r
+6479. fraction calculator
+6480. fredomSchool
+6481. free-uoc-school
+6482. freeVSaurus
+6483. freecalc
+6484. freechoice
+6485. freegis3d
+6486. freeportfolio
+6487. freesoftwaredisc
+6488. freeware
+6489. fritis
+6490. frt2
+6491. ftBot
+6492. funkGen
+6493. furyfighterGroup3
+6494. fzjs
+6495. gController
+6496. gMemorize
+6497. gMol
+6498. gNaXEL Graphical XML Editor
+6499. gPinyin
+6500. gRadiant
+6501. gSchool
+6502. gVocable
+6503. gWords
+6504. gadict
+6505. gaga
+6506. gallery
+6507. gamercard-lib
+6508. gatt(Math) - Integral and Diff Calculus
+6509. gaud
+6510. gbookreader
+6511. gcasl
+6512. generictionary
+6513. genijatorics
+6514. gensched
+6515. gestalumno
+6516. gestorXML
+6517. get-public-ip.jar
+6518. getAbsPath
+6519. gfarceGestionFac
+6520. ghaggis
+6521. giaothong
+6522. giavamachia
+6523. gibii
+6524. giris
+6525. glearnkana
+6526. glose
+6527. glossary
+6528. gmandel
+6529. gmcalc
+6530. gnplib
+6531. gnuniversity
+6532. goBlindfold
+6533. gost
+6534. gotu
+6535. gplBuch
+6536. gquiz
+6537. gr-clicker
+6538. graminho
+6539. graph-utils
+6540. graphTheoryInC
+6541. graphplot
+6542. greenman simple kids platform game
+6543. grid draw
+6544. groovingUniversity
+6545. groupSuivi
+6546. gsl-pt_BR
+6547. gtkparticle
+6548. gtkvoc - learn vocabulary easier -
+6549. guglinatts-en
+6550. guglinatts-it
+6551. guozi
+6552. gydpdict
+6553. hAvOc - examination system
+6554. hadish persian dictionary
+6555. handin
+6556. hansa
+6557. harran
+6558. hdate applet
+6559. heissluftballonbauanleitung
+6560. heliantus
+6561. helloworld
+6562. hola mundo
+6563. hostingstar
+6564. hspell-gui
+6565. hvs attendance
+6566. hws: Homework Scheduler
+6567. hydrosim
+6568. i-bear personal library
+6569. i-suite
+6570. i189facturacion2015
+6571. iCamp Codebase
+6572. iDeaf
+6573. iES
+6574. iExam - the enterprise i-net based exam
+6575. iFlow
+6576. iGHM
+6577. iGNUit
+6578. iMolecule - Flex4 Molfile viewer
+6579. iPAQ-CF-Traces
+6580. iPaMS
+6581. iPaMS database
+6582. iScholar Courseware
+6583. iSearch
+6584. iSpheres
+6585. iStudy
+6586. iTALC - OpenSource classroom management
+6587. iText Tutorials
+6588. iTruE
+6589. iVerbs
+6590. ibus-table-sawndip
+6591. ideal
+6592. ideasBank
+6593. identikFOS
+6594. igloo opensource
+6595. ikhebtools
+6596. ilearnedit eLearning
+6597. ilios 2 curriculum management system
+6598. im-classicalgreek
+6599. incrementalsvm
+6600. indexcard
+6601. iGHM
+6602. iGNUit
+6603. iMolecule - Flex4 Molfile viewer
+6604. iPAQ-CF-Traces
+6605. iPaMS
+6606. iPaMS database
+6607. iScholar Courseware
+6608. iSearch
+6609. iSpheres
+6610. iStudy
+6611. iTALC - OpenSource classroom management
+6612. iText Tutorials
+6613. iTruE
+6614. iVerbs
+6615. ibus-table-sawndip
+6616. ideal
+6617. ideasBank
+6618. identikFOS
+6619. igloo opensource
+6620. ikhebtools
+6621. ilearnedit eLearning
+6622. ilios 2 curriculum management system
+6623. im-classicalgreek
+6624. incrementalsvm
+6625. indexcard
+6626. indo-sanna
+6627. inglespadi
+6628. inicrond
+6629. injuslin
+6630. inmundo
+6631. interpreader-core
+6632. intime: interactive school timetabling
+6633. intron marker pipeline
+6634. ionbibtex
+6635. ip calculation and alias file creation
+6636. iqss scholar
+6637. irLessons
+6638. ircxom - IRC to blosxom gateway
+6639. is0607
+6640. is3272010news
+6641. isbntools
+6642. itermd
+6643. itpy
+6644. itranscripts
+6645. itsaquizzer
+6646. ivata groupware
+6647. ivl
+6648. ixtlanhx
+6649. j-PGN
+6650. jApig
+6651. jCards
+6652. jCompoundMapper
+6653. jDesktopDict
+6654. jEDI CS
+6655. jFunction
+6656. jGABL
+6657. jLMS
+6658. jLab (ex SciCalc)
+6659. jLibris eBook Reader
+6660. jMM
+6661. jMarkovChains
+6662. jMars Core Wars
+6663. jOpt
+6664. jOptimum
+6665. jRSVP
+6666. jSimDOP
+6667. jStockShares
+6668. jSulfoQuant
+6669. jUDO (Universal Data Objects)
+6670. jVC426
+6671. jVocTester
+6672. jVocabTrainer
+6673. jVortaro
+6674. jWic Framework
+6675. jYaSS : j Yet another Sorting Simulator
+6676. jackGuitar
+6677. jaf_Utils
+6678. jake
+6679. japadict
+6680. japolate
+6681. java Clock (français francais anglais)
+6682. java JAI image processing for medical
+6683. java data structures
+6684. java me
+6685. java quickShort
+6686. java-turing-emulator
+6687. java2web
+6688. javacrim
+6689. javadict
+6690. javafx in action
+6691. javanese
+6692. javascript-algorithms
+6693. javatest
+6694. javavis
+6695. jawel
+6696. jbooks
+6697. jboozer
+6698. jbovlaste
+6699. jct
+6700. jforc
+6701. jmathstudio - Java Image/Signal toolkit
+6702. jncl
+6703. joomORI-OAI
+6704. joomlabasque
+6705. jooswcompiler
+6706. jrig
+6707. js functional and unit testing framework
+6708. jsConcise
+6709. jsdbp
+6710. jtrivia
+6711. jvncswitcher
+6712. jvoc
+6713. jxCalc
+6714. jz3950
+6715. k5nBookReader
+6716. kBrain
+6717. kCalc
+6718. kDicts
+6719. kFlash Vocabulary Training
+6720. kRSVP
+6721. kadiya
+6722. kalkulus
+6723. kbt home
+6724. kentrikithermansi
+6725. keyvil
+6726. kids-d
+6727. kidsudoku
+6728. kidsuse
+6729. kidtimer
+6730. kidware
+6731. kikix
+6732. kimchi
+6733. kmelo
+6734. knowlp - the linux knowledge pool
+6735. koala IDE for kids
+6736. koha aloha
+6737. kohavb
+6738. kojack
+6739. kpopflash
+6740. kramer
+6741. krinein-engine
+6742. kuzya
+6743. kvocabs
+6744. kvoctrain
+6745. language learning aid
+6746. latex-answerz
+6747. latexworks
+6748. learningtool
+6749. learnwords
+6750. lernit
+6751. lexhoard_php
+6752. libAS
+6753. libNT - The Number Theory Library
+6754. libRV
+6755. libai
+6756. libbisphid
+6757. libdjvu - DjVu Viewer for Hanlin V3
+6758. libfrm
+6759. libglue
+6760. libkanji
+6761. library collection
+6762. librido
+6763. libroid
+6764. libscansion
+6765. libshell
+6766. libznz with zindex
+6767. linCWT
+6768. linguisto_de_uk
+6769. linux terminal sniffer
+6770. linux-schulserver
+6771. linuxconfig.org
+6772. linuxdistrosedu
+6773. linuxdoc.org
+6774. littera
+6775. ljorena
+6776. lmsToolkit
+6777. logicstudios testing system
+6778. loginote Login-Monitor
+6779. lograte
+6780. look4bus
+6781. loterialin
+6782. lptbits
+6783. lrkpg
+6784. lsfit - least squares fitting
+6785. lsperf
+6786. ltspconfig
+6787. lucene-tutor
+6788. lulu
+6789. lunuo
+6790. m-table
+6791. m23translator
+6792. mCash
+6793. maes3
+6794. magicstuff
+6795. makingMazes
+6796. manetconfig
+6797. manote music audible notation and reader
+6798. mantisrobot
+6799. map2owl
+6800. marie
+6801. marmllvoc
+6802. matesLliure
+6803. math assistant for physically challenged
+6804. math worksheet
+6805. math4engineers
+6806. mathematical graphical pythonical thing
+6807. mathmo
+6808. mathrefplugin
+6809. matux14
+6810. mc12 developing kit
+6811. mc326g16
+6812. mcalx
+6813. mcuStudio
+6814. mdm - the metadata manager
+6815. measj
+6816. mecatutor. Yast another typing tutor
+6817. mecloud
+6818. mediatum
+6819. mediawiki-agora
+6820. medication and treatment management
+6821. meditute
+6822. member card slims
+6823. mentat
+6824. mera-interns-2011
+6825. miguel e-learning
+6826. millosh's workshop
+6827. milo_ive_fyp
+6828. mim
+6829. mim06
+6830. mindway
+6831. miniBachelor
+6832. miniPublisher
+6833. minotereg
+6834. mkprimer
+6835. mmcompet
+6836. mmws
+6837. mnemo - a memory accellerator
+6838. mnimoniko
+6839. mobilecms
+6840. moche
+6841. mokik
+6842. molee
+6843. monox
+6844. moocart
+6845. mouseglove
+6846. mpcs
+6847. msgnet
+6848. msvlib
+6849. multimeida network learning system
+6850. multipractice
+6851. mvMotionAI: Steering library
+6852. myBeasties - An Object Ecosystem
+6853. myBiker
+6854. myICS
+6855. mySvnProject
+6856. myfilter
+6857. myfreeapps
+6858. mylibrary_manager
+6859. n-code
+6860. nCkptSimulator
+6861. nSys
+6862. nWeb
+6863. namespace ewalena
+6864. nanoTuring
+6865. nardino1513
+6866. nazzo
+6867. netmate
+6868. neume music notation
+6869. neuron
+6870. nfa2dfa
+6871. ngann
+6872. ninw
+6873. nio
+6874. nlkt
+6875. nopf
+6876. noteclef
+6877. notenmanager
+6878. novichok
+6879. nrEngine
+6880. ntaftawt
+6881. numerales
+6882. nxfanctl
+6883. o-cit
+6884. oBiblioOPAC for Joomla!
+6885. oWOT
+6886. objcalc
+6887. obook
+6888. ocamldocru
+6889. ocscripts
+6890. oddioToolz
+6891. olev
+6892. olsr-frsa
+6893. onlinetutoronline
+6894. ontea
+6895. ontologyjam
+6896. open-sTeam
+6897. open-tamil
+6898. openArktur
+6899. openBIB
+6900. openIGOR
+6901. openISI : topical data integration
+6902. openLMS
+6903. openLOL
+6904. openLearn
+6905. openMLX: MLX Learning eXchange
+6906. openPECS
+6907. openSMS4
+6908. openSmartBoard
+6909. opencme
+6910. opensniffer
+6911. opensurveypilot
+6912. optimize_topics.sh
+6913. orgPdf
+6914. os4edu
+6915. osLearn
+6916. osSchool
+6917. oso32
+6918. osquest5
+6919. ostpk2051
+6920. oszur13
+6921. owl - open source dictionaries
+6922. pMeasure
+6923. packalo
+6924. palabra
+6925. palmVoc
+6926. panFMP
+6927. parabola
+6928. paraplotter
+6929. parashell2
+6930. partgen
+6931. pastelog
+6932. pdfbib
+6933. perahuru
+6934. periodical
+6935. persistent-memory-labs
+6936. pfc-prolix
+6937. pfc2ide
+6938. phoenix
+6939. php Question Bank
+6940. php electronic library
+6941. php library system
+6942. php4cli
+6943. phpAlumnus
+6944. phpAudit
+6945. phpBooks
+6946. phpCampaignTools
+6947. phpClassroom
+6948. phpCollegeExchange
+6949. phpComBi - Social Recommending Library S
+6950. phpDaia
+6951. phpGroups
+6952. phpLESSON
+6953. phpMat
+6954. phpMyAnime
+6955. phpMyChord
+6956. phpMyLingvo
+6957. phpMyTutorial
+6958. phpOJ
+6959. phpPolls-extras Goodie Pack
+6960. phpQCM
+6961. phpSchoolAdmin
+6962. phpSchoolWare
+6963. phpSnowflake
+6964. phpTeX
+6965. phpTest
+6966. phpWordTrain
+6967. phpgenerate
+6968. phplibrary
+6969. phpmce
+6970. phpmonportfolio
+6971. phpmygrades - an online grading book
+6972. phpsteak
+6973. phputil
+6974. phrasebooks
+6975. phxEventManager
+6976. phxUseTrack
+6977. picMicroView
+6978. pinky-bar
+6979. pissenlit
+6980. pitacard
+6981. plot
+6982. plugin
+6983. pointcarre
+6984. poludnitsa
+6985. polyeder
+6986. poor-mans-wearable-computer
+6987. popZ
+6988. portatux
+6989. powermem: powerful memorization aid
+6990. powerpointflip
+6991. praktikum2
+6992. private financial record
+6993. proREO
+6994. project2you
+6995. protFiler (Protocol Profiler)
+6996. provoke.
+6997. proyecto HeLADo
+6998. proyectoEMF2010
+6999. pruebasayens
+7000. pruefprot
+7001. psychologist software
+7002. ptadb
+7003. pthread usage
+7004. ptmem
+7005. ptrainer
+7006. pushpa
+7007. pyCatalog
+7008. pyELib
+7009. pyGrabber
+7010. pyIMC
+7011. pyKRESZ
+7012. pyKanjiDict
+7013. pyKarel
+7014. pyLabra
+7015. pyRREF
+7016. pySNAT
+7017. pyckett
+7018. pydocumentary
+7019. pyedusound
+7020. pyg
+7021. pyjdict
+7022. pymathquiz
+7023. pyroborace
+7024. pyschool
+7025. pysozluk-qt
+7026. pytando
+7027. python matrix
+7028. qElemental
+7029. qPoZe
+7030. qTangram
+7031. qaaf
+7032. qbookseer
+7033. qinoa
+7034. qlfs-upgrade (Quick-LFS-Upgrade)
+7035. qmail online installation menu
+7036. qontexte
+7037. qtKiwi
+7038. qti library
+7039. quiz and test with XML
+7040. quizmo
+7041. rainyCloud
+7042. readenglish
+7043. readng - every book, readable
+7044. realFriends
+7045. recommendationLayer
+7046. refuse
+7047. regex_demon
+7048. regexfuzzeng
+7049. regexviewer
+7050. registry of students
+7051. reglisse
+7052. relaxmapper
+7053. remote medical examination program set
+7054. restaurante
+7055. restoresettings
+7056. rev2txt
+7057. revet
+7058. rezitest
+7059. rikaichan
+7060. riusinet
+7061. rjudge Judge System
+7062. rmlprueba1
+7063. rochePlot
+7064. roses
+7065. routerapp
+7066. routercli
+7067. ru-wiki
+7068. ruleViz
+7069. ruls-test
+7070. sLML
+7071. sanddancer
+7072. scan4dots
+7073. schola4
+7074. school planner
+7075. school scheduler
+7076. schoolFactory
+7077. schoolNexus
+7078. school_scheduler_see
+7079. schoolbase
+7080. schoolpoll
+7081. schoolware
+7082. sciSoccer
+7083. scopett - Screenshot Updater
+7084. scorus_web
+7085. scpfw
+7086. sdge
+7087. seiji Japanese/Multi-lingual dictionary
+7088. sendmespamids
+7089. sequane
+7090. shFSO
+7091. shabalinux
+7092. shantiniketan
+7093. sharebox
+7094. shareboxproject
+7095. sharpee
+7096. shivyog
+7097. shorttalk
+7098. sibylle
+7099. simEcaes
+7100. simple digital object
+7101. simple-galib
+7102. simplescalar 3.0 corregido
+7103. simplexsolver
+7104. simplexwindow
+7105. simpliZia
+7106. sinonimi - thesaurus
+7107. siptester
+7108. siswatama
+7109. site Imovel
+7110. sitecria
+7111. sjea
+7112. skabacca
+7113. skrol 1.0 //scroll bar for flash
+7114. skydome/auch
+7115. slabs
+7116. slowarj
+7117. smILLe
+7118. smct tests server for teachers
+7119. smiBB
+7120. snlanalytic
+7121. social academic virtual network
+7122. socker - framework for simulated robocup
+7123. soda:API
+7124. sokogasy
+7125. solfedjina
+7126. somLoad
+7127. sozluq
+7128. span
+7129. sparqltoxquery
+7130. spclib
+7131. speedernet
+7132. spelllisten
+7133. spillkescht.lu
+7134. spprotect2
+7135. spule
+7136. square footage calculator
+7137. stance
+7138. statJ
+7139. stdnet
+7140. stegaleniker
+7141. stockroach
+7142. stocleka
+7143. stored-program computer
+7144. stripes-test
+7145. student2student
+7146. suiviSIO2
+7147. supercalculator
+7148. surf-meezaan
+7149. svmradiusmargin
+7150. svoktrainer
+7151. swdev-software-consulting
+7152. swingec
+7153. syBR Engine
+7154. symposia
+7155. syscall clone based threads for CC++
+7156. szspace
+7157. t-forma
+7158. t2t-pipe
+7159. tBots
+7160. tCalc
+7161. tLISP Environment
+7162. tabshelf
+7163. tabuada
+7164. talp(mat)
+7165. tcc
+7166. tckpos
+7167. teachers organizer
+7168. techkatha
+7169. tenta
+7170. termOS
+7171. terminalmath
+7172. test brondsem 0/0/0
+7173. test for situation assessment
+7174. test987654321
+7175. test_chess
+7176. textCard
+7177. thabit
+7178. the english garden
+7179. the menu-drived linux toy box
+7180. the travelling salesman
+7181. theSIS
+7182. threepio
+7183. ti-skript
+7184. tianyalvs
+7185. ticuna
+7186. timcode
+7187. timeline
+7188. timer review
+7189. tinbox
+7190. tkCybernetics
+7191. tmtest
+7192. tobiplc
+7193. tpso
+7194. trab-energia
+7195. tracearp
+7196. trainingzone - lifelong training campus
+7197. traj
+7198. trauma-registry
+7199. trazzosframework
+7200. treebolic-wordnet
+7201. tsbc-Library
+7202. tsbm
+7203. ttyping
+7204. tunedrill
+7205. turboelf
+7206. twexter
+7207. txt.file99bottles
+7208. txtkit
+7209. ty42zulu - Multilingual Dictionary
+7210. typeX-press
+7211. uEFL
+7212. uFuncs
+7213. u_jcorb_sl-sf
+7214. udprog-poncizel (Qt example) Hungarian
+7215. umdcsteamblackjack
+7216. umova
+7217. uni-cockpit
+7218. unstructured P2P simulation platform
+7219. user data input menu
+7220. utype
+7221. vEUniMass
+7222. vdevice
+7223. verbtrainer
+7224. vidra
+7225. vietnam
+7226. virtual machinery laboratory
+7227. virtual800
+7228. visualbasic-shellscript
+7229. vlab
+7230. vlukublukd
+7231. vlum
+7232. voc-get
+7233. vocabulary master
+7234. voctray
+7235. vrg3d
+7236. vrspace
+7237. vyasa
+7238. wadhwatech
+7239. wafimpa
+7240. wallis
+7241. wapscalculator
+7242. wave particle duality
+7243. waveAlicious
+7244. web based electronic laboratory
+7245. web2LO
+7246. webFileCenter
+7247. webimensu
+7248. webliotheca
+7249. webstretch
+7250. webxicon
+7251. wgrapher
+7252. wiccoder
+7253. wide area frequency measurement system
+7254. wiigee
+7255. windEPAF
+7256. wiwuka
+7257. woobee system
+7258. wordcircle
+7259. wordcombat
+7260. wtestgen
+7261. wtinstall
+7262. www.travelsearchengine.org
+7263. wxArithmetic
+7264. wxDict
+7265. xMpNT
+7266. xabacus
+7267. xbook
+7268. xduffy 's projects collection
+7269. xeometry
+7270. xfolio
+7271. xlml
+7272. xmiddle
+7273. xml interface
+7274. xml practice test
+7275. xml2owl
+7276. xo quiz
+7277. xoltiple
+7278. xsd4forms
+7279. yades
+7280. yakas
+7281. yanftl
+7282. yugiohjcj-electronics
+7283. yxblibs
+7284. z-n1
+7285. zGradeBook
+7286. zams
+7287. zigzag
+7288. zmkk
+7289. zr - zeitreise - time travel
+7290. {AlgorithmA}; 2010
+7291. ¡Aprender español!
+7292. ÄG cling - kursmaterial
+7293. Ĉapelisto
+7294. ērudītor vocabulary trainer
+7295. Ελληνική γλώσσα e107 CMS
+7296. Абсолютный слух
+7297. Гэгээ - Монгол бичиг
+7298. Крок-1
+7299. Редактор схем ЕСПД
+7300. Семафор
+7301. ‌BloxorzSolver
+7302. 
+7303. BadgeEntry
+7304. C/C++ Program Perfometer
+7305. CLQ - Command Line Quaternions
+7306. Hand Geometry Recognition Matlab Code
+7307. Mazen Maze Creator
+7308. Now Website@School
+7309. SigLab
+7310. Tickle Dictionary
+7311. acl_cpp
+7312. phpAlumni
+7313. BanglaLinux
+7314. Digital Scribe - Put Student Work Online
+7315. Electronic Laboratory Notebook
+7316. Object Graph Visualizer
+7317. Simple Quiz
+7318. ZWDisplay
+7319. WebConference Plugin for Moodle
+7320. JGloss
+7321. Prolog+CG
+7322. QuizProvaS
+7323. phpCodeGenie
+7324. java scientific calculator
+7325. php exam management
+7326. jdictionary
+7327. E-Certificate
+7328. OpenAxiom: Scientific Computation System
+7329. Checksum Checker
+7330. Easy Exam
+7331. UMHDL

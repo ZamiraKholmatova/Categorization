@@ -1,0 +1,19 @@
+1. PDF Studio
+2. Pixiko
+3. GIMP
+4. Kapwing
+5. Shotcut
+6. BricsCAD
+7. Moovly
+8. AstroPrint
+9. PosterMyWall
+10. MakePrintable
+11. OpenShot Video Editor
+12. Ultimaker Cura
+13. Repetier-Host
+14. ideaMaker
+15. Gratavid
+16. Ultimaker Connect
+17. Inventor Nastran
+18. Bingo-as-a-Service
+19. SelfCAD

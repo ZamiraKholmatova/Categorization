@@ -1,0 +1,4010 @@
+1. Apache OpenOffice
+2. Notepad++ Plugin Manager (old repo)
+3. Code::Blocks
+4. Dev-C++
+5. Notepad++ Plugins
+6. Unikey Vietnamese Input Method
+7. SAKURA Editor
+8. Lazarus
+9. Apache OpenOffice Templates
+10. Notepad++
+11. Scribus
+12. Atom
+13. TeXworks
+14. Laragon
+15. Notepad++ Compare plugin
+16. KDiff3
+17. DocBook
+18. Brackets
+19. OOO Extras
+20. DrJava
+21. jEdit Plugin Central
+22. SharpDevelop
+23. PyScripter
+24. CudaText
+25. OmegaT - multiplatform CAT tool
+26. JavaVi - vi/vim editor clone
+27. jEdit
+28. OS X Portable Applications
+29. Subtitle Workshop
+30. AkelPad
+31. Notepad++ Python Script
+32. PDFedit
+33. XML Copy Editor
+34. wxWidgets Dialog Designer
+35. ZinjaI
+36. Bowtie
+37. EJE (Everyone's Java Editor)
+38. PyDev for Eclipse
+39. AnalysePlugin
+40. Swiss File Knife
+41. HexEdit
+42. Midnight Commander for Windows
+43. AsciiDoc - text based documentation
+44. Neovim
+45. Docutils: Documentation Utilities
+46. Hunspell
+47. JOE - Joe's own editor
+48. Code::Blocks IDE
+49. RODIN
+50. AutoCodepage
+51. Falcon C++
+52. NppFTP
+53. Haskell support for Eclipse
+54. Emerald Editor
+55. SourceCookifier: Plugin for Notepad++
+56. OpenXML/ODF Translator Add-in for Office
+57. XMLStarlet command line XML toolkit
+58. IdleX - IDLE Extensions for Python
+59. Arabic Keyboard
+60. TeXstudio - A LaTeX Editor
+61. Diffuse
+62. Kile LaTeX Editor
+63. wikidPad
+64. Notes
+65. Aptana
+66. Encryptic
+67. Bluefish
+68. LuaEdit
+69. HM NIS Edit
+70. jPDF Tweak
+71. CodeLite
+72. Standard Notes
+73. Virastyar
+74. MadEdit
+75. emacs-w64
+76. FAR - Find And Replace
+77. biber
+78. FBIde
+79. SynWrite
+80. Bricx Command Center
+81. reCsvEditor
+82. EditBox
+83. A set of linguistics tools
+84. Scintilla
+85. Pascal XE
+86. Tinn-R
+87. ConcatPDF
+88. The LaTeX Beamer Class
+89. pdftohtml
+90. FART
+91. CoGrOO: Open|LibreOffice Grammar Checker
+92. Vim documentation Chinese version
+93. File Splitter
+94. SynWrite add-ons
+95. Pootle, Virtaal & Translate Toolkit
+96. XML Tree Editor
+97. AutoEolFormat
+98. NppCalc
+99. Hexplorer
+100. Ayaspell project
+101. OxygenOffice Professional - Office Suite
+102. KeyNote NF (New Features)
+103. WordPerfect Document importer
+104. meld-installer
+105. sCoreForge Pathfinder Character Creator
+106. ZPLDesigner
+107. Etherpad
+108. CustomLineNumbers
+109. TagsView
+110. Vim-Latex
+111. wxMEdit
+112. QXmlEdit
+113. Imaginary Teleprompter
+114. GNU nano
+115. oStorybook
+116. Msc-generator
+117. The Guide
+118. Nextcloud Text
+119. Boa Constructor - wxPython GUI Builder
+120. iText®, a JAVA PDF library
+121. Steganos LockNote
+122. RecordEditor
+123. PDFBox
+124. PkPdfConverter
+125. SynEdit
+126. TeXsword
+127. SET's Editor, a friendly text editor
+128. Clearcase plugin for Eclipse
+129. GEDCOM Lexer Plugin for Notepad++
+130. ExtSettings
+131. Anaphraseus
+132. Cream (for Vim)
+133. Whole Platform
+134. Singlish :An Easy way to type Sinhala
+135. Java Decompiler
+136. Notepad3
+137. iMath
+138. pgfplots
+139. biblatex
+140. mooedit
+141. EasyEclipse:Eclipse IDE distros, plugins
+142. Python API documentation generation tool
+143. ReST Editor
+144. PHPeclipse - PHP Eclipse-Plugin
+145. Wikiwig
+146. PDF Clown
+147. Visual Studio Code Portable
+148. AraWord
+149. Poedit
+150. Colorer Library
+151. Kazam
+152. chmProcessor: Word/HTML to CHM converter
+153. Writer2LaTeX
+154. Canorus
+155. DITA Open Toolkit
+156. Vim source code browser plugin
+157. ChemFormatter
+158. TouchPad Handwriting
+159. QuickText
+160. Eclipse Che
+161. Kitematic
+162. Page2Stage
+163. Dev-PHP IDE
+164. LaTeX in Word
+165. SILGraphite: rendering non-roman scripts
+166. Atom Portable
+167. wxLua
+168. CBFortran
+169. Open XML to DAISY XML Translator
+170. Notepad++ Portable Edition
+171. Notepad++ Explorer Plugin
+172. GloboNote
+173. CSV Quick Viewer
+174. Calc2LaTeX
+175. Binary(doc,xls,ppt) to OpenXMLTranslator
+176. OOoFBTools
+177. AdaGIDE
+178. GATE
+179. Portable Apps For Dummies
+180. Microsoft Works format import library
+181. AbiWord
+182. S2 Recovery Tools for Microsoft Word
+183. LSL Editor Community Edition
+184. omegat-plugins
+185. Savvy DOCX Recovery
+186. RSyntaxTextArea
+187. yunus and my other projects
+188. JSesh
+189. WoaS - Wiki on a Stick
+190. Simple Text Splitter
+191. wxDev-C++ Portable
+192. EPIC - Eclipse Perl Integration
+193. Eclipse Verilog editor
+194. Madedit-Mod
+195. notepad++ plugin php script engine
+196. docx2txt
+197. Visual Tcl
+198. ATPad
+199. Subtitle-Workshop-Classic-v6.0e
+200. Portable GVim
+201. RIDE
+202. NppToR: R in Notepad++
+203. Brackets Portable
+204. Pawn Studio
+205. HandyOutliner for DjVu / PDF
+206. Docear
+207. Open Perl IDE
+208. HelpMaker Help Authoring Tool
+209. Vrapper
+210. REM - A NetBeans Module for ZK
+211. LaTeX Equation Editor for Windows
+212. C to C++ converter
+213. Typeit! Malayalam Editor
+214. CatMDEdit - metadata editor
+215. MindTouch (frmly deki wiki)
+216. SonicReader
+217. JAutodoc
+218. LMG2Shruti
+219. Rinzo XML Editor
+220. JOrtho - Java Orthography Checker
+221. XmlValidator
+222. zNotes
+223. Phần mềm Dịch tiếng Anh
+224. TeXlipse
+225. Keynote
+226. CONVERTCP
+227. Ghawwas_V4
+228. bitext2tmx CAT bitext aligner/converter
+229. Text To Screen
+230. PlantUML QEditor
+231. TextUtils
+232. notepas
+233. Jericho HTML Parser
+234. VisualMathEditor
+235. Plume Creator
+236. Leo: a programmer's editor & more
+237. dvipng: A DVI-to-PNG converter
+238. Notepad++ console plugin
+239. NSBase
+240. PTools
+241. WordTsar
+242. Tradução BR Skyrim Special Edition
+243. Jaxe
+244. FMPP - FreeMarker-based PreProcessor
+245. Corrupt DOCX Salvager
+246. Stani's Python Editor
+247. TMX editor
+248. Portable Celtx
+249. Qt Creator Cppcheck integration plugin
+250. JODReports
+251. External Compare - Eclipse Plugin
+252. Hebrew LaTeX
+253. Treebeard
+254. The GNU Ada compiler
+255. Text Hex Convert v2.1.1
+256. OmegaT+ CAT Tools
+257. More Clipboard for Eclipse
+258. Jext
+259. Word list (hungarian)
+260. Grief
+261. nuBASIC
+262. ADAPRO
+263. latex-mk
+264. ActiveGrid
+265. JuffEd
+266. JSource - A Light Java IDE
+267. My Simple LogBook
+268. Notepad++ Autocompletion for Python
+269. Jalopy Java Source Code Formatter
+270. OpenOffice.org Export As DAISY
+271. FreeDOS Edlin
+272. Emacs for w64
+273. omegat-google-translate-without-api-key
+274. Encrypted Notepad
+275. Tradução BR Dragon Age Origins
+276. cpDetector
+277. pdftk4all
+278. .NET RTF Writer Library in C#
+279. Hayagreeva Indic Text Editor
+280. XSDEditor
+281. <HTML> Editor
+282. Dafizilla Extensions Factory
+283. Eclipse Shaders
+284. Bulgarian language support
+285. ONLYOFFICE Desktop Editors
+286. CEDET
+287. TundraDraw
+288. Ruby Development Tool
+289. X10
+290. VHDL Notepad++ Plugin
+291. Marathi / Hindi Typing
+292. XL-Tools
+293. VBDOX
+294. Fast Math Formula Editor for MS Word
+295. Notepad++ Verilog Plugin
+296. MaxIDE - BlitzMax IDE
+297. NppGTags
+298. Visual-MinGW
+299. Image to Ascii Art
+300. Text to Binary Converter
+301. Diff shell extension
+302. MindRaider
+303. Text Encoding Initiative
+304. AutoText
+305. Flat File Extractor
+306. OmegaT Scripts
+307. Track changes in LaTeX
+308. EasyStruts
+309. Eclipse Hex Editor Plugin
+310. RText
+311. OOoLilyPond
+312. Portable Lyx 2.0
+313. Pages Converter
+314. Wangdera Tools and Utilities
+315. Simple Hex Viewer
+316. myScite
+317. Regular Expression Editor (RegExpEditor)
+318. Eclipse CORBA Plugin
+319. Eclipse Version Tree Plugin
+320. IniTranslator
+321. SEGTeX
+322. Web Book Downloader
+323. XML differencing and patching tools
+324. syn Text Editor
+325. Requirement Heap
+326. VietPad
+327. Win32Forth
+328. DEP4E
+329. htmlarea
+330. odt2braille
+331. CodePress
+332. polish dictionary for ispell
+333. JWordProcessor - Java RTF Editor
+334. EpiDoc: Epigraphic Documents in TEI XML
+335. XSLT syntax highlighting
+336. The tIDE java IDE
+337. G Code Editor and Serial Downloader
+338. Greek Polytonic Spelling Checker
+339. JDiff - HTML report of API differences
+340. doxymacs
+341. eTktab
+342. Early Access iText
+343. LibreGrammar (LanguageTool fork)
+344. OpenEditor
+345. Uosk
+346. Velocity editor plugin for Eclipse
+347. Eclipse MOD Editor
+348. PHP Code Snippet Library
+349. Green
+350. GeanyHighlightSelectedWord
+351. TRANSIMS Studio
+352. abnTeX
+353. OOoLatex
+354. XPontus XML Editor
+355. 64bit compiles
+356. Class Locator for classpath building
+357. Notepad X
+358. eclim (eclipse + vim)
+359. OpenOffice filter to Microsoft Word XML
+360. SHEF
+361. External diff Tool (Eclipse Plugin)
+362. PyPE (Python Programmers Editor)
+363. Libxml2 for pascal
+364. CC Mode
+365. Polish Thesaurus
+366. Transcription Aid
+367. txt2html - plain text to HTML converter
+368. BVRDE
+369. I2C EEPROM Programmer
+370. TeXpen
+371. ThManager
+372. Caditor
+373. Glossword
+374. RTextDoc
+375. The Songs Package (for LaTeX)
+376. camomile
+377. rospell
+378. Camelia
+379. Russian Vim
+380. Sinhala Writer
+381. Symja Java CAS
+382. DICOM Image Reader
+383. bowpad
+384. gemini-editor
+385. Chuletas / Cribr
+386. VoiceCode Programming by Voice Toolbox
+387. HediT
+388. NFO Maker
+389. TAS Movie Editor
+390. Xtrans
+391. AbiWord for Thumb Drives
+392. ViATc
+393. WYSIWYG .NET
+394. ASN.1 Editor Plugin for Eclipse
+395. Cpp-Markdown
+396. JEditor
+397. Jazzy - Java Spell Check API
+398. tkoutline
+399. nppSaveAsAdmin
+400. Lua Editor
+401. MinEd Text Editor
+402. Gideros Mobile
+403. PyRTF
+404. RadRails
+405. XSL-FO Wysiwyg MiniScribus
+406. xerlin
+407. Piccolo XML Parser for Java
+408. Flamebird MX BennuGD IDE
+409. Code Browser - Folding Text Editor
+410. Notepad Enhanced
+411. UniRed
+412. Visual IRC
+413. jPod intarsys PDF library
+414. EclipseNSIS
+415. Charset detector
+416. MediaWiki to LaTeX
+417. PabloDraw
+418. The Black Toolkit
+419. Pinyin to IPA Conversion Tools
+420. Flex Formatter
+421. MangaED
+422. Regex Util
+423. TextWedge Text File Splitter
+424. odtPHP
+425. ArmedBear / J
+426. Keyfile editor for Falcon BMS
+427. Practically Macro
+428. .Net Scripting Control
+429. Scanlationshop
+430. asmplugin
+431. Text Editor for Casio Fx-9860G
+432. Brahmi - Indic Input Methods & OT fonts
+433. TextStat
+434. Tradução BR Craft The World
+435. Docmenta
+436. PythonToolkit (PTK)
+437. Diablo 2 Character Editor (D2CE-DS)
+438. Java csveditor
+439. Khawas
+440. OpenOffice.org en Español
+441. TeXML: an XML syntax for TeX
+442. Tradução BR Empire Earth - AoC
+443. Tradução BR Install Creator Pro 2 #45
+444. Woas (my wiki-on-a-stick fork)
+445. Ezhil-Lang
+446. Hex Editor VB
+447. PalmFiction
+448. Python plus TeX
+449. RDE(Ruby Development Environment)
+450. Multivalent
+451. OSPlus
+452. Vim Gadgets for Programmers.
+453. free java report
+454. ASCIIMathML
+455. DITA2wiki
+456. LilyPondTool for JEdit
+457. erlide: Erlang IDE @ Eclipse
+458. MvOLE, Ms OLE files reader
+459. Text Trix
+460. TextSplit
+461. WordUp
+462. CSS Editor (Eclipse Plugin)
+463. FTEditor
+464. FarsiWeb
+465. NoteCase
+466. ObjectScript
+467. Progress 4GL / ABL support for Notepad++
+468. Punjabi Computing Resource Centre
+469. RDF Editor in Java
+470. Relo C/C++ Development Environment
+471. Runtime Java Class Editor
+472. WordPerfect to LaTeX convertor
+473. AbiWord Portable (Now @ PortableApps.com
+474. Eclipse NetRexx
+475. FlatPack Java API For Flat Files
+476. GAMS Development Environment
+477. OpenCTags
+478. RSA Cryptographic Text Processor
+479. RTF to HTML Lite Converter
+480. SoloWiki editor
+481. The V C++ GUI Framework
+482. Word Unscrambler
+483. cssed
+484. full mips simulator
+485. Kephra
+486. Lsl Plus
+487. Toby's PL/SQL Editor
+488. Gedit LaTeX Plugin
+489. Corrupt Extractor for Microsoft Office
+490. BASIC IDE
+491. Notepad GNU
+492. OOoPy
+493. SciTE + Hunspell project
+494. Silver-J
+495. StreaMan: DVD-Video Streams Manipulator
+496. TeX Creator
+497. javahexeditor Java Hex Editor
+498. Remove Duplicate Lines
+499. Transparent Notepad
+500. tke
+501. Autshumato ITE
+502. global for notepad++
+503. Convert2HTML Notepad++ Plugin
+504. FSD Amoeba
+505. MSLK
+506. OmegaT Color Schemes Manager
+507. Tranquil Java IDE
+508. qEdit
+509. titlYU
+510. CUP/LEX editor plugin for Eclipse
+511. Eclipse Tidy
+512. Emerald Text Editor (jEditor)
+513. Morfologik
+514. My Dream Diary
+515. Octave Workshop
+516. Quex
+517. ansifilter
+518. ePen
+519. modula - 2 windows IDE
+520. Flesh
+521. Cubepad Text Editor
+522. DWDS/Dialing Concordance
+523. HelpSetMaker
+524. Lout batch document formatting system
+525. PSGML
+526. pdf2oo
+527. python-mode.el for Emacs and XEmacs
+528. FarsiTeX
+529. Intellisense for Vim
+530. JWordPad
+531. KML-Editor
+532. KompoZer Portable
+533. Oberon-2 language revival
+534. PyRtfLib
+535. Rhyme Analyzer
+536. TongjiThesis
+537. Dear Diary
+538. DesktopNote
+539. LDraw Design Pad
+540. Latex Equation Compiler
+541. NRtfTree Library
+542. Sarasvati: A Sanskrit IME
+543. StickerNotes
+544. THL Tools (Tibetan and Himalayan Librar)
+545. WinHP HP48/HP49 Editor
+546. XPairtise - Pair Programming for Eclipse
+547. ZionEdit
+548. cEdit Professional
+549. jadetex
+550. microDev
+551. Conversion of other file formats to PDF
+552. Scipad
+553. TotesNotes
+554. AESTextCrypt
+555. CNC Editor
+556. CrypText
+557. Dive Log Book
+558. DocSynch
+559. GenDoc
+560. Help Topic Editor
+561. JCrypt
+562. Java to SpreadsheetML
+563. MarkDown Reader LT
+564. NXML2CSV
+565. PanDocElectron
+566. SE|PY ASEditor
+567. XDoc
+568. XED
+569. YAML Editor
+570. plantuml-dependency
+571. libpdf++
+572. Eclipse CSV Editor
+573. BibTeX to Docbook 5
+574. CeNotepad
+575. DuctTape
+576. E-editor Text Editor v1.0.0
+577. ESense
+578. EasyNotes
+579. FreePdf
+580. GetEPG - Generic EPG Grabber
+581. Hyperlatex
+582. Kuto
+583. Ltxshell
+584. Max Editor
+585. Memex
+586. NAT Braille
+587. Online Transcription Editor (OTE)
+588. PHP mode for Emacs
+589. SetFon Speech Analyzer - Web Praat
+590. Splity - Split long HTML files
+591. Turbo Pad
+592. Unicode Converter
+593. VisualASM - a masm32 IDE written in asm
+594. ePubHub
+595. gentext_chung text and music generator
+596. jexer
+597. omegat-timetracker
+598. FOP C# Port
+599. JUDO
+600. vimplugin
+601. Jabberwocky a Lisp IDE
+602. Andromeda Web Editor
+603. Butterfly XML Editor
+604. Canorus - a music score editor
+605. DotNetFireball
+606. FbEHelp
+607. HATE
+608. Hierarchical Notebook
+609. Kurdi Nus
+610. Notepad .NET
+611. Python Plugin for the Eclipse platform
+612. SharpEdit
+613. TSCT - The Scite Config Tool
+614. gema
+615. jabber.el
+616. writeup
+617. AikSaurus
+618. An Gramadóir
+619. ClassicVB IDE
+620. DINAMIC XML Editor
+621. Ferry
+622. GitSync
+623. Live HTML Editor
+624. MegaEditor
+625. NetBeans Dictionaries
+626. Notepad++ Python Plugin Square
+627. Notes Keeper
+628. PHP Studio
+629. Proton Editor
+630. PyDoc
+631. Qt Creator Google Test plugin
+632. RB Text Editor
+633. SRT2TXT
+634. The GREDIA Project
+635. TinyTM
+636. ToUnicode
+637. WordPod
+638. Zelotypisti FTP
+639. Zoom Website Editor
+640. drm_tools
+641. rtf2html converter
+642. wxEdit
+643. WinPen++
+644. Tabs To Spaces Notepad++ Plugin
+645. NHunspell Spellcheck-Hyphen-Thesaurus
+646. DCTM DQL / API
+647. DocFrac
+648. Klen-library
+649. ASAF - Another Swing App Framework
+650. ASED
+651. An electronic Book Kit
+652. Anaconda
+653. Arcanum Editor
+654. AurigaDoc
+655. Dictator
+656. EMHACKS
+657. Editas
+658. FireTeX: LaTeX Editor and Compiler
+659. ICEcoder - Code Editor Awesomeness
+660. Idea Tester
+661. Indic Keyboard
+662. Kajona Language File Editor
+663. KeyPad+
+664. LaTeX Word Counter
+665. Latvian Lingucomponents for OpenOffice
+666. Mavscript
+667. PDF Annot
+668. QuickFox
+669. RegExTest
+670. Rephrase
+671. Session Management for Emacs
+672. SqlBuddy
+673. Table editor for Emacs
+674. Team Builder-Java
+675. Template Package for Emacs
+676. Text Editor
+677. The Writer's Workbench
+678. Tk ScriptIt!
+679. XMLBeans Plugins
+680. Xsemantics
+681. Yandex Translate plugin for OmegaT
+682. converting XML to formatted text
+683. jsXe
+684. uListen
+685. wxGuide
+686. ReadManiac
+687. Jubler subtitle editor
+688. 1337-Generator
+689. Advanced Clipboard Manager (ACM)
+690. BlitzEdit
+691. Delicate Document Manager
+692. Digital Gaffiot
+693. FoxEditor
+694. FreeTextBox
+695. MLA Auto-Generator
+696. Prithvi Development Studio
+697. QStripper
+698. Rudel
+699. Shadow Text
+700. SmileIDE
+701. Uber Micro
+702. eFTE
+703. linktreenotes
+704. tgen
+705. trexinc
+706. FlexBean (Flex Netbeans plugin)
+707. MH-E
+708. MxEclipse
+709. QTM
+710. SpeedEULA
+711. Thai word segmentation utility
+712. checkIn-checkOut plugin for npp
+713. iNFO
+714. Open PDF
+715. xacc.ide
+716. WordIt Word Processor
+717. Atul Lipi - Multilingual Input Tool
+718. Azeri Alphabet Converter
+719. BLua (B:Lua) - Lua IDE
+720. BetaPad
+721. BigFileEditor
+722. BonGoLipi
+723. CPL Editor
+724. Clay VR Game Engine
+725. CodeLab
+726. Conglomerate
+727. Decorate Editor Sharp
+728. ECB
+729. EditorASP
+730. Emacs/LaTeX inline Preview
+731. Free Film Project
+732. FreeNotePad
+733. GNU Emacs for Windows
+734. GTidy-GUI for tidy
+735. Global Translation and Localisation Team
+736. IFCX
+737. ILISP
+738. Imseɣti n tira n teqbaylit
+739. Java Outline Editor (JOE)
+740. Just Office
+741. LaTeX Track Changes
+742. LaTeX2docx
+743. Letter Generator
+744. Line Counter
+745. Link Generator
+746. Lyrics Editor
+747. MiDIDE
+748. Nemesis Pascal FrameWork
+749. NetBeans Portable
+750. Notepad--
+751. Nvu/KompoZer Portable @PortableApps.com
+752. OPML Creator
+753. Open SubEditor
+754. Portable Latex
+755. PyCrust
+756. S-exp-based XML parsing/query/conversion
+757. SVG Eclipse Plugin
+758. Sampad
+759. SharpWrite
+760. SinglishBug
+761. Try It Yourself HTML5
+762. Visual DB Script
+763. Web HTML Editor
+764. WixTrim - WiX Designer
+765. Women Working with COBOL (WomenWC)
+766. Word2ePub
+767. WordDoc to CHM Convertor
+768. Writer's Tool
+769. XSL To PDF
+770. XVR Developer Studio
+771. avrLab
+772. multiplePdfPagecount
+773. plutext
+774. pollo
+775. radtool
+776. vPDF - RTF to PDF Writer
+777. Dandelion - Eclipse Lisp Plugin
+778. EBookME
+779. Guiguts
+780. Lookup
+781. Notepad Extra ++
+782. SciTE++
+783. TeXHyphenator-J
+784. Unicode Trad/Simpl Chinese Converter
+785. phpAG - PHP Anagram Generator
+786. ACE - a collaborative editor
+787. SILVERCODERS DocToText
+788. ScintillaNET
+789. SimplyHTML
+790. ABK Orkut Editor
+791. AVEditor
+792. AeroNotes
+793. AnotherDiff
+794. Asys
+795. AyEyePad
+796. BasEdit.Net
+797. Batch Text Replacer
+798. Bibelot
+799. BigFileViewer
+800. BinEd Editor for Binary Data
+801. Bloknots
+802. Boostnote
+803. CWTE-Text-Editor
+804. Chaperon
+805. ChessTask
+806. Codepad
+807. Console based Editor
+808. Convert Char PL
+809. Cygnus Editor
+810. DocBook to LaTeX XSL stylesheets
+811. EXPAD
+812. Ecere SDK
+813. EmACT
+814. Emacs MMIX mode
+815. Eslink Eclipse SAS Integration Plugin
+816. Euphoria
+817. EuroMath2
+818. FastTrac Template Engine
+819. Fen2eps
+820. Fiction
+821. Figerty Clubs
+822. File Split and Join FREE.PRO
+823. FirebirdConfig
+824. Fireworkz (Colton Software)
+825. FreeDos Edit for Win32 systems
+826. GNU TeXmacs
+827. GNotes
+828. GuitarTeX2
+829. HEAD - HTML Editor Applet Dreamworks
+830. HView
+831. HexLib GUI - Java Hex-Editor -Hex-Viewer
+832. HieroEditor
+833. IDLEfork
+834. JCLTP
+835. JE Editor
+836. JET-Editor
+837. JPDF Export
+838. Java White Board
+839. Kantharos IDE
+840. KartoMNT
+841. Konwert
+842. Light PHP Edit
+843. Lingo24 Premium MT Plugin for OmegaT
+844. MUI-Vim
+845. MathStudio
+846. Musoftware Text Application
+847. Ninja Text Editor
+848. Nocs
+849. Notatio Antiqua
+850. Notepad Express
+851. Notepad++ Portable
+852. NotepadZ_Setup
+853. Office Open XML C# Library
+854. OpenRTF
+855. PDF.NET
+856. PHP support for IntelliJ IDEA
+857. PadPaper Editor
+858. Paragraph Adjuster with Hyphenation
+859. Pen Possible
+860. Perl Edit
+861. PerlPoint
+862. Pgn2ltx
+863. PoL Scripter
+864. PokerLog
+865. Pyana
+866. Pydea
+867. QuickTranslate Online
+868. Rainbow Forth
+869. Scite Template Manager
+870. Scriptol Xul Dev
+871. Shared Questionnaire System
+872. Simple Text Editor
+873. SimpleNotepad
+874. SmGen
+875. Smart C++ Builder
+876. Notepad++ Portable
+877. NotepadZ_Setup
+878. Office Open XML C# Library
+879. OpenRTF
+880. PDF.NET
+881. PHP support for IntelliJ IDEA
+882. PadPaper Editor
+883. Paragraph Adjuster with Hyphenation
+884. Pen Possible
+885. Perl Edit
+886. PerlPoint
+887. Pgn2ltx
+888. PoL Scripter
+889. PokerLog
+890. Pyana
+891. Pydea
+892. QuickTranslate Online
+893. Rainbow Forth
+894. Scite Template Manager
+895. Scriptol Xul Dev
+896. Shared Questionnaire System
+897. Simple Text Editor
+898. SimpleNotepad
+899. SmGen
+900. Smart C++ Builder
+901. SmartIDE
+902. Subbee
+903. TOEFL writing editor
+904. Text-checking API for Java
+905. TextConv
+906. TinyDT
+907. TradutorOOoNote
+908. Transmogrify
+909. Tray Notes .NET
+910. TutorMates - MathML Equation Editor
+911. TxtEditor
+912. Typograf plugin for Mozilla and Chrome
+913. Universal Label Decorator Eclipse Plugin
+914. Various IDEA Plugins
+915. Velocity Editor Plugin
+916. Vim transliteration plugin (translit3)
+917. Visual PureBasic IDE
+918. Voikko
+919. W3Edit
+920. WebSDK
+921. WikiPDF
+922. WordPress HTML Editor (WPE)
+923. Write Dari and Farsi with Naveesinda
+924. ascript
+925. bbEditor
+926. dbnote
+927. ePub Tools
+928. easylatex
+929. gTamillOCR
+930. hypertext
+931. iXedit XML Editor
+932. indevIDE
+933. jdTextEdit
+934. normas-utf-tex
+935. pEdit
+936. rhbaedit
+937. rux
+938. song
+939. syncped
+940. ted (the Tiny EDitor)
+941. texteditor
+942. thetis
+943. tkXMLiVE XML intelligence Visual Editor
+944. vPDFc – RTF to PDF Converter
+945. vim-sql
+946. wxGhostscript - class + PS IDE/debugger
+947. wxVisual Lua - wxLua IDE
+948. xRope
+949. xbase mode
+950. xslpipe
+951. Др Превод
+952. 溫度日記 Hearty Journal
+953. Batch convert
+954. DoLatex
+955. Eclipse Instant Messenger Plugin
+956. EpubRG
+957. Fasmlab
+958. GatewayMU*
+959. JHTML
+960. Java Integrated LoudLy
+961. KORAIS
+962. LaTeX for Economists
+963. Libycus
+964. LyricEditor
+965. MM File Utility
+966. Massively Parallel PO Editor
+967. MerlinRunner
+968. Mystix
+969. NCRK :: TextEditor
+970. Notepad++ Python Script Automation
+971. NunniMCAX small and fast XML parser
+972. PHP Application Builder
+973. Rod Whitby's Open Source Projects
+974. RowScope
+975. ULIX TxT Editor
+976. WebHedit
+977. XML Truncator-Fixer
+978. aipdf
+979. confluence-el
+980. l33t Translator
+981. open eXpressions
+982. pued
+983. tiny-edit
+984. Ynote Classic
+985. JavaScript Editor PlugIn for Eclipse
+986. Huge File Editor
+987. "Colpo Segreto Dell'Hacker Nascente"
+988. 1337 Converter
+989. 3F Java Sticky Notes
+990. A Pylab Editor
+991. ACIDE
+992. ACPI Studio
+993. APTEditor
+994. Acetone
+995. Ada Class Library
+996. Alik Notepad
+997. AlphaBase PSP
+998. AmandaVCD
+999. AmiRewriter
+1000. Ange ftp over SSH
+1001. Ansi-Text-Editor
+1002. Antelope
+1003. Any2XML
+1004. Arabic Spellchecker Word Lists
+1005. BVH
+1006. BanPro-DMS
+1007. Banjon - Multilingual Input Method
+1008. Battle field
+1009. Bibtool
+1010. Bicycle Repair Man!
+1011. Binary Dealer (Binary to Text Editor)
+1012. BlarghPad
+1013. Braille-s Software
+1014. BrainDump
+1015. ByronStar SL
+1016. C# UserControls
+1017. CARLOS
+1018. CMake Editor Plug-in
+1019. CPP2RTF
+1020. CWß TeXpert
+1021. CalclipseLib
+1022. CharacterGen
+1023. Chinese word segment
+1024. CiteMite
+1025. ClipMe
+1026. Concrete Voice
+1027. Crispy Synced Notes
+1028. Delphi IndustryDBEdit
+1029. Deprecated
+1030. Dev-C++ for Homeworks
+1031. DictEm - Dictionary client for Emacs
+1032. DocBook XML Mode for GNU Emacs
+1033. DocLite
+1034. EMacro
+1035. EZbusiness 2020
+1036. Easymacs
+1037. Eclipse EditorList Plug-in
+1038. EclipseWiki
+1039. Eddyspeak
+1040. Edinburgh Compatible Context Editor
+1041. EditMage
+1042. Emacs Maude mode
+1043. Emacs Powerpack
+1044. Encrypted Notepad
+1045. Extractor Files
+1046. Fidus Writer
+1047. File Editor Pro
+1048. Fit Agilifier Plugin for IntelliJ
+1049. GNU FriBidi
+1050. GOSH
+1051. Genie Jython
+1052. GenuineWord
+1053. Getter/Setter generator for Dreamweaver
+1054. Ground Squirrel
+1055. HFViewer
+1056. HIDAM  A Hierarchical Data Manager
+1057. HandyStuff
+1058. Hexadecimal striping out of text data
+1059. Html Helper
+1060. IDEFIX
+1061. IQTransliter
+1062. IWeaver Web Editor
+1063. IcyOwl
+1064. Info.txt generator
+1065. JBoss JBuilder OpenTool
+1066. JGaruda Editor
+1067. JIDE
+1068. JNote
+1069. JPropertyEditor
+1070. JSticky
+1071. JUSH - JavaScript Syntax Highlighter
+1072. JasmineIDE
+1073. Java Hex Editor Component
+1074. Java Hybrid Distance Learning
+1075. Java SuperCollider for Eclipse
+1076. Java Virtual Keyboard
+1077. JavaTeX
+1078. Javadoc Search CGI Script
+1079. Jed Modes Repository
+1080. JobManager
+1081. KKTechGameMaster
+1082. Kawa
+1083. Kiwi
+1084. Konwerter polskich znaków
+1085. LMX-Editor
+1086. LaTeX Reference Card Creator
+1087. LaTeX Web Publisher
+1088. LabEdit
+1089. Lectures
+1090. Lexer
+1091. Liberty BASIC Builder
+1092. Logical Formula Evaluator
+1093. Loxie
+1094. LvPad.Net
+1095. Mailcrypt
+1096. Manual Manager
+1097. Marky
+1098. Mateusz's Saucy Editor
+1099. Medit
+1100. MetaType
+1101. Microsoft Translate plugin for OmegaT
+1102. Mobile Application Studio
+1103. Multi Text Convertz0r
+1104. Musaheb
+1105. NPK MUD-like environment
+1106. NSBase portable
+1107. Nalasys
+1108. NeechPad
+1109. Nekit - HTML Editor Applet
+1110. Nested Editor
+1111. Notepad Scratchpad
+1112. ODF accessibility validation tool
+1113. OGame Skins Maker
+1114. OODoc2Pdf
+1115. OmegaT+ CAT Tools
+1116. OmniHelp tripane on-line help viewer
+1117. Open Transnote Ink Suite
+1118. OpenWebsuite.org
+1119. OrgaNote
+1120. PDF Meta
+1121. PDF To Text Watcher
+1122. PDFman
+1123. PDML
+1124. PHP Doc System
+1125. Pcl2Ascii
+1126. Perl text to HTML
+1127. Pipestone
+1128. PlaywrightTools
+1129. Polish Flexion Engine
+1130. Project BORIS
+1131. Project Pegasus
+1132. PsiCoder
+1133. PyEdit Editor
+1134. Pylero
+1135. Python Editor for Eclipse
+1136. QHexVed
+1137. Qt Creator markup plugin
+1138. RED - A Java Editor Library
+1139. ReXeD - XML Editor for Eclipse
+1140. Replasol
+1141. Retab
+1142. Running Time Logger
+1143. SCC plugin for TortoiseCVS
+1144. SQLNote
+1145. SaD Edition Module
+1146. Scaliptor - Scala Development Tools
+1147. SchemeIDE Eclipse Debugger Plugin
+1148. SchemeWay - Scheme Plugins for Eclipse
+1149. Script Echo Color
+1150. Securo
+1151. SharpDevelop VS.Net Importer/Exporter
+1152. SilverCity
+1153. Simple Auto-Correction Text Tool
+1154. Simple Notepad
+1155. Skeleton
+1156. SlackEdit
+1157. Smart Notepad
+1158. Squarefish
+1159. Stef
+1160. Structured Document Validator
+1161. SubLib
+1162. Subeditor
+1163. Sublime Text Crestron Plugin
+1164. Subtitle Time Adjustment
+1165. TOE - A Tiny and Open Editor
+1166. TR2ASCII
+1167. TSedit Editor
+1168. TWedit
+1169. TXT-merger
+1170. TXWrapper
+1171. TclMod
+1172. TclTexEditor
+1173. TeamEdit
+1174. Texinfo Web Publisher
+1175. Text Analyzer
+1176. Text to Morse code translator
+1177. TextEditor++
+1178. TextViewer
+1179. TextWiz
+1180. The Nascent Project
+1181. ThiefscriptSE
+1182. Thufir
+1183. Tinn Is Not Notepad
+1184. Traductor Hoygan
+1185. TypePage
+1186. Typster
+1187. Tákàdá
+1188. UO Sphere Scripter
+1189. VIMEN
+1190. Verses Editor
+1191. Vex - A Visual Editor for XML
+1192. Vimuiex
+1193. VisDic
+1194. Visual xsltproc Debugger
+1195. VoynichReader
+1196. WSMO Studio
+1197. WebCode Writer
+1198. WebDjVuTextEd
+1199. Where Is
+1200. WhiteSpace
+1201. WinQB
+1202. WinTexEditor
+1203. WordHighlighter
+1204. Writers Forge
+1205. XML Parser
+1206. Xin
+1207. ZK Code Completion
+1208. ant4docbook
+1209. aspell-nds
+1210. chinese Shupai
+1211. daskhat
+1212. eAthena Editors
+1213. editshow
+1214. expeDITA Content Collaboration Tool
+1215. fbchat
+1216. fif
+1217. filecmp
+1218. ged - a lightweight GTK-2.0 text editor
+1219. gleditor
+1220. gotofile
+1221. jMerge
+1222. js-comint.el
+1223. jsedit
+1224. matexe
+1225. mbFXWords
+1226. mex -- modal editor for X
+1227. net2ftp
+1228. nqmacs
+1229. ped - nifty text editor written in Perl
+1230. poTranslator
+1231. pyWeb Literate Programming Tool
+1232. python editor plugin for netbeans 6
+1233. qRFCView
+1234. qmwedit
+1235. rezML XML DTD/XSLTs for Resumes &amp; Jo
+1236. rope
+1237. rsteditor
+1238. sourcecode XML metadata extraction tools
+1239. starteam.el
+1240. swe642-eclipse
+1241. tlve
+1242. typewriter
+1243. upl
+1244. vimper IDE
+1245. wiki2beamer
+1246. wxEditor
+1247. xCode
+1248. xMarkup Text Transformation Utility
+1249. xindent
+1250. CsoundQt
+1251. JEREMIA - Requirement management system
+1252. PCSecrets
+1253. Software Studio
+1254. wxDevIDE
+1255. Estrela Editor
+1256. Middle Click Closes Tab Eclipse Plugin
+1257. "Format Block" FAR plugin
+1258. #php
+1259. 'Proximated Emacs Powered by Python
+1260. (Hyper)Markup
+1261. (removed)
+1262. ---
+1263. .NET Syntax Highlighter Control
+1264. 1337 Translator
+1265. 1337writer
+1266. 2text 2008
+1267. <fo:editor />
+1268. @1 Event Publisher
+1269. A PHP Integrated Development Environment
+1270. A free XSL documentation tool
+1271. A powerful java Editor
+1272. A regular expression editor
+1273. A.T.Edit
+1274. ABK Code Beautifier
+1275. ABOOo
+1276. ACI2018
+1277. ACIP Tools and Content
+1278. ADS1115 I2C XBee
+1279. AESOP Project
+1280. AEditor [Ruby BSD]
+1281. AK JS Editor
+1282. ALEXez
+1283. AMA Text Tool
+1284. ANTLR plugin for Eclipse
+1285. ANTLR-Mode for Emacs
+1286. ASCII ART TABLE
+1287. ASTL Automata Standard Template Library
+1288. ASTcentric
+1289. AT2F
+1290. ATRAD
+1291. AUNA Smartpad
+1292. AVL Array
+1293. AZR-Realmer
+1294. Abandoned Project
+1295. Abora
+1296. Absolute Trivia
+1297. Accent Plugin for Gedit
+1298. Acme: Stand Alone Complex
+1299. ActionScript 2 Documentation Project
+1300. Ad Master
+1301. Ada Source Library Browser
+1302. Ada for Netbeans
+1303. Add-numbers1
+1304. Admedia
+1305. Advanced OCL Editor
+1306. Advanced XML Parser (AXP) library
+1307. Aes Edition hacker
+1308. AeternaGUI
+1309. Aff-Finder
+1310. Affinity
+1311. AgileWriter
+1312. Agilitext Text Editor
+1313. AkRti
+1314. Akshara Indic Script Generator
+1315. Akshara Malayalam OCR
+1316. Alex Text Editor
+1317. Alexandria Bibliography GroupWare
+1318. Alive!
+1319. Almost Redundant Code Regenerator
+1320. AlphaTcl
+1321. Alt-IDE
+1322. Amazon - Collaborative Document System
+1323. Amiant Navigator
+1324. Amino
+1325. Ampare Notepad and Reader
+1326. Ancient Hittite Font
+1327. Angel IDE (for PRADO Framework)
+1328. AnnotaTeX
+1329. Anti prohibited-words software
+1330. Antipodal
+1331. Antiseptic Document
+1332. Any to PDF and more, for web apps
+1333. AnySpell
+1334. Apad
+1335. ApexText
+1336. Apolda
+1337. App Revolution
+1338. Appendixmanager for DocBook
+1339. Arabic Text Typing Toolbox
+1340. ArabicDiacritizer
+1341. ArabicDictionary
+1342. ArabicNormalizer
+1343. Archangel - Utopia Tools Suite
+1344. Architectural XML Editing framework
+1345. Arcturus JavaEditor
+1346. Arduo Css Editor
+1347. Aries
+1348. Artical Typer v1
+1349. Articlefox
+1350. Aruspix
+1351. AsiEs
+1352. AspectBeans
+1353. Aspose for Spring.Java
+1354. Assignment Aid
+1355. Asterix IDE
+1356. Atex
+1357. Atom Writer
+1358. Atox
+1359. Attrezzo per Xindice
+1360. Atuatuca
+1361. Author Intrusion
+1362. AuthorWeb Writer's Companion
+1363. AutoCapper
+1364. AutoLinguist
+1365. AutoTraining
+1366. AutoTrans
+1367. Automatic Screenshot Annotator
+1368. Autshumato Text Anonymiser
+1369. Auvai Text to Speech
+1370. Azul Papiro
+1371. BBLib
+1372. BBT
+1373. BPMN-ride
+1374. BSCBrowser
+1375. BSpell spell-checker
+1376. Babeldoc: Universal Document Processor
+1377. Bag of Words - text analysis system
+1378. Bakelite
+1379. Bananeweizen's extensions and add-on's
+1380. BanglaPad
+1381. Banteng
+1382. Basco_IDE
+1383. Basic Note Tagger
+1384. Basic Parser Generator
+1385. Basic language for text processing
+1386. Batch Text Generator
+1387. BatterIDE For Batch
+1388. Bazaar plugin for Eclipse
+1389. BeOS Rapid Integrated Environment
+1390. BeaGTex - The LaTex-Editor
+1391. BeanClipse- NetBeans embedded in Eclipse
+1392. Beckon
+1393. BedRock IDE
+1394. Bee Suite
+1395. Benkyou Studio
+1396. Bethelite Content Management System
+1397. BetterJEditor
+1398. BetterRef
+1399. Bi-gram based Applications
+1400. Bib Manager
+1401. BibPad
+1402. BibTeXlipse
+1403. BiblePaste
+1404. BiblioSynthesis
+1405. Biblook/Bibindex
+1406. BinEditor
+1407. Binary Ready Emacs Tools
+1408. Bitter
+1409. BlackWord
+1410. Blocks Language
+1411. Bloco de Notas Glass
+1412. Blog
+1413. BlogClipse
+1414. BlogEdit
+1415. Bobs Ed
+1416. Bond Edit
+1417. Bone Yard
+1418. Bouquet-Editor for dbox 2
+1419. Boustrophedon Speed-Reader
+1420. Boustrophedon-Reader
+1421. BoxCode
+1422. BoyeeEditer
+1423. BrailleConverter
+1424. BrainFlow
+1425. Brainfuck IDE (BFIde)
+1426. Breadcrumb for Emacs
+1427. British Medical Spellcheck
+1428. Browse by Query
+1429. BuildFileDesigner
+1430. Bulot Studio
+1431. ByteCodeDeluxe
+1432. C Source Search and Replace
+1433. C Workshop
+1434. C-smile object-oriented language
+1435. C.E.L. Pad
+1436. CCTV - Tools for Vietnamese Language
+1437. CDT Contrib
+1438. CDivEdit
+1439. CINOE
+1440. CLUE - C Learning Undergrad Environment
+1441. CLaAP!
+1442. CMM Mapping Suite
+1443. CNC Header & Footer Convert
+1444. CNotepad
+1445. COMEditor
+1446. COSETTE - the Publisher
+1447. CPIA: XML Macro Processing in C
+1448. CPPRefactory
+1449. CPPartner
+1450. CRHXpress
+1451. CS-RCS OpenTool
+1452. CSDE - C# - for emacs
+1453. CSGODOUBLE
+1454. CSUSM ACM Eclipse Installer
+1455. CSV-O-MATIC
+1456. CT++
+1457. CTW - Cooperative Text Writer
+1458. CUA Office
+1459. CWß Text-Analyse
+1460. CXPreprocessor
+1461. Cadence
+1462. CairngormFlex Assistant
+1463. Calenco XML CMS
+1464. Callplot
+1465. Caml Win32 IDE
+1466. CandyFolds
+1467. Capitalizer
+1468. Castor Plug-in for Eclipse
+1469. Cat IMproved
+1470. CatMDServices
+1471. CatOGC
+1472. CedarSync
+1473. Ceryle
+1474. CgEddie
+1475. ChaLo
+1476. Chalks
+1477. Change Encoding Utility
+1478. Change File Encoding
+1479. Character Encoding Translator
+1480. Chat4Eclipse - Chat Plugin for Eclipse
+1481. Chathurangam – Tamil Spreadsheet
+1482. ChillEdit
+1483. ChinesEasy
+1484. Chinese Emacs Configuration
+1485. Chord 4.0
+1486. Chord Song Transposer
+1487. Chordeus
+1488. Chordshop
+1489. Ciellem 3E
+1490. Citrus - Limepad
+1491. Civil Defence
+1492. ClassMailMerge
+1493. Clean Nuke
+1494. CleanPath
+1495. Cleanux - code cleaner
+1496. ClearSky
+1497. Clevit
+1498. ClipView
+1499. ClipWatch
+1500. Clipboard Tool
+1501. Clippings
+1502. Cloudy
+1503. CoDev
+1504. Cobalt Web Builder
+1505. Coco/R Plugin for NetBeans
+1506. Cocoon Eclipse Plugins
+1507. Code Art
+1508. Code Monkey
+1509. Code Poet
+1510. Code4Phone
+1511. Code::Blocks(STM32) net installer
+1512. CodeBlocksPortable
+1513. CodeLift
+1514. CodeSnippet for Eclipse
+1515. CodeSnippet for IDEA
+1516. CodeSnippet for NetBeans
+1517. CodeSugar Eclipse Plugin
+1518. CodeSyntax
+1519. CodeTime Parallel Software Platform
+1520. CodeType
+1521. CodeWinPos
+1522. Coded
+1523. Coder's Text Editor
+1524. Codeslang
+1525. CodingEditor
+1526. Codon
+1527. Codpad IDE for C/C++
+1528. Coffea UML
+1529. Colang - Collaborative Translation
+1530. Collab: a collaboration tool
+1531. CollabEd: Collaborative Editing Plugins
+1532. Collaborative Development System (CDSys)
+1533. Collaborative Text Editor
+1534. Collatinus
+1535. ColoringEditor
+1536. Command line editor browser
+1537. Common Java Regular Expressions
+1538. Common Litt
+1539. Community Translation System
+1540. Composer - SWT HTML Editor Widget
+1541. Composer: Editor for NCL Documents
+1542. Computer History Graphing Project
+1543. ConDei
+1544. ConOrgan (Organized Content Development)
+1545. ConTEXT H.A.U.
+1546. Concurrence
+1547. Consilium Sentence Suggestions Tools
+1548. Console4Jython
+1549. Content Development Templates
+1550. Content Editor
+1551. ContextTree
+1552. Contraction Converter
+1553. Convman
+1554. CopyAsPath Eclipse Plugin
+1555. Copy_Logger
+1556. Corpus Processor
+1557. CorpusFiltergraph
+1558. CountWord
+1559. CppEdit
+1560. Crackhead-Mode
+1561. CrapEdit
+1562. Creador PDF
+1563. Creator of Turbo Pascal Code
+1564. Criline S'n'R
+1565. Croatian Text Box
+1566. CrossBow Cross Development System
+1567. CrossXML : The cross platform XML editor
+1568. CruiseController Eclipse Plugin
+1569. Cryptice
+1570. CryptoFile
+1571. CryptoSticky
+1572. Cryptographic Text Converter
+1573. Cute
+1574. Cute Klava
+1575. CutePad
+1576. CódigoJV
+1577. D Compiler IDE
+1578. D Development Toolkit
+1579. D-IDE
+1580. D2AC-A2DC
+1581. DBDiff
+1582. DBE Studio
+1583. DEE Excellent Editor
+1584. DEV-PHP SE
+1585. DHex
+1586. DITA Open Platform
+1587. DITA Test Suite
+1588. DLV Editor
+1589. DM Dictionary
+1590. DML2
+1591. DNotePad - A Tab based Notepad
+1592. DOCassistant
+1593. DOMIT! - A DOM XML Parser for PHP
+1594. DOMIT! RSS Parser for PHP
+1595. DOS batch file mode for Emacs
+1596. DQ
+1597. DXCore Plugin Central
+1598. Dao Studio
+1599. Daodict
+1600. Dark Garden Font
+1601. DataMonkey data import/export utility
+1602. Dataplastique
+1603. Datastream Pro
+1604. Daum open editor
+1605. Delphi Learner's Editor Project
+1606. Denkzettel Companion
+1607. Descriptive Data Diary
+1608. Desktop Notes and Contacts
+1609. DesktopAid
+1610. DesktopOnNet
+1611. Detexter
+1612. Dev-Editor
+1613. Dev2
+1614. DevBasic - A frontend for QB
+1615. DevConnector
+1616. DevMic
+1617. Devchekio
+1618. Development System
+1619. Diakonos - Text Editor
+1620. DicEngRus
+1621. DictandWiki
+1622. Diderot - A Python based WikiWriter
+1623. Diffident
+1624. Digital Diary
+1625. DisIDE - a fake IDE for any text editor
+1626. Disa - IP based Geo locator
+1627. Discriminative Language Editor
+1628. Distel
+1629. Distributed Proofreaders
+1630. DoWords
+1631. Doc Editor Tool
+1632. Doc2Html Firewall
+1633. DocBase
+1634. DocBook sml
+1635. DocBook to OpenDocument XSLT
+1636. DocBook to PDF Translator
+1637. DocBuilder
+1638. DocBuilder.com Template Wizard
+1639. DocConversion
+1640. DocEdit
+1641. DocScript
+1642. Docbook Plugin for Eclipse
+1643. Doco
+1644. Docstring Processing System
+1645. Document Right
+1646. Document Writer Gen 1
+1647. Documenting XML DTDs with dtddoc2
+1648. Docyrus
+1649. DotNetGoogleTranslator
+1650. DotNetLocalizer
+1651. DotNetNuke XSLT-based Development Module
+1652. DotOfEmacsByLestathc
+1653. DoxyMentor
+1654. DoxyS
+1655. Doxygen-Docbook XSL Stylesheet
+1656. Dragme
+1657. DragonEdit Text Encryption
+1658. DragonTools
+1659. Dragonfly IDE
+1660. Dragonfly Journal
+1661. Dream Editor
+1662. DreamWeaver MX AutoSave
+1663. Dreamweaver extension for Movable Type
+1664. Dreamweaver-ClearCase integration
+1665. DreamworX Collaboration Tools
+1666. Drew Daniels' Grammar Checker
+1667. Dvipdfm tool for SCons
+1668. DwExport
+1669. DynAPI 2 <!-- I D E -->
+1670. DynSoft.com ChapMaker
+1671. DynaReader
+1672. Dynamic Source Locker
+1673. E-Plug: Eclipse Plugin Repository
+1674. E107 Writers' Kit
+1675. E2 Offline Scratchpad
+1676. E2A
+1677. EBook Organizer
+1678. EBookLibrary
+1679. ECCO
+1680. ECM Developer
+1681. EDM32 Source Code Editing Component
+1682. EEEPC Linux FTP Editor
+1683. EJab
+1684. ENE
+1685. EPL - Emacs Perl
+1686. EPPT
+1687. ERC, an Emacs IRC client
+1688. EZReader text parsing engine
+1689. EZbusiness
+1690. EZyourASP
+1691. Ease
+1692. Easy Nepali
+1693. Easy PCB Design Software in Java
+1694. Easy Texter
+1695. Easy and in Spanish
+1696. EasyCite
+1697. EasyEmacs
+1698. Ecf: Emacs Configuration Framework
+1699. Eclipse Ajax Additions
+1700. Eclipse DocTools
+1701. Eclipse Eiffel Development Tools (EDT)
+1702. Eclipse IDE Meta-tooling Platform
+1703. Eclipse LOLCode Development Tools
+1704. Eclipse Office
+1705. Eclipse PHP Tool Integration
+1706. Eclipse PLaSM plugin
+1707. Eclipse Plugins/Tools
+1708. Eclipse Powered
+1709. Eclipse RMI Plugin
+1710. Eclipse Text Editor Extensions (ETEE)
+1711. Eclipse Tiny Plugins
+1712. Eclipse Wikipedia Editor
+1713. Eclipse XML Meta-Modeling Tools
+1714. Eclipse-Based Object Bench (E-BOB)
+1715. EclipseDarcs
+1716. EclipseXmlEditor
+1717. EdasTexter2
+1718. Edgar -- grammar based editor
+1719. EdiText
+1720. Edit It!
+1721. Edit Revolution
+1722. EditAll
+1723. EditCenter
+1724. EditFree Text Editor
+1725. EditThis!
+1726. Eclipse Eiffel Development Tools (EDT)
+1727. Eclipse IDE Meta-tooling Platform
+1728. Eclipse LOLCode Development Tools
+1729. Eclipse Office
+1730. Eclipse PHP Tool Integration
+1731. Eclipse PLaSM plugin
+1732. Eclipse Plugins/Tools
+1733. Eclipse Powered
+1734. Eclipse RMI Plugin
+1735. Eclipse Text Editor Extensions (ETEE)
+1736. Eclipse Tiny Plugins
+1737. Eclipse Wikipedia Editor
+1738. Eclipse XML Meta-Modeling Tools
+1739. Eclipse-Based Object Bench (E-BOB)
+1740. EclipseDarcs
+1741. EclipseXmlEditor
+1742. EdasTexter2
+1743. Edgar -- grammar based editor
+1744. EdiText
+1745. Edit It!
+1746. Edit Revolution
+1747. EditAll
+1748. EditCenter
+1749. EditFree Text Editor
+1750. EditThis!
+1751. Edita
+1752. Editilla Editor
+1753. Editor
+1754. Editor de Texto en Japones
+1755. Editscape
+1756. Edyuk
+1757. Eidola Programming Language
+1758. Eloquence
+1759. Elphel/Excelsior Eclipse/VDT/ExDT Plugin
+1760. Elpoint
+1761. Elserv
+1762. Em::Blocks STM32F4-Discovery USB CDC
+1763. Emacs Eiffel mode
+1764. Emacs Thing
+1765. Emacs VR Mode
+1766. Emacs Wiki Mode
+1767. Emacs/Tramp - remote files via shell
+1768. Embeddable Predictive Text Library
+1769. Embedded Documentation Tool CODEX
+1770. EmotiConverter
+1771. En handledning för handfallna
+1772. EnDecode
+1773. EncTool
+1774. Encrypting Safe
+1775. End Of Line Converter for Unix-Mac-DOS
+1776. Endico - Text Encrypt
+1777. English C
+1778. English word matcher
+1779. Enhanced IDE
+1780. Ents
+1781. Environ430
+1782. Enygmata's Own PHP Editor
+1783. Epub Editor
+1784. Erlang Mode For QtCreator
+1785. ErrorsProbe
+1786. Erubis
+1787. EsTexte
+1788. Escritor
+1789. Everything is a text
+1790. Everything2.com noding client
+1791. Evolution & Validation Environment
+1792. Excel for Inputfiles
+1793. Excel Özel İşlemler Menüsü
+1794. Expat Objective-C Bindings
+1795. Explorer Index
+1796. ExtMiner
+1797. EzTrans
+1798. EzerKb
+1799. Ezhik Reader
+1800. F5 iRule Editor
+1801. FAF-Basic Interpreter
+1802. FAQ Builder
+1803. FAQ XML
+1804. FASM Studio - IDE for Flat Assembler
+1805. FCK Faces
+1806. FCKitext (FCKeditor-iText)
+1807. FEdit
+1808. FEditor
+1809. FIRSTclipse
+1810. FOP Eclipse Plugin
+1811. FOray
+1812. FSNotepad
+1813. FXPLText widget
+1814. FaceIt Text Editor
+1815. Fanfic.Formatter
+1816. Far Manager
+1817. FarPy GUIE
+1818. Farsi Fonts and Typesetting Tools
+1819. FastAssembler
+1820. Favorite Plugin for Eclipse
+1821. Fb Studio
+1822. Feebinator
+1823. FermaT
+1824. Fiction Book to Palm ZTxt converter
+1825. FictionVocabulary
+1826. Fieldnotes Editor
+1827. FigTeX
+1828. Figerty Notepad
+1829. Figerty Word
+1830. File Append
+1831. File Incryption - Decryption
+1832. File Search-n-Match
+1833. File System Blog
+1834. File Text Imformation
+1835. FileCommander
+1836. FileExtender
+1837. FileNamer for EML
+1838. FileTagger
+1839. FilterCafe
+1840. FindTag - Ctags Add-on for TextPad
+1841. FlashFrame
+1842. Flashbook - eBook tools for TI-83+/84+
+1843. FlatTree
+1844. FlySearch
+1845. Flymake: on-fly syntax checker for Emacs
+1846. Flywheel
+1847. Forecast Lab Desktop Edition
+1848. Formula Mailer
+1849. Fox File Editor
+1850. FoxIME
+1851. Fraktron
+1852. FrameToolbar
+1853. Frankenstein Translation Memory Suite
+1854. Free World Dictionary
+1855. FreeBASIC DevStudio
+1856. FreeBe - A FreeBasic Intergrated Develop
+1857. FreeCard
+1858. FreeDreams
+1859. FreeFactor - Refactoring for Java
+1860. FreePerfect
+1861. FreeViP
+1862. Freebasic Editor
+1863. Freedomeditor file editor env. (PHP)
+1864. Freepad
+1865. Fresse!
+1866. Fsgrep
+1867. Fun2write
+1868. FunBeans IDE
+1869. FuncBrowser GEdit Plugin
+1870. Funky DSL
+1871. Fuse
+1872. Fusionet24 Text Editor
+1873. G.C Word Express
+1874. G110 Converter Manual for Vietnamese
+1875. G2net Write
+1876. G95J
+1877. GC Edit
+1878. GCC IDE (Scout)
+1879. GCEclipse
+1880. GCEdit
+1881. GGAP
+1882. GIL
+1883. GISMetaDataFileScanner
+1884. GMapWTP
+1885. GMindmap
+1886. GNAHB's Not A Handy Board Toolset
+1887. GNU Hyperbole: The Everyday Info Manager
+1888. GNU Web Expressions
+1889. GNU libiconv - character set conversions
+1890. GPL-Buch
+1891. GSI Translator
+1892. GTK2 Text Editor
+1893. GTR Language Workbench
+1894. GWAAU
+1895. GabeSoft
+1896. Galician dictionaries
+1897. Galileo-DAS
+1898. Garry's Mod Development Studio
+1899. Garuda
+1900. Gator Notes
+1901. Geany
+1902. GeanyEasyUnicodeInput
+1903. Gedit Extras
+1904. Gedit source code builder plugin
+1905. GeditChangelog
+1906. GemCat
+1907. GeminiR
+1908. GenDocWeb
+1909. General Purpose EDitor
+1910. Generic Code Browser
+1911. Generic Query Analyzer
+1912. Gigawords Counter
+1913. Ginipad
+1914. GlossMaker
+1915. Glyph
+1916. Goliath Adaptive Documentation Project
+1917. Gom Jabbar APIs
+1918. Gony
+1919. Good Text
+1920. Gorilla Grodd
+1921. Gorille
+1922. Gothe
+1923. Gotin-Edit
+1924. Graphal
+1925. Graveyard
+1926. Gravitas
+1927. Gravity IDE
+1928. Graynic Writer
+1929. GreekSMSWriter
+1930. GreenEditor.net
+1931. Grep GUI
+1932. Greppy
+1933. Groovy Monkey
+1934. Group - CCS - CodeCharge Studio
+1935. GroupSuite - Open web-based Groupware
+1936. Guarani
+1937. Gurmukhi Language Script Editor (GLanSE)
+1938. Gutenberg2iPod Convertor
+1939. Gutread
+1940. Gutschnell
+1941. GuzelTurkce
+1942. Gyrfalcon
+1943. Günlük
+1944. HAP Python Remote Debugger
+1945. HClean
+1946. HISPACEDIC
+1947. HOSTS Parser
+1948. HTML Massive Linker
+1949. HTML Optimizator
+1950. HTML Style By Header Mediawiki Extension
+1951. HTML Text Editor Applet
+1952. HTML Text Editor for Web Pages
+1953. HTML Wordprocessor for Java
+1954. HTML-Editr
+1955. HTML-Tidy Gedit Plugin
+1956. HTMLStrip
+1957. HTMLtools
+1958. HWX - The Perl IDE
+1959. HaXe Developement Tool (HXDT)
+1960. Hali-sy
+1961. HanDLight
+1962. HandyNotes
+1963. Harbour Development Tool for Eclipse
+1964. Harmony Application Platform
+1965. Haskell Internationalisation
+1966. Height Map Generator
+1967. HeirarchyHacker
+1968. Helium
+1969. Hellenic Open Office Project
+1970. Herkulez
+1971. HexFile-Viewer
+1972. HexLib - Java component for Hex-Editor
+1973. HickDocBook
+1974. Hierarchical Document System
+1975. Hierarchical Project Tree
+1976. Hieronymus
+1977. Highlight Code Editor with ANTLR
+1978. Hilbert II - QEDEQ
+1979. Hindi Encoder
+1980. HindiDict
+1981. Hippie Occurrences
+1982. Hitor
+1983. Hombre
+1984. HomeSite Extensibility Project (HEP)
+1985. Hosted Context-Sensitive User Help
+1986. Hotaru
+1987. Html DOM
+1988. Html Editor
+1989. HtmlOptimizer
+1990. Human AI Net
+1991. Humane Assembly Language Tools
+1992. Hurricane
+1993. Hydrus
+1994. Hyperbook: on-line hypermedia editor
+1995. I-Pod Libro
+1996. IDE for WAP Development
+1997. IFilter4j
+1998. IHF
+1999. IMA2 - Simple command-line editor.
+2000. INTA - Ipod Nano Text Adapter
+2001. INTELIMEN - WYSIWYG HTML Browser Editor
+2002. IPAT-S Scenario Scripting Language
+2003. ISLO Interface
+2004. ISMeralDa
+2005. ISO 2022 interpreter
+2006. ITf Unicode DB
+2007. IVJ Logger
+2008. IdentifierCache
+2009. Image Editor for Palm Devices
+2010. ImageCoder
+2011. InDE - Fast, pragmatic C++ IDE
+2012. Inedi - Inline Editor
+2013. Infantry Log Parser
+2014. InfinetriaInc
+2015. InfoDock: The Incredible IDE
+2016. Infocard Organizer
+2017. Information Manager
+2018. Inhaler
+2019. Inkjar
+2020. Inofficial YouTube™ Character Counter
+2021. Insert `require' lines in Ruby sources
+2022. Inshapardaz
+2023. Integradata
+2024. Intelli-Editor
+2025. IntelliClip!
+2026. IntelliClipse
+2027. IntelliJ File Maker
+2028. IntelliJ devUtil
+2029. IntelliX Java collaborative editor
+2030. Intellifeel
+2031. Intelligent Replace for Emacs
+2032. Intention Space
+2033. International Typer
+2034. InterpreterGUI
+2035. Interscript
+2036. Iron Lute
+2037. Isabelle/Eclipse
+2038. It Editor
+2039. J2ME Memopad
+2040. J2ME WordML Tools
+2041. JAIMLpad
+2042. JAPANIZED FOP
+2043. JAT's XEmacs setup files
+2044. JAVA Screenplay colaboration suit
+2045. JB21-WebAdmin
+2046. JBText
+2047. JBTransEditor
+2048. JBiblio
+2049. JBuilder Opentools
+2050. JCaseChanger
+2051. JClipClear (Java ClipClear)
+2052. JCopist
+2053. JCurricula
+2054. JCyrLatTransliterator
+2055. JDE Usages
+2056. JDEEP Eclipse Plugin
+2057. JDevelop
+2058. JDeveloper IDE External Filter Add-in
+2059. JDiff - HTML report of API differences
+2060. JDocumentOrganizer (jDORG)
+2061. JDraftPDF
+2062. JEditPlus
+2063. JFiglet
+2064. JFiki
+2065. JFileReader
+2066. JFindReplace
+2067. JFontChooser
+2068. JFormulaEditor
+2069. JHelpMaker
+2070. JLaTeX
+2071. JLearn
+2072. JLoom
+2073. JMWStudio
+2074. JManTools
+2075. JNC
+2076. JNotePad
+2077. JNotepad
+2078. JNotepad
+2079. JORG - Java Operational Robotics GUI
+2080. JPred Eclipse IDE Support Plugin
+2081. JPropsEdit
+2082. JQuick
+2083. JReferences
+2084. JReplace
+2085. JResEditor - Editor for Java resources
+2086. JRichTextEditor
+2087. JS Vim
+2088. JSDAI
+2089. JSP Documentation Generator
+2090. JSP template engine
+2091. JSQLEditor PL/SQL and PL/pgSQL Plug-in
+2092. JSSpellCheck
+2093. JScript Logic
+2094. JSeeD - Develop for Developers
+2095. JSnapScreen
+2096. JStream
+2097. JSubtitles
+2098. JTextEdit
+2099. JTextEncoding
+2100. JTidy for Eclipse Plugin
+2101. JTransliter 1.3
+2102. JWeb
+2103. JWrite 2.0
+2104. JX editor
+2105. Jacinth
+2106. Jacrobat
+2107. Jade
+2108. JaecTextArea
+2109. Jagossel's HTML Editor
+2110. JapText
+2111. Japanese Tools
+2112. Jase: a simple editor
+2113. JasperEdit
+2114. Java 4 SubRip
+2115. Java Charsets: context free, single byte
+2116. Java Converti Tracciati Record
+2117. Java Desktop Environment
+2118. Java Dict API
+2119. Java Docbook Transformer
+2120. Java Elucidator
+2121. Java Email Server (JES) Eclipse plug-in
+2122. Java Math Utils
+2123. Java Open Framework (JOF)
+2124. Java Research and Citation Assistant
+2125. Java Rich Text Processing Library
+2126. Java Search Tool
+2127. Java Simple Innovative LaTeX Environment
+2128. Java Text Categorizing Library
+2129. Java Text Formatter
+2130. Java Text Processing Framework
+2131. Java Transliterator
+2132. Java Weblog Client
+2133. Java Wiki/Webtrans
+2134. JavaCET - Java Code, Execution & Trace
+2135. JavaDude Eclipse Plugins
+2136. JavaScript Creole Wiki Markup Parser
+2137. JavaSketch
+2138. JavaTextEditor
+2139. Javacard Applet IDE
+2140. Javadoc Help for Emacs
+2141. Javascript plug-in modules (MOVED)
+2142. Javide
+2143. Jay's Secure Java Diary
+2144. JazzScheme
+2145. Jeckit
+2146. Jeddy
+2147. Jedi Program Editor
+2148. Jef Raskin's Humane Environment
+2149. Jessamine
+2150. Jikespg Grammar Editor
+2151. JinnIde
+2152. Jot-Dot
+2153. Jotter Editor
+2154. Joyster - Perl Interpreter for Java
+2155. JsWiki
+2156. JspClipse
+2157. Jump to usage plugin for IntelliJ
+2158. JuniorCoder
+2159. Jxt4NotePlusJ
+2160. Jxt4RunPlusJ
+2161. JyDT for Eclipse
+2162. KAKE PAD
+2163. KBDC
+2164. KC-Encoder
+2165. KCite Citation Assistant
+2166. KOMA-Script3
+2167. KSJEclipse
+2168. KTNotes
+2169. KXParse
+2170. KangEdit
+2171. Kanji Database Project
+2172. Karigari
+2173. Kathi's Test Project - 10-09-2007
+2174. KefirBB
+2175. Kemi mall
+2176. KeyBindings plugin for Gedit
+2177. Khawarizmi - Arabic Programming Language
+2178. KidsTextEdit
+2179. Killsoft HTML-Editor
+2180. KindEditor
+2181. Kneemail
+2182. KnowWE
+2183. Knowledge Acquisition Widget - kaw
+2184. Knowledge and Language Acquisition Model
+2185. Koala
+2186. Koala Notes
+2187. Kobra Notepad
+2188. Kobra Text
+2189. Koinonia
+2190. Kopyalama Panosu v1.0
+2191. Kraeuterh.exe
+2192. Krypton Document Tools
+2193. KtaWa
+2194. Kultin x TXT Editor
+2195. KuteEdit
+2196. LAN Log Parser
+2197. LANManWiki is not a milkman
+2198. LEMAC
+2199. LEP
+2200. LISPSQL
+2201. LM - Report Asistent
+2202. LaTeX Bond Graph Class
+2203. LaTeX Editing Tools
+2204. LaTeX Plugin For Eclipse
+2205. LaTeX SKB
+2206. LaTeX-Assistant
+2207. LaTeX2DocBook
+2208. LaTex Projector
+2209. LaTexEditor
+2210. Lack of Progress Bar plugin for Eclipse
+2211. LakhenPatra
+2212. Lambda HTML Editor
+2213. Language Constructor
+2214. Language Encoding System Converter
+2215. Laxe (Laxe Aint an XML Editor)
+2216. Lector
+2217. LeetGen
+2218. Leeter - Clipboard Confuser
+2219. Legong - Java IDE
+2220. Lekhar
+2221. Lekho
+2222. Leonardo Da Vinci
+2223. Leseratte
+2224. Lexi Java Word Processor
+2225. Lexicon Converter
+2226. LiMa
+2227. Libconffile
+2228. LibreLatex
+2229. Libronix Tools
+2230. Lichbavik
+2231. Lied
+2232. LilyPondBeans
+2233. LimpaSql
+2234. LinEd (line-ed)
+2235. Lingala NLP
+2236. Linguipad
+2237. LinkPaster
+2238. LinqYedict
+2239. Linspire Documentation Project
+2240. Linux Web Page Editor
+2241. Lit Find
+2242. LitEdit
+2243. Litera
+2244. LivCos
+2245. Lizaro Note ++
+2246. Locos
+2247. Log4j mode - view log files in Emacs
+2248. LogDruid
+2249. LotusScript Editor for Eclipse
+2250. LuaEclipse
+2251. LucED - The Lucid Editor
+2252. Lucian
+2253. Lucid HTML Editor
+2254. Lucidity - The en masse text editor
+2255. Luna Editor
+2256. LunaIDE
+2257. LunarEclipse
+2258. LyTeX - Portable LaTeX Suite
+2259. LyX for Windows
+2260. MADO TSUKAI NO YUUTSU
+2261. MAML
+2262. MATLAB in Emacs
+2263. MEDICAL BILLING FOR A PHARMA STORE
+2264. MEDevPascal
+2265. MIDletPascal 3 IDE
+2266. MIScha Flight Information System
+2267. ML-Edit
+2268. MLSDE
+2269. MML Project
+2270. MMM Mode
+2271. MOStlyCE
+2272. MR. Project
+2273. MRestTableEdit
+2274. MS SQL Server support for Eclipse DTP
+2275. MSEide+MSEgui
+2276. MSEide+MSEgui documenting
+2277. MSEuniverse
+2278. MTorus
+2279. MUDpad
+2280. MUTED - Multi-Use Text Encoder/Decoder
+2281. MYWORD
+2282. MYWORD
+2283. MacBibTk
+2284. MacroMachine
+2285. Maemopad+
+2286. Mail Archive and Interchange Format
+2287. Major Emacs editing mode for X12
+2288. Mako Template Editor
+2289. Man Page to DocBook XML/SGML Translator
+2290. ManMetAssembly
+2291. Manna IDE
+2292. ManualLog
+2293. MapServer Workbench
+2294. MarkTree
+2295. Markdownify
+2296. Markout
+2297. Marx Explorer
+2298. MashWriter
+2299. Masna - Team Text Translating Tool
+2300. Mass String Processor
+2301. Master's Little Helper
+2302. Math Converter
+2303. Matraca
+2304. Matrix2LaTeX
+2305. Maude Development Tools
+2306. Maven2 For Eclipse
+2307. Mavscript
+2308. MeMo
+2309. Meaterbase
+2310. MeckWiki
+2311. Media Portal Skin Flipper
+2312. MediaGlyphs
+2313. Medusa - subtitling solutions
+2314. MemoXP
+2315. Meno
+2316. Mer's 'Net Tab Converter
+2317. MergeRight
+2318. Messy Collaboration Framework
+2319. MetPad
+2320. Metafan
+2321. Metaquokka
+2322. MetroNote
+2323. MiMED
+2324. MiSt XML Editor
+2325. Michel Max - Clipboard Handler
+2326. Mickey Hex Editor
+2327. Micro Controller Development Environment
+2328. MicroTiger
+2329. Microsoft Word Editing Macros
+2330. Midnight Journal
+2331. Migma
+2332. Milena
+2333. Miller
+2334. MindMapEditor
+2335. Mini Journal
+2336. MiniRGSS-Editor
+2337. Minipad
+2338. Misha Public Press
+2339. Missile Body/Inlet Combined Design
+2340. Mml2B
+2341. Mobile i2e
+2342. MobileEdit
+2343. Model United Nations Meeting Recorder
+2344. Modulipse
+2345. Moink - PHP serialized data editor
+2346. MonkeyFish
+2347. Monoceros Properties Pad
+2348. Mopla
+2349. Morse Translator™ 2
+2350. MouseFeed Eclipse Plugin. Learn keyboard
+2351. Mouseless Scene Scriptor
+2352. Movable Python
+2353. Mp
+2354. Mpp Project
+2355. MsSQL Diff
+2356. Multi Languages Spell Checker
+2357. Multi-Line String Formatter
+2358. Multi-Po-Edit
+2359. Multi-Task
+2360. Multi-lingual vocabulary system
+2361. MultiText Editor
+2362. Multipad
+2363. Multiplayer Notepad
+2364. Murdoc documentation system
+2365. Murks!IDE
+2366. My Document Manager
+2367. My RSE Extensions - Eclipse Plugin
+2368. My Text is Treasure
+2369. MyBooklet
+2370. MyDE
+2371. MyEmacs
+2372. MyFTC
+2373. MyNotes V1.00
+2374. MyPad
+2375. MyPadDotNet
+2376. MySE
+2377. MySQL Devloper 2000
+2378. MyVar
+2379. Myanmar Unicode Conversion Help
+2380. Myghty - Python Templating Framework
+2381. Mystic Galaxies TypePad
+2382. NCL Eclipse
+2383. NES Devkit
+2384. NESide
+2385. NEchoes - spellchecking mode for NEdit
+2386. NGramJ
+2387. NHibernate Tools
+2388. NINE Is Not and Editor
+2389. NISIS2 Script Editor
+2390. NITESCO: DocBook Grown Fat.
+2391. NLChunker
+2392. NML - text/technical note markup parser
+2393. NOTEMAN2
+2394. NPC XML Creating Software
+2395. NPPFileTemplate
+2396. NSIS 4 NetBeans
+2397. NStudio
+2398. NT POSIX C Runtime Library
+2399. NXML Schema Pack
+2400. NaNoWriTool
+2401. NafEditor
+2402. Nalinam Anjal - Intelligent Tamil Input
+2403. Namelur random name generator
+2404. Ned
+2405. Negerns ACE for D
+2406. NeoJournal - The New Journal
+2407. NereCode
+2408. NetClipse - Eclipse embedded in NetBeans
+2409. Netstyler
+2410. New Lines and Spaces Processor
+2411. New NotePad
+2412. Newpad
+2413. NfoFix
+2414. NiceSearch
+2415. Nimble Dictionary
+2416. Nimc Instant Messaging Suite
+2417. Nimda Administration Panel
+2418. Nix2Win
+2419. Nonsense Software
+2420. Norwegian Thesaurus
+2421. Not Only Yet Another LaTeX Front-End
+2422. Nota
+2423. Notage
+2424. Note-It
+2425. Note13
+2426. NoteBar
+2427. NoteCafe
+2428. NoteCat
+2429. NoteMan
+2430. NotePADD LCARS Text Editor
+2431. NotePuppy
+2432. NoteTabs
+2433. NoteZone
+2434. Notebook
+2435. Notebook
+2436. Notebook
+2437. Notebook Mini
+2438. Notebook.NET
+2439. Notepad Extended
+2440. Notepad Java
+2441. Notepad for Smartphone 2003
+2442. Notepad#
+2443. Notepad++
+2444. Notepad++ Plugin Interface Library
+2445. Notepad.NET
+2446. NotepadX
+2447. Notepad²
+2448. Notes
+2449. Notes
+2450. Notes
+2451. Notes/Tasks
+2452. Notilo
+2453. Notions
+2454. Notizen
+2455. Notter
+2456. Noty
+2457. NovaX Home Application System
+2458. Novelang
+2459. NppOctave
+2460. NunniMJAX small and fast XML parser
+2461. Nutty IDE: A Squirrel Language IDE
+2462. Nymm - Programmable Text Generator
+2463. O.O.Pea
+2464. OCAL Helper
+2465. OCL development environment for Eclipse
+2466. OCaml Eclipse Plugin
+2467. OCamlPlugin
+2468. OCamlTeX
+2469. ODF-SVN
+2470. ODF-UOF Converter
+2471. ODFable
+2472. ODT Checker
+2473. ODT: OCaml Development Tools
+2474. ODoMoMoS
+2475. OEBpublish
+2476. OGSConverter (OGame report converter)
+2477. OLIN: The Online Information Network
+2478. ONESET
+2479. ONLINE NEWSPAPER
+2480. OO-TTS
+2481. OSCARS
+2482. OT-Manager
+2483. OTUPYACHIVATEL
+2484. OaK Notepad
+2485. Ober
+2486. Oberon2 Studio
+2487. ObjTeX
+2488. Object Library Documentation Project
+2489. ObjectBuilder
+2490. Occultation Resources
+2491. Office KPM
+2492. OfficeForAll
+2493. OfficeShare
+2494. Old Russian Spellchecker
+2495. Olshed
+2496. OmniMark mode
+2497. Onaima
+2498. One-Liner
+2499. OneStop
+2500. Oneliner -- Emacs shell mode
+2501. Onlie Editor for java
+2502. Online Form and PDF Form Maker
+2503. Online Journal (Records Mode for Emacs)
+2504. Online Text Editor (OnText)
+2505. OntoCardio
+2506. Onyx CE
+2507. Open Accessibile Information Processing
+2508. Open Cake File
+2509. Open Collaboration Editor
+2510. Open LBook
+2511. Open Office Server Daemon
+2512. Open Polish Language Dictionary
+2513. Open Source Asset Data Model
+2514. Open Source Book Collector
+2515. Open With Emacs
+2516. Open XP editor
+2517. Open-jACOB
+2518. OpenAdso
+2519. OpenBerg e-Book architecture
+2520. OpenCLAS
+2521. OpenCMS Ultimate HowTo Guide
+2522. OpenCarton
+2523. OpenDarkRoom
+2524. OpenLyric
+2525. OpenNotizblock
+2526. OpenOCD Eclipse Plug-in
+2527. OpenOffice untuk Bahasa Melayu
+2528. OpenOffice.org Subversion
+2529. OpenOffice.org XSLT Filters
+2530. OpenOffice2Docbook converter
+2531. OpenReport
+2532. OpenScholar
+2533. OpenSegment™ CAT Tool for Translators
+2534. OpenSourcePan
+2535. OpenSourceWord
+2536. OpenWebBuilder
+2537. OpenXML-UOF Converter Add-in for Office
+2538. Opengen Text Pad
+2539. OrangeSun Diary
+2540. Orkut Code Poster
+2541. Osmoz
+2542. Ouroboros Editor
+2543. OzoneFarm eCommunity
+2544. P2P WIKI - collaborative edition
+2545. PCE (now Kephra)
+2546. PDF Utilities
+2547. PDF-Layout-Designer
+2548. PDFTools
+2549. PDFizer
+2550. PDKB JavaLisp Implementation
+2551. PEP - Pair Eclipse Programming
+2552. PEditor
+2553. PGEditor
+2554. PHP Active Studio
+2555. PHP Configure
+2556. PHP Frequently Asked Questions - NetFaq
+2557. PHP IDE / Editor : dotView Visual Studio
+2558. PHP Newswriter 2005
+2559. PHP Refactoring Plugin For Eclipse PDT
+2560. PHP VerCon
+2561. PHP World Portal
+2562. PHP Yak
+2563. PHP unified diff patcher
+2564. PHP-Edit
+2565. PHP-Nuke Brasil
+2566. PHP-Purnaa
+2567. PHPGroupWorks
+2568. PHPSCH - Source Code Highlighter
+2569. PHPWebEdit
+2570. PHPWord
+2571. PIC IDE
+2572. PIDELA
+2573. PL/B support in jEdit
+2574. PLCEdit
+2575. POST (Python Obviously Simple Text)
+2576. PPCDJ
+2577. PPC_edit
+2578. PPC_edit Lite
+2579. PRADO Eclipse Editor
+2580. PRE2HTML
+2581. PRoff - Personal Roff
+2582. PSP Bookreader
+2583. PSPTed
+2584. PSPad cursor enhancement
+2585. PScriptIDE
+2586. Pablol's Sourceforge
+2587. Padclipse
+2588. Paige_Lite
+2589. Palamedes
+2590. Palette Order 4 AutoCAD
+2591. Palm TextSync Conduit
+2592. PalmEd
+2593. Pandereta
+2594. PangInput
+2595. Panglossa Translation Desktop
+2596. Panorama Log Analyser
+2597. Paper Editor
+2598. Param Editor
+2599. Pascal Evo
+2600. Pashtu Localization Project
+2601. PasswordNote
+2602. PatitoTextEditer
+2603. PatternPro Regular Expression Engine
+2604. PdfTags
+2605. PeerWriter
+2606. People Finder Code Base
+2607. Perfin
+2608. Perforce Team Provider
+2609. Pergamon
+2610. Perl Gtk2 Editor
+2611. Perl Text Editor
+2612. Personal Client
+2613. Personal Content Management Toolkit
+2614. Personal Webiste Editor
+2615. Peter
+2616. PeterHi Education Tools
+2617. Phiction Phreak
+2618. Phone Bill Parser
+2619. Phorminx
+2620. PhotoTool
+2621. Php ODT Reports
+2622. PiLoT Text Editor
+2623. Piece_IDE
+2624. PinguinoX
+2625. PipeDream (Colton Software)
+2626. Pisarz
+2627. Pizza Bestellprogramm
+2628. Platform Game Studio
+2629. PlatformX IDE
+2630. Plugins for the jext text editor
+2631. Pocket Visual Editor
+2632. PocketWiki
+2633. PodFetch
+2634. Poplog plugin for JEdit
+2635. Portapad
+2636. Portlet Plugin for Eclipse
+2637. Post Quality Checker
+2638. PovClipse
+2639. Power C++
+2640. Power Pencil
+2641. PowerBlog (archived)
+2642. PowerJournal
+2643. PregexEval
+2644. Prescrire
+2645. Pricedown GTA-font
+2646. PrintBraille
+2647. ProNotePad
+2648. ProTx
+2649. ProfiWiki
+2650. ProfileEdit
+2651. Programmers Extendable Text Editor
+2652. Project 2306 IDE Rad MacOS MCU DeveR
+2653. Project Browser
+2654. Project Mnemosyne
+2655. Projectrecibo
+2656. Projek Munsyi
+2657. Projeto Debian-BR
+2658. ProntoNote
+2659. Properties Editor Project
+2660. Pu239 C++ Developers IDE
+2661. PubMode
+2662. PukiWiki@Taiwan
+2663. Puma-Pad
+2664. Pure text to Docbook translator
+2665. Puxxul
+2666. PyCodebug
+2667. PyGecko
+2668. PyOpenOffice
+2669. PySed Module
+2670. PyWord
+2671. Pybtex
+2672. Python Gutenberg E-text Project
+2673. Python Korean Codecs
+2674. Python PEdit
+2675. Python Spelling Construction Set
+2676. Python programmers resourcer
+2677. PythonEdit
+2678. QAceEdit
+2679. QC++
+2680. QEniX
+2681. QNotepad
+2682. QNotepad
+2683. QUICKopen
+2684. QUML
+2685. Qsoft Writer
+2686. Qt-C++َ
+2687. QtBrief
+2688. QtFindReplaceDialog
+2689. QuickClip
+2690. QuickNote
+2691. QuickParser
+2692. QuickReplies
+2693. Quicktextviewer
+2694. QuillEdit
+2695. QuillTex
+2696. QvScriptEditor
+2697. QwikNote
+2698. RB37-Rubidium Perl Editor
+2699. RCodeLeveler
+2700. RELAX NG Integration for Eclipse
+2701. REd0 - Rabbadak's Edit0r
+2702. RFC converter
+2703. RIDE the Story
+2704. RING: The PHP-Gtk2 IDE
+2705. RLE and LRE easy tool
+2706. RLEMaker
+2707. ROae
+2708. RPG Toolkit Community Edition
+2709. RPTParse
+2710. RS Text Editor
+2711. RSane Publisher
+2712. RSciTE
+2713. RTE
+2714. RTE_MULTI
+2715. RTF2WEB
+2716. RTFAQ
+2717. RTFTemplateEditor
+2718. RUNG Jenerator
+2719. Railslide (RAILS Little IDE)
+2720. RapidMiner Information Extraction Plugin
+2721. Rapid_Text_Server
+2722. Raptr game list patcher
+2723. Ratex
+2724. RayReader (abandoned)
+2725. RayTracer v4.0
+2726. Readability Editor
+2727. Real Time Collaborative Editor (RTCE)
+2728. Realm
+2729. RebelEditor the best modular editor
+2730. RecentBufferSwitcher for jEdit
+2731. Recursive Search and Replace
+2732. RedEd
+2733. Redstring
+2734. ReelOffice
+2735. Refal.NET - Versatile Text Transformer
+2736. ReferenceGui
+2737. References bibliographic software
+2738. RefluxEdit
+2739. RegExView Eclipse plug-in
+2740. RegexSearch
+2741. RegexTestsuite
+2742. RegexTransformer
+2743. Remember The Things
+2744. RemoteEdit
+2745. RemoteIDE
+2746. Renpad Scribe
+2747. RentCar
+2748. Reopen Tabs gedit plugin
+2749. Replacehex
+2750. ResBundleEdit
+2751. Research Project Helper
+2752. Retriever Wiki
+2753. Reverse Words
+2754. Reversian
+2755. Rex Editor
+2756. RexEdit - powerful and fast text editor
+2757. RexRex
+2758. RichDoc Framework
+2759. RichTeX
+2760. RichTextEditor GM
+2761. Ride Guitar Tab Editor
+2762. Ring Ide
+2763. Rinle
+2764. Riup
+2765. Rizon Voice
+2766. Robowar-editor
+2767. Romaji-HK
+2768. Roman Life Manager
+2769. Roman Tasks
+2770. Romanzo
+2771. Rosetta Stone Library
+2772. Routeraide
+2773. Royz Vim/GVim Portable (Yet Another)
+2774. Ruby Refactoring Browser: Eclipse Plugin
+2775. Ruby Writer
+2776. Rumor for SBVR
+2777. Rune-City Rich Text Editor
+2778. RuviEdit
+2779. Ryf Text Formatter
+2780. S-Cms
+2781. S-soft TextPad
+2782. SAXY - A SAX XML parser for PHP
+2783. SAsmE - Smart Asm Editor for PIC micros
+2784. SBH Software
+2785. SBeaVeR - Business Modeller
+2786. SCUMM Developer
+2787. SDoc
+2788. SForge
+2789. SIDE
+2790. SILGraphiteControl
+2791. SIT Theatrical Lighting Projec
+2792. SL-Edit
+2793. SLAM Software Lifecycle Artefact Manager
+2794. SLAM-GTP
+2795. SLATE EDITOR
+2796. SLIP
+2797. SLW - Salva em Lista, do Word
+2798. SMF Mod Creator
+2799. SMall IDE (SmIDE)
+2800. SQL Converter
+2801. SRBA
+2802. SSJE
+2803. STAR-TUTOR
+2804. STED - Transliterator
+2805. STIHRS
+2806. SWRTJ
+2807. SWT HtmlEditor
+2808. SWediT - SWT-Based Text Editor
+2809. SaPhoTeKeyboard
+2810. SafeWrite
+2811. Salome
+2812. Samoyed
+2813. Sandman HTML Editor
+2814. Sanisis Office
+2815. Sarcoex's Game Engine
+2816. Saturn Language
+2817. ScDiary
+2818. Sced
+2819. SchemaWalker
+2820. Schematron Eclipse Plugin
+2821. SciEclipse
+2822. SciTECO
+2823. SciTE|Flash
+2824. Science Book
+2825. ScintWrapper
+2826. Scintilla Plus
+2827. Scintilla4Web
+2828. Scoof - Source code IP audit tool.
+2829. Scrabbler notepad
+2830. Scratchworks
+2831. Scribo
+2832. Scripped Desktop
+2833. ScriptEVAL
+2834. Scripter
+2835. Scriptor Scripteditor
+2836. Scriptoria
+2837. Scriptorium.pt
+2838. Scrum Vision
+2839. Search File Text
+2840. Secretary
+2841. Sectionalize HTML Documents
+2842. Secured Note
+2843. See Sharp Reports
+2844. Segurança de Redes
+2845. Select-SQL
+2846. SemAuth
+2847. SenezConsole++
+2848. Sentence Parser for Python
+2849. Sentences calculator
+2850. Serafettin Fonts
+2851. Serbian Cyrillic Babel Package
+2852. ServerEclipse
+2853. SfDT
+2854. ShadowPad
+2855. Shared Source Interactive Publishing Sys
+2856. SharpRSS
+2857. Shaxberd
+2858. Sheditor
+2859. Sheets Hypertext Environment
+2860. ShishKabab PHP IDE
+2861. ShortNotizer
+2862. ShortTalk (EmacsListen)
+2863. Shortcut Java
+2864. ShowFonts
+2865. Shuteye
+2866. Shuvro English to Bangla Converter
+2867. SiSMS
+2868. SidekickNotes
+2869. Siege Tools for Eclipse
+2870. SigZag
+2871. SignText: a written sign language editor
+2872. SignWriter Tiger
+2873. Silverlight Studio
+2874. SimTex
+2875. Simple Editor With Interpreter
+2876. Simple Feature Modeler
+2877. Simple Java Editor
+2878. Simple Java Source Editor
+2879. Simple Multi-Language Editor
+2880. Simple NFO
+2881. Simple Notes
+2882. Simple Text
+2883. Simple Text Codifier and Decodifier
+2884. Simple Text Editor
+2885. Simple Text Processing Library
+2886. Simple XML ManMachine Interface Language
+2887. Simple map
+2888. Simple to use but powerful XML Editor
+2889. SimpleEdit
+2890. SimpleJ
+2891. SimpleTextFormatter
+2892. SimpleWiki
+2893. Simplicity
+2894. Simply Dreaming
+2895. Simultaneous File Editor
+2896. Sindhi Virtual Keyboard (SVK)
+2897. Sistema de Venta de Pasajes
+2898. Site Update
+2899. SiteVision
+2900. Siva Sundram Pte Ltd
+2901. Skribler
+2902. SkunkDAV WebDAV Client
+2903. SkybuckODE
+2904. Slackbook pt_BR
+2905. Sliced Bread
+2906. SlickEdit PowerPack
+2907. SlideCopy
+2908. SlyHelp
+2909. Small on-line translator
+2910. SmarTex
+2911. Smart Protocol Decoder
+2912. Smart Tail
+2913. Smile eZ Publish Eclipse plugin
+2914. Snaga
+2915. SnipPad
+2916. Snow IDE
+2917. Softpad
+2918. Software for Thumb Drives
+2919. Software for at least Win32 and Linux.
+2920. SolarEclipse Development Tools
+2921. Sounder - Phonetic Spell Checker
+2922. Source Attacher
+2923. Source Engine .CFG Editor
+2924. Source Navigator NG
+2925. Source-Highlight-Qt
+2926. SourceHighlightIDE
+2927. SourceReader
+2928. SourceWriter
+2929. Sourced Editor
+2930. Souvenirs, conceptual file manager
+2931. Speditor
+2932. Speech Text Reader
+2933. Spellchecker : next generation
+2934. Sphere Suite IDE
+2935. Spirit
+2936. Spket
+2937. Splendid
+2938. Spnote
+2939. Spock Text Editor
+2940. Spool Slice
+2941. Spring IDE for Eclipse
+2942. Spring UI Plugin for Eclipse
+2943. SrcComDoc
+2944. Stack's Wiki
+2945. Standard IO SOFT Binary Translator
+2946. Star Micro
+2947. Star/OpenOffice SSP-Extensions
+2948. StarSub
+2949. StayOnTopTxt
+2950. Steak
+2951. Step
+2952. Sticky Royale
+2953. Story Cards
+2954. Story Editor
+2955. StorySurfer IWE
+2956. StringTemplate Eclipse Editor
+2957. Structured Text Authoring System
+2958. Struts-It
+2959. Stylish IDE Toolkit
+2960. StylusNotes
+2961. Su Lipi
+2962. SubEdit
+2963. SubShift
+2964. Sublime Text AMX NetLinx Plugin
+2965. SubsTogether
+2966. Subtitle Editor
+2967. Subtitle Translator
+2968. Subtitler MEA
+2969. Suneido
+2970. SuoJianSuoDe (SJSD)
+2971. SupasmIDE
+2972. Super-Strings Tool
+2973. SuperPad
+2974. SuperWaba IDE
+2975. Susync emacs synchronization suite
+2976. SutraReader
+2977. Sveccha - Free software in Telugu
+2978. Swift
+2979. SwitchHats
+2980. Sxmlcnv
+2981. Sybrain Framework1.0
+2982. SynUniHighlighter
+2983. SynWeb
+2984. SynX
+2985. Synhe
+2986. System Variables Display Eclipse Plugin
+2987. SystemSpecifyer
+2988. T.N.T. (The Note Taker)
+2989. TAB Editor
+2990. TAbiWord
+2991. TBG Engine Suite
+2992. TBlogger
+2993. TC5Edit
+2994. TCLTextEdit
+2995. TD Komut Robotu
+2996. TEILibrary
+2997. TEXO Security IdM
+2998. TF-IDF Measure
+2999. TKTEX
+3000. TLA#
+3001. TMG - Text Mining for german documents
+3002. TNCTabEditor
+3003. TNumEditBox: A C# Numerical Edit Control
+3004. TP Projects
+3005. TRichView HTML Import
+3006. TX CAT Tool
+3007. TXE - The XML Editor
+3008. TYRO
+3009. Tab Alert
+3010. TabBrowser
+3011. TabEditor
+3012. Tabitha
+3013. Table Driven Parser
+3014. TablePad
+3015. TagParser
+3016. Taiwanese Toolbox
+3017. Talapatram
+3018. TapWrite
+3019. Tasian Framework
+3020. Tatami
+3021. Tatar language support
+3022. Tcl Manual Markup Language
+3023. Tcl/Tk Xml Editor Component
+3024. TeXPerfect
+3025. TeXTrommel
+3026. TeXfactory
+3027. TeXi
+3028. TeXlib
+3029. TeXpress
+3030. Teacher's Planner
+3031. TeamWord
+3032. Ted Nelson's GZigZag
+3033. TeddyBearNotes
+3034. TelosPad
+3035. Templar
+3036. Template Menu For Emacs
+3037. TemplateFx
+3038. Terese OCR verifier
+3039. Terminal Properties auto-detection lib
+3040. Test&Go Developer
+3041. Test88
+3042. TestProject
+3043. TetraPack
+3044. TetraTools
+3045. TexBeans
+3046. TexiDoclet
+3047. Text & L10N tools
+3048. Text Edit Applet
+3049. Text Editor 1.0
+3050. Text File Viewer
+3051. Text Interface designer for xharbour
+3052. Text Lexer
+3053. Text Manipulation Tools
+3054. Text On
+3055. Text Pad
+3056. Text Statistics and More
+3057. Text XP
+3058. Text Zap
+3059. Text encoder/decoder
+3060. Text-IT!
+3061. Text2Any
+3062. Text::Highlight
+3063. TextAdder
+3064. TextCenter
+3065. TextCollect
+3066. TextDalek
+3067. TextDoc Compare Utility
+3068. TextDump
+3069. TextEdit
+3070. TextEdit 2015
+3071. TextEditorC#
+3072. TextEncryption
+3073. TextFormater
+3074. TextLayout
+3075. TextLite - Python Text Editor
+3076. TextMeld
+3077. TextOps Notepad
+3078. TextPad Eclipse
+3079. TextViewer
+3080. TextWrite
+3081. Textbook
+3082. Textfile Manipulation Tool
+3083. Textful
+3084. Textile
+3085. Texto 2008
+3086. Textpad - Live Source Browser
+3087. TextureManager for PovClipse
+3088. TezEDIT
+3089. ThaniThamizh
+3090. The Builder plug-in
+3091. The DTDeconstructor
+3092. The DragonFly Project
+3093. The EDGE Markup Language project
+3094. The Editor Pattern Repeater
+3095. The Forest Project
+3096. The I Preprocessor
+3097. The Insidious Big Brother DataBase
+3098. The Monster Journal
+3099. The Note Taking Tool (TNTT)
+3100. The OO-Browser: A Great OO Code Browser
+3101. TextMeld
+3102. TextOps Notepad
+3103. TextPad Eclipse
+3104. TextViewer
+3105. TextWrite
+3106. Textbook
+3107. Textfile Manipulation Tool
+3108. Textful
+3109. Textile
+3110. Texto 2008
+3111. Textpad - Live Source Browser
+3112. TextureManager for PovClipse
+3113. TezEDIT
+3114. ThaniThamizh
+3115. The Builder plug-in
+3116. The DTDeconstructor
+3117. The DragonFly Project
+3118. The EDGE Markup Language project
+3119. The Editor Pattern Repeater
+3120. The Forest Project
+3121. The I Preprocessor
+3122. The Insidious Big Brother DataBase
+3123. The Monster Journal
+3124. The Note Taking Tool (TNTT)
+3125. The OO-Browser: A Great OO Code Browser
+3126. The Omni Project
+3127. The PakNet Project
+3128. The Plyme Collaborative Editor
+3129. The Ptolemy Language
+3130. The Pythonic Translator
+3131. The SITE
+3132. The Sark RTF Pad
+3133. The Simple TeX Editor
+3134. The Song Press
+3135. The Squealer
+3136. The Tiny Document Ginsu Knife
+3137. The Wawawiki Diary, Torrent Hound
+3138. The Wisdom Seeker Initiative
+3139. The Wood
+3140. The `fmtt` formatter
+3141. The algorithms package for LaTeX
+3142. The grinj
+3143. The zaubertrank
+3144. TheSeeker
+3145. Theca
+3146. Think Python
+3147. Think3D
+3148. ThoughtStack
+3149. Thout Reader
+3150. TiddlyWin
+3151. Tidy Wrappers
+3152. Tiger (Scratch modification)
+3153. Tigerleaf
+3154. Tigre Bic Editor
+3155. Tiki 2
+3156. TimEditor
+3157. Tinboy Notetaking
+3158. Tint Emacs
+3159. Tiny Notes
+3160. Tiny Notes
+3161. TinyHTML Editor
+3162. TinyMCE
+3163. TinyMCE image uploader
+3164. TinyParser
+3165. TinyPhpEd
+3166. TinyText
+3167. TkHexEditor
+3168. ToTem developper studio
+3169. Today
+3170. Together Mapping File Generator
+3171. TomcatTonto
+3172. Tongsaan
+3173. TopText
+3174. Total Collector
+3175. TotalEditor
+3176. TouchCursor
+3177. Traditional Chinese To Simple Chinese
+3178. Traditional Mongolian Text Editor
+3179. Tradução BR Dungeon Siege 2 - BW
+3180. Tradução BR Titan Quest Anniversary
+3181. Traduзгo do Manual do PHP para Portugu
+3182. TraitRecordJ
+3183. TransHelp
+3184. TransLength
+3185. Transaction
+3186. Transcriber
+3187. Transcribo
+3188. Translation Text
+3189. Translator Plus
+3190. Transpo
+3191. Traumpalast
+3192. Traveler's command centre
+3193. TrayNotes
+3194. Tree Editor for Java
+3195. Tree View (with HTML-Kit Support)
+3196. Treex
+3197. Trim Lines
+3198. TruBlog: The true weblogging
+3199. Tubaina
+3200. TubePress
+3201. Tubepad
+3202. Tunp!
+3203. Turkish Phillips Curve
+3204. Tux Print
+3205. Tux Writer
+3206. TuxGuitar
+3207. Twepuo
+3208. Two Heads
+3209. Txor
+3210. Type Electric
+3211. TypeFight
+3212. TypeMe
+3213. Typesetting Persian in XeTeX
+3214. UEditor
+3215. UGrammar
+3216. UIUCide
+3217. UML#
+3218. UML-Xchange
+3219. UNTFnotepad
+3220. UProm for Agile Development
+3221. URL Forger
+3222. USPTO patent html text to Framemaker MML
+3223. Ub3rMath
+3224. Ukrainian Linux applications
+3225. UltraStar Song Editor
+3226. Umber Tools
+3227. Underwood - JavaScript Richtext Editor
+3228. UniView
+3229. Unicode Applet for Amharic
+3230. Unicode Builder
+3231. Unicode Translator for Indian Languages
+3232. Unified Character Recognition
+3233. Unified Wiki Help
+3234. Universal Grammar Editor
+3235. UniversalIDE
+3236. User Tagged Editor [UTE]
+3237. VB Drag Drop File Listing to Text
+3238. VBA Latex equation
+3239. VBDOX Visual Basic AddIn
+3240. VCF Builder IDE
+3241. VI Document Generator (VidGen)
+3242. VIDK (Virtual Item Development Kit)
+3243. VIMWeb - Web Creation Macros
+3244. VXML extention to Dreamweaver
+3245. VairuX Xphere IDE
+3246. Valentine
+3247. Validator for ODF Accessibility
+3248. Vamsys PerlSourceProtector
+3249. VbSyntaxHighlight
+3250. Ve-EDIT
+3251. Verbosio XML Editor
+3252. VermelEdit
+3253. VermelEdit
+3254. Versatile OCR
+3255. Very Simple Text Editor
+3256. Vi Plugin for Eclipse
+3257. Vi Vim for netbeans
+3258. ViKeyboard
+3259. ViSTeX
+3260. ViVi ver 5.0 Free
+3261. ViVim
+3262. ViVs - Vi Emulator for Visual Studio
+3263. ViX
+3264. Vide - VIM IDE
+3265. VideoWriting
+3266. VietIME
+3267. VietTypingModule
+3268. Vietnamese IT - Developers
+3269. View Builder
+3270. Vim Add-In for Microsoft Outlook
+3271. Vim Crestron IDE
+3272. Vim Documentation (Indonesian)
+3273. Vim's Russian Documentation
+3274. Vim-Rails
+3275. Vim4J - VIM fork with a Java AWT GUI
+3276. VimWin
+3277. Vimtool
+3278. Virtual Keyboard for BlackBerry PlayBook
+3279. Virtual Machine with Trac+CruiseControl
+3280. VirtualDJ Skin Resizer
+3281. Visai Neri
+3282. Visual Ant Editor
+3283. Visual C++ mode for (X)Emacs
+3284. Visual Database IDE
+3285. Visual FUPROLAN
+3286. Visual Formula
+3287. Visual TLA
+3288. VisualExtender
+3289. VisualGameBuilder - The Cosmic Project
+3290. VisualHAM
+3291. VmFormatter
+3292. VoLT - Volker's LPC Tool
+3293. Vocatout: the learn vocabulary project
+3294. VorTeXt
+3295. Vyasa Multilingual Text Editor
+3296. WBuilder
+3297. WERD - phonetic transliterator to Indic
+3298. WIDEPage
+3299. WS-CDL Eclipse
+3300. WTF Engine (Wiki Text Formatting Engine)
+3301. WWriter JSE v.: Benetnasch
+3302. WYMeditor
+3303. Walter
+3304. Wanted - WANton Text EDitor
+3305. Watermelon Editor
+3306. Web Based Multi-User Document Editor
+3307. Web Content Management Element
+3308. Web Development Tools for Eclipse
+3309. Web Help Designer
+3310. Web IDE / Command Line interface
+3311. Web Node Structure
+3312. Web Of Web
+3313. Web Office Suite
+3314. Web Operating System (WOS)
+3315. Web Project
+3316. Web Syntax Highlighter
+3317. Web XML Editor
+3318. Web based OS
+3319. Web files upload watcher
+3320. Web notepad
+3321. Web system for ASPects
+3322. Web-Studio
+3323. Web-based BibTeX manager
+3324. WebBTeEd
+3325. WebClips
+3326. WebDevStudio
+3327. WebIDE
+3328. WebIEdit
+3329. WebTide Web IDE
+3330. WebWorks Help 4.0 - Patch for Safari
+3331. Webitor - Web based text editor
+3332. Webrew - Web authoring in Hebrew
+3333. Wed, Windows Text Editor
+3334. Wiki based note taking system
+3335. Wiki.Lite
+3336. Wiki2TEI
+3337. WikiChemboxTranslate
+3338. WikiDO
+3339. WikiDrugboxTranslate
+3340. WikiLaTeX: A Wiki editor for LaTeX
+3341. WikiViz
+3342. Wikia Formatter
+3343. Wikiexe
+3344. Win SDCC IDE
+3345. WinBlit
+3346. WinEdit
+3347. WinMergeX
+3348. WinTailViewer++
+3349. WinTeni Vietnamese Input Method
+3350. WinTranslit
+3351. WinTriangle
+3352. WinXTail: Graphical tail for Windows
+3353. Windows Control Program
+3354. Winformation
+3355. Wings of Fire
+3356. Winmacs
+3357. Winnetou
+3358. Wixgine
+3359. WoW Addon Studio
+3360. Woody
+3361. Word Bitmap Converter
+3362. Word Count
+3363. Word Html 2 Formatting Objects
+3364. Word.Net
+3365. Word2Wiki
+3366. WordCounterLite
+3367. WordGL
+3368. WordGrinder (obsolete)
+3369. WordHTML(Convert Word to HTML)
+3370. WordNet Flash
+3371. WordPod
+3372. WordUp Русская версия
+3373. WordWrap-macro
+3374. WordXML
+3375. WorkDiary
+3376. WorkingWiki
+3377. Write-A-Novel
+3378. WriteWare
+3379. Writer's UnBlock
+3380. WriterCloudTexts
+3381. WuW - WebWriter canidate for Coranto
+3382. X Builder
+3383. X Integrated Development Environment
+3384. X-Men - an XML plugin for Eclipse
+3385. X-Symbol for WYSIWYG in Emacs
+3386. X11 Desktop for 640x480 16MB
+3387. XDP To XSL-FO
+3388. XEmacs Editor IDE Lang Mail News OS
+3389. XHTML+CSS Native Word Processor
+3390. XKeymacs
+3391. XM tool
+3392. XML Highlighter
+3393. XML To User Interfaces (xml2ui)
+3394. XML Tree Notes
+3395. XML editor customization
+3396. XML library for DB/C DX
+3397. XML-Lit
+3398. XML-based Variant Configuration Language
+3399. XML-edit
+3400. XML/TA library for glib2 and pcre
+3401. XMLChecker
+3402. XMLDesigner
+3403. XMLTester - black box functional testing
+3404. XMLTranslator
+3405. XMLoverXSD
+3406. XMLzarf
+3407. XNotar
+3408. XNoteBoard
+3409. XPHP Visual Editor
+3410. XSL Developer
+3411. XSLT-process - Emacs XSLT process/debug
+3412. XSLTester
+3413. XTypeS
+3414. XUXEN Kode Irekian
+3415. XWM: XML with Macros
+3416. XamlCreator
+3417. Xax: Custom Compendium Manager
+3418. XcUBE - XUL Unified Build Environment
+3419. XiMoL
+3420. Xiaoning's diary
+3421. XicalXML-Editor
+3422. Xilize
+3423. Xtraitj
+3424. XulBooster
+3425. YAMLIT
+3426. YARG
+3427. YAWE
+3428. YRX
+3429. YaPIE
+3430. Yagel FastForm
+3431. YagpoOCRUnicode c++library
+3432. Yamlak YAML Editor plugin for Eclipse
+3433. Yapuka
+3434. Yet Another Befunge93 Interpreter
+3435. Yet Another Cool IDE
+3436. Yet Another Meeting Assistant
+3437. Yet Another Screen Editor
+3438. Yet another LUA Editor
+3439. Yomin
+3440. YouWrite
+3441. Youtube plugin for FCKeditor
+3442. Z80 plugin for eclipse
+3443. ZA7 Authoring Assistant
+3444. ZBook
+3445. ZCPUPad
+3446. ZWebEdit
+3447. Zed
+3448. ZipDB
+3449. Zoho plugins
+3450. Zx Templatez
+3451. Zycode
+3452. [BB]Tag Editor
+3453. aText Editor
+3454. aWireframeML
+3455. adnNotepad
+3456. alinouc sentence aligner
+3457. almo3arrib
+3458. amidala
+3459. angeljuice
+3460. ant_latex
+3461. antigrator
+3462. aqtools Tcl/Tk app suite
+3463. asmdev
+3464. atariXE IDE
+3465. au3-mode
+3466. authorman
+3467. awl
+3468. bed
+3469. bibgrep
+3470. binreplace
+3471. blog-txt
+3472. bracetax
+3473. brePHP - PHP editor for Windows
+3474. bscite - brief for scintilla
+3475. bugaboo
+3476. calculatorpp
+3477. casefix
+3478. casi-mode
+3479. cathtml.sh
+3480. change
+3481. chapterEnv
+3482. chinook, SVG export from powerpoint
+3483. chmosx
+3484. chopro2anything
+3485. cjkve
+3486. clip5 text clipboard manager
+3487. clippad
+3488. code-compress
+3489. codeSlinger
+3490. codehighlight
+3491. codepoems
+3492. collabEdit
+3493. column to row
+3494. conteXt
+3495. conversion of jpg files to ascii text
+3496. copperfield
+3497. copyeah
+3498. crazyEDITOR
+3499. creole/c
+3500. crf decoder
+3501. crookes
+3502. cruise
+3503. csart - Clever-Search-And-Replace-Text
+3504. cscopetrim
+3505. cssMonkey
+3506. csvplus - utilities for csv files
+3507. csvtoxml
+3508. dBlog
+3509. dace
+3510. dblup (DocBook to LaTeX using Perl)
+3511. degaloma
+3512. differ
+3513. dotNEdit
+3514. dotnetmaker
+3515. dumb's OutPage
+3516. eArea
+3517. eBook plugin - Notepad++ & txt2audio
+3518. eBookFormatter
+3519. eBookTools
+3520. eBookmarks
+3521. eDesk System
+3522. eMoney
+3523. eNoteBook
+3524. eSMS, SMS Service from (X)Emacs
+3525. eXForge
+3526. crookes
+3527. cruise
+3528. csart - Clever-Search-And-Replace-Text
+3529. cscopetrim
+3530. cssMonkey
+3531. csvplus - utilities for csv files
+3532. csvtoxml
+3533. dBlog
+3534. dace
+3535. dblup (DocBook to LaTeX using Perl)
+3536. degaloma
+3537. differ
+3538. dotNEdit
+3539. dotnetmaker
+3540. dumb's OutPage
+3541. eArea
+3542. eBook plugin - Notepad++ & txt2audio
+3543. eBookFormatter
+3544. eBookTools
+3545. eBookmarks
+3546. eDesk System
+3547. eMoney
+3548. eNoteBook
+3549. eSMS, SMS Service from (X)Emacs
+3550. eXForge
+3551. eXMLd
+3552. eXstacy Downloader
+3553. eXtreme Development Environment
+3554. eZclipse
+3555. easyMacro
+3556. ecleTeX
+3557. eclipseTools
+3558. editor(+encoding detect. and convertion)
+3559. edp: Eiffel Design Project (IDE)
+3560. eed
+3561. elMake
+3562. emacs-bin
+3563. encdecplugin
+3564. entropy-emax64
+3565. eon
+3566. etach
+3567. etherpaste
+3568. evocam
+3569. farsi-commons
+3570. fasttran
+3571. fblatesthtmleditor
+3572. filthy Editor
+3573. flauxtext
+3574. flexwiki-contrib
+3575. fmPython
+3576. eXMLd
+3577. eXstacy Downloader
+3578. eXtreme Development Environment
+3579. eZclipse
+3580. easyMacro
+3581. ecleTeX
+3582. eclipseTools
+3583. editor(+encoding detect. and convertion)
+3584. edp: Eiffel Design Project (IDE)
+3585. eed
+3586. elMake
+3587. emacs-bin
+3588. encdecplugin
+3589. entropy-emax64
+3590. eon
+3591. etach
+3592. etherpaste
+3593. evocam
+3594. farsi-commons
+3595. fasttran
+3596. fblatesthtmleditor
+3597. filthy Editor
+3598. flauxtext
+3599. flexwiki-contrib
+3600. fmPython
+3601. folders4cmake
+3602. format.vim
+3603. fos4cdt
+3604. foxtrot
+3605. fs
+3606. fsharp-mode
+3607. gDiary
+3608. gPascal
+3609. gSourceEdit
+3610. gba_ide
+3611. gbpad
+3612. gdttla
+3613. gedit session autosaver plugin
+3614. gedit-tabindent
+3615. geek rescue kit
+3616. gengetopt_eclipse
+3617. gentlejack JSON-RPC 2.0 Client
+3618. ghostword
+3619. glEdit
+3620. glark - grep-like file searcher
+3621. goHTML
+3622. gplBuch
+3623. grapht - Perl Plotting and Analysis
+3624. h2pe
+3625. hIDE (Heterogeneous IDE)
+3626. haste
+3627. heissluftballonbauanleitung
+3628. herman
+3629. hevi
+3630. hitorigoto - soliloquy chat tool
+3631. hjt2yank
+3632. hlv
+3633. hoglet - Easy markup for Documentation
+3634. hrlatex
+3635. html-ebook
+3636. humanoid : the android studio
+3637. hyperwiki
+3638. i
+3639. i-bear personal library
+3640. i18n core elements
+3641. i3SP Emacs Lisp Setup
+3642. i3SP Open Source Projects
+3643. iDocs
+3644. iGanizer
+3645. iNEWS SOT Entry
+3646. iNote
+3647. iPublish XE
+3648. iText Tutorials
+3649. iText® 5 .NET, a .NET PDF library
+3650. ibibproc
+3651. icaoXML-Editor
+3652. idea_stringmanip
+3653. ideaimporter
+3654. ideo
+3655. imsearch
+3656. ionPulse
+3657. isbntools
+3658. itextXML
+3659. j-mode
+3660. j2moose
+3661. jBackBrowse
+3662. jClipper
+3663. jCoder - Portable Java Coding
+3664. jCryptPad
+3665. jEdit Ruby Editor
+3666. jEdit Syntax Package
+3667. jEdit Syntax Package
+3668. jEph
+3669. jLibris eBook Reader
+3670. jLyrics
+3671. jMatchParser
+3672. jNPad
+3673. jNoteBook
+3674. jNoteP
+3675. jPDFmelange
+3676. jPad
+3677. jText2PDF
+3678. jTranslit
+3679. jarsearch
+3680. jeHep
+3681. jeditaddons
+3682. jfEdit
+3683. joy of text
+3684. jpad
+3685. jraf
+3686. js-test-el
+3687. jsph.fr
+3688. jtags - enhanced tags lookup for Java
+3689. jtr
+3690. jvim a java "Vi IMproved"
+3691. k2powercode
+3692. kOS IDE
+3693. kebap nedit IDE
+3694. kermit
+3695. kernel-config-eclipse-plugin
+3696. kit26a-books
+3697. koala IDE for kids
+3698. krazyRails
+3699. l'Editeur SQL
+3700. larbac
+3701. latex2png4java
+3702. latexdiff
+3703. latweightex
+3704. leJOS Visual Interface
+3705. leettranslator
+3706. lib45 String Search Library
+3707. libLineIO
+3708. libcwk
+3709. libpdf
+3710. lilyglyphs
+3711. linuxdoc.org
+3712. listtext_chung
+3713. litersta
+3714. lojread
+3715. loutipse
+3716. lsp2html
+3717. m-ed
+3718. mPGP
+3719. macronym4word
+3720. majix
+3721. mamba
+3722. man2dbk
+3723. markdown wysiwyg
+3724. math2braille
+3725. mcuStudio
+3726. mecasp
+3727. med unix text editor
+3728. mfeclipse
+3729. midea string api
+3730. mindXwiki
+3731. mini1pad
+3732. miniXmlParser
+3733. mini_Edit
+3734. mofar
+3735. mollana
+3736. mpybtex
+3737. mpyeditor
+3738. mreftex
+3739. msn letter generator
+3740. mule-gbk
+3741. myPHPed
+3742. mylittletools
+3743. myseg
+3744. myzed programmer's editor
+3745. n-squared text editor
+3746. nCoder -Portable .NET Coding Editor
+3747. nO Webdesign software
+3748. nText
+3749. nanoWIME
+3750. nanoide
+3751. nbCheckStyle
+3752. netGpad
+3753. next-ryf
+3754. nextString
+3755. nfactor
+3756. nick: fast, simple nick changer
+3757. nlconvert
+3758. npipe
+3759. nppProjectViewer
+3760. nppScripting - Lua-scripted Notepad++
+3761. nppSmartEdit
+3762. null
+3763. numbers&numerals (PL)
+3764. oEdtk - automated printing processing
+3765. oc4ware
+3766. oc4ware (old)
+3767. ocamldocru
+3768. ogEditor
+3769. ogurb
+3770. okeditor
+3771. omycron
+3772. open source screenplays
+3773. open-tamil
+3774. openDTDAgent
+3775. openJDiary
+3776. openMOcr
+3777. openWYSIWYG
+3778. openedito
+3779. openoffice-portable
+3780. oroede
+3781. orth
+3782. padnote
+3783. pdfplayground
+3784. pedit - A PHP-Powered Text Editor
+3785. peerPOD
+3786. php ascii editor
+3787. phpCMD
+3788. phpEditMe
+3789. phpGedel
+3790. phpMyLingvo
+3791. phpMyResume
+3792. phpRTE
+3793. phpSiteKeeper
+3794. phpTE
+3795. phpXIedit
+3796. phpftp.net
+3797. phplive
+3798. phpman
+3799. phpmode
+3800. phpmole-ide
+3801. phpnotepad
+3802. phpole
+3803. picco
+3804. pintact
+3805. pisee
+3806. pl-sql-editor
+3807. pml-mode for Emacs
+3808. png2mirc
+3809. portable Perlish EDitor
+3810. pothED
+3811. preTeX
+3812. psvn-svk.el
+3813. pubfind
+3814. publication system doc-x
+3815. pyBlog
+3816. pyLJclient
+3817. pyedit python text editor
+3818. pykit
+3819. pykte
+3820. pynote
+3821. pysed
+3822. pytidylib
+3823. q-var
+3824. qFindReplacePreview
+3825. qbTeX - A platform independent LaTeX IDE
+3826. qnote
+3827. querylog
+3828. quickdoc
+3829. rcirc-x
+3830. rdfx
+3831. reStructuredText
+3832. region oriented ascii processor
+3833. regular expression parser
+3834. rib-mode
+3835. richhtml4eclipse
+3836. rtf2xml: convert MS RTF to XML
+3837. ru-wiki
+3838. russian-names-decliner
+3839. sIDE (simple IDE)
+3840. sMesh
+3841. sallapam
+3842. sar
+3843. savetext
+3844. sbs-workshop
+3845. scHelp
+3846. scintillakr
+3847. se
+3848. secax secured editing
+3849. see A Software Editing Environment
+3850. see through illusions w. vector graphics
+3851. semester projekt, dm63
+3852. sfsdf
+3853. shabdashilpa Kannada Editor
+3854. silpentree
+3855. skEditor
+3856. sku585 xml builder
+3857. snipplr4e
+3858. societywow
+3859. source insight expand
+3860. spaden
+3861. speech2key
+3862. srgrass-bloknot
+3863. srt timing tool
+3864. srt.el
+3865. srtmod
+3866. student win98 tester
+3867. subtex
+3868. subtitle-corrector
+3869. swteditor
+3870. symbol
+3871. tabler
+3872. tadsdev
+3873. tease (text editing and scripting env)
+3874. teian
+3875. teretere: cocorails + banana on Eclipse
+3876. tex4cream
+3877. texiteasy
+3878. text replace case insensitive c# vb.net
+3879. text-to-GO
+3880. textbender
+3881. textpro
+3882. the simplest text viewer
+3883. thine
+3884. tianma-mmis
+3885. tiniconv - charset conversion library
+3886. tinpy - tiny python template
+3887. tiny-hyphenator
+3888. tinynotebook
+3889. tje
+3890. tkbook
+3891. tolstoj
+3892. torque-ide (TorqueSCRIPT Editor)
+3893. txt2tags-win
+3894. txt2tagsEditor
+3895. txtselect
+3896. txtspeech: A Text to Speech Application
+3897. txt转epub工具
+3898. typewriter-net
+3899. u4urdupad
+3900. uLyricsBox
+3901. uOffice
+3902. uniqoda
+3903. unix2windows
+3904. vCSVLib
+3905. vCard Manager
+3906. vIDE
+3907. vOOcabulum
+3908. vaaradhi
+3909. vc-clearcase
+3910. ved
+3911. vee, the no conf commandline blog thing
+3912. vidya
+3913. vim
+3914. vim-qfn
+3915. vimtrainer
+3916. vlog-mode
+3917. vo_recipes
+3918. votação
+3919. waX Me Lyrical
+3920. wc3sdk
+3921. wc3vbcode
+3922. wchords-client
+3923. wchords-client
+3924. web-macro-Processor
+3925. webEd - Web Based Editing Environment
+3926. webform2csv
+3927. weta
+3928. wiki2tex
+3929. wikiX
+3930. wlTool
+3931. wordMint
+3932. wordaxe
+3933. wordcheck
+3934. wording check of documents and source
+3935. writenaturally
+3936. writex pro
+3937. wuvenime - Shanghainese/Wu script IME
+3938. wxApps
+3939. wxDevStudio
+3940. wxDeveloperStudio
+3941. wxOutliner - Outliner based on wxWindows
+3942. wxPage2Stage
+3943. wxParser
+3944. wxReSTedit
+3945. wxWorkshop
+3946. x32lab
+3947. xBB - library for parse BBCode
+3948. xMxmlCompiler
+3949. xReplace Procedural Text Editor
+3950. xSiteable
+3951. xWrite
+3952. xamoom
+3953. xlml
+3954. xml2rtf: convert XML to Rich Text Format
+3955. xmlj
+3956. xmlpunteador
+3957. xsbrowser
+3958. xslide Emacs mode for XSL stylesheets
+3959. xtr
+3960. xvi, a portable multi-file text editor
+3961. xwidglets
+3962. yahe
+3963. yanam
+3964. yawcc - Yet Another WC Clone
+3965. yeziq
+3966. yuewei
+3967. z390-mode
+3968. zClipse
+3969. zETJava
+3970. zPad
+3971. zopt
+3972. zpEdit
+3973. ~sightRipple
+3974. µsli
+3975. ÄG cling - kursmaterial
+3976. ČharCönvěr - character set converter
+3977. ŤType-o-graphť
+3978. 千佳 ANSI轉HTML
+3979. 好书阅读器 VReader
+3980. 睿腾心情加密器
+3981. 题库
+3982. 
+3983. 
+3984. 
+3985. Clipboard manager
+3986. HTML Maker
+3987. JPDF Tools
+3988. LargeFileViewer
+3989. Mass Text Replacer
+3990. PdfEbookCutter
+3991. Research Description Language (RDL)
+3992. Simple Text Search & Replace
+3993. Snippet Manager
+3994. wordTabulator
+3995. AnyEdit
+3996. DDMoRe
+3997. NFO Generator
+3998. WordIt!
+3999. XML Doctor - Schema/DTD Based XML Editor
+4000. Hex Editor
+4001. JGloss
+4002. Jed's Ini Editor
+4003. Word Cipher - Encryption/Decryption tool
+4004. AS Development Tools (ASDT)
+4005. SQlite Designer
+4006. ER_Bangla Unicode Keyboard Layout
+4007. Cobos Project
+4008. Prolog Development Tools (ProDT)
+4009. transpose
+4010. Ghostscript Studio

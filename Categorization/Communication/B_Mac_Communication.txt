@@ -1,0 +1,304 @@
+1. Grasshopper
+2. LogMeIn Rescue
+3. RingCentral Video
+4. CallRail
+5. Brosix
+6. Routee
+7. 3CX
+8. CloudTalk
+9. Balto
+10. Pexip
+11. Accelevents Virtual Events
+12. VirtualPBX
+13. T-Max Predictive Dialer
+14. VND PBX
+15. T-Max Phone Systems
+16. Insider Telecom
+17. Crises Control
+18. My Call Cloud
+19. Crossware Mail Signature
+20. MegaDialer
+21. Zoom Meetings & Chat
+22. Slack
+23. Microsoft 365
+24. Skype
+25. TeamViewer
+26. WhatsApp
+27. Panopto
+28. Telegram
+29. Discord
+30. Proficonf
+31. Versature
+32. BirdEye
+33. Shift
+34. Yodel.io
+35. Microsoft Teams
+36. Krisp
+37. FaceTime
+38. GoToWebinar
+39. Cisco Webex
+40. Genesys PureCloud
+41. PhoneWagon
+42. Textedly
+43. Sococo
+44. Ring4
+45. Automatic Call Recording
+46. Freshchat
+47. Vimeo
+48. join.me
+49. Mailbutler Business
+50. GoToMeeting
+51. FreeConferenceCall.com
+52. Flock
+53. RedFlag
+54. Microsoft Outlook
+55. Jitsi
+56. Phone.com
+57. Apple Mail
+58. Viber
+59. Cisco Jabber
+60. Kixie
+61. PhoneBurner
+62. Wimi
+63. iNexus
+64. Aircall
+65. Highfive
+66. Dialpad
+67. FluentStream
+68. DataValidation
+69. Telzio
+70. Snowfly
+71. Toky
+72. OfficeConnect
+73. DeskAlerts Alerting Software
+74. XgenPlus
+75. Predictive Dialer
+76. Admation
+77. Solstice
+78. Branded Bridge Line
+79. Xink
+80. Spike
+81. EMAILSUCCESS
+82. Simple Messaging Solution
+83. FAX.PLUS
+84. Monster VoIP | VoIP Provider & Reseller
+85. Gmelius
+86. Ninja Number
+87. LiveWebinar
+88. MegaPath - Business VoIP
+89. RingCentral Office
+90. Front App
+91. contactSPACE
+92. Bria
+93. TurboMeeting
+94. MailClark
+95. Nextiva Call Center
+96. ConnectWise Control
+97. Samepage
+98. iLobby
+99. Zadarma
+100. MaxContact
+101. Web Meeting
+102. CommandCenterHD
+103. Primo Dialler
+104. 2600Hz
+105. LeadsRain - Predictive Dialer
+106. ezTalks
+107. GlobalMeet
+108. Notifii Connect
+109. banter
+110. Bria Teams
+111. CallHarbor
+112. Fireflies.ai
+113. Wickr
+114. CallCabinet
+115. AuguTech
+116. Aspect CXP Pro
+117. RingCentral Meetings
+118. CallTools
+119. FrontSpin
+120. ZoiPer
+121. TrueConf Server
+122. Tamashare
+123. uContact
+124. Adobe Connect
+125. Messenger
+126. PBXware
+127. Nextiva
+128. JivoChat
+129. Loop Email
+130. Wire
+131. DialerAI
+132. Yeastar Cloud PBX
+133. Yeastar Linkus
+134. Dialpad Sell
+135. Grasshopper Connect
+136. grptalk
+137. Riot.im
+138. 8x8 Video Meetings
+139. 8x8 Express
+140. TelebuJoin
+141. SRFax
+142. Tutanota
+143. Blink
+144. Pubble
+145. Descript
+146. Aspect Quality Management
+147. CallTools Predictive Dialer
+148. Callcap
+149. Express Scribe
+150. OnSIP
+151. InGenius Connector Enterprise
+152. UniVoIP
+153. UniVoIP Cloud Contact Center
+154. Broadvoice
+155. OfficeSuite HD Meeting
+156. INXPO
+157. 3CLogic
+158. 4Voice
+159. Call Center Applications
+160. Dzinga
+161. LoopUp
+162. CallSource
+163. Wowza Streaming Engine
+164. Circle Loop
+165. YUDOmail by Inbotiqa
+166. FaxLogic
+167. Socialive
+168. WestFax
+169. mycallback
+170. WeChat
+171. Cebod Telecom
+172. Evercast
+173. iVent
+174. TelebuHub
+175. Vocus.io
+176. CallHippo
+177. Polymail
+178. Vozelia
+179. Doubletick
+180. Oyatel
+181. Helpmonks
+182. Telappliant
+183. Orbtalk
+184. aql Telecommunications
+185. Dialer360
+186. SYLO
+187. Contivio Contact Center
+188. MeetingBurner
+189. JustCall
+190. Telephone Message Pad
+191. Hiri
+192. Axigen
+193. Votiro Secure Email Gateway
+194. VoiceSys
+195. Zaplee
+196. Mojo@Work
+197. SourceConnect
+198. V-Cube Meeting
+199. Email Verifier
+200. iEasyRecorder for Mac
+201. BlueJeans Video Communications
+202. JungleMail for SharePoint
+203. Nefsis
+204. InterCall
+205. Skrumble
+206. Parakeet
+207. HipChat
+208. Lifesize
+209. LiveConf
+210. Intulse
+211. Voice Platform
+212. ITK Communications
+213. 247meeting
+214. TelTel.lv
+215. peachcomm VoIP
+216. Unite
+217. Workplace by Facebook
+218. Velocity Voice
+219. Virtual Meeting Spaces
+220. ProScheduler
+221. Vozy
+222. Genesys
+223. ClickShare Conference
+224. MEDIASHAREiQ
+225. Maestra
+226. Syteg SSP
+227. Smiddle
+228. Callnote
+229. Vade Secure
+230. Sophia
+231. salestar
+232. SureVoIP
+233. Quvu
+234. H2H Meet
+235. Hosted Predictive Dialer
+236. EasyConference
+237. Inky
+238. Third Lane
+239. Aceyus
+240. Telcomunity TEM
+241. GoMeetNow
+242. babyTEL
+243. SaneBox
+244. itPBX Business Cloud
+245. StartMeeting
+246. ShoreTel VoIP Phone System
+247. CloudPeer
+248. DialersPro Predictive Dialer
+249. Fastviewer
+250. Cloud Predictive Dialer
+251. Castel Detect
+252. Asterisk
+253. Mikogo
+254. Contact Center
+255. 8x8 Virtual Office
+256. Connect First
+257. Ameyo
+258. Astro
+259. Truly
+260. NCP
+261. MyRoom
+262. Alertus Mass Notification
+263. Messenger
+264. Yo Telecom
+265. Queaxis
+266. CYF Quality
+267. MobileWare
+268. i800
+269. Softphone.Pro
+270. Redkix
+271. PersonalEffect TransMedia
+272. Sword
+273. CallSquad
+274. StarLeaf
+275. Impact Telecom
+276. Hive Streaming
+277. Company Phone Service
+278. Billing
+279. Omni-Channel Contact Centre
+280. TIXEO
+281. F2F Video Customer Care Management Solution
+282. EventSource
+283. Predictive dialer PBX
+284. IVR Technology Group
+285. VXTracker
+286. Call Center Dialer
+287. DiscoverE
+288. VQmon
+289. MeetingPlace
+290. Quality Management Suite
+291. Mac MBOX to PST Converter
+292. CrisisGo
+293. Knowledge Bot
+294. IVR
+295. Liveshop
+296. Swift911
+297. Command Center Software Suite
+298. Linphone
+299. Callcruncher Access Anywhere
+300. PukkaTeam
+301. OBS
+302. MXIE
+303. VOCAL VoIP
+304. Express Talk

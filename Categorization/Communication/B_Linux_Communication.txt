@@ -1,0 +1,67 @@
+1. Brosix
+2. Routee
+3. 3CX
+4. CloudTalk
+5. Pexip
+6. Accelevents Virtual Events
+7. VirtualPBX
+8. T-Max Predictive Dialer
+9. T-Max Phone Systems
+10. Insider Telecom
+11. My Call Cloud
+12. Slack
+13. Telegram
+14. Discord
+15. Proficonf
+16. Shift
+17. Microsoft Teams
+18. Textedly
+19. Sococo
+20. Flock
+21. Telzio
+22. Toky
+23. XgenPlus
+24. Admation
+25. Branded Bridge Line
+26. EMAILSUCCESS
+27. FAX.PLUS
+28. Monster VoIP | VoIP Provider & Reseller
+29. LiveWebinar
+30. contactSPACE
+31. Zadarma
+32. VoipNow
+33. MaxContact
+34. CommandCenterHD
+35. 2600Hz
+36. Genesis Call Accounting Professional
+37. Voximal : VoiceXML for Asterisk
+38. Fireflies.ai
+39. Wickr
+40. TrueConf Server
+41. uContact
+42. PBXware
+43. Aurora
+44. Wire
+45. DialerAI
+46. Yeastar Cloud PBX
+47. Yeastar Linkus
+48. grptalk
+49. Riot.im
+50. TelebuJoin
+51. Tutanota
+52. OnSIP
+53. YUDOmail by Inbotiqa
+54. Complete PBX5
+55. CallWatchPro
+56. WeChat
+57. Cebod Telecom
+58. iVent
+59. TelebuHub
+60. Vozy
+61. ABS 100
+62. Hosted VoIP PBX
+63. Telecom BPO
+64. Emptoris Rivermine
+65. Eptica Email Management
+66. ipbx - enterprise pbx
+67. DeltaTouch

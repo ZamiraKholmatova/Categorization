@@ -1,0 +1,8 @@
+1. MS Edge
+2. Microsoft Office
+3. Microsoft System Center Configuration Manager
+4. BIFIT Signer
+5. LoginWindow
+6. OneNote
+7. Privat Bank
+8. Sublime Text

@@ -1,0 +1,17 @@
+1. VS Code Setup
+2. WinRAR
+3. PostgreSQL ODBC
+4. 7zip
+5. SmartGit
+6. Mongo D
+7. Python 3-7
+8. Python 3-8
+9. Docker
+10. pgAdmin4
+11. Cisco Packet Tracer
+12. Virtualenv Python
+13. VS - Visual Studio
+14. Mintty — Cygwin Terminal emulator
+15. Security Agent
+16. Anaconda
+17. VS Professional

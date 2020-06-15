@@ -1,0 +1,7400 @@
+1. Sweet Home 3D
+2. OpenShot Video Editor
+3. libjpeg-turbo
+4. OpenCV
+5. Tux Paint
+6. OBS Studio
+7. VirtualGL
+8. Calibre eBook Manager
+9. The FreeType Project
+10. FreeMind
+11. LIBPNG: PNG reference library
+12. Dia Diagram Editor
+13. Scribus
+14. MP3Gain
+15. Jamulus - Internet Jam Session Software
+16. HP Linux Imaging and Printing
+17. FlightGear - Flight Simulator
+18. EXP Soundboard
+19. avidemux
+20. TuxGuitar
+21. butt (broadcast using this tool)
+22. gnuplot
+23. HandBrake
+24. EXIF Tag Parsing Library
+25. The OpenGL Extension Wrangler Library
+26. DjVuLibre
+27. Hydrogen
+28. AcademiX
+29. XLD
+30. ReadyMedia
+31. SoX - Sound eXchange
+32. LMMS Digital Audio Workstation
+33. MAD (MPEG Audio Decoder)
+34. Shotcut
+35. The SoX Resampler library
+36. DisplayCAL
+37. gMKVExtractGUI
+38. AwesomeBump
+39. LAME (Lame Aint an MP3 Encoder)
+40. SMPlayer
+41. Universal Media Server
+42. GIMPshop
+43. Hugin
+44. freeglut
+45. eSpeak: speech synthesis
+46. Cool Reader
+47. FreeCAD
+48. CiteSpace
+49. Little cms color engine
+50. TV-Browser - A free EPG
+51. Chart.js
+52. Xournal
+53. NicePlayer
+54. Freeware Advanced Audio Codec
+55. opencore-amr
+56. Vidiot
+57. gPhoto
+58. GoldenDict
+59. Kid3 Tag Editor
+60. MComix
+61. PosteRazor - Make your own poster!
+62. NAPS2 (Not Another PDF Scanner 2)
+63. Ghostscript
+64. AAX to MP3
+65. EOS Camera Movie Record
+66. XMLTV
+67. OS X Portable Applications
+68. D3.js
+69. Jmol
+70. FLAC-Free Lossless Audio Codec
+71. DivFix++
+72. Cube 2: Sauerbraten (game engine & FPS)
+73. PDFedit
+74. Domination (Risk Board Game)
+75. VirtualDub2
+76. fre:ac - free audio converter
+77. BRL-CAD
+78. Pix
+79. SmartCam
+80. Frescobaldi
+81. Clementine
+82. SMTube
+83. VLC media player
+84. Beets
+85. mpg123
+86. matplotlib
+87. VietOCR
+88. JFreeChart
+89. Google2SRT
+90. ZBar bar code reader
+91. DJV
+92. mp3splt
+93. MediaInfo
+94. GraphicsMagick
+95. K-3D
+96. dcm4che, a DICOM Implementation in JAVA
+97. Gutenprint - Top Quality Printer Drivers
+98. Celestia
+99. TupiTube Desk
+100. FreeImage
+101. PhotoFilmStrip
+102. FileBot
+103. You-Get
+104. Virtual MIDI Piano Keyboard
+105. Ghostscript fonts
+106. GPXSee
+107. Luminance HDR
+108. OpenSong
+109. DVDStyler
+110. Dirac
+111. Qtractor
+112. SmillaEnlarger
+113. The Jahshaka Project
+114. Art of Illusion
+115. UFRaw
+116. FrostWire
+117. MeshLab
+118. OpenColorIO
+119. Radiance
+120. Gnaural
+121. CasparCG: Pro Video & Graphics Play-Out
+122. GeoTools, the Java GIS toolkit
+123. Fx FloorBoard
+124. three.js
+125. OptiPNG
+126. Regard3D
+127. CamDesk
+128. mrViewer
+129. Heroine Virtual
+130. Pure Data Computer Music System
+131. XBian
+132. MP3val
+133. Aria Maestosa
+134. APNG Assembler
+135. WebcamStudio For GNU/Linux
+136. GrandOrgue
+137. Plot Digitizer
+138. PDF-Shuffler
+139. Mandelbulber
+140. MP4Tools
+141. savonet
+142. NoiseGator (Noise Gate)
+143. Livestreamer
+144. 9-Patch-Resizer
+145. tesseract-ocr alternative download
+146. recordMyDesktop
+147. Impro-Visor
+148. Darknet YOLO
+149. Comical
+150. Greenstone
+151. FFmpegYAG
+152. Open Asset Import Library
+153. Irrlicht Engine
+154. projectM
+155. XTrkCAD Model RR Track Planner
+156. Psychology Experiment Building Language
+157. libmtp
+158. Muses Radio Player
+159. gImageReader
+160. FluidSynth
+161. libmms
+162. Streamripper
+163. Munt
+164. LIRC
+165. Tess4J
+166. Synfig
+167. WaveSurfer
+168. PDF Split and Merge
+169. ZynAddSubFX
+170. Tvheadend
+171. Meteorite
+172. qStopMotion
+173. Flameshot
+174. koel
+175. LaTeXDraw
+176. TTA Lossless Audio Codec
+177. Rosegarden
+178. Route Generator
+179. xine - a free video player
+180. Bellagio OpenMAX Integration Layer
+181. orDrumbox Software Drum Machine
+182. Matroska
+183. GLFW
+184. MP3 Diags
+185. GR FloorBoard
+186. Asymptote
+187. GNU Solfege
+188. Developer's Image Library
+189. eGuideDog free software for the blind
+190. Krut Computer Recorder
+191. MuseScore
+192. converseen
+193. QjackCtl
+194. Thumbnail me
+195. cmus - C* Music Player
+196. Bauer stereophonic-to-binaural DSP
+197. Pencil
+198. TiMidity++
+199. MyTourbook
+200. Audacity
+201. GLC-Player
+202. VideoSubFinder
+203. TeleKast
+204. mod_MumbleLink
+205. reacTIVision
+206. Linux Wacom Tablet Project
+207. Mumble
+208. guvcview
+209. GLMixer
+210. pstoedit
+211. XMind
+212. Midi Sheet Music
+213. APNG patch for libpng
+214. Spacescape
+215. PS3 Media Server
+216. guitarix
+217. libmng
+218. FreeWRL VRML/X3D browser
+219. FastPhotoTagger
+220. OpenLP - Free Church Worship Software
+221. Speech Signal Processing Toolkit (SPTK)
+222. Coppermine Photo Gallery
+223. aTunes
+224. Java Treeview
+225. Game Extractor
+226. ArUco
+227. exiftool
+228. PGF and TikZ -- Graphic systems for TeX
+229. FidoCadJ
+230. Advanced Batch Image Converter
+231. PoDoFo
+232. gscan2pdf
+233. Jalmus
+234. Internet Friendly Media Encoder
+235. QGifer
+236. PNG and MNG/JNG image formats: home site
+237. GraphCalc
+238. VPython-wx
+239. Radio Tray
+240. Quivi
+241. Netpbm - graphics tools and converters
+242. The LaTeX Beamer Class
+243. Animate.css
+244. OGRE (O-O Graphics Rendering Engine)
+245. Transcriber
+246. Mikmod Sound System
+247. FFmpeg
+248. IIDC Camera Control Library
+249. ME-Edit
+250. HTML5 Editor
+251. TTFEdit
+252. easyMP3Gain
+253. LibLO
+254. MPlayer OS X
+255. ARToolKit
+256. QtAV
+257. Jahshaka
+258. MJPEG Tools
+259. jOrgan
+260. RuneAudio
+261. Project X - DVB demux Tool
+262. id3lib
+263. PHP Webcam Live Streaming
+264. Python File Format Interface
+265. Material design icons
+266. NBTExplorer
+267. Snowmix
+268. Enblend
+269. pcdtojpeg
+270. Subsonic
+271. Penguin Subtitle Player
+272. eviacam
+273. OpenStego
+274. FontForge – An Outline Font Editor
+275. ccextractor
+276. SVG-cards
+277. Windows VU Meter
+278. crosti
+279. Curlew Multimedia Converter
+280. OpenGLChecker
+281. Soundboard
+282. PortMedia
+283. Qsynth
+284. AA project
+285. TWAIN Data Source Manager
+286. Geotag
+287. Ginkgo CADx
+288. K3b - The CD Creator for KDE
+289. FTGL
+290. Point Cloud Library
+291. Inkscape multiple pages support
+292. NaroCAD
+293. Piano Booster
+294. MMDAgent
+295. reveal.js
+296. Rakarrack Guitar Effects
+297. MediathekView
+298. HomePlayer
+299. Natron
+300. Tulip
+301. jpeg2pdf
+302. PyOpenGL
+303. Potrace
+304. IDTE- ID3 Tag Editor
+305. Pixelitor
+306. LiteApps
+307. Psycle Modular Music Creation Studio
+308. Qfsm
+309. ffmpeg-php extension
+310. Speech Recognition in English & Polish
+311. ITG Virtual Lab (Virtual Microscopes)
+312. Imaginary Teleprompter
+313. oreka
+314. srt-translator
+315. JackOSX
+316. quran-terjemah
+317. Imagination
+318. AutoTrace
+319. lcd-image-converter
+320. Ultimate Video Converter
+321. xvidcap
+322. COLLADA for Maya, 3DSMax
+323. PlayerPro music editor and SoundTracker
+324. Linux Studio Plugins Project
+325. wineasio
+326. MediaTomb
+327. Dodger-Tools
+328. GtkGLExt
+329. Ant Design
+330. Apodio Gnu/linux multimedia distribution
+331. Impressive
+332. GLScene
+333. ripperX
+334. Gnuplot.py
+335. Barcode4J
+336. Symphonic
+337. VidCutter
+338. qmmp
+339. CinePaint
+340. Orphne
+341. Bristol Audio Synthesis
+342. cdrdao
+343. LibVNCServer
+344. mtPaint
+345. LPub3D
+346. Subtitle And Video Renamer
+347. Misfit Model 3D
+348. EasyABC
+349. FFprobe
+350. tkImg
+351. MPC Maid
+352. TWAIN sample Data Source and Application
+353. movie thumbnailer
+354. 240p-test-suite
+355. Frinika
+356. JSound
+357. LinPHA PHP Photo Gallery
+358. half
+359. UltraStar Manager
+360. GnomeBaker
+361. Airtime
+362. Pixie
+363. wxCam
+364. Kiss FFT
+365. Digital Invisible Ink Toolkit
+366. v4l2ucp
+367. DiffImg
+368. packages for lffl
+369. PyKaraoke
+370. ClipBucket
+371. FreeTTS
+372. FF Multi Converter
+373. GLE - Graphics Layout Engine
+374. getID3()
+375. PyMOL Molecular Graphics System
+376. VCT - Video Converter & Transcoder
+377. ASH Viewer
+378. imgSeek - Intelligent image database
+379. QuteScoop
+380. M3UExportTool
+381. pgfplots
+382. GNU/Linux 1394 AV/C Library
+383. pChart
+384. HotShots
+385. Nyquist
+386. Quasar DV Codec
+387. JACo Watermark
+388. IMGDissolver
+389. Internet DJ Console
+390. Library and GUI for Apple's iPod
+391. NeoTextureEdit
+392. B-processor
+393. StreamTuner2 ♪♬#
+394. Libvisual
+395. listFix()
+396. hts_engine
+397. openAviToGif
+398. AcidRip
+399. wxMP3gain
+400. openfx-arena
+401. ExMplayer
+402. FreeCAD-PCB
+403. JNIZ music notation audio to midi
+404. Dead Deer 3.11.78.2020
+405. PNG and MNG tools
+406. DVD Authoring Tools
+407. Skywave Linux
+408. Mixxx
+409. Comix
+410. HTMLViewer
+411. Speedy MIDI
+412. VLC srpos plugin
+413. calibre
+414. ezthumb
+415. Open JTalk
+416. Videoder
+417. Grip
+418. Audiere Audio System
+419. NoteLab
+420. IIPImage
+421. Canorus
+422. Tribler
+423. XsdVi
+424. Cube game & 3D engine
+425. PDF Clown
+426. XPaint
+427. GPicSync
+428. OffRoad
+429. TomPlayer
+430. Extended Module Player
+431. Kino
+432. Album Shaper
+433. gmerlin
+434. GIF to APNG
+435. MLT Multimedia Framework
+436. Nootka
+437. libnoise
+438. MusE - Linux Music Editor
+439. SilentEye
+440. Photoshop Gimp Extensions Installer
+441. karlyriceditor
+442. Arbaro
+443. DVDx
+444. xoscope: digital oscilloscope
+445. DGuitar: a Guitar Pro viewer, player
+446. Crunch
+447. AlsaModularSynth
+448. BricksViewer - .lxf scene viewer
+449. SampleIcc
+450. K3DSurf
+451. FractalNow
+452. XMedCon
+453. Yet Another Metadata Injector for FLV
+454. KolourPaint
+455. raspicam
+456. Kdenlive - KDE Non Linear Video Editor
+457. OGMRip
+458. Python megawidgets
+459. GeSHi - Generic Syntax Highlighter
+460. Common Music
+461. softProjector
+462. OpenOrienteering
+463. TwoLAME
+464. libcddb
+465. SmartBody
+466. Whyteboard
+467. im4java
+468. AUDio MEasurement System
+469. GroIMP
+470. JSmol
+471. Sherpya Windows PE Stuff
+472. CutyCapt
+473. Libquicktime
+474. STL Viewer
+475. GoatTracker 2
+476. UniConvertor
+477. Sodipodi
+478. djmount - mount AV device as filesystem
+479. Render Farm Manager, Project Tracker.
+480. JaxoDraw
+481. Syntek Semicon DC-1125 Driver
+482. Zapping, a Gnome TV viewer
+483. Movino
+484. LXiMedia
+485. openjardin
+486. Scan Tailor
+487. sacd_extract-gui
+488. Digital Room Correction
+489. avidemux
+490. pdf2xml
+491. cthruview
+492. Python Audio Tools
+493. GNUitar
+494. dvbsnoop
+495. OpenGL[tm] for Java[tm]
+496. FFmpeg Hi
+497. Lensfun
+498. AudioSlicer
+499. LDView
+500. QtlMovie
+501. NASPRO
+502. Structure Synth
+503. Barbecue - Java barcode generator
+504. Obj Model Viewer
+505. CxImage
+506. Kabeja
+507. Eagle Mode
+508. simon
+509. COLLADA Document Object Model (DOM)
+510. jMusic - Composition in Java
+511. DataMatrix.net
+512. jVSTwRapper
+513. TunesViewer
+514. Linux-Intelligent-Ocr-Solution
+515. Gimphoto
+516. marsyas
+517. Vampyre Imaging Library
+518. Virtual Sound Level Meter
+519. mpg321
+520. Kokua viewer
+521. Yoshimi
+522. jointSPACE
+523. r128gain
+524. iPod shuffle database builder
+525. Inkscape Table Support
+526. USB MIDI Firmware Loaders
+527. YASW
+528. Gnome Subtitles
+529. ISSE
+530. WideImage
+531. ditaa
+532. pfstools for HDR images
+533. SoundHelix
+534. phpSANE
+535. APNG to GIF
+536. Voce
+537. Podcast Generator
+538. RECOIL
+539. TiVo File Decoder
+540. FripTV
+541. cwtext text to morse code converter
+542. Optical Character Recognition (GOCR)
+543. Pixma MP600 MP610 MP620 MP630 Linux Cups
+544. ScreenCloud
+545. ChessDB - a Free Chess Database
+546. EasyBMP Cross-Platform Bitmap Library
+547. The GNU Triangulated Surface Library
+548. 3DimViewer
+549. Jazz++ MIDI and Audio Sequencer
+550. Archphile
+551. ps-scripts
+552. SaVi satellite constellation visualizer
+553. Bookr
+554. lplex
+555. Jomic
+556. TTF to PS Type 1 Font Converter
+557. OpenGLide
+558. QuickTime Components
+559. Guitar Chord Diagram Maker
+560. Softsqueeze
+561. AntTweakBar
+562. mcf2pdf
+563. SBaGen Binaural Wave Generator
+564. APNG Disassembler
+565. motion
+566. StreamRipStar
+567. LiVES
+568. SciPlore MindMapping (FreeMind Scholar)
+569. DeaDBeeF Filebrowser plugin
+570. Taprats
+571. prodatum
+572. mp3wrap
+573. wxSVG
+574. MoviX
+575. Marvin Image Processing Framework
+576. Urho3D
+577. Hyper Video Converter
+578. Perceptual Image Diff
+579. JHotDraw
+580. php4dvd - movie database
+581. MidiQuickFix - Midi editor and player
+582. Convert Image to PDF
+583. puddletag
+584. QMP3Gain
+585. Great Little Radio Player
+586. Ares
+587. ILA - teachable voice assistant
+588. Tagstoo
+589. delta3d Open Source Engine
+590. The Chromium Project
+591. SnapRAID
+592. Ario
+593. PCSX2
+594. The RepRap Project
+595. ASAP - Another Slight Atari Player
+596. LProf open source ICC profiler
+597. SID Player Music Library V2
+598. TranscriberAG
+599. Zeeb
+600. id3v2
+601. BMP
+602. 5dpo Components for Lazarus
+603. libptp (Picture Transfer Protocol lib)
+604. Automatic Cover Tool
+605. BackupBand
+606. JChordBox
+607. SuperCollider 3 Plugins
+608. tuxguitar-fork
+609. Refocus
+610. MeD's Movie Manager
+611. Music + Video + Animation Maker & App
+612. Mesa3D
+613. ksnip
+614. avbuild
+615. mapivi
+616. nomacs Image Lounge
+617. TV Scheduler Pro
+618. Media downloader
+619. PHP Webcam Video Recorder
+620. PLIB
+621. JSampler
+622. openEAR
+623. The ABC Music Project
+624. Jajuk
+625. Stamp Page Creator
+626. SDL_gfx
+627. get_iplayer
+628. HelpMaker Help Authoring Tool
+629. Graphics32
+630. Gcolor2
+631. ScorchCrafter Guitar FX DAW Plug-ins
+632. libwpg
+633. Aqualung
+634. GLUI User Interface Library
+635. KRadio
+636. ZoneMinder
+637. VISCA camera control library
+638. Javascript Clipper
+639. Tano Player
+640. libdxfrw
+641. PHP Pdf creation - R&OS
+642. Android Screenshots and Screen Capture
+643. Mona Font, a Japanese font for text arts
+644. openDICOM.NET
+645. Meson Player
+646. Nosefart (NES sound format player)
+647. Panorama Tools
+648. DAI_Tools
+649. OpenGL Mathematics (GLM)
+650. MoonPdf
+651. pngnq
+652. netjukebox - the flexible media share
+653. dvdbackup
+654. BDReader
+655. Java Speech API
+656. Music Player Daemon
+657. Image Tools
+658. Streamers Admin Panel
+659. Mechvibes
+660. Modular Audio Recognition Framework
+661. Snd
+662. xCHM
+663. IPTC Metadata Library
+664. Jarnal
+665. OpenGL Samples Pack
+666. SHOUTcast Management Interface
+667. Opcion Font Viewer
+668. JSynthLib
+669. Simple Movie Catalog
+670. OCaml FFTW
+671. Fusker
+672. gTimelapse
+673. Simple Video Converter
+674. OpenChords
+675. QuteMol
+676. Automata editor
+677. SwingSane
+678. PyMedia
+679. Mirage Image Viewer
+680. jPicEdt
+681. Elltube
+682. iPodder, now called Juice
+683. libsidplayfp
+684. MangaStream Downloader
+685. ngPlant
+686. minidjvu
+687. FLPrecovery
+688. Sailcut CAD
+689. Open Movie Editor
+690. SDL_draw
+691. engine testbed
+692. SuperCollider
+693. OpenVRML
+694. Ming - an SWF output library
+695. Sinsy
+696. Subtitle Finder
+697. FreeBooth
+698. Sears
+699. Vincent ES 1.x
+700. GQview image viewer
+701. Midi Layer
+702. Simple BPG Image viewer
+703. Java MP3 ID3 Tag Library
+704. bmx
+705. Swf Reader
+706. YouTube-DL-PyTK
+707. 3Com HomeConnect USB Camera Driver
+708. maff-viewer
+709. PHPlot
+710. Ofnuts' Gimp path tools
+711. PyMapper
+712. drumkv1
+713. surfit
+714. vsd2svg
+715. Cyan
+716. Crystal Space 3D SDK
+717. gmtp
+718. iFit Exercise Equipment Programmer
+719. DarkIce
+720. Network Audio System
+721. Dhvani - TTS System for Indic Languages
+722. TaalPulse
+723. Stani's Python Editor
+724. FreeMe2
+725. Image To Gerber Converter
+726. libcdaudio
+727. GLC_lib
+728. Virtual keyboard for JACK MIDI
+729. ZoneMinder Viewer
+730. Family Connections
+731. G3D Innovation Engine
+732. Origami Editor 3D
+733. Free UPnP Entertainment Service
+734. PAMGUARD
+735. Collada plug-in for Blender
+736. TaniDVR
+737. JACK Rack
+738. Paint 2d
+739. FB01 Sound Editor
+740. FFMpeg Objects - C++ & JMF bindings
+741. cdw
+742. mp3guessenc
+743. JuliusModels
+744. abcplus
+745. phpThumb()
+746. GeeXboX for Wii
+747. samplv1
+748. FreeFrame Open Video Plugin System
+749. Aften
+750. OpenCTM
+751. MFS Tools
+752. HP OfficeJet Linux driver (inactive)
+753. TV-Viewer
+754. DoubleType
+755. Fox Media Player
+756. out_yasapi
+757. iTunes Duplicate Song Manager
+758. NW-E00x Mp3 File Manager
+759. SPCA50X USB Camera Linux Driver
+760. The Chemistry Development Kit
+761. Ingex - video capture and transcoding
+762. DreamStudio by Volocian Studios
+763. Glide for 3dfx hardware
+764. Sunflow Rendering System
+765. mkv2mp4
+766. vgmstream
+767. Fugenschnitzer
+768. SDL_Pango
+769. animbar
+770. Flazr
+771. Drawpile
+772. Quelea
+773. pytivo
+774. GSVideo
+775. Virage GNU/Linux
+776. gThumb image viewer and browser
+777. insight3dng
+778. sc68 - Atari ST and Amiga music player
+779. Music Library & Player
+780. Voice keyboard
+781. Apprentice Video
+782. EasyImageSizer
+783. SoftPixel Engine
+784. DR14 T.meter
+785. DSSI
+786. ScriptSWF
+787. TikZiT
+788. OpenShiiva
+789. PyAlsaAudio
+790. WildMidi Midi Library and Player
+791. Gnome Wave Cleaner
+792. ReZound
+793. CD
+794. Arduino MIDI Library
+795. Utube Ripper
+796. goalbit
+797. Loki Render
+798. Freevo - Media Centre Platform
+799. Perl Audio Converter
+800. Python Computer Graphics Kit
+801. OpenEV
+802. xjadeo
+803. IM
+804. bbDEMUX
+805. Cue Sheet Generator
+806. nufraw
+807. JACo MP3 Player ( java mp3 player )
+808. JScreenRecorder
+809. Java SID Player Music Library V2
+810. Carnatic Music Guru / JRaaga
+811. Cecilia
+812. RealmForge (now Visual3D Game Engine)
+813. xmorph
+814. Sonic Visualiser
+815. AlternateReader
+816. Tintii Photo Filter
+817. Mesh Viewer
+818. Simple DirectMedia Layer
+819. xplayer
+820. Creative NOMAD/Zen/Dell DJ API
+821. LazView
+822. Lizzy
+823. SIVP toolbox for Scilab
+824. Alba
+825. dvdrip
+826. dvisvgm
+827. gmorgan
+828. minidlna-webinterface
+829. DXF
+830. dosmid
+831. Framewave
+832. Gnomad2 - a NOMAD / MTP Device Manager
+833. imgv
+834. GPU Flame Fractal Renderer
+835. AutoQ3D
+836. xdvik
+837. Togl
+838. avcap
+839. phpOCR
+840. PhotoCollageForge
+841. GDS3D
+842. ffx264
+843. djatoka
+844. Ogre3d Python bindings (Python-Ogre)
+845. JavaAmp
+846. Integra Live
+847. libbsb - read/write/convert BSB images
+848. Alchemist and Korg Triton Tools
+849. Analysis-Resynthesis Sound Spectrograph
+850. IVCon-TL 3D scene conversion tool
+851. MacroFusion
+852. Eclipse Shaders
+853. Kaltura - Open Source Video Platform
+854. Knotter
+855. Simple Sprite Editor
+856. Andorra 2D
+857. OpenOffice.org Export As DAISY
+858. Inkscape Map
+859. eChanter
+860. MRockola
+861. qomp
+862. Loudspeaker Design Calculations Toolkit
+863. YouTube Downloader
+864. Movie Masher
+865. SOFA
+866. Varkon
+867. FotoTagger
+868. Open Source Audio Library Project
+869. VSL: Virtual Steganographic Laboratory
+870. Gwenview
+871. PyJack
+872. Simd
+873. aj-snapshot
+874. khtml2png
+875. toolame
+876. KTooN: 2D Animation Toolkit
+877. VDR xine-lib output device
+878. h264bitstream
+879. jbig2dec
+880. imagefap-gallery-dl-cli
+881. Qaryan Hebrew TTS
+882. Bits and bobs for Blender
+883. GLCD Tools
+884. Happy 3D
+885. ImageJ2x
+886. Dynamic Universal Music Bibliotheque
+887. Fast Assembly Mpeg Encoder
+888. PS_View
+889. Sniptool - Screen Capture
+890. Teem
+891. AdPlug
+892. Blender and MBDyn (moved to github)
+893. OOoLilyPond
+894. Project Chronos
+895. pyst: Python for Asterisk
+896. matrixgl - The Matrix Screensaver
+897. Abeel Java Toolkit (AJT)
+898. Ayam
+899. gnormalize
+900. Argon
+901. AutoLyrix
+902. PocketXpdf
+903. The GLE Tubing and Extrusion Library
+904. Videomass
+905. Subtitle Composer
+906. DVB-T2 Common Simulation Platform
+907. Gimp UserFilter
+908. JChart2D
+909. Advanced Authoring Format
+910. roomsim
+911. Firefly Client - a Java Firefly Client
+912. Golden Crop
+913. libtga
+914. BarBara Barcode Library
+915. DVGrabGUI
+916. TAPClean
+917. libPGF
+918. MoreAmp
+919. Defa Protect HTML5 Video From Download
+920. Motion Blur
+921. Audio test tone into wav
+922. CD+Graphics Magic
+923. PHP QR Code Class
+924. PP3 -- Celestial Charts Generator
+925. Open Set Top Box
+926. Eloquent
+927. CGUI - a gui lib for multiplatform
+928. Delineate - raster to SVG converter
+929. DrawSWF
+930. Image to Ascii Art
+931. NaviPOWM
+932. Qt lightScribe
+933. TouchGraph
+934. Generic Image Decoder
+935. ZCAD
+936. Swami Project
+937. cvsba
+938. uFMOD
+939. DonnerLaParole
+940. GUi ffmpeg
+941. JAAD
+942. Ada Bar Codes
+943. BASSZXTUNE
+944. FlowPlayer - Video player for the Web
+945. JBEdit
+946. RhythmBox
+947. X-CD-Roast
+948. mjbWorld
+949. TreeGen - 3D Tree Generator
+950. rotoscope
+951. xcalib
+952. B-Maxwell
+953. Cloo
+954. Planeshift: a 3D MMORPG
+955. osspd
+956. CWStudio
+957. Drumstick Karaoke
+958. HDR Visual Difference Predictor
+959. synthv1
+960. Scrolling Game Development Kit 2
+961. Church Software
+962. Geomview
+963. Gimp Simulate HDR
+964. KediCAD
+965. OpenOrchestra
+966. QRemoteControl-Server
+967. Vamp audio analysis plugin API
+968. Elphel reconfigurable cameras
+969. JAVE
+970. Zina is not Andromeda
+971. dktools - Dirk Krauses tools
+972. ploticus data display utility
+973. Pachyderm
+974. CSV Mesh Importer for Blender
+975. GLIPS Graffiti editor
+976. xcalib
+977. B-Maxwell
+978. Cloo
+979. Planeshift: a 3D MMORPG
+980. osspd
+981. CWStudio
+982. Drumstick Karaoke
+983. HDR Visual Difference Predictor
+984. synthv1
+985. Scrolling Game Development Kit 2
+986. Church Software
+987. Geomview
+988. Gimp Simulate HDR
+989. KediCAD
+990. OpenOrchestra
+991. QRemoteControl-Server
+992. Vamp audio analysis plugin API
+993. Elphel reconfigurable cameras
+994. JAVE
+995. Zina is not Andromeda
+996. dktools - Dirk Krauses tools
+997. ploticus data display utility
+998. Pachyderm
+999. CSV Mesh Importer for Blender
+1000. GLIPS Graffiti editor
+1001. Nightingale
+1002. Webp Bulk Image Converter
+1003. rtEq
+1004. Fracplanet
+1005. Ink2Text Handwriting Recognition System
+1006. OpenXDK
+1007. FotoHound
+1008. IMMS
+1009. Portable VNC Server
+1010. RAVL, Recognition And Vision Library.
+1011. drumstick
+1012. dxf2papercraft
+1013. Jinzora Media Server
+1014. PTCPas
+1015. BMP bitmap to GLCD bitmap
+1016. GStreamer
+1017. GVolWheel
+1018. JSTx
+1019. Transcoder Audio Edition
+1020. Amazing Boxplorer
+1021. BeatBox
+1022. Coriander
+1023. Group Explorer
+1024. IceGenerator
+1025. Chess Diagram Editor
+1026. SoundTracker
+1027. TAP-plugins
+1028. Voya Media
+1029. BirdFont
+1030. JLipSync
+1031. AudioCuesheetEditor
+1032. Cover Fetcher
+1033. HTML5 2D/3D chess
+1034. HTML5 Canvas
+1035. Klay Game Engine
+1036. NPlot Charting Library
+1037. OpenB3d library
+1038. SnackAmp
+1039. StickyPy
+1040. StreamRipperX
+1041. The PSP Manager
+1042. njconnect
+1043. Digital Camera Remote Capture
+1044. EPSILON
+1045. cinefx
+1046. XSPF Web Music Player
+1047. LiMP-Linux Multimedia Player LIVE Distro
+1048. QuickCam VC linux device driver
+1049. Open SVC Decoder
+1050. ThaiNuke
+1051. Alexandra
+1052. Geomorph
+1053. Hide & Reveal
+1054. OcrGui
+1055. Steve's Mediocre Paint
+1056. The MayaVi Data Visualizer
+1057. edna
+1058. gpstools
+1059. html2fo
+1060. The OpenSG Scenegraph
+1061. pkTriggerCord
+1062. Flash Virtual Piano
+1063. YaMeG - Yet another Mencoder Gui
+1064. mp3stegz
+1065. Iterative refocus plug-in for GIMP
+1066. C* Music Player
+1067. Eps2pgf
+1068. CdFly
+1069. Imprudence viewer
+1070. OCamlSDL
+1071. Point Cloud Skinner for Blender
+1072. Sketch
+1073. SpriteCutter
+1074. Zinf: Zinf is not FreeA*p!
+1075. padthv1
+1076. Piwigo
+1077. Vivia - The Video Editor
+1078. MP3 Check
+1079. Fractal Zoomer
+1080. JAMin
+1081. SkinDoc2
+1082. Sprite Decomposer
+1083. Audio Tag Tool
+1084. Kujawiak Viewer (kuView)
+1085. QmidiNet
+1086. Simple Sysexxer
+1087. Unicode Rewriter
+1088. YoutubeDownloader - MP3 Converting
+1089. cbr2pdf
+1090. xzgv image viewer
+1091. Icarus Camera Control
+1092. HMM Speech Recognition in Matlab
+1093. AV Tag Editor
+1094. Background Remover
+1095. MusicPlayer
+1096. Qsampler
+1097. The Open Source STL viewer
+1098. Youtube to mp3 converter php script
+1099. Prune GPS tool
+1100. The VXL Project
+1101. Variations
+1102. littleutils
+1103. 3DS Java3D Loader
+1104. Galleon TiVo Media Server
+1105. Neuroph OCR - Handwriting Recognition
+1106. OpenBOOX
+1107. Programmer's Guide to SJCAM SJ4000 WiFi
+1108. gEcrit
+1109. Ship's Clock
+1110. GLT OpenGL C++ Toolkit
+1111. MidiMon
+1112. NetBuilder' - Apostrophe
+1113. SwingOSC
+1114. Thoggen DVD Ripper
+1115. JD990 Super Editor
+1116. KurzFiler - A Kurzweil Soundfile Editor
+1117. tvtime
+1118. goom
+1119. Ogg Video Tools
+1120. QXGEdit
+1121. VirtMus
+1122. Box
+1123. AIFF Audio Tools
+1124. CP Guitar Effect Proccessor
+1125. Flake
+1126. Heretic / Hexen
+1127. Jampal mp3 library
+1128. x0xb0x
+1129. GraphicsMagic
+1130. INScore
+1131. Jaris FLV Player
+1132. Subtitle Studio
+1133. .MP3 Renamer
+1134. Bioviewer Motion Data Player
+1135. DVD subtitle to text converter
+1136. Early Access iText
+1137. Easy BMP to AVI Movie Creator
+1138. OpenSource @ IEM
+1139. XPontus XML Editor
+1140. Jack Audio Connection Kit
+1141. Java MP4Box Gui
+1142. Lrc Editor
+1143. Open Factory 3D
+1144. soundboard
+1145. The Emu Speech Database System
+1146. gmusicbrowser
+1147. InterPhoto Image Gallery
+1148. QFlash - Flash maker
+1149. Rockbox - Open Source Jukebox Firmware
+1150. SPARK Particle Engine
+1151. SimpleTAG
+1152. Spectrum3d
+1153. XNap - A P2P framework and client
+1154. jMIR
+1155. pngnq-s9
+1156. Excalibur
+1157. GNU Paint
+1158. Heightmap2STL
+1159. X-Air Live Toolbox
+1160. XNavigator
+1161. Xebra
+1162. flac-tools
+1163. uShare
+1164. wxMP3val
+1165. TundraDraw
+1166. Arte Fetcher
+1167. FOMUS
+1168. GTKRawGallery
+1169. Linux Video Converter for PSP
+1170. OpenAL Soft
+1171. Sony PS3 Remote
+1172. adesklets
+1173. Ycad - Java CAD library
+1174. IpodCopy
+1175. Scene
+1176. Strut Editor Offline
+1177. Audio to midi converter
+1178. ComicViewer
+1179. DVD Slideshow
+1180. Eject CD/DVD
+1181. GalleryGrabber
+1182. JImageMan
+1183. Label2Cue Convertor
+1184. Might and Magic 6-8 Level Editor
+1185. Peyote
+1186. SOLARIS THE GAME
+1187. WinDjView Extended
+1188. aumix
+1189. coindesigner
+1190. soundbot
+1191. Plarpebu a java karaoke player
+1192. Burn subtitle
+1193. DVD2Xbox
+1194. EarToner
+1195. GATOS
+1196. GeeXboX
+1197. JMidiTools
+1198. KPlayer - a KDE media player
+1199. Noteedit - A Score Editor
+1200. OpenLD
+1201. QMidiArp
+1202. Smart TV Anywhere
+1203. Synthclipse
+1204. ViPER
+1205. Winbond webcam IC driver
+1206. XLogo
+1207. JIU - Java Imaging Utilities
+1208. blue
+1209. LodePaint
+1210. Omnibook Configuration Tools & Patches
+1211. SoundBridgeCommander
+1212. YAAMIDRUM
+1213. ArahPaint4
+1214. GTK uvc viewer
+1215. Lush
+1216. P2P-Radio
+1217. QSox
+1218. QT AC3 Codec
+1219. SpiderGL
+1220. coverJuke
+1221. Qaquarelle
+1222. AlsaPlayer
+1223. Diablo 2 Character Editor (D2CE-DS)
+1224. JMF wrapper for ffmpeg
+1225. ORIPA S
+1226. Sysex Osc Generator
+1227. V-Ray/Blender
+1228. VChannel Player
+1229. X32 Scene Parser
+1230. lxnstack
+1231. CMS gallery
+1232. Transcoder
+1233. Multi-Lingual Vocabulary Trainer
+1234. JIBS - Image Viewer for Sorting
+1235. J3DWorkbench
+1236. Java AMOS Sprite Bank Viewer
+1237. LDPartEditor
+1238. NFI Face2Face
+1239. OpenSubtitlesSearch
+1240. Sonic Flow
+1241. Starbuck's FreePlayer
+1242. Subdownloader: subtitle downloader
+1243. sdlBasic
+1244. smarc audio rate converter
+1245. Bolt Factory
+1246. Da Soundboard
+1247. Drumstick Metronome
+1248. Genode FPGA Graphics
+1249. Mu
+1250. Open Musicwriter
+1251. Polygnome
+1252. Quimup
+1253. Scale and Chord Generator
+1254. Triceratops
+1255. rasplex
+1256. ScoreDate
+1257. SharpFFmpeg
+1258. Conversion of other file formats to PDF
+1259. GNUGuitarINUX
+1260. Gimp Plug-in for Image Registration
+1261. phTagr
+1262. mp3decoder
+1263. LIMP - Lightweight IMage-browser for PHP
+1264. GEM: Graphics Environment for Multimedia
+1265. JavaMod - The Java Mod Player
+1266. OS Screen Saver Manager
+1267. Video Backup Fusion
+1268. WMP Tag Support Extender
+1269. ZoomifyImage
+1270. eMP3
+1271. iaextractor repository
+1272. Audio Recording Interface
+1273. GFrameCatcher
+1274. ID3v2 Chapter Tool
+1275. IMLAB
+1276. Imgtools
+1277. M32/X32 Show Manager
+1278. MV Video Sharing Software
+1279. Perceptual Evaluation of Audio Quality
+1280. Voice Recognition Algorithm
+1281. YAPS - Yet Another Photo Sorter
+1282. jmp123
+1283. pnglite
+1284. CBViewer
+1285. X32 Live Toolbox
+1286. Audacity-Extra
+1287. Flash Extractor
+1288. JPEG to MJPEG-AVI converter
+1289. MIDI Step Sequencer - Cythar
+1290. Nextview EPG Decoder
+1291. NorQualizer
+1292. OpenGLUT
+1293. PlaTec
+1294. SMS Viewer
+1295. SortTV
+1296. VLevel
+1297. dkvBrowser
+1298. gnac
+1299. iaxclient
+1300. jAMOS
+1301. Biometric SDK
+1302. Apple macOS Icon Image (.icns) tools
+1303. Bandlimited LADSPA Oscillator Plugins
+1304. File based DTMF detector
+1305. Guitar Scale Assistant
+1306. Image2Code
+1307. JMusicXML
+1308. QtGain
+1309. SoundRuler
+1310. Spaceship Generator || PartArt: Space
+1311. Tag Inspector
+1312. Winamp Remote Control V1
+1313. jfVideo Creator
+1314. jp2a
+1315. IPP Codecs
+1316. Gimpel3D
+1317. 18+ Dune HD plugin
+1318. DCP to ICC camera profile converter
+1319. FestLang
+1320. GK3 Tools
+1321. HP Scanjet 3900 series
+1322. LainOS
+1323. Lenticular Toolkit
+1324. Picture Metadata-WP
+1325. WAV Audio Compressor
+1326. facetrack
+1327. fmedia
+1328. VoiceCode Programming by Voice Toolbox
+1329. outRec
+1330. Advanced Renaming of pictures
+1331. AhoTTS - TTS for Basque and Spanish
+1332. Blender Support for Orbiter Mesh Files
+1333. Browsershots
+1334. DVBStreamer
+1335. EnDiskEx
+1336. Epos TTS System
+1337. GNUitarra/Guitar helper
+1338. JEDI-SDL : Pascal headers for SDL
+1339. KMidimon
+1340. Subband Sinusoidal Modeling
+1341. Tgif - a vector-based 2D drawing tool
+1342. Webmedia Explorer
+1343. X3NavalD, boat design software
+1344. XMMS2
+1345. Yet Another TOC To CUE Converter
+1346. gl860
+1347. streamTranscoder
+1348. vAtisGen
+1349. FFConverter
+1350. Live 555 Media Server Enhancement - MP4
+1351. OGLplus
+1352. arpage
+1353. libUEMF
+1354. 360 Media Server
+1355. Cewolf
+1356. Extract Images from PPS (ppsei)
+1357. MathLib3D - 3D Math Library
+1358. Matlab VideoUtils
+1359. Open Vsecurity
+1360. objdesktop
+1361. 3D Mesh-To-Heightmap Generator
+1362. 6PM
+1363. DSPdap - DSP based Digital Audio Player
+1364. Functy
+1365. Game Imager
+1366. MPEG TS, PS and ES tools
+1367. Music Master
+1368. Newtonator
+1369. NowPlaying-Plugin for Winamp
+1370. Open CASCADE
+1371. RecordItNow
+1372. RioPlay - Audio player for Rio Receiver
+1373. Sweep
+1374. TWAIN for C-Sharp (C#)
+1375. Wiggle Stereoscopic (3D) Viewer
+1376. blend2java
+1377. ctrax
+1378. pybass
+1379. CaC - Catch And Convert
+1380. gnujpdf
+1381. Aorta
+1382. Automatic Chord Analyser
+1383. Coin3D
+1384. Colors Finder
+1385. DJPlay
+1386. DiddleBug
+1387. ECMA-234 Metafile Library
+1388. Gato (Graph Animation Toolbox)
+1389. MPD
+1390. MTPlayer
+1391. Magelan - Java 2D Graphics Editor
+1392. Nord Modular Editor
+1393. Plane Fighter Game
+1394. Playmidi
+1395. ReplicantBody
+1396. Scilab Image Processing Toolbox
+1397. TV Polychroma
+1398. Time_limit
+1399. discord
+1400. mpgtx
+1401. pydatascope
+1402. sK1
+1403. veejay
+1404. qvge
+1405. BvhViewer
+1406. CDDB.py
+1407. Chicken - an Egg exporter for Blender
+1408. Countdown Timers
+1409. Free FingerPrint Imaging Software
+1410. GBAconv
+1411. GLGraphics
+1412. HLDJ
+1413. LoopCenter
+1414. Phototonic
+1415. Prodikeys PC-MIDI linux driver
+1416. SDL_YUVplayer
+1417. Shoutcast Explorer
+1418. TIF2EPS -- TIFF to EPS converter
+1419. VideoBox
+1420. Xconvert
+1421. gnapi
+1422. iDVR Video Surveillance System
+1423. libzen
+1424. vido
+1425. dtsc plugins for xmms and winamp
+1426. pydatascope
+1427. sK1
+1428. veejay
+1429. qvge
+1430. BvhViewer
+1431. CDDB.py
+1432. Chicken - an Egg exporter for Blender
+1433. Countdown Timers
+1434. Free FingerPrint Imaging Software
+1435. GBAconv
+1436. GLGraphics
+1437. HLDJ
+1438. LoopCenter
+1439. Phototonic
+1440. Prodikeys PC-MIDI linux driver
+1441. SDL_YUVplayer
+1442. Shoutcast Explorer
+1443. TIF2EPS -- TIFF to EPS converter
+1444. VideoBox
+1445. Xconvert
+1446. gnapi
+1447. iDVR Video Surveillance System
+1448. libzen
+1449. vido
+1450. dtsc plugins for xmms and winamp
+1451. XiX Music Player
+1452. Anthem
+1453. Camera Life
+1454. DSAquire
+1455. FFPlayer
+1456. Lexolights
+1457. Loop Maker (stable)
+1458. OSGEdit
+1459. OpenOffice.org en Español
+1460. Quick Subtitles
+1461. SPORCH
+1462. San Le's Free Finite Element Analysis
+1463. SlowQR
+1464. Syncplay
+1465. jAudio
+1466. myjaphoo
+1467. stroget
+1468. subcheck
+1469. unpaper - post-processing scanned pages
+1470. v4lx-device information
+1471. SFF Tools
+1472. pReader
+1473. MPT
+1474. mp3dj
+1475. DiscWrapper
+1476. XonX
+1477. scanbd
+1478. Axiom 3D Engine
+1479. HPINKJET (inactive)
+1480. Integrating Vision Toolkit
+1481. MplayerXP-mplayer with extra performance
+1482. MyWebPlayer: Mplayer Web Remote Control
+1483. QJackRcd
+1484. Qt Sixisix Mixer
+1485. ScanTWAIN
+1486. Tin Can Jukebox
+1487. BePDF
+1488. Silex, live web creation
+1489. Aewan Ascii Art Editor
+1490. Alis Recording Tool
+1491. Cotovía
+1492. DVD Authoring GUI
+1493. Freestyle
+1494. GPGPU Programming Resources
+1495. Image Magnifier
+1496. Matroska Batch
+1497. Media Tester & Multicast Monitoring
+1498. Myron (webcamxtra)
+1499. Powder Player
+1500. Power Play Digraph Editor
+1501. Ragnarok Online Sprite Viewer
+1502. Raspyfi
+1503. Rockband Pro-Drumkit midi driver
+1504. SDIF
+1505. Stereograph for linux
+1506. The Demo Effects Collection
+1507. TwainX
+1508. Vector Converter
+1509. greycstoration GIMP plugin
+1510. BluePad remote control
+1511. Audacity AudioMonitor
+1512. Brook
+1513. Fiji
+1514. IceWM Control Panel
+1515. Kwave
+1516. Loris
+1517. MG35 open-source firmware
+1518. Open Graphics Toolkit
+1519. OpenIPMP
+1520. OurMovies
+1521. Pinnacle MovieBox USB Linux driver
+1522. SCRplus
+1523. THL Tools (Tibetan and Himalayan Librar)
+1524. ThanCad
+1525. VirtuoZo!
+1526. Windows console tone generator
+1527. autorun
+1528. clive
+1529. divxenc
+1530. grip2
+1531. jMonkeyCSG
+1532. jcgm
+1533. FirePlay
+1534. Napkin Look and Feel for Swing
+1535. Practical Music Search
+1536. neXtgen Povray Editor
+1537. singapore
+1538. Speak Freely
+1539. VideoDB
+1540. Drumroll
+1541. FlipBook Maker
+1542. GL Manga Reader
+1543. GamEditorDS
+1544. Gri language for scientific illustration
+1545. JDraw
+1546. Java Implementation of Speex
+1547. Java USB
+1548. LuaGL
+1549. MP View
+1550. Media Playlister
+1551. NBTV Design Tools
+1552. Open Sound World
+1553. Overhead Imagery Research Data Set
+1554. Photopc - digital camera control
+1555. QuesoGLC
+1556. SIDPLAY64
+1557. Sample Maker
+1558. Simple Java Image Tool
+1559. Stream-2-Stream
+1560. Streamline PHP Media Server
+1561. View3D
+1562. nik4nix
+1563. sr-convert
+1564. Media Server Control Panel
+1565. RelaXX-player
+1566. The Burster 3D
+1567. Buzztrax Music Production Environment
+1568. Fetchgals
+1569. GUIDOLib
+1570. kicad 3D rendering
+1571. Universal 3D Sample Software
+1572. 3D Desktop
+1573. Atari VCS (2600) Graphics Editor
+1574. Batch Audio Convert
+1575. Broadcast audio production tools
+1576. CADTools
+1577. CUJ2K: Jpeg2000 encoder on Cuda
+1578. Daisy Delight
+1579. ESP Ghostscript
+1580. Eckbox
+1581. Eclipse Visual Editor
+1582. FastoCloud PRO
+1583. Fish4Knowledge Project
+1584. Free Clef
+1585. FusionCharts Free
+1586. HASAS
+1587. Image 2D to 3D converter
+1588. JPlayer
+1589. JSubSync
+1590. Kymaera
+1591. Linux USB PVR Driver
+1592. Lumina
+1593. MPlayer Standalone including all codecs
+1594. MapSplitter
+1595. MediaCoder Agent
+1596. Moka VideoConverter
+1597. MyWebTV
+1598. Netjuke
+1599. PDF API HTML5 Web Apps
+1600. PView
+1601. QBooru
+1602. QmidiCtl
+1603. ShoutCast Control Panel Alpha
+1604. Sony Visca Driver EVI-D30/EVI-D31
+1605. Speedy Composer
+1606. SqCheck - An image sequence viewer
+1607. Tag2Utf cyrillic mp3-tags decoder
+1608. The ARAS Radio Automation System
+1609. TinyPTC
+1610. Waveform
+1611. XBMP (XBox Media Player)
+1612. ffhevc
+1613. h264enc
+1614. libDSP
+1615. libTiMidity
+1616. linux-stv0680-usb-support
+1617. multican
+1618. okPlayer
+1619. piPlayer
+1620. pman-player
+1621. qScreenshot
+1622. rendera
+1623. sourcesinc
+1624. surf
+1625. 8 Sounds USB
+1626. Ajax VNC
+1627. Cameras
+1628. CamsManager
+1629. ColladaCGF
+1630. Crowd3
+1631. DixShtix Java Music Library
+1632. FeedTurtle
+1633. FretBoard
+1634. GJay
+1635. InPitch
+1636. Java3D Joystick in Linux
+1637. Kinect calibration toolbox
+1638. LdGLite
+1639. Linux Nostromo Speedpad Driver
+1640. Live RTMP Java Publisher
+1641. MIDI File Printer
+1642. MidiRandomizer
+1643. ONVIF Export File Player
+1644. PSID64
+1645. ScPlayer
+1646. Screenshot for Symbian OS
+1647. Small Java mp3 player
+1648. Speex
+1649. Squadra
+1650. UnBBoolean
+1651. Universal Reader
+1652. VB MP3 Player
+1653. VeGNUli
+1654. Video driver for SiS 670 / 671 cards
+1655. Wimp - Online web image editor
+1656. YSFS Blender
+1657. gReemote télécommande Free
+1658. harpy
+1659. jAMAL
+1660. sconcho
+1661. yaafe
+1662. JID - Java Image Downloader
+1663. Stop Motion Capture
+1664. Toonmania for Chrome
+1665. faint - The Face Annotation Interface
+1666. 3DTK - The 3D Toolkit
+1667. AllegroPNG
+1668. DVD Rip-O-Matic
+1669. L_Pa Project
+1670. NSSCrossStitch
+1671. QuasiTiler
+1672. Streamers Webplayer
+1673. Wis-Go7007
+1674. flv Player
+1675. lignumCAD
+1676. pyDataMatrixScanner
+1677. so3DTools
+1678. M3u8 Parser
+1679. Perceptron
+1680. Qdig - Quick Digital Image Gallery
+1681. 360panorama gimp plugins
+1682. AGS - Advanced Gtk+ Sequencer
+1683. Add64
+1684. Advanced Launcher
+1685. Annotation Graph Toolkit
+1686. Collabry
+1687. DualSub
+1688. EDL to AAF converter
+1689. EasyScan
+1690. FlightGear Scenery Designer
+1691. GENPO
+1692. GKrellKam
+1693. Generic Graphics Toolkit
+1694. GifToAPNG Converter
+1695. Gimp Shape creator
+1696. GnomeTV
+1697. Graffiti
+1698. Gromit-MPX
+1699. Halftone Laboratory
+1700. Java Binding for SDL
+1701. Kage
+1702. KuickShow
+1703. M3G Viewer
+1704. Mutabor
+1705. MyBox
+1706. Myo Mapper
+1707. NAVIO
+1708. Ogg Vorbis Player
+1709. Open VXI VoiceXML Interpreter
+1710. Porn Toolkit
+1711. Responsive HTML5 Whiteboard
+1712. ScSpectrometer
+1713. Sh GPU Metaprogramming Language
+1714. Simple Synth
+1715. Souzou
+1716. SubToText
+1717. TerraVision
+1718. Tete Ear Training Software
+1719. The Aquarium
+1720. Thumbnail Steganography
+1721. Tunapie
+1722. USB-LED-Control
+1723. Virtual Camera
+1724. WOMP!
+1725. avplayer
+1726. fileaxy
+1727. gosm
+1728. gtab
+1729. rEASYze - Batch Image Resize & Edit
+1730. retypar - image to ASCII converter
+1731. ExplorerCanvas
+1732. Ogitor
+1733. ShowDown
+1734. GnoCHM
+1735. DuMP3 - duplicate & similar file finder
+1736. ACTC Triangle Consolidator
+1737. AstroCam
+1738. Canorus - a music score editor
+1739. CycleAtlas
+1740. Datasoul
+1741. Display UI
+1742. Divergent Scallator
+1743. Drehatlas Fonts
+1744. FMOD.net
+1745. GeOxygene
+1746. Guitar Chord and Scale Diagrammer
+1747. Hindi ASR
+1748. Identikit
+1749. Java Slideshow
+1750. Java VP8 Decoder
+1751. KGuitar
+1752. Krysalis jCharts
+1753. LEA - Lightweight Eyetracking Algorithm
+1754. Lhogho - The Real Logo Compiler
+1755. Modus - C++ Music Library
+1756. Mouse Gesture Composer (MGC)
+1757. Newton/40Hz Support
+1758. PiStudio
+1759. Podracer
+1760. Project 16
+1761. QDBMP
+1762. SVGMath
+1763. SlideCrunch
+1764. SoundManager
+1765. dvbcut
+1766. jFLAC: Java Free Lossless Audio Codec
+1767. libDVD-Audio
+1768. pyqrcode
+1769. xvidenc
+1770. RIB Mosaic
+1771. clunk
+1772. AstroCTC
+1773. Audio Compare & Merge
+1774. Avionics for Experimental Aircraft
+1775. Camserv
+1776. Cory Dating script
+1777. DSI Sound Station
+1778. DigiExtractor
+1779. Distant Speech Recognition
+1780. Double Fractal with 3D Prototype
+1781. GLPlusPlus
+1782. GLText
+1783. Geeboss (Graphic Effect Editor for BOSS)
+1784. Hunky Fonts
+1785. Inventor Tools
+1786. JEQ - Java Stereo Equalizer
+1787. LiveWire
+1788. M4A to MP3 converter
+1789. MandelHash
+1790. Mind Map Architect
+1791. Model Scene Editor
+1792. Music Sequencer
+1793. NES ROM Tool
+1794. OpenDAB
+1795. OpenTrack
+1796. OscVstBridge
+1797. PDF Annot
+1798. Persian SRT Subtitle Converter
+1799. Prim dot Blender (Prim.Blender)
+1800. ShapeX - Collage Generator
+1801. Simple xbm Image Editor
+1802. Standard MIDI File format library
+1803. Tapioca
+1804. Timewave Synthesizer
+1805. WrapMap
+1806. YaPiG - Yet Another PHP Image Gallery
+1807. bleu
+1808. caleidoscopio
+1809. cheesetronic
+1810. dcraw.net
+1811. eLynx Image Processing SDK and Lab
+1812. eTube Downloader
+1813. gambol
+1814. iRiver iFP Manager
+1815. pc2box
+1816. pyscript
+1817. semaine
+1818. separateplusplus
+1819. shalVideo
+1820. simdesign
+1821. svg2swf
+1822. v4l-test
+1823. wav2rtp
+1824. AIE (Ajax-Image-Editor)
+1825. Omilo - a GUI for Festival / Flite
+1826. NeoEngine
+1827. AEO-Light 1.1
+1828. ATOMIC Authoring Tool
+1829. AudioM - Audio Mover/Mobile
+1830. BSP Map Compiler
+1831. Blitz KDE/Qt image filter library
+1832. Blue Mirror DVD/CD Indexer
+1833. BmpConverter
+1834. Canon CanoScan Parallel Driver
+1835. Carnatic Music Typesetting
+1836. Creative Commons Tools
+1837. DVD Manager
+1838. Dashboard Linux - DashPC
+1839. EXIF File Renamer
+1840. Easy Video Converter
+1841. Eviewbox DICOM java project
+1842. FinePix PC-CAM driver for linux 2.6
+1843. Freeloader Linux
+1844. GD4O [gee-dee-for-oh]
+1845. GLSlayer
+1846. GQmpeg
+1847. GTKSee
+1848. GUI for potrace
+1849. GlobeCom Jukebox
+1850. Guitar Note Practice
+1851. HPGS - HPGl Script
+1852. Heaven
+1853. Italian FESTIVAL
+1854. Jacktube
+1855. Java-Comix
+1856. JavaSWF - Macromedia Flash File Format
+1857. Jpeg Decoder
+1858. KJabata: Scheduled sound player/recorder
+1859. KLVLib - A C Library for KLV file I/O
+1860. KML Creator
+1861. KMiniDLNA
+1862. KPEdit
+1863. Lila Theme
+1864. LucidChamber-paint
+1865. MPIO support
+1866. Medical Data Segmentation Toolkit
+1867. Movie Sleep Timer
+1868. OpenGL/FreeType Text Rendering Library
+1869. OpenSceneGraph
+1870. PHP/MySQL Photo Gallery
+1871. Playlist HTML5 Audio Player
+1872. Python enhanced metafile (.emf) bindings
+1873. Quesa
+1874. RAGE:A 3D GBA ENGINE
+1875. Realistic Human Head Voxel Model
+1876. Rio 500 support
+1877. RyzomBlend
+1878. SVG Icons
+1879. Simplified All Gaming GUI
+1880. TTA on WindowsCE GSPlayer
+1881. Tao3D
+1882. The MusicKit
+1883. Tk Ecasound
+1884. VASP Data Viewer
+1885. Well-Oiled Game Font Maker
+1886. XMMS DVB Input Plugin
+1887. aPlayer
+1888. amc player
+1889. cdgtools
+1890. chdh - egregore source
+1891. cvastroalign
+1892. ewi4000s-editor
+1893. flam3 editor
+1894. footswitch2
+1895. glewpy
+1896. gnome-raw-thumbnailer
+1897. infotec
+1898. jfPaint
+1899. mxPlay
+1900. qfusion engine
+1901. Rio 500 support
+1902. RyzomBlend
+1903. SVG Icons
+1904. Simplified All Gaming GUI
+1905. TTA on WindowsCE GSPlayer
+1906. Tao3D
+1907. The MusicKit
+1908. Tk Ecasound
+1909. VASP Data Viewer
+1910. Well-Oiled Game Font Maker
+1911. XMMS DVB Input Plugin
+1912. aPlayer
+1913. amc player
+1914. cdgtools
+1915. chdh - egregore source
+1916. cvastroalign
+1917. ewi4000s-editor
+1918. flam3 editor
+1919. footswitch2
+1920. glewpy
+1921. gnome-raw-thumbnailer
+1922. infotec
+1923. jfPaint
+1924. mxPlay
+1925. qfusion engine
+1926. sabbu
+1927. sub2srt-python
+1928. superboucle
+1929. w00t Gallery
+1930. wavplay
+1931. wxLame
+1932. xcruiser
+1933. F4L
+1934. Ipe extensible drawing editor
+1935. MJPEG Lossless Rotate
+1936. Data Crow
+1937. MJPG-streamer
+1938. Akkeyrdion
+1939. Anrieff's Gallery Generator
+1940. FlashPascal
+1941. GEDI: Groundtruthing Editor
+1942. Guitar Chord Player
+1943. ImageStone
+1944. Janim
+1945. Kexis
+1946. Radiorecorder Web GUI
+1947. SiteX CMS
+1948. The Open Neo Project
+1949. Travian Raid Planer
+1950. Zorro's Tools for Atari/GEM
+1951. sabbu
+1952. sub2srt-python
+1953. superboucle
+1954. w00t Gallery
+1955. wavplay
+1956. wxLame
+1957. xcruiser
+1958. F4L
+1959. Ipe extensible drawing editor
+1960. MJPEG Lossless Rotate
+1961. Data Crow
+1962. MJPG-streamer
+1963. Akkeyrdion
+1964. Anrieff's Gallery Generator
+1965. FlashPascal
+1966. GEDI: Groundtruthing Editor
+1967. Guitar Chord Player
+1968. ImageStone
+1969. Janim
+1970. Kexis
+1971. Radiorecorder Web GUI
+1972. SiteX CMS
+1973. The Open Neo Project
+1974. Travian Raid Planer
+1975. Zorro's Tools for Atari/GEM
+1976. pdf2oo
+1977. vStab
+1978. ID3.py
+1979. RNNLIB
+1980. jPodder podcasting software
+1981. AfterGlow
+1982. AfterStep
+1983. Artec AS6E Scanner Driver for Linux
+1984. BRP-PACU
+1985. BulkDumpr
+1986. CHDK
+1987. DVD Tools
+1988. DVDAuthor Wizard
+1989. Daisy Web Player
+1990. Eastwood Charts
+1991. Free-Viewpoint Video Renderer
+1992. GPU, a Global Processing Unit
+1993. Google.mE
+1994. Image viewing and analysis
+1995. KDE DVB-T Recorder
+1996. Launchpadctrl
+1997. Linux Webstartup LITE
+1998. Multiconvert
+1999. OpenMusic 5
+2000. PC-Softsynth
+2001. Php Pdf Factory
+2002. PictureSorter
+2003. Pitchtune
+2004. PlayShell
+2005. Rad Image
+2006. RoadMap
+2007. SageTV Plugins
+2008. Simple JACK MIDI player and recorder
+2009. Sphaerica
+2010. StyroFoamRobot
+2011. TVEz - Media Library
+2012. Tuning Fork
+2013. Vermilion Desktop Composer
+2014. ViSTA VR toolkit
+2015. Video Share VOD
+2016. Wpl2m3u
+2017. XBMC Media Companion Linux Edition
+2018. XLDS
+2019. YouGet
+2020. autopilot: UAV command and control
+2021. autoradio
+2022. cosmogoniA Linux Live!
+2023. drumsynth
+2024. dumpmpeg
+2025. eyeD3
+2026. imagemovie
+2027. libSpider
+2028. mailpictures
+2029. movie manager
+2030. phpGraphy
+2031. xsidplay2
+2032. EasyTAG
+2033. OpenExif
+2034. ::phpMpReloaded:: The webclient for mpd
+2035. A video4linux framegrabber
+2036. ASE View
+2037. Accordeur (tuner)
+2038. AllegroGL
+2039. Arduinome
+2040. Autogg - the Automatic Ogg Player
+2041. Behavioral Monitoring Tool
+2042. Bindenlicht
+2043. CSA
+2044. Cal3D - 3d character animation library
+2045. Calyp
+2046. Cheese Tracker
+2047. Clear View
+2048. DDownloader
+2049. Databionic MusicMiner
+2050. DeaDBeeF Waveform plugin
+2051. Doodle
+2052. Driver for NW802 based webcams
+2053. Dual Quaternion Skinning Maya Plugin
+2054. EPS Graphics Library
+2055. EQU Graphical Audio Equalizer
+2056. EXIF (JPEG) file viewer for Zaurus
+2057. Easy Video Cutter
+2058. EffecTV
+2059. Film Gimp
+2060. FireFly-Server
+2061. Font Viewer
+2062. Full Decent Image manipulation/ fractal
+2063. GRAMophone II
+2064. H.264 Java Encoder
+2065. HeldenViewer
+2066. HomerHEVC
+2067. InproTK
+2068. JBrickBuilder
+2069. JCCKit
+2070. JColorGrid
+2071. JGarminImgParser
+2072. JMyOggRadioPlayer
+2073. JOpenChart Toolkit
+2074. JSGL - JavaScript Graphics Library
+2075. Jade
+2076. Java Multiple Audio Format Converter
+2077. Jukebox Manager
+2078. Kangas Sound Editor
+2079. LSynth
+2080. Linux Dream Cheeky Roll-Up Piano Driver
+2081. Linux on iPod
+2082. LxDoom
+2083. MPEG-2 TS 1394 decoder
+2084. Mac3Tag
+2085. ManDVD
+2086. ManyEars
+2087. Music Writer
+2088. NAFE -- not another font editor
+2089. OSSIM - Open Source Software Image Map
+2090. OpenGUI
+2091. Oyranos
+2092. Panasonic Camera Remote Control
+2093. Panorama
+2094. Play List Syncronizer
+2095. Playlist Repair
+2096. QGen2
+2097. QtVu
+2098. Quirinux
+2099. RasmusDSP
+2100. Rassam-paint
+2101. RayTrace
+2102. Rebloch
+2103. SANE Web Interface
+2104. SBStudio PAC player
+2105. Saturn Tools
+2106. SlickSlice
+2107. Snap Screen App™
+2108. SonaSound - UNIX Sonogram
+2109. SteganoImage
+2110. Subtitles
+2111. Subtitles Fixer
+2112. Subvert Audio
+2113. Sylphis3D
+2114. Traitement d'images Tim
+2115. UPnP-Control for mplayer
+2116. Universal 3D models converter
+2117. Video Squirrel, cross-platform video fil
+2118. VideoMan Library
+2119. Volume.app
+2120. XLView
+2121. XMMS Jack audio plugin
+2122. Zwicker s Loudness Calculation SW +Tool
+2123. blendamajigs
+2124. cuetools
+2125. drawboard
+2126. eXtace
+2127. edje2yuv
+2128. ifpgui
+2129. jfRecordCamera
+2130. jlibeps
+2131. jlscp
+2132. karaokediskeunpacker
+2133. libopen
+2134. mapyrus
+2135. ovoplayer
+2136. planetGenesis
+2137. scan2pdf
+2138. slidePresenter
+2139. vamps
+2140. Mutiara motif designer
+2141. SVC Stream Player
+2142. Youtube-2-mp3
+2143. webcamserver
+2144. WDTV Tools
+2145. XBMC Skinning Project
+2146. YouTube to MP3 Converter
+2147. JSXGraph
+2148. JUCE
+2149. PixelLight
+2150. Album Art Extractor
+2151. OCR Web based
+2152. Palomino flight simulator
+2153. Smasher
+2154. Virago Surveillance System
+2155. 3D Realtime Acoustic Simulation
+2156. AVI file support library
+2157. AVR Butterfly MP3 Player
+2158. Acecad tablets driver for Xfree4/linux
+2159. AnaglyphViewer
+2160. Analyser
+2161. Apache::MP3
+2162. Ardour
+2163. Audex
+2164. Audio Recorder
+2165. AuroraExt
+2166. BPMDetect
+2167. BSP
+2168. BackuPod
+2169. BlueSphere
+2170. Bluetooth alsa
+2171. Boat Scenario
+2172. CSV F-Curve Importer for Blender
+2173. Camscope
+2174. Click3d
+2175. Crowd Simulation Framework
+2176. DVArchive
+2177. DVB Tools for Windows
+2178. Dbmc
+2179. DigiScrap
+2180. Ditaa Addons
+2181. DocuPen
+2182. EasyMP4
+2183. EncodeX
+2184. Equalizer - Parallel Rendering
+2185. Evolvotron
+2186. Fast Ogg Encoder
+2187. Felimage plugins for the GIMP
+2188. Free Rendering Object Graphic 3D
+2189. GLOBE_3D
+2190. GT8-UI
+2191. GView
+2192. Gimp Octave Sharpening
+2193. Glimpse
+2194. Graph Package
+2195. HP3300c SANE backend
+2196. HvSdr Radio
+2197. IMG2ASCII
+2198. Icarus Scene Engine
+2199. Icecast Explorer
+2200. Image Rotator
+2201. Image Tagger
+2202. ImageJA
+2203. Insolit Dust - Oldschool Demo Effects
+2204. Java MPEG-1 Audio Decoder And Player
+2205. Java Screenshot
+2206. JavaLogo
+2207. JxFreeDB
+2208. K TV Recorder
+2209. Kodi Remote
+2210. MP3 File Reorganizer
+2211. Manikin
+2212. Mario Paint Composer Assistant
+2213. Media Metadata for Python
+2214. MesonCast
+2215. MidiWriter
+2216. Minaton
+2217. Module barcode generator
+2218. Music Transcription Database
+2219. Music-Player
+2220. Muvid Video Converter
+2221. My Scrapbook
+2222. NMC player
+2223. Nogatech/Zoran USBVision Device Driver
+2224. NukedGallery
+2225. P264Decoder
+2226. PPPlay
+2227. PVDTools
+2228. Pearl MATE STUDIO 7.1
+2229. PfControl
+2230. Phanto_maJ
+2231. PhysX plugin
+2232. Playlist
+2233. Polito
+2234. Processing Layers
+2235. PyPotrace
+2236. QR Code Generator by Aspose.BarCode
+2237. QSFM Quick Soundfont Manager
+2238. Qt Handwriting Recognizing
+2239. QuickDownloader
+2240. RTSP Proxy Kit
+2241. RawVideoPlayer
+2242. Rockbox Database Manager
+2243. Rubato Composer
+2244. SDL_stretch
+2245. Shine Fixed-pt MP3 Encoder Library
+2246. SimpleJavaYoutubeUploader
+2247. SnipDock
+2248. Sound Studio
+2249. SpeakRight Framework
+2250. Streamcast
+2251. SubtitleMixer
+2252. Subtitles MiniTools
+2253. Syntactic Tree Designer
+2254. Teamspeak 3 Love Plugin
+2255. Text to Voice
+2256. Tritonus
+2257. Unix Rio Utility
+2258. Video4Linux.Net
+2259. Virtualdub filter blenderM
+2260. WAV Speech Enhancer
+2261. WW2D
+2262. Webcam Fun +
+2263. Webcam source daemon (camsource)
+2264. XBOX360 ION Drum Rocker to MIDI
+2265. Xebece
+2266. YOYOPlayer
+2267. YUVconverter
+2268. abcmusiex
+2269. blight
+2270. byzorgan
+2271. cbrPager
+2272. cvsplot
+2273. digitalink-
+2274. dlnAP
+2275. dvbackup
+2276. evplayer
+2277. ffmpeg-gui
+2278. iMON PC remote Linux driver
+2279. iStrip
+2280. iTunes Music Library Export
+2281. ijTools
+2282. jfMedia Player
+2283. jpegant
+2284. libLASi
+2285. libcdorganizer
+2286. libvidcap
+2287. midimusic
+2288. mp3ql
+2289. musify
+2290. oscp
+2291. panomatic
+2292. phpRadio
+2293. pmaudio
+2294. portable plot
+2295. pythonic mp3 recorder
+2296. radio.tcl/radioc.tcl
+2297. rsynth - Text-to-Speech (Formant Synth)
+2298. sif
+2299. videotools
+2300. world coins collection
+2301. xINSTALL - Xbox Installation Wizard
+2302. xSonify
+2303. xspect3d
+2304. BindingListView
+2305. HACD
+2306. AhoTTS Multilingual, a Multilingual TTS
+2307. Asido
+2308. AudSub Splitter
+2309. BinaryView
+2310. Burn 360
+2311. CTRLR panel for Waldorf Microwave XT
+2312. Cyclone
+2313. DJVUEd
+2314. Demolisher
+2315. Diglo
+2316. GHMidi
+2317. GSolaar
+2318. Gimp#
+2319. Graphane
+2320. Graphite
+2321. InertiaEngine
+2322. InstrumentTuner
+2323. IrrlichtPas
+2324. JIVES
+2325. JLinBar
+2326. JListenToMe
+2327. JPedal JBIG2 Image Decoder
+2328. Jastrology
+2329. KSubtitleRipper
+2330. Kandid
+2331. LC's Finder
+2332. LinCoder
+2333. MIF85Tracker
+2334. MPEG-7 Audio Encoder
+2335. Music Ontology tools
+2336. NomadSync
+2337. Offscreen Gecko
+2338. Oirlis
+2339. Open Elms - LMS/CMS for Business
+2340. OpenWorship
+2341. PDFRead
+2342. PEL: PHP Exif Library
+2343. Pivot: Revolution
+2344. Presto
+2345. Proteus Controller
+2346. ScopeShapes
+2347. Scrender - A Website Screenshot Renderer
+2348. Tamil Radio
+2349. TimeDoctor
+2350. Tunez
+2351. JListenToMe
+2352. JPedal JBIG2 Image Decoder
+2353. Jastrology
+2354. KSubtitleRipper
+2355. Kandid
+2356. LC's Finder
+2357. LinCoder
+2358. MIF85Tracker
+2359. MPEG-7 Audio Encoder
+2360. Music Ontology tools
+2361. NomadSync
+2362. Offscreen Gecko
+2363. Oirlis
+2364. Open Elms - LMS/CMS for Business
+2365. OpenWorship
+2366. PDFRead
+2367. PEL: PHP Exif Library
+2368. Pivot: Revolution
+2369. Presto
+2370. Proteus Controller
+2371. ScopeShapes
+2372. Scrender - A Website Screenshot Renderer
+2373. Tamil Radio
+2374. TimeDoctor
+2375. Tunez
+2376. Visage
+2377. WebSANE
+2378. Webshots Album Extractor
+2379. XDraft -- drawing and drafting program
+2380. XVoice
+2381. Xine Playlist Editor
+2382. Yamaha DX7-II synth manager
+2383. aesthe
+2384. despotify
+2385. etree-scripts
+2386. fotorelacjonusz
+2387. iScrobbler
+2388. iTheater: The Mac Media Center
+2389. jShuffle for iPod Shuffle
+2390. jTunes
+2391. ksmp3play
+2392. libGLOOP
+2393. ltcsmpte
+2394. mplayer-n9
+2395. nGhost Media Center
+2396. pdf2mp3
+2397. pyirrlicht
+2398. sfFreeFrame
+2399. sosi2other
+2400. streambox
+2401. wavMasher
+2402. wizd media server
+2403. wxPackJPG
+2404. FixTag
+2405. Global Sensor Networks (GSN)
+2406. MixRamp
+2407. Nulloy Music Player
+2408. Simple XBMC Remote
+2409. TvARP Automation Recording and Playback
+2410. Video/AVI to DVD transcoder
+2411. eXtended Screenshot (xscreenshot)
+2412. music on console
+2413. osgXI
+2414. GraPHPite aka Image_Graph
+2415. NomNom
+2416. Agar
+2417. MeetingPoint
+2418. Scale2x
+2419. Tao
+2420. avoCADo-CAD
+2421. 3gp converter
+2422. A Murder In The Public Domain
+2423. ANSiMat
+2424. Absolute Frequency Music Generator
+2425. Adaptube
+2426. Airport Express Client
+2427. An MP3 Lender
+2428. Analogy
+2429. Audimus
+2430. Audio Trigger
+2431. AudioWrapper
+2432. Audovia
+2433. Austrian German Voices for Festival
+2434. Automatic Media Player
+2435. Azul
+2436. BMPlayer
+2437. BayImg.com Grep
+2438. BayesianCortex
+2439. Black Engine
+2440. Blender Boujou import script
+2441. Blu-ray video authoring tools
+2442. BrutefirDRC
+2443. C2C Slope Ruler
+2444. CDtoISO
+2445. Cat-Photo
+2446. ColorSynth
+2447. Comic book editor
+2448. Creative PC-CAM camera
+2449. Cursed Sequencer
+2450. DLoader
+2451. DUPS
+2452. Dave's CD player
+2453. Dex Tracker
+2454. EXIF Date-Changer
+2455. EasyH10
+2456. Engine_3D
+2457. ExifStatistics
+2458. FFT Spectra
+2459. FastICA for JAVA
+2460. FluidGUI
+2461. FlvToMp3
+2462. FormRead
+2463. Fox Audio Player
+2464. GMTool
+2465. GNU Tuxbox
+2466. GSburn.app
+2467. GUILib
+2468. Genecys
+2469. General Graphics Interface
+2470. Glurp
+2471. Gnome AMP
+2472. Grain Painter
+2473. GuitarScales
+2474. GuitarStudio
+2475. Gv4l
+2476. Hdot264 video codec
+2477. Humboldt WMS Viewer
+2478. IVCON
+2479. Iduna DAIsy Reader
+2480. Image Inpainting
+2481. Infinity
+2482. Infinity Project
+2483. Inkscape streaks
+2484. InnerWorld
+2485. Inwicast Mediacenter
+2486. IrrAR
+2487. JFractals
+2488. JSplitterMp3
+2489. JVEditor
+2490. Java USB Camera Tools
+2491. Jim2Mov
+2492. Jpg2Pdf
+2493. JuMP3
+2494. KStreamRipper
+2495. KZenExplorer
+2496. Kingdom Melodies Player
+2497. LCDex - A Linux CDEX Clone
+2498. LingoTeach
+2499. Linux Projector Tool
+2500. Listen, a Music player and management
+2501. LiveType Project
+2502. LongPlayer
+2503. MFFM 3d Audio
+2504. MIDI Controller
+2505. MIDITOR
+2506. MOKA - 3D Topological Modeler
+2507. MP3 Report Generator
+2508. MPEG Maaate
+2509. MVideo
+2510. Mandelbrot Viewer
+2511. Manifold mesh processing
+2512. MaxxHi5
+2513. Media Mover
+2514. MediaPipe
+2515. MeshDev - Mesh Comparison Software
+2516. Mobile STK
+2517. MooseWrap
+2518. Multi-Image Downloader
+2519. Music Theory Environment
+2520. MyseeLite
+2521. NFI enf collector
+2522. Natural Language Mouse Interface
+2523. Normal/Displacement Map Generator
+2524. Nsound
+2525. Omgifol Python WAD Library
+2526. OntoSphere 3D
+2527. Open 3D GIS
+2528. Open Unified Recording
+2529. OpenArena
+2530. OpenBroadcaster Player
+2531. OpenGI
+2532. Opus+
+2533. PDFWriter
+2534. PGID3 Tag Editor
+2535. PHP Matrix
+2536. Palm Tuner and Metronome
+2537. Pegasus Scribble
+2538. Photo GeoTag
+2539. PhotoScale!
+2540. Phyz Ray
+2541. Pinnacle PCTV Deluxe/Bungee GUI
+2542. PlayJoom
+2543. Playlist downloader
+2544. PlusV
+2545. Portable Media Player library (PMPlib)
+2546. ProStack
+2547. Project ZeroSlackr
+2548. PsyScript - getting experiments done
+2549. PyVRML97
+2550. QUI for MPlayer
+2551. Qt Graphic Map Viewer
+2552. Radio Player Forte Plus
+2553. RedShift GUI Portable
+2554. Remuco
+2555. ReportLab
+2556. Rubik's_cube_3x3x3_Simulator
+2557. SPU-Toolbox
+2558. SagCAD
+2559. Scilab Aurora
+2560. SetVLCMultimediaLibrary
+2561. Shape Grammar Interpreter
+2562. SharpEd
+2563. Simple PHP WebCam
+2564. Sip Audio Feeding Agent
+2565. SlimDX Collada Loader
+2566. Slurred speech recognition system
+2567. Solid
+2568. Sound Recorder and Editor
+2569. SoundPlay
+2570. Soundwave
+2571. Spatialization of Sound
+2572. Speect
+2573. Squeak
+2574. SteGUI
+2575. Strasheela
+2576. SubAutoRename
+2577. Subtitle Synchronizer
+2578. TFTgallery
+2579. The Albums Downloader
+2580. The Java Karaoke Project
+2581. The Python Sound Project
+2582. Title Fix
+2583. Toolbar Editor
+2584. Transform SWF for C++
+2585. Tree Layout Helper
+2586. Ultimate Live Music Audio Converter
+2587. Useful Java Application Components
+2588. VRML97_Import
+2589. VenenuX
+2590. ViaVoice tools
+2591. VisAD Java Visualization
+2592. WOscLib
+2593. Webbased Music Jukebox
+2594. Weekly Drawing Contest
+2595. X-evian
+2596. XAMOS
+2597. XMLLeague
+2598. Xamp
+2599. Xj3D
+2600. Yet Another Pov-Ray Modeller
+2601. Zhu3D
+2602. ZynYoshControl
+2603. animix
+2604. asterisk-flite
+2605. aviManager
+2606. cbrTekStraktor
+2607. cd2mp3
+2608. cdcover
+2609. cdlib - CD-ROM/R/RW access library
+2610. chatbot_chung
+2611. collageplus
+2612. colortool
+2613. dcaenc-lossless
+2614. deconvolv
+2615. dplayer
+2616. dreambox-tv
+2617. dv2jpg
+2618. ecw2sfz
+2619. edit-EXIF: To add/edit EXIF2.2 tags(PHP)
+2620. filtered
+2621. fpALSA
+2622. freedb
+2623. g2 graphical library
+2624. gimmage: a simple image viewer for unix
+2625. gkaraoke
+2626. ico2xpm
+2627. imageEdit
+2628. imgp
+2629. imthreshold
+2630. jgnuplot
+2631. korgutils
+2632. libsmacker
+2633. mCode
+2634. mix-gus-pats
+2635. mkthumb - another thumbnail image maker
+2636. monoBristol
+2637. mp3 downloader
+2638. mp3 to ogg
+2639. mp3burn
+2640. mpeg_cut
+2641. okvm
+2642. open-vjj
+2643. openoctave
+2644. pen-driver
+2645. photospace
+2646. piddle
+2647. pyMap Explorer
+2648. read_chung
+2649. slag
+2650. tifftool - scanned image cleaner
+2651. tstool
+2652. video recorder
+2653. wxIA - wxWindows Image Acquisition
+2654. xoris
+2655. MediaLibrary
+2656. CDox
+2657. Disc-cover
+2658. EMFF
+2659. FXMovieManager
+2660. Inform 7
+2661. JWatermarks
+2662. Java Mass JPEG Resizer Tool
+2663. Jbookshelf
+2664. Linux Aureal Driver
+2665. MS Ink Server
+2666. MediaEncodingCluster
+2667. MobileMpd.net
+2668. OpenCV on the Cell/B.E.
+2669. RIMPS
+2670. RTSP Proxy
+2671. S60 Internet Radio
+2672. SVG editor for ownCloud
+2673. Simple Viewer
+2674. SubHub
+2675. SupahSimpol Radio Player
+2676. Tao Classic
+2677. Tivo 4 Tiny
+2678. Universal Batch Converter
+2679. amsynth
+2680. any2dvd
+2681. mapnik-net
+2682. morse-coach
+2683. quickplot
+2684. sopcast-player
+2685. Movie Info Plus
+2686. Bitcollider
+2687. Entagged - The Musical Box
+2688. JingleFoxPro
+2689. LIM OpenMAX Implementation
+2690. 3DMarker
+2691. AIChatbot
+2692. APE Tag Libraries
+2693. AVISync
+2694. Acmosis Radio Frontend
+2695. Alemus (Aprende a Leer Musica)
+2696. Alkaline Jukebox
+2697. Almagest
+2698. Amplitude
+2699. Analyzer for Files
+2700. AnimEasy - Graphic animation to Inkscape
+2701. Astro-Nex
+2702. AstroFrame
+2703. Audacity Policial
+2704. Automated Attendance System
+2705. BananaSplitter
+2706. BarRoom Jukebox
+2707. BeatMover
+2708. Behemot Editor
+2709. Bermuda Text-to-Speech
+2710. Bitwise Stack of Life Games
+2711. Blob Extractor
+2712. Bulk ID3
+2713. CCITT-G4 decoder including PCL backend
+2714. CDnavigator
+2715. CHOMP3
+2716. CNC-Suite
+2717. Carnival - a GUI for Festival
+2718. Cellulate
+2719. Chryzodus, a chryzode explorer
+2720. Clipstitch
+2721. CodeSounding
+2722. Coin3D-SoQt
+2723. Common Lisp bindings for SDL
+2724. Configurable Math Library
+2725. Continuous Screenshot
+2726. Control App for ESI MAYA22 USB
+2727. Cowfish Streamingserver
+2728. Cute Giraffe
+2729. DICOM Flash Viewer
+2730. DJBrain
+2731. DJVUMan
+2732. Dave's Stupid Alarm Clock
+2733. Dayon! (active)
+2734. Demeter Terrain Engine
+2735. Digicorder Communicator and Transcoder
+2736. Distributed Artificial Intelligence
+2737. DoF Priority
+2738. Drawj2d
+2739. Drum Count
+2740. Drumtabconverter
+2741. EVILib Camera Control
+2742. Easy Equations
+2743. Easy Monitor
+2744. Ecere SDK
+2745. Eiger Labs MPMAN GUI Project
+2746. Equity10
+2747. Esegui SB
+2748. Euclidean
+2749. Extensible-TIFF-JAI
+2750. F2IBuilder
+2751. FFFF - Fast Floating Fractal Fun
+2752. FUSEPod
+2753. FXRuby
+2754. Figurine
+2755. Fourier
+2756. Fox Photo Viewer
+2757. Fractint Color Map Generator
+2758. Frame Extractor
+2759. Free Film Project
+2760. FreeBoB
+2761. Freewheeling Live Looper
+2762. Fung-Calc
+2763. Fussballtrainer
+2764. GDAM
+2765. GGStream*ws
+2766. GGplus
+2767. GNOME Ripper And DVD Encoder
+2768. GPixPod
+2769. GStreamer DLL loader plugin
+2770. GT-8 Sysex Reader
+2771. Gap Metronome
+2772. GenTube
+2773. Gerbil
+2774. Get A Mosaic
+2775. Gimmix
+2776. Gimpact Geometric Tools
+2777. GlyphWiki Drawfont Tool
+2778. Gnome MP3
+2779. Gnome Toaster
+2780. GoGraph
+2781. GoLrev
+2782. Height Map Editor
+2783. HermIRES
+2784. Hypernotes
+2785. IMP - Irrlicht Music Player (Irrlicht)
+2786. IMYplay
+2787. IRK! Infrared Remote USB Keyboard
+2788. IcyPHP
+2789. Image Indexer
+2790. Image Matting
+2791. Image MetaWriter
+2792. Image Process
+2793. Image Quality Assessment (IQA)
+2794. ImageApp - Java Advanced Imaging GUI
+2795. ImageKonverter
+2796. Imagebooru Browser
+2797. Imageprocessing filters
+2798. Innovation3D
+2799. IrrLua
+2800. J-Syncker
+2801. JComposer
+2802. JFreeSVG
+2803. JGimp
+2804. JMP3Renamer
+2805. JPhotoShop
+2806. JPianoTrain
+2807. JVDrums
+2808. JXM
+2809. Jalava Web-based Diagram Editor
+2810. Java Hyper Terminal
+2811. Java MPEG-1 Video Decoder and Player
+2812. Java Mbus
+2813. Java Scoreboard
+2814. Java Sound Player and Recorder
+2815. Java Sound Resources
+2816. JavelinOrgChart
+2817. JpegExtract
+2818. KSubtile
+2819. Karaoke con SMIL
+2820. Konverter
+2821. L3D graphics library and examples
+2822. LADSPA Trigger Plugin
+2823. LAMP
+2824. LEG - The Linux Encoder GUI
+2825. LG MediaCenter Menu
+2826. Lapidarius
+2827. Le Petit Poucet gps software
+2828. LeapInto
+2829. Legacy Film to DVD Project
+2830. LibASS
+2831. ListCopy
+2832. Lua-GD
+2833. MCE-Plugins
+2834. MInaDIte
+2835. MP3 Dynamic Range Analyzer
+2836. MP3 JukeBox
+2837. MP3 Player
+2838. MP3WebPlayer
+2839. MP4MENU
+2840. MPD Now Playing
+2841. MPEG stream consistency check
+2842. MRCP4J
+2843. MTP Playlist Editor
+2844. MX Terminal
+2845. MacroWriter
+2846. Marlin
+2847. MassGeotagger
+2848. Massive Importer for Maya
+2849. Media Cat
+2850. MediaSniper
+2851. Menestrel
+2852. Midi Rotator
+2853. MindWeb
+2854. Mixer - Video Downloader
+2855. MobileMath
+2856. ModPlay
+2857. Moses Tool Suite
+2858. Mp3Asm
+2859. MusicBox
+2860. MusicCorner
+2861. My little prompter
+2862. MyBashBurn
+2863. Mylene
+2864. NFO2PNG PHP-Library
+2865. NJB Navigator
+2866. Naam Tamilar HTML 5 Shoutcast Player
+2867. Net-Cam : Free IP Video Surveillance
+2868. Nomad II Voice Format (NVF) Tools
+2869. Online Video Viewer
+2870. OnsetsDS - onset detection library
+2871. Open Model API
+2872. Open Source Press
+2873. OpenAL++
+2874. OpenAl.Net
+2875. OpenBroadcaster Server
+2876. OpenDAFF
+2877. OpenGL Tutorials
+2878. OpenGL Voxel Engine
+2879. OpenMayaToolbox
+2880. OpenQuicktime
+2881. OpenRM Scene Graph
+2882. OpenSceneGraph Audio Library
+2883. Oranje4
+2884. Osnofian Embedded Linux (x86)
+2885. PDEGraphics2D
+2886. PHP Video Toolkit
+2887. PHP::Playlist
+2888. PJX
+2889. POggPl
+2890. PRICE - image filtering and manipulation
+2891. PS-plotting to paper
+2892. PSvid
+2893. PV2DevKit
+2894. ParseL
+2895. PatchBlocks Sequence 08
+2896. Phil's pyGame Utilities
+2897. Photo for Zope
+2898. Photo-Manager
+2899. PhotoVault image organizer
+2900. Photobook with similar images finder
+2901. Phraseanet
+2902. PhunkBox
+2903. PicoGUI
+2904. Plait command-line jukebox
+2905. PlaySPC
+2906. PoJamas
+2907. Power Sprite Editor
+2908. Progression Finder
+2909. Prompter
+2910. Ptarmigan Media Parser for XML
+2911. PyMagick
+2912. Python MIDI
+2913. Python3DS
+2914. QMGA
+2915. Qoole
+2916. Qt FriendlyARM
+2917. Quadrics (START READING THIS WIKI)
+2918. RAW to BMP
+2919. REVEAL_Web
+2920. RLPlot
+2921. RT60 Calculator
+2922. RUDL, Ruby and SDL
+2923. Radium - The Music Editor
+2924. Real-time Fractals
+2925. RedFX
+2926. RemoteTTS
+2927. RockAA
+2928. S60 Ogg vorbis codec
+2929. SCS
+2930. SCUM
+2931. SDL for GP32
+2932. SDL-Terminal library
+2933. SPADE
+2934. SRTools
+2935. SSBRenderer
+2936. Sat>ip
+2937. SaturnCamApplet
+2938. Scrawl.js
+2939. Scriptol Xul Dev
+2940. Shallows
+2941. Shared Questionnaire System
+2942. Sheet Music Viewer
+2943. Sifa Subtitle Maker
+2944. Simple Synthetiser
+2945. SketchUp to Ogre Exporter
+2946. Snap
+2947. SoftWerk
+2948. SoftWire
+2949. Sonata Music Player
+2950. SoundConverter
+2951. SpecViewer
+2952. SpiceX
+2953. SpiroJ
+2954. SpriteBuncher
+2955. SubNamer
+2956. TBX Player
+2957. TSE3 [ Trax Sequencer Engine v3 ]
+2958. TclMagick
+2959. Television Gratis / Free TV
+2960. Testcard
+2961. The Deimos Project
+2962. The GLAM OpenGL User Interface Toolkit
+2963. The GLmath Project
+2964. The Harmony of the World
+2965. The LAME GUI
+2966. The OS FPS/TPS project
+2967. The Wiinstrument
+2968. Tivo VLC modules
+2969. TopDrawer
+2970. Transcend
+2971. Tree Generator
+2972. TunaFish Pitch Correction
+2973. Urban
+2974. VCDImager GUI
+2975. VIDEOSCRIPT
+2976. VISCA Joystick Control
+2977. VRMLViewer
+2978. Vanilla
+2979. Vascular Network Toolkit for ImageJ
+2980. Vdr Softdevice
+2981. Vegetation 3D
+2982. VidL
+2983. VideoMer
+2984. View64
+2985. VirtuaDesk - a 3d file manager
+2986. Virtual Choreographer
+2987. VoxRend
+2988. WDTV LIVE MODS
+2989. Wad2PDF
+2990. Wave Swiss Knife
+2991. Web Chord
+2992. Webcampak - Capture the world in HD
+2993. Whoola
+2994. WikiPDF
+2995. WoodboxPlayer
+2996. X-Air Scene Parser
+2997. X3DV Module Suite
+2998. XEland - stereo 3D landscape generaror
+2999. XFree86 Project
+3000. XMMS MPlayer Input Plugin
+3001. XMMS On The Fly Recoding
+3002. XMedia
+3003. XNapster - a Java Napster client.
+3004. XymMS: Sega Genesis GYM Plugin for XMMS
+3005. YARE
+3006. Youtube MultiDownloader
+3007. ZMPlay
+3008. a2png
+3009. ajmetronome
+3010. arqlib
+3011. asmlibrary/aamlibrary
+3012. audio beat detection software
+3013. baamanga
+3014. blueMarine
+3015. bluejam
+3016. cajun
+3017. clothoid to bezier conversion
+3018. cmp3 with ogg
+3019. convertToMP4
+3020. cuneiformplus
+3021. dLAN Audio Server
+3022. diascope
+3023. digicamscan
+3024. digui
+3025. dv2sub
+3026. dvd_info
+3027. dzChart for Delphi and Kylix
+3028. fev h264 encoder
+3029. fig2sxd
+3030. flowers3
+3031. gbemol
+3032. giPlayer
+3033. glFFmpeg
+3034. gpx2avi
+3035. gv Postscript and PDF viewer
+3036. hackerhat
+3037. hscratch
+3038. iTunes Genre Art Manager
+3039. image-csv
+3040. imagelib
+3041. imagetext ( smarty image plugin )
+3042. jFooID
+3043. jMusicCreator
+3044. jbuzzer
+3045. jdatestamp
+3046. jfAudio
+3047. kamix
+3048. kmencoder
+3049. kwintv
+3050. libuta - a c++ multimedia framework
+3051. m3u-Copy
+3052. metaedit
+3053. meterec
+3054. midiexplorer
+3055. mp3fs transcoding FUSE filesystem
+3056. mplay
+3057. musikonverter
+3058. myBench
+3059. myStudio
+3060. osgGtk - GTK widgets for OpenSceneGraph
+3061. oyoaha lookandfeel
+3062. p2000floppy
+3063. panda
+3064. php movie db
+3065. pileworks
+3066. pingo
+3067. png2jpeg
+3068. pydisplay
+3069. pyscope
+3070. qiew
+3071. qjackmmc / jackctlmmc
+3072. raffaello
+3073. rawrec/rawplay threaded audio
+3074. rayshade-mathematica
+3075. ripwrap
+3076. slideshow
+3077. soniK
+3078. spiralsynthmodular
+3079. subconv - subtitle adjust/convert
+3080. texgenpack
+3081. tuxcode
+3082. tvtekaplugin
+3083. vtkmm
+3084. wav2mp3
+3085. wavegen
+3086. wodim
+3087. x264gui tmod
+3088. xLightFrame - Philips LightFrame2 for X
+3089. xf4vnc
+3090. zarfy
+3091. µPhoto
+3092. Cover Downloader
+3093. Jubler subtitle editor
+3094. 3ds to java3d converter
+3095. Aptos
+3096. ArkeosSceneEditor3D
+3097. Avicenna
+3098. Aztec 3D Modeller
+3099. BMP to AVI Sequencer
+3100. Bash Batch Image Processing Scripts
+3101. CADBox.2D
+3102. CCVisualizer
+3103. CMVParser
+3104. Calc Mosaic
+3105. Christine Media Player
+3106. Comix++
+3107. Crafty Scrapbook
+3108. Creative Nomad JukeBox KIO::Slave
+3109. Curl Advanced UI
+3110. Cutting Edge Linux
+3111. DBMix Digital Audio Mixing System
+3112. DP500-Serv
+3113. DSPatch
+3114. Danpei -- a Gtk+ based Image Viewer
+3115. DirectMidi.NET
+3116. Drception
+3117. Drowtales Online-Multiplayer Online RPG
+3118. Eclipse java3d plugins
+3119. Encapsulated PostScript Clip Art Library
+3120. Flash to Ren'Py Exporter
+3121. Footswitch2 Equaliser
+3122. Fractal Life Engine
+3123. FramaPlayer
+3124. FreeSOLID
+3125. Frequency Spectrum Dump
+3126. Fretboard Notes and Frequencies
+3127. Freytag DataMatrix Decoder
+3128. GEntrans
+3129. GTK+ IOStream
+3130. Geo Arbores
+3131. Ghost4J
+3132. Gneutronica
+3133. Groofy
+3134. Hamsi Manager
+3135. Hoverball and HoverWare
+3136. I Hear U
+3137. IMP Render Farm
+3138. Image Detail
+3139. Image Evolver
+3140. Indywiki
+3141. Internet Media Manager
+3142. JIVAM
+3143. KISS Player
+3144. Keystroke
+3145. Lasm's FX Effects for Gimp
+3146. Lazy File Sorter
+3147. Lazy Wavelet Transform
+3148. Lerning Process Hypercube Neuron
+3149. LibRSVG
+3150. Linux Video Player
+3151. LyricEditor
+3152. MPW Player
+3153. MPlayer Youtube Video Streamer
+3154. Maya2OSG
+3155. Moodbar generator
+3156. MosaicIt!
+3157. Museolog
+3158. Music and Discography Database
+3159. Musiql
+3160. Mythtv controller
+3161. NASDVR
+3162. Nelit2E
+3163. NightLabs PDF Viewer
+3164. Oggle Network Mapping and Display Tool
+3165. Open PHIGS
+3166. OpenCDN
+3167. OpenPTC
+3168. OpenTvArchitecture
+3169. PHP Comic Viewer
+3170. PHP-Lib-Xtreme
+3171. PHPSports Manager
+3172. PHPWS Theme Forge
+3173. PSOProxy
+3174. PVM patch for POV-Ray
+3175. Perl OpenGL 2
+3176. Piano Odyssey
+3177. PixTagger
+3178. PowerMovieList
+3179. QN Plot
+3180. Rumine
+3181. SDLmm
+3182. STANTOR
+3183. ScaleTempo
+3184. Sports Radio Delay
+3185. SportsCameraOverlay
+3186. TV-Out for NVidia cards
+3187. TerraJ
+3188. This Is Not A Radio
+3189. Tiếng nói Việt Nam
+3190. TubeKit
+3191. UModPlayer
+3192. Unified Image Manipulation Program
+3193. VIPS
+3194. VLC Mozilla Wrapper Plugin
+3195. VSceneGIS Project
+3196. Video Annotation and Reference System
+3197. Visio VDX to SVG XSLT Stylesheet
+3198. Web File Viewer
+3199. WebSpot
+3200. Weblery
+3201. XynA Player
+3202. YAMJ Editor
+3203. Zanzibar Open IVR
+3204. ZoomFX
+3205. Zoph
+3206. aedGUI
+3207. autoRIB
+3208. discid
+3209. egl
+3210. ezMPEG
+3211. falabaac
+3212. gnuplotfortran
+3213. iSmash
+3214. iVideo
+3215. iriverter
+3216. itvOS - Video & Streaming Framework/CMS
+3217. ivtools
+3218. jMax
+3219. libAIO XMMS output plugin
+3220. lswc
+3221. m Audiobook Player
+3222. mintyMac-StarStudio
+3223. mlbviewer
+3224. mp3-trim
+3225. openmnt
+3226. osGraphX
+3227. php Gallery 2l
+3228. qemplayer
+3229. sctl - Bearcat scanner control program
+3230. submplayer
+3231. texfig
+3232. vimpc
+3233. wavbreaker
+3234. xmms2swi
+3235. zither tuner
+3236. 中文语音阅读器
+3237. Fast Image (JPG) Resizer for Java
+3238. Clubmixer
+3239. DVD-Ranger UI
+3240. Inquisitor
+3241. JVIDEO: Java based webcam display system
+3242. game2midi
+3243. 2D 3D Flash Fighting Game
+3244. 3D Augmented Reality Venue
+3245. 3D Modelling Scripting Extensions
+3246. 3D Plot PovRay templates
+3247. 3DHOP
+3248. 3dom, a 3d object modeler
+3249. 9MediaCenterGUI
+3250. A 3D animated Dam
+3251. osGraphX
+3252. php Gallery 2l
+3253. qemplayer
+3254. sctl - Bearcat scanner control program
+3255. submplayer
+3256. texfig
+3257. vimpc
+3258. wavbreaker
+3259. xmms2swi
+3260. zither tuner
+3261. 中文语音阅读器
+3262. Fast Image (JPG) Resizer for Java
+3263. Clubmixer
+3264. DVD-Ranger UI
+3265. Inquisitor
+3266. JVIDEO: Java based webcam display system
+3267. game2midi
+3268. 2D 3D Flash Fighting Game
+3269. 3D Augmented Reality Venue
+3270. 3D Modelling Scripting Extensions
+3271. 3D Plot PovRay templates
+3272. 3DHOP
+3273. 3dom, a 3d object modeler
+3274. 9MediaCenterGUI
+3275. A 3D animated Dam
+3276. A FreeDB MySQL importer
+3277. A Game Demo by The Old Game Factory
+3278. A php webcam
+3279. AAX Desktop
+3280. AEBL
+3281. ALaddin
+3282. AMOS Sprite Bank Viewer (AROS/MorphOS)
+3283. ANTz
+3284. ASTA - Auto. Subtitle Timing Annotator
+3285. AUSS - Abram's Unix Sound System
+3286. Additive MIDI Performance Tool
+3287. AdjustImg
+3288. Adobe Flash Plugin
+3289. Advanced Command-line CD ripper/encoder
+3290. Advanced Sound Daemon
+3291. Ajax3d
+3292. Alliance Productions
+3293. Alsaplayer-fltk
+3294. Amaroc
+3295. An's Image Processor
+3296. AnimationPackage
+3297. AnimeVision
+3298. AprilBrush
+3299. Ariado Player
+3300. Arkanoid SFML
+3301. Ars for SDL and FreeType
+3302. AsphaltOpen
+3303. Atomic Photo Album
+3304. Audio Analysis
+3305. Aura Media Player
+3306. AutoRip
+3307. Automatous Monk: Cellular Automata Music
+3308. BFD Fibonacci Pattern Inkscape Extension
+3309. BVHplay
+3310. Babygimp
+3311. Balls Graphics Library
+3312. Bambi Editor
+3313. Bass Online Radio
+3314. Beats per Minute Video Converter
+3315. BenMP3
+3316. Bento4 portable MP4 file format library
+3317. Bezier Loop
+3318. Bill's OpenGL Library
+3319. Birne
+3320. BlackJack YouTube Downloader
+3321. Blackdog
+3322. Blacksun 3D Modeller
+3323. Blender Floretion Script: Cranborg
+3324. Blender Scripting Library
+3325. Bolt Player
+3326. Ars for SDL and FreeType
+3327. AsphaltOpen
+3328. Atomic Photo Album
+3329. Audio Analysis
+3330. Aura Media Player
+3331. AutoRip
+3332. Automatous Monk: Cellular Automata Music
+3333. BFD Fibonacci Pattern Inkscape Extension
+3334. BVHplay
+3335. Babygimp
+3336. Balls Graphics Library
+3337. Bambi Editor
+3338. Bass Online Radio
+3339. Beats per Minute Video Converter
+3340. BenMP3
+3341. Bento4 portable MP4 file format library
+3342. Bezier Loop
+3343. Bill's OpenGL Library
+3344. Birne
+3345. BlackJack YouTube Downloader
+3346. Blackdog
+3347. Blacksun 3D Modeller
+3348. Blender Floretion Script: Cranborg
+3349. Blender Scripting Library
+3350. Bolt Player
+3351. Bonn Open Synthesis System (BOSS)
+3352. Book2m4b
+3353. BpmDj: Free DJ Tools
+3354. Broadcast audio production tools library
+3355. Brook+
+3356. Buildes
+3357. C Sharp Photo Gallery
+3358. C4D Py-SplineDraw Tool
+3359. C::NTR::L
+3360. CADI Software
+3361. CD Bake Oven
+3362. CDDBNet
+3363. CDRTools Front End
+3364. CDRip
+3365. CIOS Audio Core
+3366. CSmusgen
+3367. Cabel
+3368. Cadabra3D
+3369. Calamaio Video Streaming Server
+3370. Canvas Game Engine
+3371. Canzoniere
+3372. Capture (Organelle)
+3373. Car media player
+3374. Cast Control
+3375. CastME!
+3376. Castor3D
+3377. Chaotic Attractors
+3378. Charly IPTVRecorder
+3379. Chhobi : A photo organizer
+3380. Chord 4.0
+3381. Clay VR Game Engine
+3382. Clips
+3383. Clothing Editor
+3384. ColourControls
+3385. ComfortTV
+3386. ComicsFetcher
+3387. Common Lisp JPEG Library
+3388. Complex Renderer
+3389. Computational Geometry Tool for Matlab
+3390. Computational Rough Paths
+3391. Connectere MPD
+3392. Converter from grib to Vis5d
+3393. Convey
+3394. Core3D
+3395. Corroding Aircraft NDE Tools, EC tester
+3396. CoverGen
+3397. CoverHog
+3398. Cpia2 webcam
+3399. CrypPic
+3400. Crystal XMMS
+3401. CuePlay
+3402. Cueplayer
+3403. Cuneiform-Qt
+3404. CyberVRML97 for Java
+3405. DAAP - Digital Audio Access Protocol
+3406. DCRaw4J
+3407. DCS3D
+3408. DIEGO MP3 SERVER
+3409. DM6400 Cherrypicker
+3410. DT3152 Framegrabber - Linux driver
+3411. DV/1394 Server
+3412. DV4Linux
+3413. DVB Open Transmission Core
+3414. DamePlus - A checkers game
+3415. David
+3416. Dedalo
+3417. Def Playlist Manager
+3418. Denon AVR Control Utility
+3419. DesArt Photo Manager
+3420. Desk Web-Cam
+3421. Desktop Timer
+3422. DeveloperEdition
+3423. DiViLine MPEG-4 TI DSP encoder
+3424. Digital Disco System
+3425. Digital Video Recorder
+3426. DigitalEyes
+3427. Direct Rendering Infrastructure
+3428. Dragon Engine
+3429. DupSynch
+3430. Dynagraph
+3431. EOS Image Manager
+3432. EPulse
+3433. EXYMEN (EXtend Your Media Editor Now!)
+3434. Ear Training Scale Note
+3435. EarTeach desktop Ear Trainer
+3436. EasyAac - MP3 to AAC/M4A Converter
+3437. Ecawave
+3438. Editor SVG
+3439. EiffelOpenGL
+3440. Eikazo
+3441. Eina
+3442. Einstein Explorer
+3443. Ekaaty Linux
+3444. Embassy
+3445. Embedded Web Radio
+3446. EmilyEditor
+3447. Endlos - Multithreaded Fractals
+3448. EroModel Catcher
+3449. ExifRename
+3450. Experi
+3451. Extreme Image Converter
+3452. FIPS (Free Image Processing Software)
+3453. FM tuner daemon
+3454. FM2TXT
+3455. FMV
+3456. FPS200 USB fingerprint sensor driver
+3457. FST to v5d Data Converter
+3458. FaceBuilder
+3459. Fax G3 TIFF to PDF converter
+3460. Faxi's Modular Stash
+3461. Fernweh3D
+3462. Fetcher
+3463. Flash WebCam Viewer
+3464. Flavor
+3465. FlickrWZ
+3466. Flightdeck-UI
+3467. FlowVR
+3468. Font Pattern Editor
+3469. FontGL
+3470. FontPack
+3471. FrAid System and Language
+3472. Fractal Zoom Explorer
+3473. FractalMuse
+3474. Fractalfrost
+3475. Framebuffer Boot Splash Screen
+3476. Free Image Manipulator
+3477. Freebirth
+3478. Freebox
+3479. Freemind Search Plugin
+3480. FreqTweak
+3481. Fripp
+3482. G-House 3D
+3483. G.A.V.
+3484. GD-Sharp
+3485. GDialog Add-on for X
+3486. GIMP Dimage color plugin
+3487. GIMP Dynamic Text
+3488. GIU Gallery Image Upload
+3489. GLCaml
+3490. GMPS
+3491. GMiMMS
+3492. GNU FemFum_CaLi2CoPi PS Applet
+3493. GNU/Linux Audio Mechanics
+3494. GNWMP - Gtk-nwmp
+3495. GPLFlash
+3496. GRacer
+3497. GXL
+3498. GXmap
+3499. Galapago
+3500. GamCat
+3501. Game of Life 3D
+3502. GePhex - realtime video jockey tool
+3503. Gecko Multimedia System
+3504. General Sound Interface
+3505. Genre Tagger
+3506. GeoDress
+3507. Get It Together
+3508. GigaPixel Viewer
+3509. Gimp Mac Helper
+3510. Gladivs - Screen Capture
+3511. Gloss3D
+3512. GlyphEdit
+3513. Gmusic
+3514. Gnome Simple Stateful Music Player
+3515. GoGear on Linux Boxes
+3516. Goliath Auto Screen Capture
+3517. Gorp
+3518. Grafmania3D 1.0beta
+3519. Grand Prix Legends Replay Project
+3520. Graphical User Interface Scripts
+3521. Groovebox Manager 303
+3522. H264 Lite Encoder
+3523. HP4200 SANE backend
+3524. HaXePlayer
+3525. HackMe Rockit
+3526. HardSID driver
+3527. Hauppauge PVR Linux Driver
+3528. HiFi3
+3529. High Speed Parallel Imaging (HSPI)
+3530. HiveBoard
+3531. Houdini OpenSoundControl
+3532. Hound Dog
+3533. HuMuS
+3534. HyperImage Virtual Research Environment
+3535. IBISA
+3536. ID3 Tools
+3537. ID3 tag converter
+3538. ID3v2 Audio Text Tools
+3539. IMS-Communicator
+3540. IRMP3
+3541. ISOLabel
+3542. ISSIGraph
+3543. IV:MP GUI Editor
+3544. Identity Engine RTS
+3545. Illustrated
+3546. ImLib3D
+3547. Image Leech
+3548. Image Tools
+3549. ImageJ
+3550. ImagePDFMerger
+3551. ImageThumbViewer
+3552. ImproSculpt
+3553. Inferno-Player
+3554. Instant Bach
+3555. InstrumentalMusic
+3556. Interactive KD-Tree GPU Raytracing
+3557. Intrepid 2D Game Library
+3558. Iris 3D-Client
+3559. Isaac Image Browser
+3560. J Radio
+3561. J/CoMM - Java RS232 Device Control
+3562. J2ME Keyboard UDP - Media Center Remote
+3563. J2ME Mini Apps
+3564. J3DView
+3565. JAnalogTV
+3566. JCapture
+3567. JChords
+3568. JDiskCat
+3569. JDraftPDF
+3570. JDrawing
+3571. JFindx1K
+3572. JGraphite
+3573. JHeader
+3574. JIV-Java interface for video devices
+3575. JImageConverter
+3576. JOS Media Player
+3577. JPEGExtractor
+3578. JPG optimization script
+3579. JPO Java Picture Organizer
+3580. JPlayerClassic
+3581. JRackAttack
+3582. JReceiver Audio Server
+3583. JRecorder
+3584. JRezz
+3585. JSMetronome
+3586. JShruthi - Swara Detector
+3587. JSoundCard
+3588. JSynoptic - A graphical sheet editor
+3589. JTGL (Java Tiny Gfx Library)
+3590. JTexSynth
+3591. JVMetro
+3592. JackMixDesk
+3593. JaguarAudioDesign.com RealTime Audio OS
+3594. Jallery
+3595. Jamendo Tools
+3596. Jarvis MC
+3597. Java 3D VR with basic headtracking
+3598. Java Audio Library Transcoder
+3599. Java Games and Graphics
+3600. Java Hybrid Distance Learning
+3601. Java Image Album
+3602. Java Jazz Teacher
+3603. Java Just Intonation Calculator
+3604. Java Monkey's Audio
+3605. Java Point
+3606. Java SlimServer
+3607. Java Software Renderer
+3608. Java YuvViewer
+3609. Java applets animator
+3610. Java3D RoboSim
+3611. JavaTron
+3612. Jeta Graphics Engine
+3613. Jix
+3614. Joystick Driver for Java
+3615. Jpeg Encoder
+3616. KOM(S) Streaming System
+3617. KRioutil
+3618. KSLIMP3
+3619. Kallery - KDE image gallery generator
+3620. Kamiware BashPodder (Podcast client)
+3621. Kanaleditor für VDR
+3622. Karaoke Hoster
+3623. Karaoke Song Utility
+3624. KartoMNT
+3625. Keso
+3626. KeyBored
+3627. KmPg2 - The MPEG2 encoder for KDE
+3628. Kobayashi Maru
+3629. Kromophone
+3630. Kudu Animator
+3631. LDPattern
+3632. LRC synchronizer
+3633. LSD Spiral
+3634. LUCIA
+3635. Lamejb
+3636. LandSlide
+3637. LeScienze500
+3638. Lee's iPlayer Client
+3639. Lembraco, 3D midi connector
+3640. LexoView
+3641. LibSmog Real-Time 3D Game Engine
+3642. LightStorm
+3643. Lightwave object library
+3644. Linux HP PhotoSmart S20xi
+3645. Linux Media Player
+3646. Linux Ultimate Audio System
+3647. Linux Video Editor (lve)
+3648. Linux v4l2 driver for Bt8x8 cards
+3649. Live Midi Router
+3650. LongoMatch:The Digital Coach
+3651. Lua FLTK
+3652. Lucien Media Manager
+3653. M-Player
+3654. MCT Player
+3655. METAGRAF-3D
+3656. MMS Client
+3657. MMS Suite
+3658. MOC - Minimal Ogre Collision
+3659. MP3 Sorter
+3660. MP3::Info
+3661. MP3db
+3662. MPEG Database
+3663. MPFC
+3664. MPy3
+3665. MSS
+3666. MTP Manager
+3667. Mac Snake
+3668. Madbit's FM Tracker
+3669. MangAddict
+3670. MapFramer
+3671. Mapcraft
+3672. MappaTube
+3673. Mapster
+3674. Marvel G200-TV Project
+3675. MathJax for SVG
+3676. Maze 5
+3677. Measured Metronome
+3678. MediaMVP Libraries and Applications
+3679. MediaScan
+3680. Megalui
+3681. Meloncillo (OLD)
+3682. Mercury-CD ROM authoring
+3683. MesGUI Library
+3684. Milk Engine
+3685. Mini Gallery Manager
+3686. MiniMorse
+3687. Minicomputer
+3688. Minidisc TOC Editor
+3689. Minimal OpenGL Utility Library
+3690. MoTrack
+3691. Mosaic_GUI
+3692. Motion Capture Editor and Simulator
+3693. Movie Mat
+3694. MovieBrowser
+3695. Mp3Kult
+3696. Mp3Pic32
+3697. Mp3dings - Manage mp3 meta-information
+3698. MuhVieh - Filmverwaltung
+3699. Mukioplayer-Py-Mac
+3700. MultiAmp
+3701. MultiColor
+3702. MultiMediaBox
+3703. MusiCat Streaming Server
+3704. Music Collection Manager
+3705. Music Library
+3706. Music Referencer
+3707. Music Server
+3708. Music and Audio Retrieval Tools
+3709. Musichspeler
+3710. MusiqBox
+3711. My Community Portal
+3712. MyGallery
+3713. MySerieS
+3714. MyWorld Engine
+3715. MythTV Player for Boxee Box
+3716. MythTV-Browser
+3717. NAT Spectrum Analyzer & Guitar Tuner
+3718. NCoda
+3719. NSV Library
+3720. NWN Java3d utilities
+3721. Nabaztools
+3722. Nakuma-Player
+3723. NavitConfigurator
+3724. Neuronstorm
+3725. NivoSliderGenerator
+3726. Nomad Image Viewer
+3727. Noozy 3 ZS
+3728. NotesTyper
+3729. NxV
+3730. OC Volume
+3731. OCTV (Open Circuit of TV)
+3732. OM-SoX
+3733. ORSVC
+3734. OSC message for QT
+3735. OSGExplore
+3736. OTR cut MP4
+3737. ObjectVolume
+3738. Octavia music description language
+3739. Ogg Omg Metadata Getter for PHP
+3740. OggBase
+3741. Oggment
+3742. Onda
+3743. Open Arcade
+3744. Open For Contents
+3745. Open Music Kontrollers
+3746. Open Studio Manager
+3747. Open Tiff Toolkit
+3748. OpenB2d
+3749. OpenBroad
+3750. OpenDX
+3751. OpenGL Builder
+3752. OpenGL Image (GLI)
+3753. OpenGROW
+3754. OpenMLŽ Reference Implementation
+3755. OpenSceneGraph Haptic Library
+3756. OpenSource Metaverse Project
+3757. OpenTeddy 3D Modeler
+3758. OpenTheme
+3759. OpenVS
+3760. Oranje TV
+3761. P4D - editor and environment
+3762. PHP Cad and Drawing Program.
+3763. PHP IML
+3764. PHP Music Player Controller
+3765. PHP Simple Gallery
+3766. PHP Thumbnail Generator
+3767. PHP-Comics
+3768. PHPImageMage
+3769. PIMPS Is My Piano Superstar
+3770. PNG decoder
+3771. PSP metronome
+3772. Pace & Place
+3773. PaintBox
+3774. Pan
+3775. PaperVision Tutorials
+3776. PatchBlocks Sequence 06
+3777. PatternGenerator
+3778. PdfRipImage
+3779. PearlPi LXDE+KODI
+3780. Peep: The Network Auralizer
+3781. Perl based mp3 archive tool set
+3782. Phase Tool Plugin
+3783. PhocaGallery
+3784. PhoneBlogger
+3785. Photo Importer
+3786. Photo Management Suite
+3787. PhotoMaze
+3788. PhotoView
+3789. Phoyo-id
+3790. PiCon Picture Converter
+3791. PicMonger
+3792. PicPong
+3793. Pii
+3794. Pimpmobile
+3795. Pinky-Tagger
+3796. Piranha
+3797. PitchTempoPlayer
+3798. Pixe Picture Manager
+3799. Pixel Toaster
+3800. PixelDbg
+3801. Pixi image editor
+3802. Plantra - Trajectory Planning
+3803. Play/Rec to/from audio bluetooth device
+3804. Playlist SEnder
+3805. Pluto MythTV Plugin
+3806. Podsync
+3807. PortVideo
+3808. PovMorpheus
+3809. Povlab: 3D modeller for povray
+3810. PrivateRadio
+3811. Procedural Cartoon Animation
+3812. Project BORIS
+3813. Psycho-acoustic sound analysis package
+3814. Public Domain HTML 3D Library
+3815. PyChoReLib
+3816. PyGTS
+3817. PyPlay
+3818. PyUPC-EAN
+3819. Pyamp: yet another music player
+3820. Pymprovisator: The jazz musicians helper
+3821. QFaxReader
+3822. QScanner
+3823. QSlimp3
+3824. QTed
+3825. QtViewSynth
+3826. QtX3
+3827. Qualm - Live MIDI Controller
+3828. Quick Image
+3829. QuickASCII Movie Player
+3830. Quran Replay
+3831. RGBLightControl
+3832. RIBKit
+3833. RRDtool tutorial
+3834. RTP Session Identification Library
+3835. RTSP Specification
+3836. Ranker
+3837. Raph Photo Gallery
+3838. RawKee - X3D Exporter Plug-in for Maya
+3839. Rayshade
+3840. RedImages
+3841. RedPost/OpenSource
+3842. Render32
+3843. Replayer
+3844. Resu-engine
+3845. RetroCode
+3846. ReverbNetwork
+3847. Rhythmbox Titlebar plugin
+3848. Rio - Raw Image Objects
+3849. RipOff
+3850. Road Router
+3851. Robot Controlling System
+3852. Rockola Web 2.0
+3853. Roemer
+3854. RoiView
+3855. Room Planner
+3856. Round-trip Convert NWCtxt - xml
+3857. SANE Web Interface - 2
+3858. SANE driver for UMAX Astra 1220U Scanner
+3859. SDL 1.2 for GameCube
+3860. SDL4Freepascal
+3861. SITube Downloader
+3862. SLIMP3 Ethernet MP3 Player, Slim Devices
+3863. SLIde SHow generator
+3864. SMILE
+3865. SSfuture Image Slide Show Generator
+3866. SVG.net
+3867. SVGPDA - .NET Compact SVG Viewer
+3868. Sac2Wav
+3869. SadOS
+3870. Scalable Language API
+3871. Scanjet HP5400 family sane backend
+3872. Schnolgo composition system
+3873. Score Reading Trainer
+3874. Scorer
+3875. Scrapbook
+3876. ScraperEdit for XBMC
+3877. Screeep
+3878. Scx Tools
+3879. Security cameras poller and archiver.
+3880. ShapeRecognition
+3881. ShivaVG
+3882. Show Mesh
+3883. Sight Reading Trainer
+3884. SignStream
+3885. Simple Web p2p
+3886. Sinapsis
+3887. Sinek Media Player
+3888. Skar77
+3889. Skin Look and Feel for Java and others
+3890. Slcnc Mini Player
+3891. SlideSorter
+3892. SlideViewer
+3893. Slideshow 3D
+3894. SmartTagFix
+3895. SmutDetect
+3896. Snarfzilla
+3897. SoftMusic
+3898. SolidModeller
+3899. SongCue Radio Station Automation
+3900. Songer
+3901. ScraperEdit for XBMC
+3902. Screeep
+3903. Scx Tools
+3904. Security cameras poller and archiver.
+3905. ShapeRecognition
+3906. ShivaVG
+3907. Show Mesh
+3908. Sight Reading Trainer
+3909. SignStream
+3910. Simple Web p2p
+3911. Sinapsis
+3912. Sinek Media Player
+3913. Skar77
+3914. Skin Look and Feel for Java and others
+3915. Slcnc Mini Player
+3916. SlideSorter
+3917. SlideViewer
+3918. Slideshow 3D
+3919. SmartTagFix
+3920. SmutDetect
+3921. Snarfzilla
+3922. SoftMusic
+3923. SolidModeller
+3924. SongCue Radio Station Automation
+3925. Songer
+3926. Sort Movies
+3927. SoundSpotter (Real Time Audio Matching)
+3928. SoundWeave
+3929. Soundbench
+3930. Soundfx PROAD Operational System
+3931. SpaceNet
+3932. Spark: A Flash to XML converter
+3933. SpiderGL Tutorials
+3934. Spiffy List
+3935. SportMusik
+3936. Ssspeak: Speech synthesizer
+3937. SteghideGUI
+3938. Stereocraft Music - Janurary
+3939. Stream Grabber
+3940. Stream-DB
+3941. StreamOnTheFly
+3942. Streamsicle
+3943. Strum
+3944. StultitiaSimplex
+3945. SubLib
+3946. Subber - Subtitle cut program
+3947. Surface Defects Analyzer
+3948. TAM Jukebox
+3949. TER software
+3950. TGL
+3951. TISM
+3952. TR Game Engine
+3953. TTFQuery
+3954. Takt
+3955. Talk Box
+3956. Team Purple
+3957. Teralogic 880 HDTV decoder Linux driver
+3958. Texel
+3959. Text to Speech for Video
+3960. ThSim
+3961. The GLOW Toolkit
+3962. The IPX Gimp Plugins
+3963. The Most Ridiculous Video Editor
+3964. The Planet Earth Project
+3965. Theocratic Tools
+3966. Tilificator
+3967. Timeline thumbnails Flowplayer html5
+3968. Tinitus
+3969. Tiny Marbles CMS
+3970. Tired of bad encoding
+3971. ToneFree
+3972. Transform SWF for Java
+3973. Translate IMF
+3974. Truevision
+3975. Tuxpaint Stamps for Australian Schools
+3976. Tweak tool for Maya
+3977. Twiline
+3978. Twonker
+3979. Typer
+3980. U2B Downloader
+3981. UIX
+3982. UPnP-Media-Server for linux
+3983. Ultimate WEBcam PRO 2001
+3984. Ultrason
+3985. Unidockynapse Kx Studio 12.04
+3986. Unmanned Lunar Expedition Simulator
+3987. VLC web playlist uploader
+3988. VLC-Qt
+3989. VNC Viewer 8086
+3990. VRforCAD
+3991. VdrAssistant
+3992. Vectronics
+3993. Venn Diagrams
+3994. VenomTwist
+3995. Verse
+3996. Video Displaying On Wall
+3997. Video to 1394 converter driver
+3998. VideoSiteManager
+3999. Videography
+4000. Virtual Sound: Audio Synthesis Tools
+4001. Visecas
+4002. Vision Egg
+4003. Visual Disk Diet
+4004. Visual Sound Analyzer
+4005. VisualCube
+4006. VoiceFax
+4007. VolumeMax
+4008. Voodoo Music Box
+4009. Voodoo UML Class Diagram Editor
+4010. Voodoo graphics / Voodoo˛ fb driver
+4011. Voxel Coloring framework
+4012. Voxelization toolkit
+4013. W Windows System
+4014. WMusCo
+4015. WONDER
+4016. WYMstyle CSS framework
+4017. Washtub - The Liquidsoap Controller
+4018. Web Jukebox
+4019. WebMplayer
+4020. WebWallpaper
+4021. Webcam Viewer
+4022. WebcamServer
+4023. Webgallery
+4024. Windows Playlist Toolkit
+4025. Worst Case Scenario
+4026. Writers Forge
+4027. X10 Mp3Anywhere Plugin
+4028. XBMC XMLTV
+4029. XDVR: X Digital Video Recorder
+4030. XM32 To Wing Converter
+4031. XMP PHP Toolkit Extension
+4032. XPSee
+4033. XR3ImageViewer
+4034. XRNS-PHP
+4035. Xenoage Player
+4036. Xith3D
+4037. Yake Engine
+4038. Yammi - Yet Another Music Manager I...
+4039. Yasic {Yet Another Space Invaders Clone}
+4040. YuvDevil
+4041. Zalarm
+4042. Zenipex Library
+4043. [ aiPoTT S.T. ]
+4044. a.lp-mp3
+4045. abtool
+4046. airmix
+4047. ak File Organiser
+4048. audioBox
+4049. audiobook-packer
+4050. audiotagger
+4051. aux
+4052. avi2dvd
+4053. avvxp linux video capture driver
+4054. b-tektracker MIDI step-sequencer
+4055. bASCII
+4056. bbgallery
+4057. beatFinder
+4058. binaural
+4059. burn-cd
+4060. cZUI
+4061. cd audio maker (cdam)
+4062. cd-circleprint
+4063. cddbcomp
+4064. ces265
+4065. cliper
+4066. coldGAZE - monomicroSynth
+4067. contrOSC
+4068. database diagram generator
+4069. descartes: a function and data plotter
+4070. desktop-icons
+4071. digilib - The Digital Image Library
+4072. dksWordArt : WordArt java implementation
+4073. downvid
+4074. dxr3Player - DVD player for Linux/DXR3
+4075. eXtendible Java Rendering Toolkit
+4076. eXtensible Media Catalog
+4077. easyjasub
+4078. edivad-suite
+4079. egantt
+4080. encoder
+4081. exifstats
+4082. exportGge
+4083. f4Player (flv, f4v)
+4084. fig2ps
+4085. flashcards (granule)
+4086. floatsync
+4087. fly_earth_chung
+4088. footswitch2basic
+4089. ftw. Text Modeller
+4090. fx-gallery
+4091. gAlbum
+4092. gKar
+4093. gPodder
+4094. getTunes
+4095. gipc Intel Pocket Concert manager
+4096. gltv
+4097. gmencoder
+4098. gmms
+4099. goldenfiles
+4100. google photos backup
+4101. gphoto2 frontend for stereo shooting
+4102. gsKaraoke
+4103. gxhints - Graphics conversion hints
+4104. horgand
+4105. html5media
+4106. iBookshelf
+4107. iList - Intelligent playlist for Noatun
+4108. iTaf
+4109. iTunes Controller (iT.Cx)
+4110. icecream
+4111. id3edit
+4112. id3tagr
+4113. imageFinder
+4114. imgtops
+4115. imvy
+4116. infojection
+4117. irexecosd
+4118. jATLAS
+4119. jAudioTaggerLib
+4120. jMorse
+4121. jProjectTranslator
+4122. jSVR
+4123. java Image Album
+4124. jbmgen
+4125. jmplayer
+4126. jpgtn - JPEG thumbnail generator
+4127. jtunes4 (daap-client)
+4128. juicebox
+4129. juked
+4130. just-a-JukeBox
+4131. jworship
+4132. kludge3d
+4133. ksquirrel
+4134. kvcd4nix
+4135. landshade
+4136. lastFMp3Getr
+4137. libRapidDev
+4138. libao#
+4139. libltc-delphi
+4140. libqemf
+4141. light-monitor
+4142. lucille
+4143. mCamera
+4144. mielBitEd - Bitmap Editor (Palm OS)
+4145. miniPictureManager
+4146. mkgal
+4147. mod2avi
+4148. mod_internetradio
+4149. modesto
+4150. monoGIS
+4151. mp3act web mp3 ajax jukebox
+4152. mp3base - web based jukebox
+4153. mp3rename
+4154. mpftools
+4155. mpg123 port to Mac OS X
+4156. mplib
+4157. music-barrel
+4158. music_edit
+4159. muzikQ
+4160. mw1utils
+4161. myPh3 elegant image gallery
+4162. mysfstats
+4163. newsic
+4164. osgModeling
+4165. otto audio jukebox
+4166. p2ksyx
+4167. pandatcl
+4168. patchanim
+4169. phpWebAlbum
+4170. phpjukebox
+4171. phpmotiondetect
+4172. picKLE
+4173. pimusicbox_1-0a
+4174. pivot
+4175. play-SVG
+4176. plugin freebox pour freevo
+4177. povray 3.6.1.1 raytracer
+4178. proTravian -- for phpBB3
+4179. puppy
+4180. pyBox
+4181. pyFF
+4182. pyHTPC
+4183. pyTivoMetaThis
+4184. q10
+4185. qplay
+4186. rKive Media Library
+4187. rendertext
+4188. rip-dvd
+4189. ripfoo
+4190. rrd-browser
+4191. sForzando Gaming Library
+4192. sWPV
+4193. sdl-tinygl
+4194. sedutYoutube
+4195. sexySPC
+4196. shoutcast-jukebox
+4197. soundgrab
+4198. soundtank
+4199. srm7500-linux
+4200. srtCreator
+4201. subsynth
+4202. tdmagic
+4203. terraineer
+4204. the Rabbit Run machinima engine
+4205. tiab - tux in a (d)box
+4206. tidarque
+4207. timeshift.sh
+4208. tintfu
+4209. tkBacktracer
+4210. tonopol-trainer
+4211. tovid
+4212. toxic
+4213. treebolic
+4214. tt-dec
+4215. tuxshout
+4216. uwp
+4217. v2mp3
+4218. vinylsimtool
+4219. virtPresenter
+4220. vtkQGL
+4221. vxlgen
+4222. webCAMotion
+4223. webcam snaps
+4224. webcam-one
+4225. wmMand
+4226. subsynth
+4227. tdmagic
+4228. terraineer
+4229. the Rabbit Run machinima engine
+4230. tiab - tux in a (d)box
+4231. tidarque
+4232. timeshift.sh
+4233. tintfu
+4234. tkBacktracer
+4235. tonopol-trainer
+4236. tovid
+4237. toxic
+4238. treebolic
+4239. tt-dec
+4240. tuxshout
+4241. uwp
+4242. v2mp3
+4243. vinylsimtool
+4244. virtPresenter
+4245. vtkQGL
+4246. vxlgen
+4247. webCAMotion
+4248. webcam snaps
+4249. webcam-one
+4250. wmMand
+4251. wxImage testbed
+4252. wxMusik
+4253. xVRML
+4254. xmerge
+4255. xmltVR3
+4256. xmms-ahx
+4257. xmms-mad
+4258. xsdnyd
+4259. yaf
+4260. zMand
+4261. zmPlayer
+4262. openBVE
+4263. CsoundQt
+4264. Delock IR to USB Remote Control Adapter
+4265. Eye
+4266. FxGen a procedural texture generation
+4267. PaintField
+4268. PlebeianCAD
+4269. Universal Media Manager
+4270. DivvaFlip
+4271. &amp;amp;amp;amp;amp;quot;D&amp;amp;amp;
+4272. (removed)
+4273. +MF (Extended Media Format)
+4274. -
+4275. --funroll-slideshow
+4276. .
+4277. .
+4278. .Net Vector Canvas Library
+4279. .scrobbler.log to Last.fm Upload Script
+4280. /nailon/
+4281. 123mp3
+4282. 15Filter
+4283. 1611 KJV Book of Psalms PCM Decoder
+4284. 1f42
+4285. 2BE_DELETED_vdr-plugin-arghdirector
+4286. 2BE_DELETED_vdr-plugin-yaepghd
+4287. 2D Computer Graphics / Imaging Framework
+4288. 2D Discrete Wavelet Transforms
+4289. 2D Image Library
+4290. 2ERPro
+4291. 2Geom
+4292. 2Lang - The Web2.0 Language
+4293. 2licht Irrlicht Engine Wrapper
+4294. 2nd Generation Java Player
+4295. 2to3
+4296. 3D AR Content Management System
+4297. 3D Aztek - The 3DS MAX clone
+4298. 3D Console
+4299. 3D Controller Drivers
+4300. 3D Engine on pure Java.
+4301. 3D Graphics Library for MR (VR & AR)
+4302. 3D Graphics Programming Environment
+4303. 3D Graphics Scene Creator and Renderer
+4304. 3D Network Visualiser
+4305. 3D Slicer
+4306. 3D Sound Localization Layer
+4307. 3D VRML dynamic data generator toolkit
+4308. 3D VRML graph drawing package in Java
+4309. 3D representation of a network
+4310. 3D to 2D Face Recognition
+4311. 3D-Simulator
+4312. 3DMLW
+4313. 3DManipulator
+4314. 3Dsia Project
+4315. 3DzzD
+4316. 3d Proving Ground
+4317. 3d network monitor
+4318. 3d tile room modeling.
+4319. 3d++ library
+4320. 3dengfx
+4321. 3dfrac
+4322. 3ds file reading with inheritable class
+4323. 3i
+4324. 4bpp: 4-bits-per-pixel graphic routines
+4325. 4k demos
+4326. 5DT DataGlove Driver
+4327. 5OWLS
+4328. 8-Beat
+4329. 8trak
+4330. 90 Jimmy MP3 Player
+4331. 9200 Communicator Mouse
+4332. A Bash Toolbox
+4333. A Basic Synthesizer
+4334. A Bitmap Font Creator
+4335. A Collection of C++ Classes for DSP
+4336. A HighlyAvailable streaming media server
+4337. A J2ME game demo by The Old Game Factory
+4338. A Lexeme Is A Sound
+4339. A Linux comic reader
+4340. A MIDI to SMDL converter for Java
+4341. A Self made Image Viewer
+4342. A Simple Software Audio Pipe
+4343. A Stupidly Simple Podcast Aggregator
+4344. A Unix-based S3dViewer
+4345. A lightweight UI library
+4346. A lightweight fast growing MP3 player.
+4347. A'Hote C++ Color Library
+4348. A-Infos Radio Project Media Archive
+4349. A-Xtudio
+4350. A.L.V.I. Bot
+4351. AA3D- Ascii-Art 3D engine
+4352. AAC input plugin for XMMS
+4353. AAXed
+4354. AAnimation
+4355. ABC/HR Audio Comparison Tool
+4356. ABCp
+4357. ABPlayerHTML5-Py-nix
+4358. ABReader
+4359. ABX Comparator
+4360. AC.lib-Exif
+4361. AC.lib-ICO
+4362. AC3 bitstreamout plugin for VDR
+4363. ACS Moonlight
+4364. ACToolkit's temporary homepage
+4365. ACVstudio
+4366. AD advanced picture gallery
+4367. ADV2FITS
+4368. AE Engine
+4369. AFELO Image Wizard
+4370. AFID: Firewall Information DB Viewer
+4371. AFST.pro
+4372. AFX
+4373. AGAST
+4374. AGASTPP
+4375. AGE Xpansions
+4376. AI CD DJ
+4377. AJA HDNTV TOOLS
+4378. AJA Ki Pro Monitor
+4379. AJAXDRAW
+4380. AKTive Media
+4381. AL4Java
+4382. ALFLAC - FLAC for Allegro
+4383. ALSA Installer
+4384. ALSA MIDI Filter (AMF)
+4385. ALSA Plugin Editor
+4386. ALSA on-screen mixer
+4387. AMDTP player
+4388. AMICO
+4389. AMM
+4390. AMPLib
+4391. AMR-Speaks
+4392. AMY4j
+4393. ANA-MP
+4394. ANDIAMO
+4395. ANIMAL - AN IMAging Library
+4396. ANNGD
+4397. ANUGA viewer
+4398. AOIDE
+4399. API for Media Resources
+4400. AQFS
+4401. AI CD DJ
+4402. AJA HDNTV TOOLS
+4403. AJA Ki Pro Monitor
+4404. AJAXDRAW
+4405. AKTive Media
+4406. AL4Java
+4407. ALFLAC - FLAC for Allegro
+4408. ALSA Installer
+4409. ALSA MIDI Filter (AMF)
+4410. ALSA Plugin Editor
+4411. ALSA on-screen mixer
+4412. AMDTP player
+4413. AMICO
+4414. AMM
+4415. AMPLib
+4416. AMR-Speaks
+4417. AMY4j
+4418. ANA-MP
+4419. ANDIAMO
+4420. ANIMAL - AN IMAging Library
+4421. ANNGD
+4422. ANUGA viewer
+4423. AOIDE
+4424. API for Media Resources
+4425. AQFS
+4426. AQUYNZA
+4427. ARITA
+4428. ARip
+4429. AS3HtmlParser
+4430. ASA
+4431. ASCEND
+4432. ASCImageInterpreter
+4433. ASDF: A Simple DVD Frontend for MPlayer
+4434. ASFDump
+4435. ASFRecorder
+4436. ASI: ASCII Screensaver Interpreter
+4437. ASPIV (ASP Image Viewer)
+4438. ASR-Builder
+4439. ASSPatch
+4440. ASTengine
+4441. ATMP
+4442. AVI FourCC-Changer
+4443. AVI-OGM Info
+4444. AVIP Inventory
+4445. AVInfo
+4446. AVR TV Video Generation
+4447. AVRS - Acoustic Virtual Reality System
+4448. AVRecord2
+4449. AVSLib
+4450. AVSPP -- Avisynth PreProcessor
+4451. AY/YM emulation library
+4452. AZOpen - AZBox OpenTools
+4453. AarTon
+4454. Aavalanche 3D CAD Platform
+4455. Absolute Guitar Trainer
+4456. AbsoluteX
+4457. AbuGraph
+4458. Abyss Studio Game Engine
+4459. Acará
+4460. Accel4D
+4461. Accelerated Feature Extraction Tool
+4462. AccolorHelper
+4463. Accordion settings editor
+4464. Acinerella
+4465. AcornCD
+4466. Acoustic-Memory
+4467. ActionLibMX
+4468. ActionScript 2 User Interface Framework
+4469. Active Graphs and Charts
+4470. Active OS
+4471. AdLibitouch
+4472. AdMachine
+4473. AdaSDL
+4474. Adage
+4475. Adeptus Project
+4476. Adjust for Panorama
+4477. Adorno - Headless Music Player
+4478. Adrem 3D
+4479. Advanced Audio Architecture
+4480. Advanced Game Library
+4481. Advanced Linux Sound Architecture
+4482. Advanced Sphinx TRAiner
+4483. Advanced Superquadrics CSG Modeler
+4484. Adventure 3D Povray Library
+4485. Aeon Game Development Kit
+4486. Aeyae Remux
+4487. Affogato: XSI Rendering Translator
+4488. Afinadorsh
+4489. Afya Digital Radiology Network
+4490. Agatha - mp3 Your Way
+4491. AggOO
+4492. Agile Author
+4493. Agilis, the Java Sprite Engine
+4494. AhoTTS Iparrahotsa
+4495. Ahpag
+4496. Ailén
+4497. Aja-PHM Studios
+4498. Ajax Animator
+4499. AjaxDraw
+4500. AkacioGPS
+4501. Akkords Calculator
+4502. AlDraw
+4503. AlSub
+4504. AlViz
+4505. Alacrity Midi Sequencer
+4506. Alarm Buddy
+4507. Albion digital content index/management
+4508. Albomb
+4509. Album Photo PHP
+4510. Album Site Builder
+4511. AlbumMaker Photogallery
+4512. Albumin 3D
+4513. Albumine
+4514. Alceri Multimedia Player
+4515. AlchemyArt
+4516. Alcogas
+4517. Aldrin Modular Sequencer
+4518. Alembik
+4519. Alexandria - OpenSource Library Manager
+4520. AlgoScore
+4521. Alhacen Ray Tracer
+4522. Alias Pod
+4523. Alice's Image Browser
+4524. AlienDev Portal SYSTEM, ADPSYS
+4525. Alive Engine - Build your own Ecosystem
+4526. All-in-one MD recording plugin
+4527. AllLyrics
+4528. AlleGimmicks
+4529. AllegRT
+4530. Allegory
+4531. Allegro Perl Bindings
+4532. Allegro Widget Environment
+4533. AllegroPlus
+4534. Alliance HD
+4535. AllinDIP
+4536. Allmovies Video Title and Media Database
+4537. Almara Photo Editor
+4538. Aloe Ferox
+4539. Alpaga Social Networking
+4540. Alpha Linux Digital Video Project
+4541. Alps
+4542. AlsaPlayer Python Interface
+4543. AltSci3D Manga Director
+4544. Alternating Caps
+4545. Alternativa Tutorials
+4546. Amacdys
+4547. Amadeus
+4548. Amanith
+4549. Amaranth
+4550. Amarok
+4551. Amarok Gnome2 Applet (AGA)
+4552. Amarok Speech Control
+4553. Amarok XUL remote
+4554. AmarokDbToHtml
+4555. AmarokFS
+4556. AmarokLabelToM3UPlaylist
+4557. Amatory
+4558. Amazed
+4559. AmberNet
+4560. Ambient
+4561. Ambisonix
+4562. Ambisuite
+4563. AmeriLib
+4564. Amherst Distributed Reality
+4565. AmiCoX
+4566. Amiant Navigator
+4567. Amino
+4568. Amoeba
+4569. AmpJuke...and YOUR hits keep on coming!
+4570. Ampache For The Love Of Music
+4571. Amphion Jukebox System
+4572. Amps
+4573. Amptimes
+4574. Ampui
+4575. Amr2Wav Converter
+4576. An Ada-binding to OpenGL
+4577. An ImageSegmentation Explorer
+4578. Anaconda
+4579. Anaglyph
+4580. Analysis &amp;amp; Reconstruction Sound
+4581. Anastacia Messenger
+4582. AndSoft
+4583. Andante
+4584. Android Music
+4585. Android Theme Tool
+4586. André Řien Langvand
+4587. Angela the Mandelbrot Set Explorer
+4588. Ani Colony
+4589. AniTMT
+4590. AniToolBox
+4591. Anidispri
+4592. Anim8orLoader
+4593. AnimaTogo
+4594. Animadead: A Skeletal Animation Library
+4595. Animaru
+4596. Animated Particles
+4597. AnimationS Applet
+4598. AnimeBrowser
+4599. AnimeGuide
+4600. AnimenuGL
+4601. AnimsRenaming
+4602. AnkerWorld
+4603. Annoying .Cue / .Bin to .Iso Converter
+4604. AnoPlib
+4605. Another App Launcher
+4606. Another Gallery
+4607. Another Lousy 3D Modeler
+4608. Another MPC
+4609. Another Photo Gallery
+4610. Another X image Viewer
+4611. Another mp3 Front-end
+4612. AnotherScrapBook
+4613. AnsiGL
+4614. Ansilove
+4615. Ant EXIF
+4616. Anti-Grain Geometry (Historical)
+4617. Antimatter
+4618. Antiprism - Polyhedron Modelling
+4619. Antron
+4620. AnySee
+4621. AnyWikiDraw
+4622. AnywhereFM
+4623. Aorta p2p Tasklet cluster
+4624. ApFun Project
+4625. Apok Gallery
+4626. Apollo
+4627. Apolmb Media Viewer
+4628. Apolos
+4629. Apoplexy
+4630. ApplPi
+4631. Apple PICT to Adobe PDF converter
+4632. Applet Audio Synthesizer
+4633. Arabisc
+4634. Arach Music Library
+4635. Aramacao
+4636. ArcamPlayer
+4637. Arcana Studio
+4638. ArchVDR
+4639. Archaeopicture
+4640. Archii project
+4641. Archive DJ
+4642. Arduino DSLR remote controller
+4643. AreaJ
+4644. Argonaute File Explorer
+4645. ArgosAmp cross-platform music player
+4646. Argus3D
+4647. Aria Game Engine
+4648. Aries Engine
+4649. Aristotle
+4650. ArkGreenLight
+4651. Armada
+4652. Armaria
+4653. Armonipad
+4654. Art Of Life
+4655. ArtExhibition
+4656. ArtGarden
+4657. ArtQuiz
+4658. ArtReal
+4659. Artistic Mechatronics and Robotics
+4660. Artorun
+4661. Aruspix
+4662. Asaph
+4663. Asciizer
+4664. Ascpeg - Pluggable Ascii Art
+4665. Asd Music
+4666. Ashcast P2P Camchat
+4667. Asmoday
+4668. Aspen Content Management System
+4669. Asterisk PBX Manager
+4670. Asterisk voicemail live console
+4671. Asterope
+4672. Astray
+4673. AstroEasyCap
+4674. Astroinfos
+4675. AtaDore OS1
+4676. Atari FontMaker
+4677. Atavi - genealogical data visualizations
+4678. Atenteben
+4679. Atenteben
+4680. Atlantis Media Center
+4681. Atlas - 3D Pipeline & Project Management
+4682. AtlasGen
+4683. Atomic Game Engine
+4684. Atomic3D
+4685. Atoosa
+4686. Attical
+4687. AuVis Audio Visualization
+4688. AuctionGallery
+4689. AudJay
+4690. AudToy
+4691. Audacious DVB Input Plugin
+4692. AudiOrg - The Audio Organizer
+4693. AudiculaPi
+4694. Audigy Tools
+4695. Audio Burner
+4696. Audio Daemon
+4697. Audio Development System
+4698. Audio Enclave
+4699. Audio File Library
+4700. Audio File Name Fixer
+4701. Audio Format Converter
+4702. Audio Input-Output Library
+4703. Audio Logger
+4704. Audio Mixing And Manipulation Project
+4705. Audio Sync
+4706. Audio Tag Parser
+4707. Audio Transform
+4708. Audio Video Streaming Proxy
+4709. Audio Visual eXtensible manager
+4710. Audio environment for blind men
+4711. Audio processing and synthesis language
+4712. Audio to Mov Script- (Blender 2.5)
+4713. Audio*
+4714. Audio::DB
+4715. AudioCarver
+4716. AudioController
+4717. AudioDaemon
+4718. AudioDevPkg
+4719. AudioLevels
+4720. AudioLink
+4721. AudioMuse
+4722. AudioPerfect Player
+4723. AudioPhil
+4724. AudioPlayer51
+4725. AudioSavant
+4726. AudioSpace
+4727. AudioSpread
+4728. AudioStreams
+4729. AudioTag Completer
+4730. AudioTron XML Proxy
+4731. AudioTube
+4732. AudioWare
+4733. Audiobook Recorder
+4734. Audioscrobbler
+4735. Audioscrobbler profile grabber
+4736. Audioscrobbler submit daemon
+4737. Audiospamer
+4738. Audiowerk8/2 ALSA driver
+4739. Audirella
+4740. Audis
+4741. Auditory Commando
+4742. Audivolv
+4743. Augustusburg - Gimp 2.4 RHEL/Centos 5
+4744. Aulos Player
+4745. Aumus
+4746. AuraRT
+4747. AuraVIRPI
+4748. Aureus
+4749. Auricula
+4750. Aurox Linux
+4751. Auto-Comic WebComic Download Scripts
+4752. Auto-DJ C
+4753. Auto-Transcode
+4754. AutoBrowse
+4755. AutoCache
+4756. AutoContent
+4757. AutoGallery
+4758. AutoLinguist
+4759. AutoManga Cel Animation Engine
+4760. AutoNap - Automatizable Napster client
+4761. AutoREALM to SVG
+4762. AutoRipper
+4763. AutoTCA
+4764. AutoTaglib
+4765. AutoTrace-ng
+4766. AutoTrans
+4767. AutoWallpaper
+4768. Autocubic
+4769. Automagic
+4770. Automated 3D Wireframe generation
+4771. Automated Downloader
+4772. Automatic text-to-scene conversion
+4773. Autometag
+4774. Autonomous Robotics
+4775. Autonomous Target Shooting Robot(ATSR)
+4776. Autonomous publisher of musical scores
+4777. Auvai Text to Speech
+4778. Avalerion
+4779. Avalon Scrollmaker
+4780. Avango
+4781. AverMedia USBRadio drivers
+4782. AviCD
+4783. AviSynth Library
+4784. Avipix
+4785. Avisynth on Linux
+4786. Awesome Flickr Gallery
+4787. AxKit::App::Gallery
+4788. Axis Groupware
+4789. Axon
+4790. Ayrn
+4791. Azureus 7 / Cayenne
+4792. B-Flat
+4793. B-Reality
+4794. BAIR: php BAtch Image Resizer
+4795. BBQ-CDR: Batch Audio-CD Burner w/ Queues
+4796. BBSPainter2
+4797. BCR2000 sysex converter
+4798. BCRT - BC Raytracer
+4799. BE::MPC
+4800. BEK Media Player
+4801. BFG: Bloatware For Gamers
+4802. BFL - Palm Library for Bitmaps
+4803. BHM File Format
+4804. BINARS Music Sequencer
+4805. BINVB Speech Processing Toolbox
+4806. BINViz
+4807. BIS Multimedia Kit
+4808. BLACK Burst
+4809. BLIX - Blender Extensions
+4810. BLOP - A LaTeX-Oriented Plotter
+4811. BLaD Tools (TEU - AIO) Software portable
+4812. BMFont OpenGL implementation
+4813. BMP NowPlay Plugin
+4814. BMPE
+4815. BORG - BORG Open Rendering GUI
+4816. BPMMeter
+4817. BPSGraphics2D
+4818. BRAYTE
+4819. BSGUI
+4820. BT Independent Flash Radio
+4821. BTNotes
+4822. BTPQ - Better Than Playing Quake
+4823. BU3D
+4824. BUMP MAPPING
+4825. BURP
+4826. BFG: Bloatware For Gamers
+4827. BFL - Palm Library for Bitmaps
+4828. BHM File Format
+4829. BINARS Music Sequencer
+4830. BINVB Speech Processing Toolbox
+4831. BINViz
+4832. BIS Multimedia Kit
+4833. BLACK Burst
+4834. BLIX - Blender Extensions
+4835. BLOP - A LaTeX-Oriented Plotter
+4836. BLaD Tools (TEU - AIO) Software portable
+4837. BMFont OpenGL implementation
+4838. BMP NowPlay Plugin
+4839. BMPE
+4840. BORG - BORG Open Rendering GUI
+4841. BPMMeter
+4842. BPSGraphics2D
+4843. BRAYTE
+4844. BSGUI
+4845. BT Independent Flash Radio
+4846. BTNotes
+4847. BTPQ - Better Than Playing Quake
+4848. BU3D
+4849. BUMP MAPPING
+4850. BURP
+4851. BVIDIVX: Bootable VIdeo DIVX for i586
+4852. BZK toolset
+4853. BaX
+4854. BaZeN Jukebox
+4855. Babel.TV
+4856. Baby Tooth Chart
+4857. Baby X
+4858. BabyGuard
+4859. BabyTwitter
+4860. BacTra Exporter for Blender
+4861. BackDrop
+4862. Backend for LM9832 based CIS scanners
+4863. BackupPod
+4864. BackwardX
+4865. Bad Camel Gaming
+4866. Bada
+4867. Baja Engine
+4868. Bake Sale - Java Swing Charts And Graphs
+4869. BallBouncings
+4870. Ballon captif
+4871. Balthazar
+4872. Bang
+4873. Bannerexia
+4874. BanshIR
+4875. Banshee Web remote
+4876. Banshee.ClutterFlow
+4877. BarcR UPC Code Reader
+4878. BarsnPipes
+4879. Barōk
+4880. Base
+4881. Baserip
+4882. Bash DJ
+4883. Bash!Karaoke
+4884. BashBurn
+4885. BashBurn++
+4886. Bashpodder GTK (a podcast client)
+4887. Basic Gallery
+4888. BasicJ
+4889. Basie
+4890. Basilisk Game Library
+4891. Bass.NET Poripuri Radio Player
+4892. BassScales
+4893. BassTuner for Linux
+4894. BatCast OS³
+4895. Batch MP3 Organizer
+4896. BatchShrink
+4897. Batchtools dvd 2 xvid
+4898. BatikServer
+4899. Battle Reporter
+4900. BaverBurner
+4901. Bayonne, telephony server of GNU project
+4902. BeCPiA
+4903. BeaGTex - The LaTex-Editor
+4904. Bead Constructor
+4905. Beagle Synth
+4906. BeagleBox
+4907. BeamformIt - robust acoustic beamformer
+4908. BearJukebox
+4909. BeatForce
+4910. Beatman Flash MP3 Player Linux Driver
+4911. BeboPicker
+4912. Bee
+4913. BeeMote
+4914. Beep Media Player RSS feed provider
+4915. BeepMediaLibrary
+4916. Belisama
+4917. BellWhistle
+4918. Bella Operating System
+4919. Bellingshausen
+4920. Beluga Player
+4921. Belvedere Knowledge Mapping
+4922. Bemused
+4923. Bemused for Sony Ericsson
+4924. Bemusedaemon
+4925. Ben's Picture Gallery
+4926. Bencoder
+4927. Benojt
+4928. BeroLinux
+4929. BetaVerse
+4930. Better Recorder
+4931. Bevy... Where Photos Gather
+4932. Bezier Curve Editor
+4933. Bezier curves creator
+4934. BgTalk
+4935. BiaMovE
+4936. BiblePix
+4937. Biblioteca Virtual de Imagens Médicas
+4938. Big Iron
+4939. BigLux
+4940. Bighi Comic Reader
+4941. Bigloo Libraries
+4942. BilderKatalog
+4943. Bilding
+4944. Bimage
+4945. BinChunker
+4946. Bing JavaTunes
+4947. Bing Photolink
+4948. Binocle Library
+4949. Bio YouTube Player
+4950. BioMusic
+4951. Bird Pix
+4952. Bird Species Classifier
+4953. BiscuitLog
+4954. Biscuits
+4955. BitrateCompressionCalculator for Python
+4956. BizDiag
+4957. BlaatSchaap Coding Projects
+4958. Black Hole Cortex
+4959. BlackBlade method of audio encoding
+4960. BlackLight Walkman Manager
+4961. Blackspirit Graphics
+4962. BladewareVXML
+4963. BlastBeat
+4964. Blazegraph
+4965. Blazter
+4966. Blender AATools
+4967. Blender Auto Update Bash Script
+4968. Blender Utilities
+4969. Blender++
+4970. Blender-style OpenGL GUI Lib
+4971. Blender3d resource
+4972. Blender4NC
+4973. BlenderDB
+4974. BlenderWebRender
+4975. Blendix
+4976. BlindVM
+4977. Blindensehersatzsystem SeebyTouch
+4978. Blink
+4979. BlinkenApplet
+4980. Blitter
+4981. Blitz6 Web Multimedia System
+4982. Blizzaga Media Library
+4983. Blizzard III oAW4 cartridge
+4984. Block diagram editor
+4985. BlockParty
+4986. Blog Torrent
+4987. Blot
+4988. Blox
+4989. BlueBox Sprite Builder
+4990. BlueFusion
+4991. BlueKaffeine
+4992. BlueMoyo
+4993. BluePlayer Only Sound Player
+4994. BlueThunder
+4995. BlueVade PhotoAlbum
+4996. BlueWalk
+4997. Blueberry Thing
+4998. Blueprint
+4999. Bluetooth Remote Control
+5000. BluetunA: Tuning Mobile Music Taste
+5001. Board library
+5002. BoardGame Tool
+5003. Bobb's PHP File List
+5004. Bohemian
+5005. Bolt Platform
+5006. BonePhone
+5007. BonoboDraw Component Library
+5008. BookNaviger
+5009. Bookcase
+5010. Bookular
+5011. BoomBox
+5012. Border Control Mod Virtualdub
+5013. Borniet's Image Resizer
+5014. Borsuk Instant Messenger
+5015. Boss Engine
+5016. Boss Ogg
+5017. Boundary Representation Library
+5018. BoutonSANE a SANE scanner button monitor
+5019. BoxStar
+5020. Braids
+5021. BrainCopterUtil
+5022. BrainDamage 3D
+5023. Braincarta
+5024. Brainstorm Browser
+5025. Brasil Fotolog
+5026. Board library
+5027. BoardGame Tool
+5028. Bobb's PHP File List
+5029. Bohemian
+5030. Bolt Platform
+5031. BonePhone
+5032. BonoboDraw Component Library
+5033. BookNaviger
+5034. Bookcase
+5035. Bookular
+5036. BoomBox
+5037. Border Control Mod Virtualdub
+5038. Borniet's Image Resizer
+5039. Borsuk Instant Messenger
+5040. Boss Engine
+5041. Boss Ogg
+5042. Boundary Representation Library
+5043. BoutonSANE a SANE scanner button monitor
+5044. BoxStar
+5045. Braids
+5046. BrainCopterUtil
+5047. BrainDamage 3D
+5048. Braincarta
+5049. Brainstorm Browser
+5050. Brasil Fotolog
+5051. Braun
+5052. BrickDraw3D for MacOS
+5053. Brightcove Java Media API Wrapper -MOVED
+5054. Britney
+5055. Broad-Cast
+5056. BroadClip Agent
+5057. Brockmaestro
+5058. Broke Movies
+5059. Broken Finger
+5060. BrowserVision
+5061. BrowserYMIT
+5062. Brunhilde Media Server
+5063. BuGLe
+5064. BubbledisK BurninG RoM
+5065. Bubu GPS
+5066. Buecherboerse
+5067. Bunghole Jukebox
+5068. Bunt Area statistics ][
+5069. Burbank
+5070. Burgner
+5071. Burn - a small image-editor
+5072. Burn Baby!!
+5073. Burnie
+5074. Burnplaylist
+5075. Butter
+5076. Byron's Poly Tools
+5077. C Lib OFC Json
+5078. C++ class library for manipulating audio
+5079. C-Cramp
+5080. C-ray
+5081. C-squares
+5082. C3DRMEngine
+5083. C64 KoalaPaint to PPM image converter
+5084. CACTUS
+5085. CAGE-Computer Audio Garden in Eclipse
+5086. CAMEL - A Framework for Audio Analysis
+5087. CANDIDv2
+5088. CANNOT - Coyote Annotation Framework
+5089. CAR MULTIMEDA SYSTEM LIGHT
+5090. CARP
+5091. CBOLT
+5092. CBitmap
+5093. CC Options II
+5094. CC plugin for VDR
+5095. CCEL Desktop
+5096. CCM (CCM is a Console Mediacenter)
+5097. CCP
+5098. CCTVnix
+5099. CD data extractor 2006 by MiKe
+5100. CD drive DSA
+5101. CD indexing toolkit
+5102. CD-Manager
+5103. CD-Mason
+5104. CD-Utils - Linux CD Backup and Burning
+5105. CDA Info
+5106. CDDE
+5107. CDMirror
+5108. CDPhotoIndex
+5109. CDRBQ
+5110. CDRBQ
+5111. CDROM major mode for Emacs
+5112. CDRRW
+5113. CDRX.pl burner script
+5114. CDX - Set default optical drive symlinks
+5115. CData Getter 2006 by MiKe
+5116. CDstow
+5117. CECD
+5118. CEGUI#
+5119. CEUG
+5120. CFFI Bindings for Cairo, Pango, + Pixbuf
+5121. CGC Common Library
+5122. CGI C Image Scaler
+5123. CGM#
+5124. CHAI 3D
+5125. CHAMP Animation Making Program
+5126. CHAP Links Library
+5127. CI Media Player
+5128. CIG
+5129. CIL(Cheap imaging library)
+5130. CIP IDLE
+5131. CImg
+5132. CK-Gallery
+5133. CKEditor File and Image Manager
+5134. CL Slideshow
+5135. CLD Icons
+5136. CLE266 MPEG-2 decoder plugin for mplayer
+5137. CLIJACK
+5138. CMMusic
+5139. CMR-rep
+5140. CMSJava
+5141. CMUCam2+ development library
+5142. CMatrix
+5143. COLLADA Refinery
+5144. COLLADA plugin for OpenSceneGraph
+5145. COPOS
+5146. COSI
+5147. COmplete Transport Stream Investigator
+5148. COpenGLWin
+5149. CPC Photo Catalog
+5150. CPD Team
+5151. CPPMP3P
+5152. CQT-FW
+5153. CRONLOCO!
+5154. CSMonkey TV Remote
+5155. CSV to MP3
+5156. CScreenie
+5157. CTArchive
+5158. CTV
+5159. CU-Viewer
+5160. CUDA MP3 Encoder
+5161. CView Binary Packages
+5162. CYNAPSYS MEDIA PLAYER
+5163. Cabbage
+5164. Cabbit Modeler
+5165. Cabernet
+5166. Cable Remote Control
+5167. Cactus Jukebox
+5168. Cadastro de Musicas
+5169. Caelum
+5170. Caelum Graphics System
+5171. Caesar,DTMF/C5 tone generator
+5172. Cairo#
+5173. Caleido
+5174. Calibration tools for linux/Pantone Huey
+5175. Caliph and Emir
+5176. Call it What You Want
+5177. Calliope Music Notation Editor
+5178. Calliope Music Player
+5179. Calliope Music Server and MP3 Jukebox
+5180. Calopsita
+5181. Cam Tracker DB
+5182. CamBoard
+5183. CamGet
+5184. CamRLG
+5185. CamServer
+5186. CamSketchpad
+5187. CamTrack Face Tracker
+5188. Cameo
+5189. Camera Gardian
+5190. Camera Monitoring System
+5191. Camera Town/Hawkeye
+5192. CameraJoin
+5193. CameraTransfer
+5194. CamlAL
+5195. CamlOSG
+5196. Camposer
+5197. CampusMap
+5198. Camwire
+5199. CanoScan FB630U SANE backend
+5200. Canon scanner backend
+5201. Cantus Tag Editor
+5202. Canvas Painter
+5203. Canvas Studio
+5204. Canvas UI
+5205. Canvas Widget for EiffelVision2
+5206. Canvas-Edit
+5207. CapisuiteConvToDir
+5208. CaptionHidder
+5209. CaptureOnAir
+5210. Car Multimedia System
+5211. Car Stereo MP3 Sort
+5212. CarLix
+5213. CarOS
+5214. CarOS - Carputer Linux
+5215. Carajo
+5216. Carapace Copier
+5217. Carbon Five Open Source
+5218. Card Raytracer Benchmark
+5219. Carpentry Level Editor
+5220. Cartocraft
+5221. Cartography Assistant
+5222. Casandra Engine
+5223. Casse et détruit
+5224. Castawesome
+5225. CatBlock
+5226. Catal
+5227. Catar - Catalogador Argentino
+5228. Catcher
+5229. Cause
+5230. Cavor geospatial app engine
+5231. Ccdtovcd
+5232. Cd Mp3 DB
+5233. CdMio
+5234. Cdcat- the extensible CD Catalog
+5235. CdgDump
+5236. CeeMedia Movie Catalog
+5237. Ceiva Linux
+5238. Cekli Photolab
+5239. Cell BE 2D FFT
+5240. Cell Image Processing Routines
+5241. Celluma
+5242. Cesar
+5243. Cetus Audio Library for Java
+5244. Cetus Audio Providers
+5245. Chained Audio Plugins
+5246. ChallengeOS
+5247. Chambara Cover Slicer
+5248. Chameleo
+5249. Chameleon Midi Editor & Librarian (CMEL)
+5250. ChanView
+5251. ChangingSong
+5252. Chaotic Domain
+5253. Char2eps
+5254. Charon
+5255. Chart Gnuplot
+5256. Chart2D
+5257. ChartFactory
+5258. ChartLive
+5259. ChartSVG
+5260. Chartster
+5261. Chbg2
+5262. Checkout-xx for G2
+5263. ChemBot
+5264. ChemicalCovers
+5265. Chen's Concise Player
+5266. Cherrybomb
+5267. Chess position POV-Ray source generator
+5268. Chiah
+5269. ChildsMusic
+5270. ChillyStream
+5271. ChipSynth
+5272. ChitraKatha: A Comic Book Viewer
+5273. Choosefont font selector
+5274. ChordCast
+5275. ChordTheory
+5276. Chordeus
+5277. Chordfinder
+5278. Chords Bible
+5279. Chromatic Aberration from Camera Raw
+5280. Chronorename
+5281. ChronosCV
+5282. ChucK Audio Programming Language
+5283. Cine@Series
+5284. CinePlug
+5285. Cinekom 2001
+5286. CinemaEyes
+5287. CinemaSix Media Player
+5288. Cinematographe
+5289. Circlet
+5290. Cities3D
+5291. Citoplazma - Atari XL/XE demo
+5292. City Audioguides (for android)
+5293. CjopazeDraw
+5294. ClanRuby
+5295. ClariNotes
+5296. ClassPlayer
+5297. ClassX
+5298. Clastic Media Manager
+5299. Clay3D
+5300. ClayTek 3D Game Library &amp; Editor
+5301. Clean OpenGL Solution for Delphi/Kylix
+5302. Clementi
+5303. Clicktrace
+5304. ClipBucket 1.x
+5305. ClipGrab
+5306. Clippy
+5307. Clock
+5308. CloisterWalk
+5309. Cloris
+5310. Closed Caption Decoder
+5311. CloudFactory
+5312. CloudGardeners
+5313. CloudPhoto
+5314. Cloudberry
+5315. CnamPaint
+5316. CoCoMa
+5317. CoDev
+5318. CoMMa - Counsellor for Mp3 Management
+5319. CoMoRe
+5320. CoSMoUbuntu64
+5321. Coaster
+5322. Coatie3D - A 3d Graph Drawer
+5323. Cochleal, a Psychoacoustic Toolbox
+5324. Cocoa 3D Tutorial
+5325. CocoaPaint
+5326. CocoaSyren
+5327. Coda
+5328. Code-Gallery
+5329. CodeSimian
+5330. CodecTMM
+5331. Codename Bloodline
+5332. Codeum Scalable Vector Graphics
+5333. Coin3D-SoXt
+5334. Collaborative writing tools
+5335. Color Forms
+5336. Color Gourmet - Enjoy your scheme!
+5337. Color Hound
+5338. Color Studio
+5339. ColorApplet
+5340. Colorator
+5341. Coloridadd
+5342. Comag Meta File Reader
+5343. Comic Book Studio
+5344. Comic Collection
+5345. Comic Collection in C
+5346. Comic Pub
+5347. Comic Reader
+5348. Comic Viewer
+5349. ComicMaster
+5350. ComicReader
+5351. ComicSub
+5352. ComicViewerApp
+5353. Comicky
+5354. Comics Chess
+5355. Comics visualization project
+5356. Comicview
+5357. ComiqueBouc
+5358. ComixViewer Eclipse Plugin
+5359. Command Line Audio Tools
+5360. Common Lisp FMOD bindings
+5361. Common Lisp TrueType Engine
+5362. Common Lisp Wrapper for MapScript
+5363. Common Media Input Layer
+5364. Comodo Components Project
+5365. CompScheme
+5366. Compact Midi Manager
+5367. Compact-Mac's PPT Games and Movies
+5368. Comparametric Toolkit
+5369. Complex Curved Shapes Generator Programs
+5370. Component-Catalogue
+5371. Composer: Editor for NCL Documents
+5372. Compositing Library
+5373. Compositix
+5374. Compost
+5375. CompressMP3
+5376. Compression Optimizer
+5377. Comprise
+5378. Computer Musicians\' World
+5379. ConT2I
+5380. Concert Modeler
+5381. ConcertDB
+5382. Concerto Digital Assets Management Tool
+5383. Configurable iPod Synchronizer
+5384. CongaBonga
+5385. Conic Planet
+5386. Conjecture
+5387. Console Blocking For Defa Protector
+5388. Console Drawing
+5389. ConsoleGIF
+5390. ConsoleOS
+5391. Constructor
+5392. ContactAngle
+5393. Continuous wavelet transform
+5394. Continuum (Arduino MIDI Controller)
+5395. Convert DVD to DIVX files
+5396. Convert and Date Preserve
+5397. Convert avi to Fuji camera format
+5398. Convert quality
+5399. Convert2PDF
+5400. ConvertIT
+5401. Convex
+5402. Convex 3D
+5403. Conway's Game of Life
+5404. CoolMP3-SnowBlind
+5405. CoolRay
+5406. CopyCDA
+5407. CopyRightLeft
+5408. CoreMP3
+5409. Corendal Virtual Visit
+5410. Cortex
+5411. Cortina
+5412. CosyCorner
+5413. Council members in a graph
+5414. Coushe Editor
+5415. Covalence RPG Engine
+5416. Cover Hunter
+5417. Cover Tagger
+5418. CoverViewer Xmms Plugin
+5419. Cow Outputs Waves
+5420. Cowpie
+5421. Cpsed
+5422. Cracks of Reality
+5423. Crazy Funky Freaky Music Machine
+5424. Crazy Snake
+5425. Crease Converter
+5426. Create CoverSearch
+5427. Creative Commons Search
+5428. Creative DAW
+5429. Creative Nomad II, IIc, MG KDE ioslave
+5430. Creative Nomad JukeBox Music Streamer
+5431. Crescendo Music Player
+5432. Cretin - CD Ripper, Encoder and Tagger
+5433. CrewOrion
+5434. CridManager
+5435. CrimeAnalyzer
+5436. CroSShade
+5437. Cross Platform Music Player
+5438. Cross-Platform Game Development toolKit
+5439. Cross-stitch WorkShop
+5440. CrossArkGL
+5441. CruoEngine
+5442. CryptEngine
+5443. Crystal Entity Layer
+5444. Crystal Releaser
+5445. Crystal Space Java Bindings
+5446. Crystal Studio
+5447. CrystalSpace 3D RPG Capability
+5448. Crystalspace Starbox
+5449. Cs3D
+5450. Csound
+5451. Ctagger
+5452. CthughaNix
+5453. Ctrax
+5454. Ctrlr
+5455. Ctronome
+5456. Cubic Browser
+5457. CubicVR
+5458. Cubop Music Workstation
+5459. CueSheet Tools and Editor
+5460. Cumulate Draw
+5461. Curiosity Cloning Image Viewer
+5462. Curl 3D Gallery
+5463. Curve Generation eXtreme
+5464. Cusp - CubicSpliner
+5465. CuteFig
+5466. CuteMangaView
+5467. Cyan
+5468. CyberForm for Java3D
+5469. CyberMed
+5470. CyberMediaGate for C
+5471. CyberToolbox for Java
+5472. CyberToolbox for Java3D
+5473. CyberVRML97 for C++
+5474. CyberWorlds
+5475. Cyberlab
+5476. Ctagger
+5477. CthughaNix
+5478. Ctrax
+5479. Ctrlr
+5480. Ctronome
+5481. Cubic Browser
+5482. CubicVR
+5483. Cubop Music Workstation
+5484. CueSheet Tools and Editor
+5485. Cumulate Draw
+5486. Curiosity Cloning Image Viewer
+5487. Curl 3D Gallery
+5488. Curve Generation eXtreme
+5489. Cusp - CubicSpliner
+5490. CuteFig
+5491. CuteMangaView
+5492. Cyan
+5493. CyberForm for Java3D
+5494. CyberMed
+5495. CyberMediaGate for C
+5496. CyberToolbox for Java
+5497. CyberToolbox for Java3D
+5498. CyberVRML97 for C++
+5499. CyberWorlds
+5500. Cyberlab
+5501. Cybiko JED
+5502. Cyclops
+5503. Cylinder to Skybox
+5504. D.R.I.V.E.
+5505. D2c - mencoder frontend
+5506. D3 3D-Engine
+5507. DACML
+5508. DAG fs
+5509. DAM JukeBox (Open Source Edition)
+5510. DAOReprConsola
+5511. DAT Reader for audio-capable DDS drives
+5512. DAlbum - personal PHP photo album
+5513. DBiblio
+5514. DBox-II / TuxBox CDK-Doku
+5515. DBsong
+5516. DCT library
+5517. DCast
+5518. DEGMA Audio Handler
+5519. DELETE ME
+5520. DELETED
+5521. DEMAE
+5522. DESsubdb
+5523. DFBCar
+5524. DHTML Library
+5525. DHTML-3D
+5526. DI Java3d
+5527. DI Tracker Bot
+5528. DIGImend
+5529. DIKU kantine
+5530. DINDEX template library
+5531. DIOWave Visual Storage
+5532. DIPS for jMax
+5533. DISSCO
+5534. DIVERSE
+5535. DIYDPF
+5536. DJ Jack
+5537. DJ Py
+5538. DJ Tagger
+5539. DJDarwin
+5540. DJMix
+5541. DJPerformer
+5542. DJWrap
+5543. DLGProject
+5544. DLearn
+5545. DLect
+5546. DMML - The Media Management Library
+5547. DMP4X
+5548. DN-Cam
+5549. DOF-Converter
+5550. DOGLESS
+5551. DOS Sap
+5552. DOSLib for Mac OS X & Borland 3.0
+5553. DP Music Manager
+5554. DPAP Viewer
+5555. DPKLogger
+5556. DPS
+5557. DPencoder - a PerlQt DVD encoding GUI
+5558. DRI Configuration Applet
+5559. DRI for Framebuffer Console
+5560. DRUMS::DLNA Raspberry USB Music Server
+5561. DSButtons
+5562. DSP Linux
+5563. DSPatcher
+5564. DSTM
+5565. DSynkant
+5566. DT3155 Framegrabber Linux Device Driver
+5567. DTV Virtual Remote Control Client
+5568. DTW
+5569. DURITO
+5570. DV Titler
+5571. DV tools suite
+5572. DVA-Profession
+5573. DVB Booster
+5574. DVB Booster
+5575. DVB Central in Java
+5576. DVB Daemon
+5577. DVB Home Entertainment System
+5578. DVB Recorder
+5579. DVB recording server
+5580. DVB-H IP-Decapsulator
+5581. DVB2000
+5582. DVB2DVD
+5583. DVB2IP
+5584. DVBMosaic
+5585. DVBRec
+5586. DVBfido
+5587. DVBgrab
+5588. DVD Backup Tool
+5589. DVD Baker
+5590. DVD Database
+5591. DVD Home Video Project
+5592. DVD Library Service
+5593. DVD Manager
+5594. DVD Metabase
+5595. DVD Scheduler
+5596. DVD Scripts
+5597. DVD Subtitles Recognition
+5598. DVD Web Service
+5599. DVD to iPod
+5600. DVD-Create
+5601. DVD-ISO
+5602. DVD-J
+5603. DVD-Tour Virtual Tour Generator
+5604. DVD::Rip Queue
+5605. DVDCatalog
+5606. DVDCopy
+5607. DVDMake
+5608. DVDPacker
+5609. DVDibbler
+5610. DVDphiler
+5611. DVDripTools
+5612. DVDwizard
+5613. DVF07Name
+5614. DVI viewer for GGI/freetype2
+5615. DX and OGL Interface for Windows/Linux
+5616. DXF Python Module
+5617. DaHuNtradio
+5618. DaPlayer
+5619. Dagger Media Player
+5620. DailyText-Voice
+5621. Daisy Music Player
+5622. Daisy Uppsala Archive Project
+5623. Daitrix
+5624. Damascus
+5625. Damocles
+5626. DampfKarte
+5627. Dan's Tuner
+5628. DanceBox
+5629. DanceWare
+5630. Dancing Orc
+5631. Dancing QT
+5632. Danlann - Memories Jail
+5633. Daphile
+5634. Dark Garden Font
+5635. Dark Star GL
+5636. DarkMaps
+5637. Darkside - Darkice Configuration Tool
+5638. Dascant
+5639. Data Community
+5640. Data Extraction and Analysis Program
+5641. Data Fusion Peer
+5642. Data miner's toolbox
+5643. DataTime Process Framework
+5644. DataViz
+5645. Database Design Experiment
+5646. DawNLITE
+5647. DawnLightPlayer
+5648. DazzLed
+5649. De Slimste Mens ter Wereld
+5650. DeFX plug-in for Audacious
+5651. DeFX plug-in for XMMS
+5652. Death3D
+5653. Debian Bootsplash Themes
+5654. Debrief
+5655. DecMPA
+5656. DecksPlayer
+5657. DecodeIMG
+5658. Deejay ST
+5659. Deep Indigo Sound System
+5660. Deja Vue
+5661. Dekoh Applications Center
+5662. Delayed Auditory Feedback
+5663. Delius
+5664. Dellary
+5665. DelphiDoom Procedural Modeler
+5666. Delta
+5667. Delta Compositor
+5668. Delta Media Player
+5669. Delta3D-Extras
+5670. Demand It, MP3 Server
+5671. Demi3D
+5672. Demios
+5673. DemoBuilder
+5674. Demovibes
+5675. Den glade spelemannen
+5676. Denon DN Interface
+5677. Denzo Guitar Software
+5678. Deprecated!
+5679. DepthView
+5680. DerPlayer
+5681. Des Spielers Neue Kleider
+5682. Descend
+5683. Design Cubes of Light
+5684. Desk Alarm
+5685. Desktop Flash Player
+5686. Desktop Photo Gallery
+5687. DesktopOverlay
+5688. Deurk's Own Gallery (DOG)
+5689. Deus
+5690. Deus Ex Render Machina
+5691. Developer's Jukebox
+5692. DeviateQ
+5693. Devil's tattoo
+5694. Devious
+5695. Devman (AKA KRGP)
+5696. Devolia TV
+5697. Dharma - A .NET OpenGL Framework
+5698. Dhwani
+5699. Dhyana: a digital audio player manager
+5700. DiDraw
+5701. DiVo Media Player
+5702. Dia Add-on Objects and Templates
+5703. DiaCanvas
+5704. DiagNose
+5705. Diagrams
+5706. Dialog based tool for CD/DVD mastering
+5707. Dialogic Interface for Delphi/Kylix
+5708. Diapason digital media organizer
+5709. Diced
+5710. DiffKey
+5711. DigiBum
+5712. DigiDo
+5713. DigiExtractor
+5714. DigiFrame_AudioPlayer
+5715. DigiXound
+5716. Digicam Tools
+5717. Diginux
+5718. Digisplay
+5719. Digital Audio Processing
+5720. Digital Audio Server
+5721. Digital Dawn Graphics Toolkit
+5722. Digital Drum Module
+5723. Digital Image Processing Toy
+5724. Digital Media Browser
+5725. Digital Multimedia Library
+5726. Digital Music Butler
+5727. Digital Picture Frame
+5728. Digital Studio
+5729. Digworld Streaming Radio Engine
+5730. Dilate
+5731. Dimension Balls
+5732. Ding3D
+5733. Dino
+5734. Dinotrace
+5735. Diode
+5736. Dioler
+5737. Dionysos
+5738. DipTonic
+5739. DireFury
+5740. DirectX Ada Binding Lib.
+5741. Directory Creator
+5742. Directory Player
+5743. DisBlend
+5744. Disc Id DB
+5745. Disc Master
+5746. DiscBurner
+5747. DiscoJet
+5748. Discontinuity Animation System
+5749. DiskIndex
+5750. DisplayPBM
+5751. Distance Interface
+5752. Distriblend
+5753. Distributed Problem Evaluation Solution
+5754. Distributed Videostreaming
+5755. DivLin--Divx to VCD converter
+5756. DivX Collection Management
+5757. DivX Database
+5758. DivXteK
+5759. DivXtoDVD
+5760. Divlib 3D Game Library Div Games Studio
+5761. Dj`s Storage
+5762. DjvuCE
+5763. DnBrain
+5764. DnD Whiteboard
+5765. DoCoTag
+5766. Dock Remote Client
+5767. Doctor in House
+5768. Documents retoration platform in CLisp
+5769. DolchdaSlideshow
+5770. Domestic Music Server
+5771. Domo - Qt/Database based Music organizer
+5772. Doodah
+5773. Doodle II - Next generation
+5774. Doodler
+5775. DoomTracer
+5776. Doors
+5777. Dormaudio
+5778. Dorothea
+5779. Dot 100 Audio Compression (1/100th)
+5780. Dot2GDL
+5781. DotNetProcessing
+5782. DotRay
+5783. DotsPlus3D
+5784. DouillePhotoManager
+5785. Dowitchers
+5786. DownRoll
+5787. Downbound Media Center
+5788. Dr. Jekyll
+5789. Dr. Navjoy
+5790. Dr. Ta
+5791. Drag'n'Drop Gallery
+5792. Dragon Picture Collector
+5793. Dragon3D
+5794. DragonOgg
+5795. DragonSYEdit
+5796. Drake 3D
+5797. Dranet's Crystal Interface Generator
+5798. Dream Media
+5799. DreamDVD
+5800. DreamEncoder
+5801. DreamSculpt
+5802. Dreambox Export2DVD
+5803. Dreamos: Truly Embedded
+5804. DreamworX Highlighter
+5805. Drew Daniels' Grammar Checker
+5806. Driver for the USBAT2 memorycard reader
+5807. Drum Kit TUIO client
+5808. Drum Rhythmz
+5809. DrumIt
+5810. Drunky Drummer
+5811. DuSK 3D
+5812. Dual Lux
+5813. Dual Monitor Background Fixer
+5814. Duke's JukeBox
+5815. DukenPlayer
+5816. Duplicate Files Finder
+5817. DuranDuranbot
+5818. DustCleaner
+5819. DvbCronRecording
+5820. Dxr2 Resource Center
+5821. Dxr2gui
+5822. Dymnd
+5823. DynAMITE Project
+5824. DynaGraph
+5825. DynaRipper
+5826. Dynagraph for Grappa
+5827. DynamiC++
+5828. Dynamic 3D Network Platform
+5829. Dynamic Band Manager
+5830. Dynamic Image Servlet
+5831. Dynamic Photo Album
+5832. Dynamic Visualization Tool
+5833. DynamicFractal
+5834. DynamicGrass.Heightmap
+5835. Dynamics Event Icon Modifier
+5836. E-Chalk
+5837. E-Night
+5838. E-Part
+5839. E-SeXy
+5840. EAT Pure Data
+5841. ECU Remapping
+5842. EDM
+5843. EFXmms
+5844. EGachine
+5845. EHP Designs Software
+5846. EIGHT: Easy Image Gallery
+5847. ELMP - The Next Generation
+5848. ELVAM
+5849. EME extensible medical environment
+5850. EMMP - Embedded Mobile MP3 Player
+5851. EMPS Player (Free Release)
+5852. ENDUCE
+5853. ENEDTE
+5854. ENO
+5855. ENYA - Little Image Stuff
+5856. EOPAS: Linguistic A/V Annotation
+5857. EOS Multimedia Scripting Environment
+5858. EPD
+5859. EPFL
+5860. EPG Record
+5861. EPOC 3D Engine
+5862. ERC, an Emacs IRC client
+5863. ES 3D Game SDK
+5864. ESMDI
+5865. ESpecially
+5866. ETV Personal Video Recorder
+5867. EVK Educational video codec
+5868. EXIF ReName
+5869. EXIF XML Photo Album
+5870. EXIF.py
+5871. EZ Loc
+5872. EZ Music Composer Java Applet
+5873. EZ Reusable Objects (EZRO)
+5874. EZ Transcoder
+5875. EZPX photoblog
+5876. EZWebAlbum
+5877. Eagleplayer
+5878. Ear Training Lower Higher
+5879. EarCandy
+5880. Earth
+5881. Earthquake Music Management System
+5882. Eartune
+5883. Easaier
+5884. Easily manage your digital photographs
+5885. Easy Audio Tuner
+5886. Easy Framework
+5887. Easy Image Hosting Script v1.0
+5888. Easy Java Graphics
+5889. Easy Media Presenter
+5890. Easy Subtitle Agent
+5891. Easy Tag and Rename
+5892. Easy Vob 2 DivX
+5893. Easy beamer
+5894. EasyBMP-OCaml
+5895. EasyCAP DC60 Driver
+5896. EasyCam
+5897. EasyClassifier
+5898. EasyConduite
+5899. EasyMHP
+5900. EasyMail
+5901. EasyStudio
+5902. EasyYUV
+5903. Easyfreedb
+5904. EbiNess
+5905. EbmFlite
+5906. Ebookman UberAudio
+5907. Ecasound
+5908. Echo2Impress
+5909. EchoDroid
+5910. Eclipse MP3 Player
+5911. Eclipse Media Repository
+5912. Eclipse Random Splash Screen
+5913. EclipseMediaPlayer
+5914. Ecmd (pronounced E-command)
+5915. EcoMod
+5916. Edge detection
+5917. Edges
+5918. Edit-X
+5919. Editable Vectors
+5920. Editeur Graphique Vectoriel (EGV)
+5921. Editeur SVG
+5922. Editor de imágenes
+5923. EduTube - Streaming video for E-Learning
+5924. EduVis
+5925. Education Multimedia Exchange Library
+5926. EfPiSoft
+5927. Efficient Motion Capture Retrieval
+5928. Efodaum
+5929. Egle - Enigma Game Level Editor
+5930. Eid_Greetings
+5931. Eiffel Windowing System - EWS
+5932. EiffelMedia
+5933. Einstein Player
+5934. Ekepoint
+5935. EkoXMMS2
+5936. El Zoido Apps
+5937. Elan-PixManager
+5938. Elastique vector editor
+5939. Elboom
+5940. Electric Eye
+5941. Elektro-L Gif-Maker
+5942. Ellipse Detector
+5943. Ellipse Project
+5944. Elpoint
+5945. Elucidation
+5946. Elvenware Source Code
+5947. Ema_l
+5948. Emacs Photo Database
+5949. Emacs VR Mode
+5950. Emacspeak --Complete Audio Desktop
+5951. Embedded Font Generator
+5952. Embedded JPEG Codec Library
+5953. Embedded distro for AMD/Geode platform
+5954. Embedded graphics library.
+5955. Emma3D
+5956. Emoo - Multimedia Organizer
+5957. Emptytree Seedy
+5958. Encaps PHP/Flash Gallery
+5959. Endo
+5960. EndriX OS
+5961. Endrov
+5962. Enflame
+5963. Engine de Interatividade em RV & RA
+5964. Enhanced Coolscan backend for SANE
+5965. Enhanced-Media-Center
+5966. Enna Digital-Corner Mediacenter
+5967. Ensonitron
+5968. Entertainer
+5969. Envelopalator
+5970. EnzAnKara
+5971. Ephoto - Extensive Image Viewing.
+5972. Epic Edit ( SMK Track Editor )
+5973. Episodes Manager
+5974. Episteme
+5975. EpsEngine
+5976. Epsilon Render Framework
+5977. Epub Editor
+5978. Eqm
+5979. Equalsa
+5980. Equilib
+5981. Eric\'s DV utilities
+5982. Erica
+5983. Eringson
+5984. Ertha
+5985. Essential Data
+5986. EtherPipe
+5987. Etreed
+5988. Euck Comic Reader
+5989. Euclide
+5990. EulerTop
+5991. EuroTv
+5992. Evad MPD client
+5993. Evas Video Sink
+5994. Eve
+5995. Event Photography Server
+5996. EveryPlay Media Management System
+5997. EvilEncoding
+5998. EvilEye
+5999. Evile
+6000. Evolutif Audio Engine
+6001. Evolvo
+6002. Ex Libris
+6003. Exactitude
+6004. Exeng
+6005. Exhibit
+6006. Exhibitae
+6007. Exhibition
+6008. Exif UserComment Editor
+6009. ExifInfo
+6010. ExifMDReader
+6011. ExifToolU
+6012. Exile
+6013. Exipnos
+6014. Exit 66 Jukebox
+6015. Exocortex Framework
+6016. ExpLabo
+6017. Expandable Parser Workflow Tool
+6018. Experience JavaScript Library
+6019. Experiment Player
+6020. Experimental Robotics Framework
+6021. ExplicitLayout
+6022. ExploTf
+6023. Explosion Workshop
+6024. Explotraj
+6025. Exscalibar
+6026. Extended View Toolkit
+6027. Extended sample objects for Max/pd/jMax
+6028. Extensible Binary Meta-Language
+6029. Extensible Media Organization Tool
+6030. Extract Audio Spectrum Envelope (MPEG-7)
+6031. Extract Objects from Image
+6032. ExtractProfile
+6033. Extreme Graphics Library
+6034. Extruder Terrain Modelling System
+6035. Eye Candy
+6036. Eye of the cat
+6037. EyesRay
+6038. EyesisCamera
+6039. Ezia Engine
+6040. F Modular Synthesizer
+6041. F*ing Good Media Center
+6042. F.A.R Engine
+6043. FALF Player
+6044. FBSFML
+6045. FBX Conversion Utility
+6046. FBlend
+6047. FDMS Connect
+6048. FDiamondEngine
+6049. FFJ Media Player
+6050. FFMPEG Stream Creation GUI
+6051. FFMPEG video converter
+6052. FFmpeg Audio Format (JUCE)
+6053. FGTK Fast Geometric Toolkit
+6054. FJMovieEditor
+6055. FLAC Rip and Transcode
+6056. FLEX-db Digital Asset Manager
+6057. FLSC Player
+6058. FLTK-UTF8
+6059. FLTracker
+6060. FLV Builder
+6061. FLV Video Player with Web UI
+6062. FLVPlayer
+6063. FLokk of Kurious Kreatures
+6064. FMS Log Analyzer
+6065. FMaps
+6066. FMesh
+6067. FNPaint
+6068. FNServer Image Collaboration Software
+6069. FO3D
+6070. FOSS Photo Gallery
+6071. FOSSL Metaverse Project
+6072. FOggPlayer
+6073. FOray
+6074. FPAlbum
+6075. FPS/Chuck Time Converter
+6076. FSGAL
+6077. FSIA
+6078. FSM: Font System Manager
+6079. FTFImageConverter
+6080. FUNKWERK
+6081. FVR
+6082. FVS: A Content-Based Retrieval Library
+6083. FVisualizer
+6084. FX Toolbox for xmms
+6085. Fabio Photo Import
+6086. Fable-dtv
+6087. Fabulister
+6088. Face Detection in Color Images
+6089. Face Extraction Utility
+6090. Facebook Contacts for Picasa
+6091. Facebook Photo Album Downloader
+6092. Fachhochschul Audio-Toolkit
+6093. FacialDAS
+6094. Facilis Engine
+6095. Facility Composer Suite
+6096. Facsimile
+6097. Faint
+6098. Fair DJ
+6099. Faisca CD/DVD Burner
+6100. FakeVideo4l2
+6101. FakedReality
+6102. Falmaidan
+6103. Family Fotos
+6104. Family Photo
+6105. Family Web Pages
+6106. Fandango: scripted 3d CAD
+6107. Fanimae
+6108. Farben
+6109. FarmTV
+6110. Fast Eye
+6111. Fast!!! Music Player
+6112. Fast2Share P2P System
+6113. FastClass Cross-Platform CAD Library
+6114. FastFP - Floating Point Emulation in C
+6115. FastGEO
+6116. FastGal
+6117. FastLib -&gt; for Multimedia Developer
+6118. FastVideo
+6119. Fastest Convolution in the Emirates
+6120. FatHead
+6121. Fata Morgana 3D Modeller
+6122. Fatamorgana
+6123. Fauxweb Image Gallery
+6124. Fazelo
+6125. FeKodi
+6126. Feature Extraction plugin API
+6127. FengGUI
+6128. Fenix
+6129. Festa
+6130. Festival-gaim
+6131. Festival-ml
+6132. Ffmpeg converter
+6133. FfmpegLazGui
+6134. Fieldnotes Editor
+6135. FigTeX
+6136. Figure Animation Studio (FAST)
+6137. File Sort python
+6138. FileAnchor
+6139. FileExtractor
+6140. FileGarden
+6141. Fileinfo or ID3 tag based file sync
+6142. Filk Archiving Project
+6143. Film Project Management
+6144. Film Stock Calculator
+6145. Filmliste
+6146. Final Scratch Tools
+6147. FindFoto
+6148. FindaSong
+6149. Fine Spectrum Analyzer Plugin for XMMS
+6150. FinePix PC CAM mode
+6151. FineTune
+6152. Finger Paint
+6153. Fingon
+6154. Fire.fm
+6155. FireBlade Particle Engine
+6156. Firefly
+6157. Firenze
+6158. Firescreen - Screenshots webpage
+6159. First person web site
+6160. Fischland 2d graphics editor
+6161. Fisifo
+6162. Fission Computer Vision Library
+6163. Fix Playlist
+6164. FixeEngine
+6165. Fixpoint
+6166. FizGL (virtual 3d physics lab.)
+6167. FlScrapBook
+6168. FlacJacket
+6169. Flam3 Animator
+6170. FlameBitmaps
+6171. Flamenco
+6172. Flammable MusicBox
+6173. Flash Animation Decode library
+6174. Flash Floor Plan
+6175. Flash Image Viewer
+6176. Flash Photography
+6177. Flash Player with ActionScript support
+6178. Flash SlideMaker
+6179. Flash Streamer
+6180. Flash Vector Drawing
+6181. Flash Video Publisher and Subscriber
+6182. Flash and XML Photo Gallery
+6183. Flash xPath
+6184. FlashBack - Digital Image Recovery
+6185. FlashBoy - Flash GameBoy Emulator
+6186. FlashDoctors
+6187. Flashcam
+6188. Flashcode
+6189. Flashdot
+6190. Flat Four Engine
+6191. Flatland VR
+6192. Flava Distributed Recording System
+6193. Fleow
+6194. Flest Framework
+6195. Flex Easy Filters
+6196. Flex Image Cropper Tool
+6197. Flex/Flash Contacts Grabber and Inviter
+6198. Flex2 Music Player - FlexPlayer
+6199. FlexStreamingPlayer
+6200. FlexamySynth
+6201. Flexible Multi-Media Components
+6202. Flexible Simple Web Gallery
+6203. Flexishow
+6204. FlickList
+6205. Flickr Export Plugin for iPhoto
+6206. Flickr Get Statistics
+6207. Flickr Image Downloader
+6208. FlickrBridge
+6209. FlickrFrame Digital Picture Frame
+6210. FlickrGal
+6211. FlickrJWeb
+6212. FlickrMosaic
+6213. FlickrUploadr
+6214. FlightGear DHC6 liveries
+6215. FlipCube 3D Screensaver
+6216. Flipbook
+6217. Flirt Flash Runtime
+6218. FliteTutor - a CBT Concept
+6219. Floating Textures
+6220. Flocl
+6221. FlopPi
+6222. Floppy Conductor
+6223. Flourish Player
+6224. Flow Studio-Transmitter Link
+6225. Floyd
+6226. FltLib - OpenFlight file loader.
+6227. Fluent Engine
+6228. Fluid Streaming Server
+6229. FluxShot: CLI screenshoter
+6230. Fluxions 3D Engine
+6231. FlvWebPlayer
+6232. FlySimulator
+6233. Flying Cow
+6234. FmgFAX
+6235. Fmod aac
+6236. FmtRW
+6237. FoHaCo
+6238. Folio; XSL Formatting Objects Renderer
+6239. FollowText
+6240. Font Sender
+6241. FontPreview
+6242. Fonts for African languages
+6243. Fonty Python
+6244. FooRipper
+6245. FootballSketch
+6246. Footnav
+6247. Foresight
+6248. Forevermore
+6249. Forge of Eternity
+6250. Format Toolbox
+6251. Forth Playlist Converter
+6252. Fortissimo
+6253. Foto Knox
+6254. FotoBilder Client Library
+6255. Fotobber: share your photos
+6256. Fotogenic
+6257. Fotok
+6258. Foton
+6259. Fotoon
+6260. Fotos on web
+6261. Fotoxx
+6262. FourCCPatch
+6263. FoxHive
+6264. FoxMediaCenter
+6265. FoxTunes
+6266. FoxxyWeb
+6267. FracGen
+6268. Fract Benchmark
+6269. Fractal Assistant
+6270. Fractal Browser
+6271. Fractal Compressor
+6272. Fractal Farm
+6273. Fractal KISS
+6274. Fractal View
+6275. FractalFest
+6276. Forth Playlist Converter
+6277. Fortissimo
+6278. Foto Knox
+6279. FotoBilder Client Library
+6280. Fotobber: share your photos
+6281. Fotogenic
+6282. Fotok
+6283. Foton
+6284. Fotoon
+6285. Fotos on web
+6286. Fotoxx
+6287. FourCCPatch
+6288. FoxHive
+6289. FoxMediaCenter
+6290. FoxTunes
+6291. FoxxyWeb
+6292. FracGen
+6293. Fract Benchmark
+6294. Fractal Assistant
+6295. Fractal Browser
+6296. Fractal Compressor
+6297. Fractal Farm
+6298. Fractal KISS
+6299. Fractal View
+6300. FractalFest
+6301. FractalGen
+6302. FractalSpline
+6303. FractalToy
+6304. Fractalator
+6305. Fragmentarium
+6306. Frame Buffers For Ubicom Processors
+6307. FrameGrabber
+6308. FrameIt
+6309. Framebuffer Text Viewer
+6310. Framegrabgtk
+6311. Framework SRM
+6312. Frank's PhP Photo Album
+6313. Fraqtive
+6314. Fray
+6315. Frazzos
+6316. FreakyBall
+6317. Freality Metaverse Construction
+6318. Free 3D Acrópolis
+6319. Free Allegiance
+6320. Free CMS Themes and Scripts Project
+6321. Free Cell Phone Ring Tones
+6322. Free Dimensions
+6323. Free Engine
+6324. Free GPS Moving Map Display
+6325. Free Raw Image Post-Processor
+6326. Free Turn Tables
+6327. Free Webradio Directory
+6328. Free and Easy
+6329. FreeADSP
+6330. FreeBE 3DFx Voodoo Drivers
+6331. FreeBurn
+6332. FreeCSVR
+6333. FreeCard
+6334. FreeEye
+6335. FreeGallery
+6336. FreeMet
+6337. FreeMovie
+6338. FreePhotoShare
+6339. FreePrompter
+6340. FreeRT
+6341. FreeSG
+6342. FreeTTS-Android Interfacing
+6343. FreeTagger - Automated Name Tag Creation
+6344. FreeTube: Completely Free Video Sharing
+6345. FreeViUX
+6346. Freeband
+6347. Freebase MIDI Sequencer
+6348. Freecity Mod
+6349. Freedaisy is a free Daisy implementation
+6350. Freek - document renderer engine
+6351. Freemote (ipfour.net)
+6352. Freetantrum
+6353. Freevo cover editor
+6354. Frei0r
+6355. French program tv
+6356. Freon Demo
+6357. Frequency Generator Using Sox
+6358. Fresco
+6359. Freshet - for a mountain of music
+6360. Fresse!
+6361. FriSub
+6362. Friendly Command-line Mixer
+6363. Friends of Argumented Reality
+6364. Frisky
+6365. Frolic Flea
+6366. Frond
+6367. Frontera
+6368. Frosty Nux
+6369. Frustum Culling Demo
+6370. Fréquence Banane Commutation System
+6371. FtlTranscribe
+6372. Fugen - Forum Userbar GENerator
+6373. Fultron 2002
+6374. FunTimeDancer
+6375. Fungimol
+6376. Funiculus
+6377. Funkshark (deprecated)
+6378. FunkyMD Suite (Minidisc titling)
+6379. Funkyou - dj equipment for the future
+6380. Funzeugs.de
+6381. Fuoco Tools
+6382. Fuse Media Centre
+6383. Fuskit Fusker Clone
+6384. Future Composer audio player
+6385. FutureEngine
+6386. Futures Gateway Educational Tool Suite
+6387. FuzzySegm
+6388. Fwall - Linux Firewall Script Manager
+6389. FxEngine Framework
+6390. FxJackPack
+6391. FxVideoCenter
+6392. G-DVD
+6393. G-maj
+6394. G.J. Video Timeline
+6395. G15 Rhythm
+6396. G15-Scripts
+6397. G2 Xoops Modules
+6398. GAAT (GNOME ASCII Art Tool)
+6399. GALE
+6400. GALant
+6401. Funiculus
+6402. Funkshark (deprecated)
+6403. FunkyMD Suite (Minidisc titling)
+6404. Funkyou - dj equipment for the future
+6405. Funzeugs.de
+6406. Fuoco Tools
+6407. Fuse Media Centre
+6408. Fuskit Fusker Clone
+6409. Future Composer audio player
+6410. FutureEngine
+6411. Futures Gateway Educational Tool Suite
+6412. FuzzySegm
+6413. Fwall - Linux Firewall Script Manager
+6414. FxEngine Framework
+6415. FxJackPack
+6416. FxVideoCenter
+6417. G-DVD
+6418. G-maj
+6419. G.J. Video Timeline
+6420. G15 Rhythm
+6421. G15-Scripts
+6422. G2 Xoops Modules
+6423. GAAT (GNOME ASCII Art Tool)
+6424. GALE
+6425. GALant
+6426. GAP
+6427. GATTO - Content Management System
+6428. GConvert
+6429. GD2++
+6430. GDTagging
+6431. GEM for Max/MSP
+6432. GETCD console grabber/encoder
+6433. GFA Imager
+6434. GFN-overlay
+6435. GFourier
+6436. GIF89a Overlap for PHP
+6437. GIF89a Overlay for PHP
+6438. GILL
+6439. GIMT
+6440. GIN
+6441. GIPPO: Dashboard GPS Map & Sound
+6442. GIT and GaWis
+6443. GImageSpider
+6444. GKrellM-Alarm
+6445. GL Articulated Structure System
+6446. GL Interaction Tools
+6447. GL++
+6448. GLAIVE
+6449. GLAN - multilingual library using OpenGL
+6450. GLFramework
+6451. GLGX
+6452. GLGooey
+6453. GLICT - GL Interface Creation Toolkit
+6454. GLIP-LIB
+6455. GLMPlayer
+6456. GLNLINEAR
+6457. GLOS: Graphic Library in Open Source
+6458. GLScene Community Development
+6459. GLScene Community Help
+6460. GLScry
+6461. GLTT
+6462. GLWaves
+6463. GLam Library
+6464. GLass Object Three-d Editor
+6465. GLimg
+6466. GLoGo1 - Gloves and Goggles GUI, take 1
+6467. GLttf
+6468. GML Raytracer
+6469. GMMPlayer
+6470. GMMS: GTK Multi Media System
+6471. GMPlayer-Dvb
+6472. GMail Music
+6473. GMediaConverter
+6474. GMyth Frontend Library
+6475. GNOME Animation Studio
+6476. GNOME ID3 Tag Editor
+6477. GNOME Napster Client
+6478. GNOME Photo Collector
+6479. GNOME WAV Merger
+6480. GNU Amiga MOD Player Library
+6481. GNU DBox2 Software Project
+6482. GNU FemFum_Daaalí PS Applet
+6483. GNU Novatux
+6484. GNU Sound Cue
+6485. GNU Telephony
+6486. GNU Teleprompter
+6487. GNU Underwater Photo Editor (GUPE)
+6488. GNU/Album
+6489. GNU/Gallery
+6490. GNU/Grade
+6491. GNU/Linux PTP
+6492. GNU/Shoes
+6493. GNUTunes
+6494. GNUsound
+6495. GNoFour3D
+6496. GOD
+6497. GOFoto
+6498. GOPchop
+6499. GOmx
+6500. GP(S|X) Track Manager
+6501. GPDes3D
+6502. GPL SWF Authoring Software
+6503. GPLIGC
+6504. GPS Ride Plot
+6505. GPS and data SVG video overlay generator
+6506. GPS status
+6507. GPS04
+6508. GPSMovieGenerator
+6509. GPU-accelerated Gimp plug-in & Framework
+6510. GPUBase
+6511. GPUMatrix
+6512. GPaint Patches
+6513. GPhotoLab
+6514. GQapplets - applets for the GNOME panel
+6515. GR33 Librarian
+6516. GRAJ music player
+6517. GRP Playlist
+6518. GRender - Render queue manager
+6519. GSceneEditor
+6520. GSinseFractor
+6521. GSmartMix
+6522. GSpcplay
+6523. GTB: Graphics Toolbox
+6524. GTEngine
+6525. GTK Media Center
+6526. GPDes3D
+6527. GPL SWF Authoring Software
+6528. GPLIGC
+6529. GPS Ride Plot
+6530. GPS and data SVG video overlay generator
+6531. GPS status
+6532. GPS04
+6533. GPSMovieGenerator
+6534. GPU-accelerated Gimp plug-in & Framework
+6535. GPUBase
+6536. GPUMatrix
+6537. GPaint Patches
+6538. GPhotoLab
+6539. GQapplets - applets for the GNOME panel
+6540. GR33 Librarian
+6541. GRAJ music player
+6542. GRP Playlist
+6543. GRender - Render queue manager
+6544. GSceneEditor
+6545. GSinseFractor
+6546. GSmartMix
+6547. GSpcplay
+6548. GTB: Graphics Toolbox
+6549. GTEngine
+6550. GTK Media Center
+6551. GTK OGG
+6552. GTK Ogg Vorbis TAG Editor
+6553. GTK SDL widget
+6554. GTK+ collage
+6555. GTK+ port to Y
+6556. GTK-RENAMER
+6557. GTKores
+6558. GTO
+6559. GTX470OGLSM3
+6560. GTag music tag editor
+6561. GTagger
+6562. GUCE
+6563. GUI Launcher for MPlayer
+6564. GUI tool to download and convert to MP3
+6565. GUIDE - GUgyeol IDE
+6566. GUIPod
+6567. GUIdo
+6568. GUatu
+6569. GVA Library
+6570. GVideo - easy linux video
+6571. GVideoDB
+6572. GWall
+6573. GWave analyzer
+6574. GXSM
+6575. GXstack
+6576. GYachE Improved
+6577. Gadget Labs sound card driver
+6578. Gag MoH SoundsPack
+6579. Gaia
+6580. Gaim Video and Voice Support
+6581. Gaim-Rhythmbox
+6582. GalAxML
+6583. Galaxy Explorer
+6584. Galaxy Picture Factory
+6585. Galeria Brasil
+6586. Galeria.NET
+6587. GaleriaPhp
+6588. GaliX² PHP Gallery
+6589. Galileo Renderer
+6590. Gall'Rails
+6591. Gallericious
+6592. Gallery 8
+6593. Gallery Mage
+6594. Gallery Maker For Lovehorsepower
+6595. Gallery Remote PHP Client Class
+6596. Gallery.NET
+6597. Gallery2 Checkout
+6598. Gallery2 forum
+6599. Gallery2:Modules:helppage
+6600. Gallery4All
+6601. GalleryShuffle
+6602. Gallus
+6603. GamProof
+6604. Game Bench
+6605. Game Caper
+6606. Game Image Viewer
+6607. Game Map Editor
+6608. Game Object Language (GOaL)
+6609. Game Plan Editor
+6610. Game of life with File system Userland
+6611. GameBlade - 2D Game API using SDL (C++)
+6612. GameGuts
+6613. GameGuts
+6614. GameLib.NET
+6615. GameOneEngine
+6616. GameUI
+6617. GameX
+6618. Gamera
+6619. GamesDB
+6620. Gamma
+6621. Gammaleon VR 3D Engine
+6622. Garoxy
+6623. Gaupol
+6624. Gaze at the landscape
+6625. Gazelle Movie Editor
+6626. Gcover - CD Covers for Gnome
+6627. GdkPixbuf loader for PEF-files
+6628. GeeXboX for PS3
+6629. GeekCAD
+6630. GeekRadio
+6631. Geeqie Image Viewer
+6632. Geetham
+6633. Geisha
+6634. GelKeys2D
+6635. GempAnimator
+6636. Gemsites
+6637. Gemstone4SageTV
+6638. GenReS plugin
+6639. General Sound Manipulation Program
+6640. Generalized Rotational Objects Library
+6641. Generate animation from dia diagram
+6642. Generateur Playlist
+6643. Generic Colour Management System
+6644. GeneticM
+6645. Geo JImage
+6646. GeoAnnotate
+6647. GeoCast
+6648. GeoFuchs
+6649. GeoGallery
+6650. GeoJ2KViewer
+6651. GeoNatGet
+6652. GeoNotes
+6653. GeoOS
+6654. GeoPics
+6655. GeoRecorder
+6656. Geobject - Geographic Object API Spec
+6657. Geography Mapping Library
+6658. Geomatrix Geometric Library
+6659. Geomedia
+6660. Geometric Modeling with Subdivision
+6661. Geometric model finder with Interval ICP
+6662. Geometrical Simulator
+6663. Geometry Library
+6664. Geometry Solver 3D
+6665. Geometry Utility Library
+6666. George
+6667. Geosphere
+6668. Geotag Merge
+6669. Geovision
+6670. Gerador de Gráficos Matemáticos 3D
+6671. Gerador de Vídeo
+6672. Gerbildrop Java Utilities
+6673. Gertie Synchronization Tools
+6674. GestPhoto a personnal media inventory
+6675. Gestion des photos
+6676. Get the Tagesschau mms's
+6677. GetCodecs
+6678. Getcontrol
+6679. Getear
+6680. Gfl-Java Class Library
+6681. Ghia: a Java Rendering Engine
+6682. GhostEngine
+6683. Ghostscript for PHP
+6684. Giada - Your Hardcore Loop Machine
+6685. GiantDisc
+6686. GiantDisc RESTful Webinterface
+6687. GiantDisc RESTful Webinterface
+6688. Gic
+6689. Giggle
+6690. Gikot, a desktop agent framework
+6691. Gimmix
+6692. Gimp Managed Site
+6693. Gimp Photo Toning
+6694. Gimp Plug-ins CVS
+6695. Gimp Red Eye Correcter
+6696. Ginga Bemtevi
+6697. GlOCR
+6698. GlSolitaire
+6699. Gladiator music media library
+6700. Glass Pane Image Collector
+6701. Gleam
+6702. GlfwCL: Tiny GLFW OpenCL GL & stb_image
+6703. GlideShow
+6704. Glinter
+6705. Glirnath
+6706. Glitcher
+6707. GlobMoeSt
+6708. Globe communicator
+6709. Glossy Serpent
+6710. GlueFace
+6711. Glunatic
+6712. GlutMaster
+6713. GmOne -- GNU Modeller One
+6714. Gmini open source software
+6715. Gnapsterj
+6716. Gneiss
+6717. GnoMencoder
+6718. Gnofract 4D
+6719. Gnomadic
+6720. Gnome Application for Compaq PA-1/PA-2
+6721. Gnome Background Browser
+6722. Gnome Catalog
+6723. Gnome Dxr2 DVD Player
+6724. Gnome Matlab integrated Enviorment
+6725. Gnome MusicPad
+6726. Gnome Picture Of The Day Background
+6727. Gnome Subtitle Editor
+6728. GnomeNibus
+6729. GnomeRSVP
+6730. GnomeScan
+6731. GnomeTREK
+6732. Gnoogie Video Conversion Engine
+6733. Gnook
+6734. Gnosis Graphics Engine
+6735. Gnu Video Effects
+6736. Gnu-com: Alien Research
+6737. GnuGallery
+6738. Gnupylot
+6739. Gnuspeech
+6740. Gnutella Services
+6741. Go 2 Pov Converter
+6742. Go Radio - Coodium Software
+6743. GoRoku
+6744. Goby
+6745. Goear Pichulotote
+6746. Gogg
+6747. Gold Section
+6748. GoldenDict
+6749. Golos
+6750. GoodDeed Manager
+6751. Goodies for the Xfce Desktop
+6752. Google Earth Python Importer
+6753. GooseEgg: 3D Modeler
+6754. Gopher the demo player
+6755. Goray
+6756. Gordon
+6757. Gorgon Game Engine
+6758. Gouache
+6759. Goughic Studio
+6760. Goya
+6761. Gphoton: simple 3d ray tracer
+6762. GrMP3
+6763. GrMake
+6764. GraXML
+6765. GrabMy - aka GetMy2
+6766. Gradient up size
+6767. GrafArchive
+6768. GrafMach
+6769. Grafix diagram editor
+6770. Grain Theme for WordPress
+6771. Graj internet radio player
+6772. Granada
+6773. Grand Unified 3D Game Engine
+6774. Grand8 - Roller-coaster Simulator
+6775. Granulometry
+6776. GraphLCD
+6777. GraphNview
+6778. GraphViz.pm
+6779. GraphViz::DBI
+6780. GraphWriter
+6781. Graphcut
+6782. Grapheme to Phoneme Forge
+6783. Graphic Wizard
+6784. GraphicBatch
+6785. Graphical Grammar Library
+6786. Graphical Multiuser Virtual Environment
+6787. Graphical Youtube Downloader
+6788. Graphics Calculator
+6789. Graphics Script Language
+6790. Graphl - Hybrid graph visualization tool
+6791. GraphxShop Editor
+6792. GratePic
+6793. Gravel
+6794. Gravetat
+6795. Gray Color Chooser
+6796. Greeklish Convertor
+6797. Green Mobile
+6798. GreenScape - PIM
+6799. GresiK
+6800. GriMEngine
+6801. Grid Algorithms Library
+6802. Grid Tools
+6803. Gridderface
+6804. Griffith
+6805. Grim
+6806. GroophDesktop
+6807. Groovy Tagger
+6808. GroovyFugue
+6809. GroupCommentr
+6810. GroupVoice
+6811. Grove Public 3D Render Farm
+6812. GryPhon Linux CD-Player
+6813. Grylizo
+6814. GstRecorder
+6815. Gstreamer Player
+6816. Gtexinator
+6817. Gtk 3dCanvas
+6818. Gtk Advanced Screenshots
+6819. Gtk WavEdit
+6820. Gtk+ Image Viewer
+6821. GtkEca8
+6822. GtkMp3Burn
+6823. GtkSDL
+6824. GtkWebcam
+6825. GtkXine
+6826. Guard
+6827. Guayadeken (Qt port of Guayadeque MP)
+6828. GuiObjects
+6829. Guillemot Maxisound ISIS ALSA driver
+6830. Guilloche
+6831. Guitar Scale Expert
+6832. Guitar Trainer
+6833. Guitar Tuner Java Applet
+6834. GuitarPortfolio
+6835. GuitarToMidi
+6836. GuitarTuner
+6837. GumGums - host your own photos
+6838. Gumbo - Patterns and code for 2D/3D apps
+6839. Guru Album
+6840. Gutenberg Bible line composer: ginyB42
+6841. Guzinta
+6842. H-Mpeg Development
+6843. H-RayTracer
+6844. HAL Mumbles
+6845. HAL UI
+6846. HARP
+6847. HBme (HandBrake me)
+6848. HD Cell Raytracer
+6849. HD Garage
+6850. HD Media Control
+6851. HD Media Manager
+6852. HDHomeRunApplet
+6853. HDPVR Assistant Recorder
+6854. HDR image processing toolkit
+6855. HDRFlow
+6856. HEAL: Health Education Assets Library
+6857. HFP for Linux
+6858. HGEE
+6859. HGL Suite
+6860. HI Notations Stripper
+6861. HIDB2
+6862. HIT-Center
+6863. HKontrol
+6864. HLGraph
+6865. HLogoZ
+6866. HMC210E-HD-DVB
+6867. HMM Speech Recognition in Java
+6868. HP DV1000 Media Control
+6869. HP Scanjet 2200C USB Driver
+6870. HRPathEditor
+6871. HRTP
+6872. HRip / HRipMod
+6873. HTML Slideshow
+6874. HTML photo album generator
+6875. HTML2DVD
+6876. HTML5 Canvas Polaroid Previewer
+6877. HTML5 Terrace Planner
+6878. HTMLAlbum
+6879. HTMLLyricsCreator
+6880. HTMLTimeline
+6881. HTPC Audio DSP
+6882. HTPC-Melange
+6883. HTPC4Linux
+6884. HTTP streaming Flowplayer
+6885. HTTP-jQuery-mplayer Media Player
+6886. HTdesigner
+6887. HW+ / DXR3 device driver for Linux
+6888. HaRe
+6889. Habitat 3D Game Engine
+6890. HacBurn
+6891. Hacked 2 Basics
+6892. Haga
+6893. Half Baked Ray Caster
+6894. Half-Edge Library
+6895. Halftoning Library
+6896. HammondClone2
+6897. Hamsi Cover
+6898. Hamsi Singer
+6899. Hand Writing Recognition
+6900. HandBrake
+6901. HandBrake for Fedora GNU/Linux
+6902. HandWrite
+6903. Handwritten
+6904. Handy Photo Album
+6905. Hangar 18
+6906. HappyGnu
+6907. Hard Coded Pinball
+6908. HardCAD
+6909. Hardware Assisted Visibility Sorting
+6910. Harmonia - Music score analysis
+6911. Harmonium
+6912. HarpID3
+6913. Hartwigs Tile Painter
+6914. HastalAVIsta : a Video Editor for Linux
+6915. HaxX-RNS
+6916. Haxe Flash Tutorial
+6917. Hblok Snipplets
+6918. HeadCold
+6919. HeaderCreator
+6920. Hear The ML
+6921. Hector Mapper
+6922. Heditor
+6923. Heffer
+6924. Heimer
+6925. Helga
+6926. HelioCreek
+6927. Help with communication and learning
+6928. Hendrix
+6929. HeuriStitch
+6930. Hexagons Browsing UI
+6931. Hexerei: a thousand-word picture
+6932. Hey Mang!
+6933. HiPad-Hindustani Music Composer & Player
+6934. HiResCoords Helper
+6935. HiasAmp music player
+6936. Hiding in Plain Sight
+6937. Hierarchical WaterShed Tranformation
+6938. High Fidelity Audio Player
+6939. High-level SALT interactors
+6940. High-order HMM in Java
+6941. High-order HMM in Matlab
+6942. Hildegard
+6943. Hill Profiler
+6944. Himera
+6945. Hinge3D
+6946. HispaRadio
+6947. Hmpf
+6948. HoDaCoS
+6949. Holborn Audio Plugins
+6950. Hollow13: aeonview
+6951. Hollow13: flickThing
+6952. HollyPaint
+6953. Holo Projector Simulation GUI Library
+6954. HoloPlayer
+6955. HolzCast Podcast Player
+6956. Home Media Center
+6957. Home Multimedia Center
+6958. Home Music Site Administrator
+6959. Home On TV
+6960. Home Studio Voice Tools
+6961. Home Video Club
+6962. Honkele
+6963. Hoppolek Application Suite
+6964. Horde3D
+6965. HornetsEye Ruby Computer Vision Library
+6966. HouNavigator
+6967. Houdini Character Development Kit
+6968. Houdini GPD library
+6969. Houdini Pipe Reader
+6970. Html preprocessor
+6971. Html to Image with PHP
+6972. HttpDesk
+6973. HttpPlayer
+6974. HuBV
+6975. Hubble in a Bottle!
+6976. Hum player
+6977. Human Commander
+6978. Humdrum Toolkit
+6979. Humidity
+6980. Hustle Media Server
+6981. HvSdr
+6982. HyForge
+6983. Hyper Interactive Reality [HiR]
+6984. HyperGUI
+6985. HyperMedia Transfer Protocol
+6986. Hyperbolic 3d Models viewer
+6987. Hyperbolic Tree Java Library
+6988. Hyperspace Explorer
+6989. Hypertext eLibrary
+6990. Hystrix Audio
+6991. I AM Java Buttons
+6992. I'm Fat (cool acronym here)
+6993. IBM Ideascan 2000 USB SANE driver
+6994. IBus Audio Player
+6995. IC.J.VST
+6996. ID3 Converter
+6997. ID3FromFilename
+6998. ID3Py
+6999. ID3Sharp
+7000. ID3v2 Tag creation library for python
+7001. IDELCell
+7002. IDEM
+7003. IDvX
+7004. IEEE 1394 Java Native Interface for DC
+7005. IEEE1394 Digital Camera API
+7006. IEEE1394Camera.NET
+7007. IES-BellX
+7008. IFS-Daemon
+7009. IH8id3
+7010. IIM4J
+7011. IIViewer
+7012. IKAN
+7013. IMAgen - 3D Software
+7014. IMDb/bash Movie Collection Script
+7015. IMGen
+7016. IMMAN
+7017. IMMS Magical Favorites Collector
+7018. IMP Tools
+7019. IMS.Server
+7020. INTERMEDIA Multi-Media Tools
+7021. IOmatrix
+7022. IP Video server
+7023. IP9100d daemon of video observation
+7024. IPodSync
+7025. IR Remote Center
+7026. IRAlarm
+7027. IRatio
+7028. ISIS Media and Streaming Management
+7029. ISU Game Developers Club
+7030. IUMA Tools
+7031. IUT-SimDSP
+7032. IVJ Logger
+7033. IVTV VDR (Perl daemon)
+7034. IXS-Tool
+7035. Ice Request
+7036. IceGenerator
+7037. IceMUD
+7038. IceMan
+7039. IcePick
+7040. IceREXX
+7041. IceSources
+7042. IceWM WWW Homepage
+7043. IceZing
+7044. Iceboar media player
+7045. Icecast Archiving Daemon
+7046. Icecast MySQL mp3 Player
+7047. Icegrabber
+7048. Icon==Function
+7049. Iconaton
+7050. Icons
+7051. IdSharp
+7052. Ida - Multimedia Access System
+7053. Idiot Box
+7054. IkonoGraphic
+7055. Ilmarin
+7056. ImDa
+7057. ImPack
+7058. Image Batch Scaler
+7059. Image Capture Daemon
+7060. Image Cave
+7061. Image Commander
+7062. Image Commenter
+7063. Image Converter HTML5
+7064. Image Editor and Conversion
+7065. Image Ferret
+7066. Image Grid Slicer
+7067. Image Manipulator - HC team
+7068. Image Mover
+7069. Image Processing Framework
+7070. Image Renamer
+7071. Image Senser
+7072. Image Similarity Tool
+7073. Image Sorter
+7074. Image Stamper
+7075. Image Thumbnail Generator
+7076. Image WorkFlow tools
+7077. Image converter - JPG2SWF
+7078. Image to colorful ASCII art
+7079. Image weaver
+7080. Image2DocInfo
+7081. Image2HTML
+7082. ImageBlend
+7083. ImageBrowser
+7084. ImageCentral
+7085. ImageCombine
+7086. ImageConverter
+7087. ImageCropper
+7088. ImageFix
+7089. ImageFun
+7090. ImageFunnel
+7091. ImageGnome
+7092. ImageHeader Scout
+7093. ImageInterviewer
+7094. ImageJ ColtKit
+7095. ImageLabeler
+7096. ImageLighter
+7097. ImageManager + Editor for HTMLArea
+7098. ImagePresenter
+7099. ImageRip
+7100. ImageRocket
+7101. ImageServer
+7102. ImageServlet
+7103. ImageShare
+7104. ImageSite
+7105. ImageSorter image browser/file manager
+7106. ImageSync
+7107. ImageUP
+7108. ImageUpvoter
+7109. ImageVision
+7110. Imager (perl)
+7111. Images
+7112. Imagin Raytracer
+7113. Imagine
+7114. Imaging unsigned floating point format
+7115. Imaging-API
+7116. ImagingBook
+7117. ImatiSTL
+7118. Imfradim
+7119. Img2Eps converter
+7120. Img4me
+7121. ImgView
+7122. Immix
+7123. Immortalised Outplayed
+7124. Imp Media Player
+7125. Imposter
+7126. ImpressShowRunner
+7127. Improvisor
+7128. Imprudence
+7129. Imptalk
+7130. InFrame
+7131. InGE Indigente Game Engine
+7132. Independify
+7133. Indexed Network Graphic Archiver
+7134. Indiemuse
+7135. Indigo Magic Desktop for Linux
+7136. Infinite Space 3D Engine
+7137. Infinity DMS
+7138. Infinity Fractal Compressor
+7139. InfoList
+7140. Information Screens a web based software
+7141. Information Screens a web based software
+7142. Information Screens a web based software
+7143. Infra Red Control Center
+7144. Infrared Remote Control
+7145. Initial Project
+7146. InkPlot
+7147. Inki
+7148. Inknomo
+7149. Inkscape Python Iterator
+7150. Inline DVD builder
+7151. Insignis iMotion
+7152. Insomnipy alarm clock
+7153. Inspectore
+7154. Instant drawing and messaging
+7155. Instil Creature Generator (ICG)
+7156. Instrument Effects Patch Designer
+7157. Integerized Vorbis Project
+7158. Intel Pocket Concert user API
+7159. Intel900GMAWDDMWorkaround
+7160. IntelliX Java collaborative editor
+7161. Intelligent Image Format
+7162. Intelligent Music Database
+7163. Intelligere FCS
+7164. Intelligere Flash Lite Server
+7165. Intelligere Video Recording System
+7166. Intelligient Music Classification
+7167. InterIMAGE
+7168. InterPlay ACM audio decoder
+7169. Interaction Framwork For Innovation
+7170. Interaction of Augmented Reality
+7171. Interactive History
+7172. Interactive VDR
+7173. Interactive Visualisation Framework
+7174. Interactive music theory learning tool
+7175. Interactive visualization project
+7176. Intercom
+7177. International Songs Database
+7178. Internet Imaging Benchathlon
+7179. Internet Radio Broadcast Kit
+7180. Internet Radio Source
+7181. Internet Text Radio
+7182. Internet Video Broadcast
+7183. Interverse Project
+7184. Intipunku
+7185. IntoMusic
+7186. Invalid Group Name
+7187. Inventor
+7188. Inventoriana
+7189. Inverse Compositional AAM
+7190. Inyo Renderer
+7191. Ionflux Computer Graphics Toolkit
+7192. IpoCDCreator
+7193. Irjamp
+7194. IronGrip
+7195. IrrLib - Irrlicht Library Wrapper
+7196. IrrLichtRPG - OpenGameEngine
+7197. Irrlicht .NET CP
+7198. Islamic Hadith Assistant
+7199. Isosurface
+7200. Iterated Dynamics
+7201. Iupiter
+7202. Ivolution
+7203. IzSound
+7204. Izolita - Remote Winamp Control
+7205. J Sound System
+7206. J Zeemap
+7207. J-Actio
+7208. J-gramS
+7209. J.E.N.G.L
+7210. J2EE Polls Component
+7211. J2MEGL
+7212. J3DI
+7213. J3DME
+7214. J3DMaker
+7215. J3DVN
+7216. J3dit
+7217. JAAMS
+7218. JACK Network Transport
+7219. JACK RTP client
+7220. JAGUARS
+7221. JAGaToo - Java Abstract Gaming Tools
+7222. JAI Image Viewer
+7223. JAM SE
+7224. JAM TAM (just another mp3 tag manager)
+7225. JAM-TAR
+7226. JAME - Real-time fractals
+7227. JANE: Just Another Nonlinear Editor
+7228. JARP
+7229. JASP
+7230. JATMM-Just Another Tool for MP3 Managing
+7231. JAVIER
+7232. JAlbum 2 Picasa
+7233. JAlbumGetter
+7234. JAnaglyph Engine
+7235. JAnimationShop -The Animation Editor
+7236. JArtNet
+7237. JBSSE
+7238. JBars
+7239. JBean3D
+7240. JBiblex
+7241. JBiteo
+7242. JBlenderFarm
+7243. JBlofeld
+7244. JBricks
+7245. JCDFinder
+7246. JCDSee
+7247. JCHAI3D
+7248. JCabri
+7249. JCad
+7250. JCalendarMaker
+7251. JCam - Webcam Server/WebClient
+7252. JCarto
+7253. JCast-X
+7254. JClassDiagramMaker
+7255. JCollOrg
+7256. JCollider (OLD)
+7257. JColorChanger
+7258. JComicLibrary
+7259. JCompose
+7260. JCrossMedia
+7261. JCustomizer
+7262. JD4Manager
+7263. JDSML Image Server
+7264. JDVB
+7265. JDVBSMan
+7266. JDX7
+7267. JDigiToolbox
+7268. JDrafting
+7269. JDrawingPanel
+7270. JDukeBox
+7271. JET Virtual Library
+7272. JEmpeg
+7273. JExecutor
+7274. JF Simple Mp3 Flash Player
+7275. JFileSplitter
+7276. JFlowchart
+7277. JFlyingCubes
+7278. JFoto
+7279. JFreedbClient
+7280. JFugue4Eclipse
+7281. JGLSE
+7282. JGPSMap
+7283. JGThumb
+7284. JGV (Java Geometry Viewer)
+7285. JGeotagger
+7286. JGoodies L&F TV-Browser Plugin
+7287. JGraph Diagram Component
+7288. JGraphicEye
+7289. JGraphicTools
+7290. JGraphics
+7291. JGscreenRemoval
+7292. JIGL (Java Image and Graphics Library)
+7293. JIMS - Java Image Manipulation Software
+7294. JIP
+7295. JIPL
+7296. JIPT - Java Image Processing Toolkit
+7297. JIRU
+7298. JITSC
+7299. JIconMaker
+7300. JImage Mosaic
+7301. JImage Sort n' View
+7302. JImageDB
+7303. JImageExplore
+7304. JImageGallery
+7305. JImageView
+7306. JJJMPD
+7307. JJMPlayer
+7308. JJack
+7309. JJazz
+7310. JKapture
+7311. JLCAD
+7312. JLDraw
+7313. JLRFractal: Mandelbrot/Julia Generator
+7314. JLastFM
+7315. JLastFMlib
+7316. JLop
+7317. JMEdit
+7318. JMG - JMediaGallery
+7319. JMP3Cast
+7320. JMP3Tagger
+7321. JMUF
+7322. JMagnifier
+7323. JMandelbrot
+7324. JMapCreator
+7325. JMe Eclipse Plugin
+7326. JImage Sort n' View
+7327. JImageDB
+7328. JImageExplore
+7329. JImageGallery
+7330. JImageView
+7331. JJJMPD
+7332. JJMPlayer
+7333. JJack
+7334. JJazz
+7335. JKapture
+7336. JLCAD
+7337. JLDraw
+7338. JLRFractal: Mandelbrot/Julia Generator
+7339. JLastFM
+7340. JLastFMlib
+7341. JLop
+7342. JMEdit
+7343. JMG - JMediaGallery
+7344. JMP3Cast
+7345. JMP3Tagger
+7346. JMUF
+7347. JMagnifier
+7348. JMandelbrot
+7349. JMapCreator
+7350. JMe Eclipse Plugin
+7351. JImage Sort n' View
+7352. JImageDB
+7353. JImageExplore
+7354. JImageGallery
+7355. JImageView
+7356. JJJMPD
+7357. JJMPlayer
+7358. JJack
+7359. JJazz
+7360. JKapture
+7361. JLCAD
+7362. JLDraw
+7363. JLRFractal: Mandelbrot/Julia Generator
+7364. JLastFM
+7365. JLastFMlib
+7366. JLop
+7367. JMEdit
+7368. JMG - JMediaGallery
+7369. JMP3Cast
+7370. JMP3Tagger
+7371. JMUF
+7372. JMagnifier
+7373. JMandelbrot
+7374. JMapCreator
+7375. JMe Eclipse Plugin
+7376. JImage Sort n' View
+7377. JImageDB
+7378. JImageExplore
+7379. JImageGallery
+7380. JImageView
+7381. JJJMPD
+7382. JJMPlayer
+7383. JJack
+7384. JJazz
+7385. JKapture
+7386. JLCAD
+7387. JLDraw
+7388. JLRFractal: Mandelbrot/Julia Generator
+7389. JLastFM
+7390. JLastFMlib
+7391. JLop
+7392. JMEdit
+7393. JMG - JMediaGallery
+7394. JMP3Cast
+7395. JMP3Tagger
+7396. JMUF
+7397. JMagnifier
+7398. JMandelbrot
+7399. JMapCreator
+7400. JMe Eclipse Plugin

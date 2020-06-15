@@ -1,0 +1,20 @@
+1. Search
+2. Data Collector
+3. InnoMetrics
+4. Innometrics Data
+5. Rescue Time
+6. Inno Updater
+7. AutoHotkey
+8. QuickLook
+9. WinZip Preloader
+10. WZUpdateNotifier.exe
+11. Gyazo: Screen Uploader
+12. Gyazo Station
+13. NitroShare
+14. uTorrent Web
+15. CleanMyMac X
+16. Presence Tracker
+17. Vim
+18. Adobe Application Manager
+19. Intel Power Gadget
+20. System Settings Application

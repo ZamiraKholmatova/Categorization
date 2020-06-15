@@ -1,0 +1,8388 @@
+1. Apache OpenOffice
+2. OpenProj - Project Management
+3. KeePass
+4. Calibre eBook Manager
+5. FreeMind
+6. Scribus
+7. Jaspersoft Studio
+8. TeXworks
+9. Pentaho from Hitachi Vantara
+10. Freeplane
+11. ProjectLibre - Project Management
+12. GnuCash
+13. Dolibarr ERP - CRM
+14. DavMail POP/IMAP/SMTP/Caldav to Exchange
+15. TA-Lib : Technical Analysis Library
+16. JasperReports Library
+17. Liferay Portal
+18. Invoice Ninja
+19. iDempiere
+20. Pandora FMS: Flexible Monitoring System
+21. Money Manager Ex
+22. coronavirus
+23. Vtiger CRM
+24. OpenKM Document Management - DMS
+25. OS X Portable Applications
+26. Magento 2
+27. JSignPdf
+28. Tabula
+29. MantisBT
+30. Shuup
+31. Digital Clock 4
+32. TestLink
+33. itop - ITSM & CMDB OpenSource
+34. BeeBEEP (Free Office Messenger)
+35. XDXF - XML Dictionary Exchange Format
+36. JasperReports Server
+37. Nagios Core
+38. Free VCF file to CSV or Excel converter
+39. Copay
+40. Task Coach
+41. Faveo Helpdesk
+42. PDF Merge Tool
+43. Snipe-IT
+44. Ethereum Wallet and Mist Browser
+45. uniCenta POS
+46. OpenEMR
+47. GanttProject
+48. Booked
+49. Chromis POS
+50. Zen Cart E-Commerce Shopping Cart
+51. Grisbi
+52. ZenTao project management software
+53. Attendize
+54. LogicalDOC Document Management - DMS
+55. ProjeQtOr - Project Management Tool
+56. OrangeHRM - Human Resource Management
+57. numpad emulator
+58. phpList
+59. YetiForce CRM
+60. vtenext CRM+BPM
+61. OpenMRS
+62. Talend Open Studio for Data Integration
+63. XTrkCAD Model RR Track Planner
+64. OroCRM
+65. Mondrian
+66. Tiki Wiki CMS Groupware
+67. Gophish
+68. TeXstudio - A LaTeX Editor
+69. ActivityWatch
+70. PDF Split and Merge
+71. SOFA Statistics
+72. wikidPad
+73. Adobe Indesign Calendar Wizard
+74. Group Office groupware and CRM
+75. webERP Accounting & Business Management
+76. CiviCRM
+77. Meeting Room Booking System
+78. TexMaths
+79. FrontAccounting
+80. Yaoqiang BPMN Editor
+81. Notes
+82. ADempiere ERP Business Suite
+83. vym - view your mind
+84. EtherCalc
+85. Collabtive
+86. A Java library for reading/writing Excel
+87. cpuminer
+88. Standard Notes
+89. RedNotebook
+90. A set of linguistics tools
+91. XMind
+92. Windows X App Remover
+93. ]project-open[ - Project Server
+94. OpenLP - Free Church Worship Software
+95. Zenoss Community Edition
+96. FET- Free timetabling software
+97. PHP-ExcelReader
+98. Pdf Split and Merge with Bookmark Import
+99. qdPM - Web-Based Project Management Tool
+100. Open Source Point of Sale
+101. ART
+102. The LaTeX Beamer Class
+103. STAMP: Subtitling Add-In for PowerPoint
+104. Buddi
+105. Universal Password Manager
+106. CoGrOO: Open|LibreOffice Grammar Checker
+107. TeemIp - IPAM and DDI solution
+108. Joget Workflow
+109. Compiere ERP + CRM Business Solution
+110. PHP Address Book
+111. Ginkgo CADx
+112. RunaWFE Free
+113. Barman for PostgreSQL
+114. WeBid - auction script
+115. Rukovoditel - Project Management/CRM
+116. CuteReport
+117. WordPerfect Document importer
+118. Orthos
+119. VIENNA Advantage (ERP CRM DMS)
+120. OpenZ ERP
+121. OpenXava
+122. SalesPlatform Vtiger CRM Russian
+123. JODConverter
+124. NagiosQL - Nagios configuration tool
+125. Asterisk GUI client, VICIdial
+126. Mifos - Microfinance Open Source
+127. oreka
+128. TWiki Enterprise Collaboration Platform
+129. openMAINT
+130. openCRX - Enterprise Class CRM
+131. Pentaho Reporting
+132. Libertya ERP
+133. Zentyal, Linux Small Business Server
+134. QuickFIX
+135. oStorybook
+136. Java CSV Library
+137. Kaldin | Online examination software
+138. QtRPT
+139. KMyMoney
+140. Barcode4J
+141. Qt Bitcoin Trader
+142. i-doit - Open Source CMDB & ITSM Tool
+143. osFinancials Accounting Software
+144. KLatexFormula
+145. QuickFIX/J - Open Source Java FIX Engine
+146. eBrigade
+147. iText®, a JAVA PDF library
+148. openBaraza HCM HR Payroll
+149. TimeTrex Time and Attendance
+150. EspoCRM - Open Source CRM
+151. Open-School Community Edition
+152. jGnash
+153. PortableSigner
+154. SO Planning
+155. DataCleaner
+156. OpenDocMan
+157. OpenSearchServer search engine
+158. BlueSpice free
+159. Snowplow Analytics
+160. Tungsten Replicator
+161. Open Tax Solver
+162. EclipseTrader
+163. Rachota
+164. SimpleHRM
+165. Minsky
+166. SuiteCRM
+167. EasyHotspot
+168. Mibew Messenger 3
+169. xlsLib
+170. SymmetricDS
+171. PdfJumbler
+172. EPESI - Business Information Manager
+173. SmartPOS /Point of Sale Web with ERP
+174. ReportServer Community Edition
+175. JasperStarter
+176. POSper
+177. Sentrifugo Open source HRMS
+178. Writer2LaTeX
+179. Open Dicom Viewer
+180. mendelson AS2
+181. File Master
+182. Magnolia CMS
+183. StatSVN
+184. LimeReport
+185. aplikasi kasir gratis
+186. q4wine
+187. RepairsLab
+188. EqualX
+189. Fakturama - Invoicing Made Easy
+190. Jacksum
+191. JStock - Free Stock Market Software
+192. Kwok Information Server
+193. WebCalendar
+194. Binary(doc,xls,ppt) to OpenXMLTranslator
+195. Gammu
+196. MPXJ
+197. GloboNote
+198. PHP Timeclock
+199. jBilling
+200. Excel Writer
+201. GTD-Free
+202. Bitcoin
+203. OTA Hotel Management
+204. WIFE - Prowide Core
+205. Calc2LaTeX
+206. SuiteCRM translations
+207. Magmi
+208. ICE Hrm - Human Resource Management
+209. AbiWord
+210. LetoDMS
+211. myWMS: Warehouse Management System
+212. Rapid ERP Development
+213. DataMatrix.net
+214. Finanx 12c
+215. Chart Geany
+216. myAgilePomodoro
+217. Bots open source edi translator
+218. Barbecue - Java barcode generator
+219. Speed Reader Enhanced
+220. opentaps open source ERP+CRM
+221. School Software
+222. ProjectForge
+223. MinPOS
+224. ATTendee Biometric Attendance Solution
+225. Piggydb
+226. SportsTracker
+227. CMDBuild - CMDB for IT Asset Management
+228. X2CRM
+229. bitfarm-Archiv Document Management - DMS
+230. Open Source ERP/Groupware/SBS
+231. Simple PHP Agenda
+232. Restaurant Script (PizzaInn_Project)
+233. Yapbam
+234. Free Online Mindmap - MindMup
+235. LotusNotes-Google Calendar Synchronizer
+236. XML2CSV Spreadsheet Converter
+237. Rapla, resource scheduling
+238. WoaS - Wiki on a Stick
+239. Rifidi - Connect the Internet of Things
+240. NConf - Enterprise Nagios configurator
+241. docx2txt
+242. Kimai - Time Tracking Software
+243. BIRT Report Designer
+244. SQL-Ledger
+245. GNU Health
+246. PEEL Shopping : eCommerce shopping cart
+247. CloverDX
+248. qaManager
+249. Magstripper
+250. webTareas
+251. TemaTres: controlled vocabulary server
+252. QuantLib
+253. SciPlore MindMapping (FreeMind Scholar)
+254. Mantaray
+255. Talend Open Studio for MDM
+256. Chikitsa
+257. Yaoqiang XPDL Editor
+258. Russian localization for Bugzilla
+259. Your online shop
+260. Grocery List
+261. Owl Intranet Knowledgebase
+262. SaltOS
+263. Cyclos
+264. GCO Smile Odonto
+265. OpenReports
+266. Zurmo Open Source CRM
+267. Talend Open Studio for ESB
+268. OneCMDB
+269. OpenPPM
+270. Open Source MLM Software
+271. PhreeBooks ERP / Accounting
+272. ECG Logger
+273. Bugzilla en español
+274. Exponent CMS
+275. PrestaShop e-Commerce Solution
+276. Foswiki
+277. KDE Pim/Platform-independent
+278. JOrtho - Java Orthography Checker
+279. bflow* Toolbox
+280. phpb2b
+281. SimpleXlsxWriter
+282. University Timetabling
+283. JTrac
+284. JDavide
+285. THIRRA Electronic Health Records Systems
+286. phpCollab
+287. iCal4j
+288. jBPM
+289. WebGUI
+290. Plandora Project Management
+291. PDF Forms Designer
+292. pbboard
+293. Mibew Messenger 1.x
+294. Hypersocket VPN
+295. Agilefant
+296. OpenI: OLAP Data Visualization Plugin
+297. TimeSlotTracker
+298. Outlook LookForDuplicates
+299. NumericalChameleon
+300. NovaCoin
+301. CalemEAM - Open Source EAM/CMMS
+302. Support Incident Tracker
+303. Agua Gest - Gestionale Aziendale php
+304. Simple PHP Polling System
+305. BSF4ooRexx
+306. pin 'em up
+307. aNimble Platform
+308. JFire - Free ERP & Trading Platform
+309. JAMWiki
+310. GAzie - Gestione Aziendale
+311. PHPlot
+312. MindForger
+313. SCRIBA eBook Maker
+314. Fleetco - Fleet Maintenance Management
+315. Onepoint Project
+316. Animal Shelter Manager
+317. GeoKettle
+318. JODReports
+319. PDF split by bookmarks
+320. qGo
+321. Web KeePass Password Safe
+322. ResCarta
+323. Ahp Software
+324. Kordil EDMS
+325. iTrade - Trading and Charting System
+326. Smart Restaurant
+327. Aubit 4GL
+328. PHPRtfLite
+329. Activa for Asterisk
+330. AccessODF
+331. SoapUI
+332. Redmine-Mylyn Connector
+333. Xendra
+334. jPOS
+335. web2Project
+336. Premium Markets
+337. Elixir Aid Hospital Management Software
+338. TEMS -Time and Expense Management System
+339. OpenUnderwriter (Insurance Distribution)
+340. OpenPatientOS
+341. WebCollab
+342. 4WS.Platform
+343. StrongKey CryptoEngine
+344. Visitor ID Management System
+345. Priority Estimation Tool (AHP)
+346. CommonThief MSR
+347. Asset Tracker
+348. Coinbase Pro Desktop
+349. MonoCalendar
+350. SalonERP
+351. disser
+352. My Simple LogBook
+353. Commander4j
+354. easyrec
+355. openQRM - Cloud Computing Platform
+356. posapp
+357. Encrypted Notepad
+358. simpleinvoices
+359. MindTouch (frmly deki wiki)
+360. todoyu
+361. Free Dean's Office for MOODLE
+362. S.A.F.E. Open Source Microfinance Suite
+363. GlobalSight
+364. PyTZ - Python Time Zone Library
+365. csv2odf
+366. OCR-A font
+367. Invoicex
+368. EasyChart
+369. Hypernomicon
+370. OpenPetra
+371. Finance::Quote
+372. Free Academic Timetable Software
+373. DCP Setup Maker
+374. NASH OS
+375. Portofino
+376. Corporate Bullshit Generator
+377. JPivot - a JSP based OLAP client
+378. bugzilla-de
+379. PHD Help Desk
+380. AAC
+381. Metl ETL Data Integration
+382. NeoBill
+383. KADOS
+384. openTimetool
+385. Jreepad - Java Treepad Editor
+386. FreeMedForms
+387. PS_View
+388. BarBara Barcode Library
+389. Church Software
+390. ONLYOFFICE Desktop Editors
+391. Free PHP/Codeigniter Expense Manager
+392. HotelDruid
+393. Hospital Manager
+394. ADaMSoft
+395. Neogia
+396. CleverPsych
+397. OpenOffice.org Romanian Localization
+398. JFS Accounting
+399. Club member administration
+400. VectPDF
+401. Applewood Computers Accounting System
+402. MindRaider
+403. Akaunting
+404. Bulgarian language support
+405. PHP iAddressBook
+406. JaCoP
+407. free Weighbridge Software
+408. openwms.org
+409. Freedom ERP
+410. Reverse Snowflake Joins
+411. jCandle Chart Analysis
+412. Excel Writer (XML) for PHP
+413. jAllinOne ERP/CRM/Mobile/eCommerce
+414. allocPSA
+415. openBaraza
+416. Report Builder
+417. TeamPass
+418. Ada PDF Writer
+419. ALEX Personal Knowledge Base
+420. Ohioedge CRM + BPM Server
+421. DIY Book Scanner Image Postprocessor
+422. Overactive Logistics
+423. WorldVistA EHR
+424. KETL
+425. timeEdition time tracker
+426. BitCrazy's Faucet-in-a-Box Mod
+427. JConvert - Unit Conversion (Java based)
+428. Tekir
+429. DaReManager
+430. jGnucashLib
+431. Teamcenter Admin View
+432. EZPunch Standard
+433. phpABook
+434. Free Queue Manager
+435. Excel to PowerPoint
+436. Course Registration Management System
+437. Prime
+438. Zimbra Collaboration Suite
+439. ISP Control Panel
+440. iteraplan
+441. BlockNote
+442. Courier Management System
+443. Brim
+444. Buddi Plugins
+445. Active Intelligence Server
+446. Human Flow HRMS
+447. Stock Manager express
+448. PrimeCMDB
+449. Tudu Lists (a Spring application)
+450. Fingerprint Attendance System
+451. BitCrazy's Faucet-in-a-Box Mod
+452. JConvert - Unit Conversion (Java based)
+453. Tekir
+454. DaReManager
+455. jGnucashLib
+456. Teamcenter Admin View
+457. EZPunch Standard
+458. phpABook
+459. Free Queue Manager
+460. Excel to PowerPoint
+461. Course Registration Management System
+462. Prime
+463. Zimbra Collaboration Suite
+464. ISP Control Panel
+465. iteraplan
+466. BlockNote
+467. Courier Management System
+468. Brim
+469. Buddi Plugins
+470. Active Intelligence Server
+471. Human Flow HRMS
+472. Stock Manager express
+473. PrimeCMDB
+474. Tudu Lists (a Spring application)
+475. Fingerprint Attendance System
+476. Gestionale 360 ver.2 open source
+477. Sistema de Inventario Simple con PHP
+478. Lazy8 Ledger
+479. MyT - Project Management
+480. phpRechnung
+481. pyExcelerator
+482. queXS
+483. Sahana disaster management system
+484. CuteFlow
+485. xinco - Document Management System, DMS
+486. Financial Calculator
+487. Monte Carlo Simulations
+488. Repeat
+489. Resource Allocation Planner
+490. ProjectPier
+491. FIX Pusher
+492. Goozzee
+493. MoinMoin
+494. Online Banking
+495. TimeFinder
+496. AShop
+497. csv2vcard
+498. KAON Ontology Framework
+499. AGENCY Software
+500. PDFReporter
+501. PilusCart
+502. queXF
+503. PatientOS
+504. BORG Calendar
+505. Open Classifieds
+506. TeXpen
+507. MYIT CRM
+508. ECK Hotel
+509. vcs-to-ics-calendar-converter
+510. Timesheet Next Gen
+511. GnuLedger - Open Source Web Ledger
+512. MoneyView
+513. OpenERP Brasil VM
+514. ScrumBoard
+515. EDIReader
+516. Null Groupware
+517. DFD Cryptocoin Values
+518. OpenERP
+519. SIMKOPSYAH
+520. Στρατιωτικές Δαπάνες
+521. DDay.iCal - an iCalendar class library
+522. Gestinux
+523. Fortumo & sms payment service script
+524. OBPM
+525. XML Resume Library
+526. Microsoft Patch Tuesday Calendar
+527. Tiny Time Tracker
+528. Free Simple Shop
+529. Grism - A stock market observation tool
+530. Unit Converter
+531. An Open Source Knowledge Base System
+532. Chartsy
+533. OpenLawyer's
+534. TinyERP (Old Project, see OpenERP.COM)
+535. Address Book Express - Contact Manager
+536. Gestão - Gerenciamento Empresarial
+537. JPDF Viewer
+538. Jazzy - Java Spell Check API
+539. OOo Label Templates 1.0
+540. OpenInfo3W ERP CRM GPAO PGI
+541. Rolo
+542. Test Automation ROI Calculator
+543. asterCRM
+544. GroundWork Monitor
+545. Access2Excel
+546. Adawat Arabic Text tools
+547. BRUTUS
+548. XSL-FO Wysiwyg MiniScribus
+549. Cyn.in - Open Source Group Collaboration
+550. ultimix
+551. Cash Flow
+552. GLPI Dashboard
+553. GTD Sync
+554. Merchant of Venice
+555. Online Movie Ticket Booking
+556. ACHViewer
+557. Versatile Maintenance Tracker
+558. Project HQ
+559. Software Process Dashboard
+560. corporatevault
+561. h-inventory
+562. Account Manager
+563. Cafepilot
+564. Ortro
+565. adx - addressbook.xml
+566. phpGroupWare
+567. DB Browser
+568. Free Chart Geany
+569. Orange Project Management Tool
+570. 2D barcode PDF417 library
+571. ARENAS Control Ingresos y Egresos
+572. Jesyre SGQ
+573. Mutasyon
+574. PhPepperShop
+575. PrestaShop FAQ module
+576. Uni-eCart Free Open Source Ecommerce
+577. Cart Boxx
+578. JPview - Java PDF Viewer
+579. Dolibarr timesheet
+580. Laundry Management System
+581. Life Cycle Assessment Spreadsheet
+582. OpenDict
+583. Palo ETL Server
+584. Stock Center
+585. VGS Related Field Generator
+586. ebXML Message Service Handler
+587. sellEbit
+588. BlueERP
+589. Countdown Timers
+590. JavaPOS POStest
+591. MyNotebook
+592. senCille
+593. Job Recruitment system
+594. Calizo
+595. PHProjekt 6
+596. SENAITE
+597. Web-based Asset Tracking System
+598. aplicoop
+599. Leave Application Management System
+600. Zksample2
+601. DiddleBug
+602. Internote
+603. Point and Figure
+604. Pro-Auction-Script
+605. jteklif
+606. Docmenta
+607. Roundcube client-side filters plugin
+608. FacturLinEx
+609. CandidATS
+610. JTimeChooser
+611. My Components' DB
+612. changes
+613. eduTrac Student Information System
+614. Oddjob
+615. Streber - project management
+616. VaultClipse - Vault Plugin for Eclipse
+617. Flesh
+618. Agender
+619. OpenForecast
+620. POS Project
+621. ProM Import Framework
+622. Streamline POS
+623. VoToL
+624. cClearly
+625. pulse - Java web app framework / CMS
+626. ARIA
+627. tellmatic - the newslettermachine
+628. ConsultComm Project Timekeeper
+629. MUIbase
+630. OOoPy
+631. OSSII OxOffice Community Edition
+632. Pentaho5 Change Password
+633. cncerp
+634. eLawOffice.it and eLawManager
+635. Bennu
+636. Financial Supervision Assistant
+637. MyCollab - Project Management Software
+638. ComingNext
+639. hipergate CRM
+640. Allegra Issue Tracker
+641. CGest - Gestão de Condomínios
+642. Coupa e-Procurement
+643. FIX Agora
+644. JLibrary
+645. OpenExpert
+646. Sharp Spark (Spark API SDK)
+647. TRAK Enterprise Architecture Framework
+648. TRAK Viewpoints
+649. Zocalo Prediction Markets
+650. etm: event and task manager
+651. ARIA
+652. tellmatic - the newslettermachine
+653. ConsultComm Project Timekeeper
+654. MUIbase
+655. OOoPy
+656. OSSII OxOffice Community Edition
+657. Pentaho5 Change Password
+658. cncerp
+659. eLawOffice.it and eLawManager
+660. Bennu
+661. Financial Supervision Assistant
+662. MyCollab - Project Management Software
+663. ComingNext
+664. hipergate CRM
+665. Allegra Issue Tracker
+666. CGest - Gestão de Condomínios
+667. Coupa e-Procurement
+668. FIX Agora
+669. JLibrary
+670. OpenExpert
+671. Sharp Spark (Spark API SDK)
+672. TRAK Enterprise Architecture Framework
+673. TRAK Viewpoints
+674. Zocalo Prediction Markets
+675. etm: event and task manager
+676. pdf417_encode
+677. CleverClients
+678. Free Ad Management Script
+679. Gestionale open source 360
+680. Pentaho Plugins
+681. Programmers Calculator
+682. Time_limit
+683. VIKAMINE
+684. beCPG PLM (Product Lifecycle Management)
+685. fileaxy
+686. jdbc4olap
+687. nse-fetch
+688. BSPG, an opensource Balanced Scorecard
+689. MT4 JForex Clients Bridge
+690. CottageMed™ EHR
+691. FreelancerBooks - Project Management
+692. PDF OCR Wrapper
+693. QOwnNotes
+694. SwiftGantt
+695. Table Tennis Tournament Manager
+696. qcadoo MES
+697. OpenGroupware Coils
+698. Scrum-it
+699. xplanner-plus
+700. Memoranda
+701. Ganib | Project Management Software
+702. Aplikasi Toko Gratis
+703. Armenian Spell Checker
+704. Community Food Hub
+705. Designer for Jasper
+706. Koha Stow Extras
+707. LightStopWatch
+708. OpenERP
+709. PDF Guru
+710. PanConvert
+711. PdfTrick
+712. QR Gen
+713. QRab
+714. Talend Data Preparation
+715. TreoPIM
+716. WBS Generator Template - Good Plus Fast
+717. Zeena School Management
+718. dialDTMF
+719. qTrade
+720. xpostit
+721. C-CPP Calendar
+722. AMLFilter
+723. Apatar Data Integration/ETL
+724. The Bug Genie
+725. Interleave
+726. OpenSTAManager
+727. Calcoo - Scientific calculator (java)
+728. DCM4CHEE Java Viewer Lite
+729. EasyDCS
+730. FreeplaneGTD+
+731. Meeting Room Scheduler System
+732. MyBox
+733. OTA Tour Management
+734. OTA Vehicle Management
+735. VGS Hide Banners Ads
+736. Zenta
+737. grandnode
+738. itracker
+739. phPay
+740. vcardsplitter
+741. Bilancio immobili / Budget properties
+742. Complain Management System
+743. Donation Management
+744. EZ-Shop (Open Source e-Commerce site)
+745. Excel HTML Editor Tag
+746. Fastcoin (FST)
+747. HTAKB
+748. ICT Printing Press
+749. IceWM Control Panel
+750. Newton/40Hz Support
+751. Nota - Fatture, Magazzino, Contabilità
+752. PsyPlan - astrology horoscope publisher
+753. QRK Registrier Kasse
+754. Reece Calendar
+755. Simple GTD for Windows or Mac
+756. Son of Service
+757. Web-enabled LETS System
+758. iCalcreator
+759. osCSS E-Commerce Shopping Cart
+760. OpenOffice Addon for SugarCRM
+761. PHPWPos
+762. Pines
+763. zenTrack - no longer active
+764. Anahaw Open Payroll System
+765. Bias :: Versatile Information Manager
+766. Daidze POS
+767. DocumentBurster
+768. EnyWare
+769. OutBoard - In/Out Office Board
+770. SCaVis
+771. reportico_ci
+772. dBASE Reader and Converter
+773. Aware.MPS
+774. Classroom Scheduler
+775. Collabry
+776. Commander4j Middleware
+777. GemsTracker
+778. IlohaMail
+779. Kanbanara
+780. MD PnP | OpenICE
+781. OptionMatrix
+782. PDesk
+783. PanDocElectron
+784. Progetto e3g/GestiGAS
+785. QIF Converter
+786. RMA mapos
+787. SOMAP.org
+788. ShelterOps
+789. Time Logging System
+790. a web base hrm system,use java, tapestry
+791. edival EDI Parsing & Validation Library
+792. faves-ERP Manufacturing
+793. library management system
+794. JadaSite
+795. Llama Alarm Clock
+796. Symbiose (webos)
+797. jNFe - Java NFe
+798. uEngine BPM
+799. VirtueMart
+800. SimpleInvoicer 2.0
+801. AffiliatesForAll
+802. Angosso
+803. Expense Submittal System
+804. GETL
+805. GridSheet
+806. MLM Downline Simulator HD ➤ SWF
+807. Medical Lab Information System Software
+808. OpenDocumentPHP
+809. Oreste-vet
+810. SPos
+811. Scipio ERP
+812. SiGeFi
+813. Sinekarta Protocollo Informatico
+814. To-Do-O
+815. openXpertya solución empresarial global
+816. phpDHCPAdmin
+817. pocOLAP - the little OLAP project
+818. ASTRES
+819. SAE - Agenda Electronica
+820. SecretManager
+821. XLLoop
+822. cult
+823. Banta
+824. Binary Options Trading Station
+825. Bookient
+826. BulmaGes, Gestión Empresarial Libre
+827. Business Manager
+828. Cisco IP Telephony Services
+829. Civi Data Integration
+830. DCTViewer
+831. ERPJewels Baan 2 Excel
+832. Java to SpreadsheetML
+833. Microsoft Project Viewer
+834. OASIS
+835. Restaurante Petit Gateau
+836. SICONAS
+837. Tailor Manager
+838. Virtual TI Pro
+839. inventory
+840. ordersystem
+841. المحاسب السريع
+842. Angosso
+843. DataVision
+844. Hotel Management Information System
+845. Open Java Trading System
+846. phpBMS
+847. AIStockBot
+848. Adam
+849. AikSaurus
+850. Blue Mirror DVD/CD Indexer
+851. British English thesaurus - th_en_GB
+852. COBOL Data Definitions
+853. Clicks`n`Bricks
+854. Compiere ERP-CRM on Oracle XE
+855. Control y gestion de Servicio tecnico
+856. Crossword Designer
+857. DayBook
+858. EasyInvoice
+859. Ethiopica Calendar
+860. FOXopen
+861. Front Desk Hotel Booking Manager
+862. JMoney
+863. Jack LIRE (Linked Record)
+864. Java Application Framework For All
+865. Java Small Business Platform
+866. Kuto
+867. MaarchRM
+868. Module barcode generator
+869. Oasi - Open Document Speaker
+870. OpenOLAP for MySQL
+871. Openia CRM virtual appliance - Openbravo
+872. PHP Report
+873. POM
+874. PUMA Repository
+875. SCRUM Planning Poker
+876. SimplePDF
+877. Viva Visitor & Volunteer ID tracking
+878. Web Auction
+879. Webiness Inventory
+880. Zen Cart German
+881. doc2pdf
+882. jFin
+883. more.groupware
+884. ods-php
+885. omegat-timetracker
+886. phpGroupWare Apps
+887. OpenL Tablets
+888. ACal Web Calendar
+889. Barcode Warehousing System
+890. Ivan's Accounting Tools
+891. PHPBounce
+892. Precurio Intranet Portal (v2) [UPDATE]
+893. TCO-Tool
+894. TRAK Metamodel
+895. dsBudget
+896. jHelpDesk
+897. Homeo Medica
+898. HumHub - Social Network Kit
+899. StakePoint
+900. Birthday reminder
+901. Constellio Enterprise Search engine
+902. Fork of Letodms V2.02
+903. Hospital Schedule for Thai Healthcare.
+904. JIRA Workflow Toolbox
+905. Locanda
+906. Nomad PIM
+907. OpenBiz Project
+908. RoutePlanner
+909. SimpleODS
+910. Squash TM
+911. Students Voting System
+912. Total Shop UK eCommerce
+913. Web Heijunka-Kanban
+914. biblatex-gost
+915. etmTk
+916. excel2mysql
+917. eyeOS Update-Pack
+918. rotki
+919. vTiger Freeswitch PBX Integration NYFON
+920. Redcase
+921. UPC Database
+922. Address Book Converter
+923. Auto-Keyboard
+924. Barcode Generator & Scanner Reader
+925. Bidwatcher
+926. Book Travel
+927. Cloudapp
+928. Compiere MFG + SCM (Manufacturing)
+929. CoreMan
+930. Crack&Pack
+931. Curl Lib
+932. DFD Crypto Ticker
+933. EBView
+934. EnerConso
+935. Freeway
+936. InterMap - web ArcIMS and WMS client
+937. Kardia
+938. LABE - LDAP Address Book Editor
+939. LaTeX Table Creator
+940. Lokad Demand & Sales Forecasting
+941. Modeling software including Archimate
+942. MyOCR
+943. NorfelloCMMS
+944. OWBLand (Oracle Warehouse Builder Land)
+945. Personal Reminder 3.0
+946. Python Checkbook Manager
+947. QASreport
+948. QFutureBuilder
+949. Saloon
+950. Servis Takip
+951. SpringSide
+952. TAO Translator
+953. Todoyu-PHP7.x
+954. Visual Event
+955. WaypointHR
+956. Web-based Business Accounting and ERP
+957. Wisp-Basic
+958. Yoxel Systems
+959. altuhov.su's open source projects
+960. bootf2BCA
+961. eResource Scheduler
+962. prayer time software
+963. sCal and sCal2
+964. saCASH
+965. stan
+966. tpl
+967. Endeavour Agile ALM
+968. Issue Tracker
+969. PHP Volunteer Management
+970. ea-geier
+971. robotrader
+972. FGMP - Hotel Management
+973. Vm Invoice Manager
+974. CentraView - Business Management and CRM
+975. DAViCal CalDAV & CardDAV Server
+976. JBoss Nagios Integration
+977. JTL Mage Connect
+978. phpDomainRegister
+979. DCTM DQL / API
+980. 911 Call Tracker
+981. API dla VAT, GUS, REGON, CEIDG, VIES
+982. Agenda y Reservacion de Citas
+983. BestBooks Accounting Framework
+984. Check Register
+985. CleanSheets
+986. Expr4J
+987. HL7 Toolkit
+988. Hypernotes
+989. ISPBill
+990. JPdfCompressor
+991. JRC QSAR Model Database
+992. Key-med
+993. KwaMoja
+994. LabLux
+995. Latvian Lingucomponents for OpenOffice
+996. Magento Quality Management System
+997. Mavscript
+998. Millennium OS
+999. Minutes2Tasks
+1000. NCMoney
+1001. NexTick (Stock Trading Made Easy)
+1002. Oci.Athena
+1003. Open Source Enterprise
+1004. PHP-Calendar
+1005. Perl/Tk Tools
+1006. Pet Grooming Management System
+1007. Pomodoro Time Manager
+1008. Query Chinese Stock
+1009. SF-Alarm-Clock
+1010. SIGAFS
+1011. Sigma TSI
+1012. TRURL
+1013. Team Builder-Java
+1014. The B2B eCommerce Project
+1015. The Writer's Workbench
+1016. UGM Inventory System
+1017. Web Tech Tools
+1018. ZuluPad
+1019. almalert
+1020. clavier virtuel japonais
+1021. eBag
+1022. eEÜR mini Buchhaltung mit LibreOffice
+1023. jWorkSheet
+1024. medintux
+1025. ocr2data
+1026. online store
+1027. opencart POS (point of sale) STD Demo
+1028. phpMyOLAP
+1029. simproj
+1030. vDrive
+1031. Bulk Newsletter Mailer (BNM)
+1032. Compiere Web ZK
+1033. Scrinch
+1034. FireScrum
+1035. LynxHD
+1036. Evaristo
+1037. XRMS CRM
+1038. AccountANT
+1039. Civilizer
+1040. Cryptographic
+1041. DiegoInventoryCE
+1042. Eiche Hotel
+1043. Excel Reader (xlreader)
+1044. Hippo CMS
+1045. Hoster
+1046. ICT-Alive
+1047. ITLPoll System
+1048. JBELT : link your design to the business
+1049. JProjectTimer
+1050. JTTSlite
+1051. Jahia Digital Experience Manager
+1052. Java Batch Job Framework
+1053. Java Calendar Tools
+1054. MyHelpdesk
+1055. OpenSymphony
+1056. PayPal Pro for WooCommerce
+1057. PinoyPHP Mail WebMail Client
+1058. Planner
+1059. PlanningRH
+1060. Prolawyer
+1061. Punch Clock
+1062. Quex
+1063. SpagoBI
+1064. Very Quick Wiki
+1065. Waterloo
+1066. Wiki in a Jar
+1067. XLWrap
+1068. cConverter
+1069. openDMS
+1070. vzic
+1071. weberp-responsive-with-HR
+1072. xBASE Converter
+1073. xartnote
+1074. AnyTM
+1075. EHRflex
+1076. EXcompCEL
+1077. Tribix - Extended Emitters for BIRT
+1078. Solunas Hotel Booking Engine
+1079. mpp-viewer
+1080. Rubik
+1081. Warehouse Manager
+1082. 2-plan Team
+1083. ASP.NET PDF Viewer by GroupDocs
+1084. Asterisk CDR import
+1085. BTS: Barcode Ticket System
+1086. BlueWriter - Java RTF Editor
+1087. CDAY Calendar Almanac
+1088. CSV2QIF
+1089. Client Manager
+1090. CollabOffice
+1091. Compare Database Table Data
+1092. Computer Aided Disaster Management
+1093. Daffodil CRM
+1094. DataPall Palliative Care EMR
+1095. Database Web Admin
+1096. EDI4J
+1097. ERBS
+1098. Easy Site Install
+1099. EasyInvoice
+1100. EekBoek
+1101. Employee Scheduling System
+1102. Exchange rates display software
+1103. Foodsoft
+1104. FreeCoins
+1105. FreePHPShoppingCartSoftware
+1106. FrontHrm
+1107. GNU-BMEcat Generation Tool
+1108. Gnujiko 10.1 - Software gestionale
+1109. GoldenGate
+1110. Homebase
+1111. JBarcodeBean barcode JavaBeans component
+1112. JCash
+1113. JPEd
+1114. JaLingo
+1115. Java Business Accounting API
+1116. JoPro
+1117. LATRIX
+1118. LaTeX Track Changes
+1119. LazyCure
+1120. Letter Generator
+1121. Lucane Groupware
+1122. Maintenance Log
+1123. Mantis Helpdesk
+1124. Money Manager Ex - WebApp
+1125. My Task Scheduler - v1.0
+1126. NCron – .NET scheduling service
+1127. Notalon
+1128. ORNIWARE - Ornitologia Digital
+1129. Office2fO
+1130. Olap Mapper
+1131. Onix ERP/CRM
+1132. Open Blackboard System
+1133. Open ERP - Software Solution for all
+1134. Open SayGes
+1135. Open-MQ
+1136. OpenAviation
+1137. OpenSync
+1138. Openbravo POS Swedish Edition
+1139. Openlogistics
+1140. Oracle ExcelDocumentType
+1141. Oropuro trading system
+1142. OzCode
+1143. PHP Ledger
+1144. PHP Time Tracker
+1145. PHPawn
+1146. ProtoIn&Out
+1147. QPdfPresenterConsole
+1148. QR Code Generator by Aspose.BarCode
+1149. R-TAS
+1150. ReportLab
+1151. SAP XI/PI HTTP Client
+1152. SCID
+1153. SelfServiceADReset
+1154. SourceTap CRM
+1155. Spatial Knowledge Base
+1156. SpeeDealing ERP & CRM
+1157. State Space Models
+1158. TEXT2DATA
+1159. TS Client
+1160. TagCentric
+1161. Task Manager
+1162. TempusWiki
+1163. TheoPlan
+1164. Translator's Tools
+1165. TtH
+1166. TuxBank
+1167. Vue CRUD
+1168. WebPortal-Intranet System
+1169. Website for Real Estate - Installer
+1170. XFlow
+1171. Yaoqiang XPDL Model
+1172. Yerase's TNEF Stream Reader
+1173. ZK Spreadsheet
+1174. Zaurus Synchronization Repository
+1175. a2z - Web-based address book
+1176. church secretary
+1177. e-school
+1178. encuestame web survey tool
+1179. evidences2
+1180. faceCart e-commerce AJAX shopping cart
+1181. iSalePoint
+1182. illness index
+1183. jFox Journal
+1184. jdbc4sapnw
+1185. nature CRM
+1186. pdd
+1187. phimatex
+1188. phptodolist
+1189. soho-account
+1190. ssview
+1191. työvuorolista
+1192. Active Agenda
+1193. |es|f| esniper frontend
+1194. Adele
+1195. Adempiere Chart of Accounts Editor
+1196. Broadleaf Commerce
+1197. DashBo↗v
+1198. Evrak Takip Programı
+1199. HPCC Systems
+1200. JNP Timer for Desktops and Laptops
+1201. OpenOffice.org Chemistry
+1202. Personal Financier
+1203. Prestashop Rating Review+Google Snippets
+1204. Prestashop-Order-Management-Module
+1205. SBVR Visual Editor
+1206. Survey Portlet
+1207. Timesheet
+1208. Ulbora CMS
+1209. Up the Sync
+1210. Veettukaaran
+1211. clearBudget
+1212. eTraxis
+1213. openBaraza Business
+1214. pdf2oo
+1215. pyx12
+1216. web2project-modules
+1217. DayCare Facility Management Tool
+1218. Employee Scheduler
+1219. cPanel / WHM Plugins and Addons
+1220. OpenPro
+1221. ABL_xls.i
+1222. ADVANCE
+1223. ANKIT CRM V1.2
+1224. APEX Time Management System
+1225. Activity Tracker
+1226. Advocate Case Management
+1227. AircraftScheduling
+1228. Antares DSM
+1229. App Manager
+1230. Appointment Keeper
+1231. Auction Mage
+1232. BEXPSD
+1233. BSPlanner
+1234. Batchput
+1235. Business Continuity Visualization Tool
+1236. C.A.T. (Customer Administration Tool)
+1237. CARLOS
+1238. CSC Calendar
+1239. CSV Data Mix
+1240. Call Generator for Avaya
+1241. Cart
+1242. CentraView - european version
+1243. Checkbook Register Online
+1244. Cheque Marker
+1245. Citrus Database
+1246. Compiere Garment ERP
+1247. Conflux data collection suite
+1248. Currency Converter 1.0
+1249. Customer Touch CRM
+1250. DaReport
+1251. DeviceCal
+1252. Duklan
+1253. EMERGY SIMULATOR
+1254. Electris Payroll
+1255. Envelop (Risk and Audits software)
+1256. Excel Calendar
+1257. Excel file analysis toolkit
+1258. ExoticCAD
+1259. EzyBiz
+1260. Farmr Pro
+1261. Finding Minimum Cost Of Daily Menu
+1262. Free and Open Source Templates (FOST)
+1263. FreeDEM
+1264. FreePay
+1265. GLPI WebServices
+1266. GNU BIS
+1267. GPL Pagamento Digital
+1268. GSM Locator
+1269. Gadget Indice Bovespa
+1270. General Ledger
+1271. Generate dynamic PDF from XPF files
+1272. GestURC
+1273. HIP Medical Receivables
+1274. HaveClip
+1275. Hishab POS
+1276. Human Capital
+1277. Humano2
+1278. ICalc
+1279. IPDR.org
+1280. ISP-Support
+1281. InflationCoin (IFLT)
+1282. Info Agenda
+1283. JDette
+1284. JFlightLog-Pilot Log Book Flight Logbook
+1285. JFormatSwitch
+1286. JKtoCheck
+1287. Jacqueline FTP
+1288. Java Library Management System
+1289. JavaSheet
+1290. KKU Thesis LaTeX Class
+1291. LaTeX Reference Card Creator
+1292. LaTeX Web Publisher
+1293. Life Organizer
+1294. M. Vezelis Draw
+1295. MC Freelancer Manager
+1296. MFLib
+1297. MICR Tools
+1298. MPMA LibreOffice Addon
+1299. MR Date Converter
+1300. MYSQL CSV Barcode Scanner Web App
+1301. MacroWriter
+1302. Memento
+1303. MicroCalc
+1304. MoneyStats
+1305. MoneyTrack
+1306. ND+ - Natural Docs Plus
+1307. NMail
+1308. Nubage - Expenses Calculator
+1309. OTA Golf Management
+1310. OXID eShop
+1311. Oberon PLM
+1312. Omega Base
+1313. Online Auction System
+1314. OoOfficeAutomation
+1315. Open E-Business Framework
+1316. Open Rentstock
+1317. Open Source Health Information Platform
+1318. Open Workbench Booster
+1319. OpenBusinessNetwork
+1320. OpenEMR Mobile
+1321. OpenOps
+1322. OpenSource-CMDB
+1323. PARSEC CEE
+1324. PHP-EinnahmenAusgaben
+1325. PalmSecure
+1326. PhocaCart
+1327. PhpGdStock : Gestion des stocks
+1328. PhpVitae
+1329. PowerStone
+1330. Pretty Damn Quick Queueing Model Package
+1331. Projeto ERP e CRM Jornada
+1332. Promet-ERP
+1333. Python Calendar Modules
+1334. Quality Complaint Management System
+1335. Quantifa
+1336. RESTful Perl ERP Framework
+1337. Rental Manager
+1338. Report Engine
+1339. Reserva de Salas
+1340. RightHandHydratation
+1341. Rlite
+1342. RyA ERP
+1343. SMI (Services Maintenance Interventions)
+1344. Shared Questionnaire System
+1345. Silicolife
+1346. Simple Javascript Spreadsheet
+1347. SimpleAssets
+1348. Starprise Indonesia ERP
+1349. Startup Helper
+1350. Sterlingcoin
+1351. Stochastico
+1352. Stock Scraper
+1353. Stock Tracker
+1354. SuiteFlex
+1355. Tamil Calendar for GNOME and KDE Desktop
+1356. Texinfo Web Publisher
+1357. Text-checking API for Java
+1358. The DIRECTORY
+1359. The XE Toolkit
+1360. TimeSheet
+1361. Unified Web Production Template
+1362. Verleihsystem
+1363. Virtucoll Virtual Learning Environment
+1364. Volunteer workshift scheduler
+1365. Web Agency Website Builder
+1366. WebDex
+1367. Wifi Survey
+1368. XDB3-DARC
+1369. abanq.sourceforge.net
+1370. affiliate management script
+1371. b2bsuite
+1372. bitquant
+1373. c-y-a project manager
+1374. dataPumper
+1375. eOfficeWare
+1376. eclime E-Commerce Jet Engine
+1377. gesmon
+1378. iFlux
+1379. java issue tracker
+1380. myBiz
+1381. obsched
+1382. persian-calendar
+1383. phonedb - A phone book database web app.
+1384. phpYABS: Yet Another Book Software
+1385. toPDF
+1386. trauma-registry
+1387. vpnuke
+1388. xale
+1389. xy-pic
+1390. Hotel Booking Portal
+1391. AgilPro
+1392. Amix
+1393. AnJelica
+1394. Aperte Workflow
+1395. Autshumato
+1396. Blood Bank
+1397. BuddySpace Jabber Client
+1398. Bug Tracker: OpenProjectManager.com
+1399. COSMOS
+1400. Calc Mosaic
+1401. Class Schedule Generator
+1402. ComUnion ERP
+1403. ConvArt
+1404. DJ Admin
+1405. Document Management System for Law Firms
+1406. EBMPICO
+1407. EPROC
+1408. Encapsulated PostScript Clip Art Library
+1409. Fred
+1410. Gardenia
+1411. Gateway Anti-Virus
+1412. Helpzilla :: Got Help ?
+1413. IRADIA
+1414. Idea Futures Prediction Market
+1415. Inline XBRL Extractor
+1416. Itilect FTP Proxy
+1417. JStoxx
+1418. KORAIS
+1419. Keen CRM/ERP
+1420. Lazy File Sorter
+1421. LeanPM
+1422. LetoLMS (formerly Paidei)
+1423. Liberum Help Desk
+1424. Matrex
+1425. My Irish Pub - Easy, Fast &amp;amp; Free
+1426. Office Manager
+1427. Open Enterprise
+1428. Open java swing spreadsheet
+1429. OpenDataBag
+1430. OpenFBO
+1431. OpenOffice.org Utility Library
+1432. Opentaps - Tally Integration
+1433. Org Charts for OrangeHRM
+1434. PHP QuickBooks IIF Viewer/Converter
+1435. Payment Gateway for Consorzio Triveneto
+1436. PekiLine Dictionary
+1437. PresentationClock
+1438. Procentro
+1439. Projectivity
+1440. Race Entry System
+1441. RadioActive 2010
+1442. Res Medicinae
+1443. Restful APIs for Data Cleansing
+1444. SONG BR
+1445. Silverlight Barcode Software
+1446. Simple Inventory Manager
+1447. SimpleVault Password Manager
+1448. TRUC - Tracking Requirements & Use Cases
+1449. Technical indicators in Python
+1450. The Daisy CMS project
+1451. Timers
+1452. TinyDMS
+1453. Trading Strategy Runner
+1454. Transcraft My Accountant
+1455. Value
+1456. Vermis
+1457. VrmlStudio
+1458. WebImanager
+1459. WebNumbers
+1460. XPlanner
+1461. YAWIK
+1462. bimserver.org
+1463. closedShop - Open Source Shopping
+1464. eCanteen
+1465. glossary project
+1466. iRPMS-EHR
+1467. intelligent thinking system solving
+1468. joytask
+1469. note taking simplified
+1470. opensMod
+1471. pymeGNU
+1472. simple e-document
+1473. stockhub
+1474. vacation scheduler
+1475. zAurum: digital money interface tools
+1476. GLPI Helpdeskrating
+1477. Web-based SQuirreL SQL Client
+1478. Mercator, Java Point of Sale
+1479. Merchants' Village Consignment POS
+1480. PHP Planner
+1481. QuickOrder
+1482. SureInvoice
+1483. JBidwatcher
+1484. Real Estate - ReOS
+1485. 3F Java Sticky Notes
+1486. 9Gestion Moda
+1487. A.I. Stock Trends With WEKA & TA-Lib
+1488. ADPasswordNotificator
+1489. APEX2EBS
+1490. AROUNDMe collaboration server
+1491. AccSoft
+1492. Accessibi Add-on component of OpenOffice
+1493. Advanced Analysis Services
+1494. Aestel
+1495. AgEx
+1496. Agenda Pro
+1497. Anagrafica parrocchiale EGW
+1498. Analysis
+1499. Application to book for a meeting
+1500. Architecture Company CMS-PHPNuke Module
+1501. Areco Deployment Scripts Manager
+1502. ArgKit
+1503. Asiter
+1504. Auction Dealer
+1505. Auratus
+1506. Aurora PostgreSQL
+1507. AvieOnline LMS
+1508. BInventory
+1509. BMC Atrium CMDB Integrations
+1510. BMC MainView Data Server
+1511. BTHEBookStore
+1512. Batavia XBRL Java Library
+1513. Beanie
+1514. BlueDolmen
+1515. Booking / reservation calendar
+1516. BrainDump
+1517. Budget
+1518. BulkMailer
+1519. COCLICO Petits commerces
+1520. CS-Project
+1521. Cake Calendar
+1522. Calculator++
+1523. Canteen Calandreta
+1524. CaseTracker (Case Management System)
+1525. Cclite
+1526. Celtx to ODT converter
+1527. CemeteryDB
+1528. Cicero Calculator
+1529. CliServ Web Community
+1530. CloverETL
+1531. Codd App CPF
+1532. Commitment of Traders Net Positions
+1533. Compiere Fixed Assets
+1534. Conges : web based vacation management
+1535. Console Blocking For Defa Protector
+1536. Contacts
+1537. Control BioAcceso
+1538. Corona Tracker
+1539. Covered Call Portfolio
+1540. Crispy Synced Notes
+1541. Crud Builder
+1542. CryptoDoctor
+1543. DISA-OSCIMIS
+1544. DNet eBusiness Suite
+1545. DPDLabels
+1546. DS-HPCALC
+1547. Data Manipulator
+1548. DataPlugInForEclipseTrader
+1549. Desktop Calendar
+1550. Diary Management System
+1551. Digaboard
+1552. Docebo ELearning Drupal plugin
+1553. Docebo ELearning Joomla plugin
+1554. Docebo ELearning WordPress Plugin
+1555. Docx to Any
+1556. Double Entry Based Transation System
+1557. Dove - Document Distribution Server
+1558. DropboxMQ
+1559. E-GADS!
+1560. E1
+1561. ECal
+1562. EMMS
+1563. ERS
+1564. ETL Audit
+1565. EasyShop
+1566. EasyStock
+1567. Education Managment School I System
+1568. Equipment
+1569. Ethereum-Decentralized-Application
+1570. EuroBudget, Free Java Accounting Tool
+1571. Excel compare tool
+1572. Expenses
+1573. Expert System Of Intellectual Operations
+1574. FanSelector
+1575. FastFood Simple POS
+1576. FastPres
+1577. Fax Viewer in Python
+1578. Ferzo InSite
+1579. Finasystem
+1580. Fireprint - Web to Print
+1581. Formatting Object Authoring tool
+1582. Free Community Funds
+1583. FreeERP
+1584. FreeMercator, Java POS Point of Sale
+1585. Freelancer tiny ERP
+1586. Freemind Search Plugin
+1587. Funambol Yahoo Plug-in and Connector
+1588. GID_SiRe - Integrated data management
+1589. GIVE ME FREEDOM!
+1590. GOLEM IDMS
+1591. GaTaX
+1592. Gashash
+1593. GeLisp
+1594. GeSoN Gestione Soci
+1595. Generic Address Book
+1596. Gerenciamento Comercial - GECOM
+1597. Ges.Mag.Web
+1598. Give One. Get Two.
+1599. Gmail Todo
+1600. GoogleCalendarBill
+1601. GraphSketch
+1602. GreenVulcano ESB
+1603. Hanzi Recognizer
+1604. HcCash
+1605. Hebcal
+1606. Hermes news portal
+1607. Home Bookkeeping
+1608. Hours Timetracking utility for PalmOS
+1609. INTERNET-3D 1.56
+1610. IVS
+1611. Information TreeView
+1612. Internet Task Management System
+1613. IssueTracker3
+1614. JAVA form and report builder - JRPT
+1615. JCalc - Standard & Scientific Calculator
+1616. JEK (Java Ms Exchange Kit)
+1617. JFontTools
+1618. JGauge Bean
+1619. JInterestRate
+1620. JMagallanes Olap and Report
+1621. JOrgChart
+1622. JREQUISITE - Requirement Management Tool
+1623. JRemindX
+1624. Java Ledger
+1625. Java Point
+1626. Java Portfolio Management Components
+1627. Java Time Series Analyzer
+1628. Java Virtual Keyboard
+1629. Java-Kalender
+1630. JavaPOS POStest 2
+1631. Jeal Paster
+1632. Jeppers
+1633. Job log for factory
+1634. JobManager
+1635. JobMeet
+1636. Latter-day Saint Data Processing System
+1637. Law Office Essentials (formerly LF2)
+1638. Le fil d'Harliane
+1639. LeagueTools
+1640. LedgerSMB
+1641. Leopard CRM
+1642. Library Manager
+1643. Liferay Toolbar
+1644. Light Weight Calendar
+1645. Loaded 7 - Next Generation Shopping Cart
+1646. Lucane Groupware
+1647. MPE Time Management
+1648. Makin' Bakon Typing Tutor
+1649. MallMaze Affiliate System
+1650. ManagerSheet
+1651. MasterInvoice
+1652. MercUsa Software Mercatino
+1653. Merkur's cafe
+1654. Mighty Office - Improving the Flow
+1655. Millennium BSA
+1656. Minibill
+1657. MobileExpenseTracker
+1658. MoreDoc
+1659. Multilingual Accounting
+1660. MvxLib
+1661. My Ciber Admin
+1662. MyMarket
+1663. MyMeeting
+1664. NOLA
+1665. NPS - The Enterprise CMS for websites
+1666. NRV
+1667. Nalasys
+1668. Net-Billetterie
+1669. NetworX-Non-Profit, Social Community
+1670. ODF Easy
+1671. ORS - On-line Resource Scheduler
+1672. OS Optiek
+1673. OSM - Open Service Manager
+1674. Object Introspection Library for C++
+1675. Occay! RPN Desktop Calculator
+1676. MasterInvoice
+1677. MercUsa Software Mercatino
+1678. Merkur's cafe
+1679. Mighty Office - Improving the Flow
+1680. Millennium BSA
+1681. Minibill
+1682. MobileExpenseTracker
+1683. MoreDoc
+1684. Multilingual Accounting
+1685. MvxLib
+1686. My Ciber Admin
+1687. MyMarket
+1688. MyMeeting
+1689. NOLA
+1690. NPS - The Enterprise CMS for websites
+1691. NRV
+1692. Nalasys
+1693. Net-Billetterie
+1694. NetworX-Non-Profit, Social Community
+1695. ODF Easy
+1696. ORS - On-line Resource Scheduler
+1697. OS Optiek
+1698. OSM - Open Service Manager
+1699. Object Introspection Library for C++
+1700. Occay! RPN Desktop Calculator
+1701. MasterInvoice
+1702. MercUsa Software Mercatino
+1703. Merkur's cafe
+1704. Mighty Office - Improving the Flow
+1705. Millennium BSA
+1706. Minibill
+1707. MobileExpenseTracker
+1708. MoreDoc
+1709. Multilingual Accounting
+1710. MvxLib
+1711. My Ciber Admin
+1712. MyMarket
+1713. MyMeeting
+1714. NOLA
+1715. NPS - The Enterprise CMS for websites
+1716. NRV
+1717. Nalasys
+1718. Net-Billetterie
+1719. NetworX-Non-Profit, Social Community
+1720. ODF Easy
+1721. ORS - On-line Resource Scheduler
+1722. OS Optiek
+1723. OSM - Open Service Manager
+1724. Object Introspection Library for C++
+1725. Occay! RPN Desktop Calculator
+1726. OnMyMeans
+1727. Open Accounting
+1728. Open Door Logistics
+1729. Open Function Point Calculator
+1730. Open Investment Data
+1731. Open Process Handbook
+1732. Open Source HELD Client and LIS
+1733. OpenBlueLab.org
+1734. OpenCVtheque
+1735. OpenFakt
+1736. OpenField
+1737. OpenRegistration
+1738. Orange Effort Estimation Tool
+1739. OrderReg - PalmPilot Cash Register
+1740. P2P swapEcash
+1741. PDFReporter Studio
+1742. PHP Animal Shelter Management System
+1743. PHP Business Rules
+1744. PHP License Admin
+1745. PMS Turismo
+1746. PMango
+1747. PMbyAS - Gestione Attivita
+1748. PMtool
+1749. POI/POI Serialization Project
+1750. PaperDog
+1751. Pearl MIS
+1752. Petronius
+1753. Picket - Bugticket Tracker (Bugtracker)
+1754. PlanMyDay
+1755. Pooter
+1756. PostalMethods Letter and Postcard API
+1757. PowerFolder
+1758. PrestaShop Template: Electronics (Blue)
+1759. Prestashop facebook connect module
+1760. PricingNexus
+1761. Private Resource Planning
+1762. ProMan
+1763. Project Arkantos
+1764. Project Desk
+1765. Project Management Software
+1766. Project Tools
+1767. Project Web Manager
+1768. ProjectSight
+1769. Projectory
+1770. Punchout! Timecard System
+1771. PyMoney
+1772. PyUPC-EAN
+1773. Pythońol: Spanish Language Learning Sof
+1774. Quati
+1775. RJE FlexCubizer
+1776. Recruit Management System
+1777. Residential Property Manager
+1778. Retailer
+1779. Retailer.org
+1780. RoosterIT
+1781. SAL - Sist. Acompanhamento Licitações
+1782. SGCE - Skincare Management System
+1783. Schedulite
+1784. Screenshot Paste plugin for Trac
+1785. Separatista
+1786. SequelBasis
+1787. ServiceNow Data Mart Loader
+1788. Sillaj
+1789. SimDiary
+1790. Simple Document Repository
+1791. Simple RTF Writer (SRW) for Java
+1792. Simple Stationery Request System
+1793. SimplePunch
+1794. Sistema de Gerenciamento Comercial (SGC)
+1795. Sistema de gestion de gastos
+1796. Slatwall Commerce
+1797. SlimCMS
+1798. SmartArranger
+1799. Spider-CL
+1800. Spiders
+1801. Stock Monster
+1802. StoragePool module for Itop
+1803. Strandz
+1804. Street Team
+1805. Student money management software
+1806. Suricata
+1807. Syncoco
+1808. TMetric
+1809. TNTConcept
+1810. TORCH
+1811. TRAK MooD Template
+1812. TRAK UML Profile
+1813. TeXPower
+1814. TerminAtor
+1815. Text2Picture
+1816. TextWiz
+1817. The Medical Scheduler
+1818. The NO-SOD Project
+1819. TheGemCart
+1820. Time Plan
+1821. Time Track
+1822. TimeCollect
+1823. Timetool
+1824. ToDo Manager
+1825. TracG
+1826. Training Course - Employee Tracking
+1827. TrotskyTime
+1828. Tsine
+1829. Tsunagi BPM Workflow Engine
+1830. VOCP System
+1831. Variable Data Printing Max
+1832. Vehicle Service Tracker
+1833. Vetclix
+1834. Vic (Versatile Information Client)
+1835. Video Store Management System
+1836. Vorlagenpaket Schule
+1837. Warenwirtschaft / CRM
+1838. Web PO Requisition
+1839. Web Time Entry
+1840. Web-based Calendar
+1841. WebCalendar
+1842. WebDiary
+1843. WebVet
+1844. Webplan
+1845. Wind Turbine Estimator LITE
+1846. Wishlist: Wish, Shop and Gift lists
+1847. Wombat Open Source
+1848. X-Bc - a GUI to the shell calculator bc
+1849. X-Biz
+1850. XOffice
+1851. Xebece
+1852. Xikawa Cause and Effect Grapher
+1853. Xoops - Comunidade Portuguesa
+1854. YingMing
+1855. Zalarm
+1856. ZuckerDocs
+1857. aCMS (Open Source e-commerce based CMS)
+1858. activequant
+1859. apache spark data pipeline osDQ
+1860. atf format converter
+1861. bearings - grease the corporate wheel
+1862. buzzard
+1863. coffeeadmin
+1864. coopy
+1865. csapAIH
+1866. daynote - comfortable reminder
+1867. digiqual
+1868. dksWordArt : WordArt java implementation
+1869. dpss
+1870. e-NVISION
+1871. eShop - Customize it
+1872. ebXML-Based Mail Client
+1873. ebay mine
+1874. egantt
+1875. elcalc
+1876. finic
+1877. fprog
+1878. freehealth
+1879. gelsheet
+1880. groowiki
+1881. gtd-php
+1882. hotProject
+1883. hylaPEx
+1884. iTeam
+1885. iTramp
+1886. imchatbot
+1887. inFolder
+1888. jAlarm
+1889. jProject Business Suite
+1890. jameica
+1891. jremind
+1892. junglelib
+1893. k5n Desktop Calendar
+1894. kafigniter
+1895. ljf-CMS
+1896. logicAlloy RFID Platform for EPC & ALE
+1897. magnum
+1898. mf4j
+1899. mpftools
+1900. myMoney-go-round money matters software
+1901. nbpm
+1902. neoHort iText&OpenPdf&JExcel&ApachePOI
+1903. open innovation
+1904. open-projects
+1905. openMDX/openCRX document translation Prj
+1906. opensheet
+1907. os:inventory
+1908. phpEventMan
+1909. phpIntranet
+1910. phpMyAgenda
+1911. phpMyOrdering
+1912. phpancake
+1913. phparchive
+1914. plutext
+1915. pyPdf-GUI
+1916. pytrade
+1917. rezML XML DTD/XSLTs for Resumes &amp; Jo
+1918. semantic::core go!
+1919. simple-odspy
+1920. sirius signing server
+1921. sshproxy
+1922. time-keeper
+1923. todo
+1924. universal sync
+1925. w3OS webOS web based desktop
+1926. webXadmin
+1927. webXell Editor
+1928. wiki2beamer
+1929. youaccess
+1930. zen cart 1.0 par VDS
+1931. zip2xml
+1932. Booby
+1933. Sporkforge Employee Scheduler
+1934. iHaus
+1935. PXell
+1936. PersonalResource
+1937. BACKDRAFT Workgroup Management
+1938. Middle Click Closes Tab Eclipse Plugin
+1939. managing working hours
+1940. $how Me The Money!!
+1941. *.+upTunes
+1942. .NET survey
+1943. 2257
+1944. 2Lang - The Web2.0 Language
+1945. 2pack
+1946. 3D Aplication Logging State System
+1947. 3PT
+1948. 3TimeReport
+1949. 4Vientos
+1950. 5ShiftScheduler
+1951. 911 Radio and Equipment Tracker
+1952. 99Ways
+1953. @Events
+1954. A Calendersheet Macro
+1955. A Clinic Reservation Open Source System
+1956. A PHP Paypal API
+1957. A Pink Boutique Free Zen Cart Template
+1958. A Room For You
+1959. A Slot Management System
+1960. A simple parts-movement system.
+1961. AACC - Asterisk Advanced Call Center
+1962. AAS - Alliance Accounting System
+1963. ABC analysis ribbon for Excel 2007
+1964. ABD Calendar
+1965. ACMCo. KB
+1966. ACY/7 Suite
+1967. ADS-LIB-PHP
+1968. ADempiere Compiere Kettle or PDI
+1969. ADempiere ERP French Localization
+1970. ADempiere ERP Localization Brazil
+1971. AEX Development Environment
+1972. AFCommerce Shopping Cart
+1973. AI-CRM
+1974. AIOCP (All In One Control Panel)
+1975. AIRPort
+1976. AJAX ASP.NET FORUM by InSeCla
+1977. AJaTT
+1978. ALF (VE) - A Functional Agent System
+1979. ALTSplit
+1980. AMK Cash
+1981. AMK Tasks
+1982. AMOS 2013
+1983. ANDRe
+1984. APLAWS
+1985. APPX BANG! Business Application Software
+1986. APU
+1987. APbyAS - Analisi dei processi
+1988. AR Connor Team
+1989. ARBS
+1990. ARIZA: Bug/Request Tracking Tool
+1991. ARKSSoc
+1992. ARS Client - Java Edition
+1993. ARTAMIS
+1994. AS MBO
+1995. AS2 e-commerce RFC-4130
+1996. ASP Calendars
+1997. ASSIST
+1998. ASTPP - Open Source Voip Billing
+1999. ASX-1
+2000. AShop Affiliate
+2001. ATG Import Service
+2002. ATReminder
+2003. ATS-Framework
+2004. ATSForge FIX
+2005. ATface
+2006. AUSten
+2007. AW MPS
+2008. AWE (Another Workflow Engine)
+2009. AWP Ezhik
+2010. Abandoned Project
+2011. Abax: Software Configuration Manager
+2012. Abbington Mega Free Zen Cart Template
+2013. AbelCRM
+2014. AbelliaAM
+2015. Abelo
+2016. Aberdeen Neutral Free Zen Cart Template
+2017. Absence management (SIDE-Labs)
+2018. AbsoLOM
+2019. AccWhizz
+2020. Accessible Resident Information System
+2021. Account Guard
+2022. AccountEx
+2023. AccountFor
+2024. AccountOverview
+2025. Accounting system Qt 1L
+2026. Accounts-Linux
+2027. Acheivers Network
+2028. Aconcagua
+2029. Action Point Of Sale
+2030. ActivSCM (ActivSupplyChainMgmt)
+2031. Active Life Synchronization System
+2032. Active Sharedoc
+2033. ActiveBPEL Runtime Plug-In (ABR)
+2034. ActiveODMA
+2035. ActiveRater
+2036. Activity MANagement (AMAN)
+2037. Actualizer
+2038. Actuarial Lab
+2039. Ad-Positioner
+2040. AdCarouselJS
+2041. AdCom
+2042. AdEvaluator
+2043. AdRest
+2044. Adam's Code
+2045. Adamantine Analytics Cubic B-Spline
+2046. Addon-Projekt
+2047. Address Actions
+2048. Address Applet (Swing)
+2049. AddressBase
+2050. AddressBook
+2051. AddressPad
+2052. Adempiere China
+2053. Adempiere Energy
+2054. Adempiere RAD Form
+2055. Administrador de Trabalhos e Obras (ATO)
+2056. Admon de Condominios e Inmuebles
+2057. Adsense Income Management
+2058. Advanced Address and Calendar Tools
+2059. Advanced Business Timer
+2060. Advanced Java Calendar
+2061. Advanced Mathematics Suite
+2062. Advanced Test Interface (ATI)
+2063. Advert-it
+2064. AdvertFinder
+2065. Aeon
+2066. Aeon
+2067. Aerobatic Contest Registration System
+2068. After the Auction
+2069. AgMelt
+2070. Agefodd
+2071. Agenda
+2072. Agenda
+2073. Agenda Cultural
+2074. Agenda Nutricional
+2075. Agenzia Viaggi
+2076. Agile Portfolio Manager
+2077. Agile team tool
+2078. Agile! (PMR Java Software Factory)
+2079. Agiliplan
+2080. Airbnb Clone - Burrow
+2081. Airbnb Clone Script - Makent
+2082. Airbnb For Car Rentals - Makent Cars
+2083. Airline Flight Information
+2084. Ais-e. Mantenimiento informatico
+2085. Ajax Office
+2086. Ajax Portal (WebOS and Portal)
+2087. AjaxFS - Project Open Integration
+2088. Ajuby
+2089. Akanai Akoon
+2090. Akoria
+2091. Akorn Rapid Development System
+2092. AkunaERP
+2093. Al's Really Rad Resume Reader
+2094. Alamo Collections Database System
+2095. Alantra
+2096. Alarmas
+2097. Alfresco Web Services Connector
+2098. All About Money
+2099. All Business Free Zen Cart Template
+2100. All Purpose Web Based Scheduler.
+2101. AllDay
+2102. Allevo
+2103. AllocHRM
+2104. Aloof, Angband Ladder OpenOffice filter
+2105. AlphaCentauri
+2106. AlphaHR
+2107. Alternative ERPro
+2108. Alysa Rounded Free Zen Cart Template
+2109. Amaly Order Managment
+2110. Amanda Portal and CMS
+2111. Amazon - Collaborative Document System
+2112. Amazon Advertising API for iPhone
+2113. Amber
+2114. Ambulatorio
+2115. AmiWall
+2116. Amiga tools for PalmPilot'ers
+2117. Amortization of Bond Premium
+2118. Ampare Hide Links
+2119. Ampare Read Books Records
+2120. Amped Reports
+2121. Ampheus Accounts
+2122. An Upscale Boutique Zen Cart Template
+2123. An electronic agenda written in Java
+2124. An i18n tool for java web application
+2125. AnaXagora
+2126. Anabil
+2127. AnalysisCP
+2128. And everybody's needs were met
+2129. AndSoft
+2130. Andover Modern Free Zen Cart Template
+2131. Andrew's Time Card Script
+2132. Anette - A Time Tracking Environment
+2133. Angel Food Host Site Back Office (AFBO)
+2134. Annoki
+2135. Anokha Framework
+2136. Anonymous Compliance Reporting
+2137. Another Ajax Framekork
+2138. AnotherTodoList
+2139. Anteater Bugtracker
+2140. Antiseptic Document
+2141. Any to PDF and more, for web apps
+2142. ApartmentManager
+2143. ApexKB (Formerly Jumper)
+2144. Apimo
+2145. Appacts
+2146. Apparel Boutique Free Zen Cart Template
+2147. AppleHRM
+2148. Applied Research Information System
+2149. Appointment Service
+2150. AqHBCI
+2151. Aquamaniac Banking Interface
+2152. Arabic Dictionary in Objective-C
+2153. AracneLaTeX
+2154. Arale - Indonesian Accounting Software
+2155. Arara Web Organizer
+2156. Arbeitsgruppenassistent
+2157. Arbeitsjournal
+2158. Arbitrary Precision Calculator
+2159. Arcana Studio
+2160. ArcaneBase Knowledgebase System
+2161. Arch4J
+2162. Archintel Portable EDI
+2163. Architecture (TRAK) Rail Symbols
+2164. Archive Cloud
+2165. Argentum Money
+2166. Arpo
+2167. Ars Lab
+2168. Art Database
+2169. Article Monitoring System
+2170. Articlefox
+2171. Artifact management system
+2172. Artikel23 - a SOHO CRM
+2173. Artkos FMS
+2174. Artshow Jockey
+2175. Asclipios Document Protocol
+2176. Asgard Test and Monitoring Tool
+2177. Ashley Pink Free Zen Cart Template
+2178. Askbot for php
+2179. Aspect RMM
+2180. Aspen Content Management System
+2181. Assemble
+2182. Assembler
+2183. Assest Tracking System
+2184. AssetsSoSimple
+2185. Assist
+2186. Association Subscribers Manager
+2187. Aster Reporter
+2188. Asterisk PHP Timeclock
+2189. Astertrack
+2190. Astrocytes
+2191. Asynchronous JS Agent based App Exchange
+2192. At-tension CMS
+2193. AtHomeBills
+2194. Atabaque
+2195. AthenaRMS Request Management System
+2196. Athletica
+2197. Atlantida Multilingual Dictionary
+2198. AtlasBits: Jira and Confluence Plugins
+2199. Atomic Backup
+2200. Atreis Information Manager
+2201. Asgard Test and Monitoring Tool
+2202. Ashley Pink Free Zen Cart Template
+2203. Askbot for php
+2204. Aspect RMM
+2205. Aspen Content Management System
+2206. Assemble
+2207. Assembler
+2208. Assest Tracking System
+2209. AssetsSoSimple
+2210. Assist
+2211. Association Subscribers Manager
+2212. Aster Reporter
+2213. Asterisk PHP Timeclock
+2214. Astertrack
+2215. Astrocytes
+2216. Asynchronous JS Agent based App Exchange
+2217. At-tension CMS
+2218. AtHomeBills
+2219. Atabaque
+2220. AthenaRMS Request Management System
+2221. Athletica
+2222. Atlantida Multilingual Dictionary
+2223. AtlasBits: Jira and Confluence Plugins
+2224. Atomic Backup
+2225. Atreis Information Manager
+2226. Asgard Test and Monitoring Tool
+2227. Ashley Pink Free Zen Cart Template
+2228. Askbot for php
+2229. Aspect RMM
+2230. Aspen Content Management System
+2231. Assemble
+2232. Assembler
+2233. Assest Tracking System
+2234. AssetsSoSimple
+2235. Assist
+2236. Association Subscribers Manager
+2237. Aster Reporter
+2238. Asterisk PHP Timeclock
+2239. Astertrack
+2240. Astrocytes
+2241. Asynchronous JS Agent based App Exchange
+2242. At-tension CMS
+2243. AtHomeBills
+2244. Atabaque
+2245. AthenaRMS Request Management System
+2246. Athletica
+2247. Atlantida Multilingual Dictionary
+2248. AtlasBits: Jira and Confluence Plugins
+2249. Atomic Backup
+2250. Atreis Information Manager
+2251. Asgard Test and Monitoring Tool
+2252. Ashley Pink Free Zen Cart Template
+2253. Askbot for php
+2254. Aspect RMM
+2255. Aspen Content Management System
+2256. Assemble
+2257. Assembler
+2258. Assest Tracking System
+2259. AssetsSoSimple
+2260. Assist
+2261. Association Subscribers Manager
+2262. Aster Reporter
+2263. Asterisk PHP Timeclock
+2264. Astertrack
+2265. Astrocytes
+2266. Asynchronous JS Agent based App Exchange
+2267. At-tension CMS
+2268. AtHomeBills
+2269. Atabaque
+2270. AthenaRMS Request Management System
+2271. Athletica
+2272. Atlantida Multilingual Dictionary
+2273. AtlasBits: Jira and Confluence Plugins
+2274. Atomic Backup
+2275. Atreis Information Manager
+2276. Atrium EAI
+2277. AuCa
+2278. Auction Advertisement Generator
+2279. Auction Exchange
+2280. Auftragsbearbeitung
+2281. Auge - a portfolio management tool
+2282. Aulari Virtual
+2283. Aura
+2284. Australian Tax Engine
+2285. AuthorWeb Writer's Companion
+2286. Auto Calendar
+2287. Auto-Case
+2288. AutoCash
+2289. AutoHotel - Sistema de Administración
+2290. AutoSpreadsheet
+2291. Autocondat Hoteles
+2292. Automa
+2293. Automated postal mail on-demand app
+2294. Automatic VAT
+2295. Auxrames
+2296. Avenue Invoices
+2297. Avian Freeware Suite
+2298. Avie Online Framework
+2299. Avonlee Contempo Free Zen Cart Template
+2300. Awal Php Tour Reservation n Portal
+2301. Atrium EAI
+2302. AuCa
+2303. Auction Advertisement Generator
+2304. Auction Exchange
+2305. Auftragsbearbeitung
+2306. Auge - a portfolio management tool
+2307. Aulari Virtual
+2308. Aura
+2309. Australian Tax Engine
+2310. AuthorWeb Writer's Companion
+2311. Auto Calendar
+2312. Auto-Case
+2313. AutoCash
+2314. AutoHotel - Sistema de Administración
+2315. AutoSpreadsheet
+2316. Autocondat Hoteles
+2317. Automa
+2318. Automated postal mail on-demand app
+2319. Automatic VAT
+2320. Auxrames
+2321. Avenue Invoices
+2322. Avian Freeware Suite
+2323. Avie Online Framework
+2324. Avonlee Contempo Free Zen Cart Template
+2325. Awal Php Tour Reservation n Portal
+2326. Atrium EAI
+2327. AuCa
+2328. Auction Advertisement Generator
+2329. Auction Exchange
+2330. Auftragsbearbeitung
+2331. Auge - a portfolio management tool
+2332. Aulari Virtual
+2333. Aura
+2334. Australian Tax Engine
+2335. AuthorWeb Writer's Companion
+2336. Auto Calendar
+2337. Auto-Case
+2338. AutoCash
+2339. AutoHotel - Sistema de Administración
+2340. AutoSpreadsheet
+2341. Autocondat Hoteles
+2342. Automa
+2343. Automated postal mail on-demand app
+2344. Automatic VAT
+2345. Auxrames
+2346. Avenue Invoices
+2347. Avian Freeware Suite
+2348. Avie Online Framework
+2349. Avonlee Contempo Free Zen Cart Template
+2350. Awal Php Tour Reservation n Portal
+2351. Axcis 2
+2352. AxcotoCart
+2353. Axis Groupware
+2354. Azienda Express
+2355. B-Flow Process and Workflow Tool + HD
+2356. B-Itineris
+2357. B.O.S.S
+2358. B.Synchronized DMS
+2359. B2B Order Form
+2360. B2BI using Syntactic-to-Semantic Mapping
+2361. B2BOS
+2362. BAOW
+2363. BART Tracker
+2364. BBCash
+2365. BC PHP Framework
+2366. BEERPDesigner
+2367. BEMoDA
+2368. BG Finanças
+2369. BI Research and Development
+2370. BI Tools
+2371. BIAMI.IO Dev
+2372. BINow
+2373. BIOLAP
+2374. BMC MainView Network View Based API
+2375. BMC VM Linux Management and Archiving
+2376. BMC::ImpactManager::SOAP
+2377. BMP Kafedra
+2378. BNC cash
+2379. BNCC Information System
+2380. BO Web Service - WebCalendar
+2381. BOB (Big Orange Buttons)
+2382. BOE Stress Tester
+2383. BPEL Management Toolkit
+2384. BPM Suite
+2385. BPML
+2386. BPManager
+2387. BPMspace
+2388. BR Java Common Classes
+2389. BROM BelCal
+2390. BRazilian Charging System
+2391. BSC (Book Search Client)
+2392. BSCWeasel
+2393. BSCWeasel
+2394. BSM CRM system
+2395. BSp DDesk
+2396. BUsiness COntrol System
+2397. BW Web Printer
+2398. BZbyte Reports
+2399. BaaNex
+2400. Babel Blaster
+2401. Babele
+2402. Babelworx CMapp
+2403. Babysitting Application
+2404. Backpack Eclipse Plug-in
+2405. Backup my files
+2406. BaconMap - IT Resource Manager
+2407. Baculator
+2408. BagLock
+2409. Baggage
+2410. BakedERP
+2411. Balanca
+2412. Balance Home
+2413. Balanced Scorecard Generator
+2414. Banco de Conhecimento Policial
+2415. Band Management
+2416. Bangzhu Taskmaster
+2417. Bank Account Validator
+2418. Bank Management system
+2419. Banyan Information Management System
+2420. Barcode 2D generator
+2421. Barley
+2422. Basement Enterprise Application Suite
+2423. Basic Crystal Reports Server
+2424. Basic ERP
+2425. Basic Ledger
+2426. BasicCalculatorBrazilian
+2427. Bat2015
+2428. Batch Loader Framework
+2429. Baycloud Business Suite
+2430. Bcube CMS
+2431. Beans personal financial manager.
+2432. Bearstep ERP
+2433. Beautiful Jade
+2434. BeaverDesk
+2435. Beehive groupware
+2436. Behemoth Financial Reporting System
+2437. Benders Calendar
+2438. BiBler
+2439. BiSync
+2440. BibWorm
+2441. Bibit PHP Classes
+2442. BiblioMan
+2443. Bibwiki
+2444. BigBlue
+2445. BigFish Open Source eCommerce
+2446. Bilans - power of simplicity
+2447. Bill
+2448. Bill Tracker
+2449. BillCalc
+2450. BillMate
+2451. BillThru API PHP Library
+2452. Billing Project
+2453. Bilt - Build a Database Applications
+2454. Binarygold
+2455. Binghamton University Search (BUS)
+2456. BirtServer
+2457. BitLance
+2458. BitTS - BART it TimeSheet
+2459. BitTasker
+2460. Bitrapt - Bitcoin Trading Software
+2461. Biz Tools
+2462. BizDiag
+2463. BizKit Open Source B2C Engine
+2464. Bizcal calendar widget library
+2465. Bizplizit Meta System for Business
+2466. Bizster
+2467. Black Sheep
+2468. BlackBear Tool Suite
+2469. BlackBerry TimeSheet
+2470. Blackberry Expense Manager
+2471. Blackberry Expenses
+2472. Blazze - open source GUI framework.
+2473. Blocks Workflow
+2474. BlogTrader Platform Professional
+2475. Blood Donor Info
+2476. BlueGrid Appraisal Environment
+2477. BlueOxygen Incubator Center
+2478. BlueOxygen Komedo
+2479. BlueOxygen Lotion
+2480. BlueOxygen Obat Tracker - Help Desk
+2481. BlueOxygen Papaje Job Marketplace
+2482. BlueOxygen Ramen
+2483. BlueOxygen Relief
+2484. BlueOxygen Saphire
+2485. BlueOxygen Takatu
+2486. Bluemine
+2487. Bluetooth University Location Services
+2488. Bluewave Object Database
+2489. Blunder
+2490. Bobber Logger
+2491. Bobcat Open Source Software
+2492. Body Maintainer Tool
+2493. Bok
+2494. Bonsai
+2495. Book Right
+2496. Book of Tasks
+2497. Book(a)Meeting
+2498. BookIT
+2499. BookMyDoctor
+2500. BookPatron - WishLists for Booksellers
+2501. Bookingpad
+2502. Bookman
+2503. Books for MacOS X
+2504. Booletin
+2505. Boomerang ERP
+2506. BootAccounting
+2507. Borg - The BOrganizer
+2508. Bossa Workflow
+2509. BotenInschrijfSysteem
+2510. Bowlendar
+2511. Boxerp
+2512. Boxi
+2513. BrainCache
+2514. BrainCache
+2515. BrainWare
+2516. Braque -
+2517. Breadboard BI Web Analytics
+2518. Brevus
+2519. BriefmarkenAutomat
+2520. Bringer Task Record Log
+2521. British Medical Spellcheck
+2522. Broccoli
+2523. Brother Jonathan
+2524. Brown Socks
+2525. Buchhaltung
+2526. BuckLogger
+2527. Budget Ace
+2528. Budget Maxx
+2529. Budget forecast
+2530. BudgetEx
+2531. BudgetMe
+2532. Budgeting System
+2533. Budse
+2534. BueroAdmin
+2535. BugMS
+2536. BugSquash
+2537. Bugeater
+2538. Bugflow
+2539. Bulk Meter Flow and Operations
+2540. Bulldozer
+2541. Bumblebee Instrument Management System
+2542. Bundesrechtsanwaltsgebührenordnung
+2543. BurlyCRM
+2544. Bursar
+2545. Business Arena
+2546. Business Customer and Lead Management
+2547. Business Information Dispatcher
+2548. Business Integration Engine (BIE-gpl)
+2549. Business Intelligence (BI) for DBAs
+2550. Business J
+2551. Business Minder
+2552. Business Motivation Model Editor
+2553. Business Nomad
+2554. Business Opportunity Feed
+2555. Business Process Editor
+2556. Business Process Simulator
+2557. Business from Scratch - Java
+2558. Business groupware
+2559. Business in a Box
+2560. Business::Cart
+2561. Business::OnlinePayment::PayPal
+2562. BusinessEye
+2563. BusinessOS Groupware
+2564. BusinessWiki
+2565. Busy Bar
+2566. Busy Rails
+2567. ButorWiki/CMS
+2568. ButtonFinances
+2569. Bytom Blockchain
+2570. C language API for TWS
+2571. C# DTAUS Lib
+2572. C-Cramp
+2573. C-Vend
+2574. C.U.O.N.
+2575. CADminTools5
+2576. CAITS
+2577. CALabiyo - a shared agenda for the Web
+2578. CALimba
+2579. CAMSEG SCM
+2580. CAR WASH
+2581. CAT
+2582. CAddress
+2583. CBMS
+2584. CCC
+2585. CCM
+2586. CCVAdmin
+2587. CCValidate
+2588. CD Library
+2589. CDO Structuring
+2590. CEP component
+2591. CFDO
+2592. CGI Calendar
+2593. CGL Tracker
+2594. CHADDB
+2595. CHASERS
+2596. CI-Reports
+2597. CIS - Customers Accounting Scheduleing
+2598. CJL
+2599. CLIMoneyManager (CLIMM)
+2600. CLOUDSERVIZ
+2601. CLUE-M/ON
+2602. CMIS Spaces Flex+AIR,+Browser Clients
+2603. CMS, CuppaWEB v2
+2604. CMSuite2
+2605. CMSystems
+2606. CMbE - bivalent Fuel Consumption Manager
+2607. COAT: Manual Semantic Annotation Toolkit
+2608. CODE - Continuous Development Process
+2609. CODIUS a simple knowledge sharing tool
+2610. CODSYS
+2611. COMPOST
+2612. CONvention MANager
+2613. CORE project management
+2614. COTO
+2615. CP
+2616. CPManager - Complex Project Manager
+2617. CQViewer
+2618. CRE Loaded osCommerce
+2619. CREEM
+2620. CRIPESegr
+2621. CRIS-IE-Smoking
+2622. CRM Elyazalée
+2623. CRM, ERP and Accounting System
+2624. CRMagic
+2625. CRONLOCO!
+2626. CRP - Capacity Requirement Planning
+2627. CSBo (Organizador del CSB)
+2628. CSDepot CRM
+2629. CSGestionnaire
+2630. CSTracker
+2631. CSV Converter
+2632. CSV Reports
+2633. CTCFramework
+2634. CTCharge
+2635. CTNSTART
+2636. CTTIME (Corporate Time Management)
+2637. CUG user management
+2638. CV or resume scoring and expected salary
+2639. CVGA
+2640. CVMaker
+2641. CaLogic Web Calendar
+2642. Caderno - Keep track of classes
+2643. CafeLord, internet cafe manager
+2644. Cafeto
+2645. Cahoots!
+2646. Caja Chica
+2647. CakePlanner
+2648. CakeShop
+2649. CalDAVServlet
+2650. Calamar Time Billing
+2651. Calanda
+2652. Calanda08
+2653. CalcCharge
+2654. Calclipse Attaché
+2655. Calcolatrice
+2656. Calculadora De Data
+2657. Calculating-Ratios-Balance-Sheet
+2658. Calculation Suite
+2659. Calculation of shifts
+2660. Calculus Prime
+2661. Calendar
+2662. Calendar Outlook
+2663. Calendar of Licence
+2664. Calendar-Jlib
+2665. CalendarTechnique
+2666. CalendarX, a Plone Calendar
+2667. Call Manager DK
+2668. Call Me - Contact Center Suite
+2669. Callcenter manager for asterisk
+2670. Caller Identification
+2671. Cambria
+2672. Cambridge Pro Free Zen Cart Template
+2673. Camp Data Management System
+2674. CanShop Management System
+2675. Canadian Payroll
+2676. Canadian Taxes in Prolog
+2677. CandidatesProcessing
+2678. Car Trip Coordinator (temporary)
+2679. CarShare Booking System
+2680. Carats.Online - Inventory for Gemstones
+2681. CardStock
+2682. Care4G
+2683. CareerMaintainer
+2684. Carlswatch (a craigslist watcher)
+2685. Carmen Logistica Minimale
+2686. CascadaShop
+2687. Case Threads
+2688. Cash In&Out
+2689. Cash tools
+2690. Cash voucher
+2691. Cash2ME
+2692. CashBook
+2693. CashDown
+2694. Cashderivatives.org Pricing Functions
+2695. Cashier Assistant
+2696. Cassiopeia
+2697. Catalog Exchange Managment
+2698. Catnip
+2699. Causelist
+2700. Caxo XML Outliner
+2701. CenterFlow
+2702. CentricWare Suite
+2703. CentroDePublicaciones
+2704. Cerberus Helpdesk Public-User Tools
+2705. Cerebrum
+2706. Cevirgec
+2707. ChainBuilder ESB
+2708. Chaman
+2709. Chambers Statistics Tracker
+2710. ChaoDeFabrica
+2711. Check Off
+2712. Check Up System for Thai Healthcare
+2713. Check by Phone
+2714. CheckaBunny
+2715. Checklist
+2716. CheesyKM
+2717. Chemikaliendatenbank inkl. WWS
+2718. Chicago Option Pricing Model
+2719. China Stock Property Analyzer
+2720. Chomoko - Message Queue Library
+2721. ChopeCREW
+2722. Chrome ToDo
+2723. ChronicJ
+2724. ChronoDB
+2725. Chronometron
+2726. Church Calendar
+2727. Church Members Information System
+2728. Church Membership
+2729. Church Office
+2730. Church on Swing
+2731. CiberKuentas 2
+2732. Cicerone Information Portal
+2733. Ciclope License Management
+2734. Circular Multilateral Barter
+2735. Cite CRM
+2736. Civil Engineering Estimation System
+2737. ClanOffice
+2738. ClassAccount for Macintosh
+2739. ClassVault
+2740. CleVer
+2741. ClearCheckBook Java API
+2742. ClearVersion
+2743. Client Tracker
+2744. ClientSquare
+2745. Clients and Orders Manager
+2746. Clinic Manager
+2747. Clinic Soft
+2748. ClinicWare
+2749. Clio
+2750. Clipboard Tool
+2751. Clipshare
+2752. Cloveriver
+2753. ClubGear
+2754. CoPA
+2755. Coadunation
+2756. CoastalWarrior
+2757. Coba
+2758. CocoaPaintPal
+2759. Code-o-Meter
+2760. CodeSteak
+2761. Codetag: Utilities and Conventions
+2762. Cognifty Framework
+2763. Coin Server
+2764. Coiso
+2765. Colibri CRM
+2766. CollabScrum
+2767. Collaborative Agenda Coordina2
+2768. Colleague Folder Share
+2769. Collectral
+2770. Colombian Report Designer
+2771. Colombo
+2772. Comaas - The ContactManagementAssistant
+2773. Comendar Community Event Calendar System
+2774. Comet Cart
+2775. Command Line Calculator
+2776. Command and Control foundation (CCF)
+2777. Commerce Force
+2778. Commerce Managment System
+2779. Commius
+2780. Comms Order Fulfillment
+2781. Community Housing Administration
+2782. Community Services Coordinator
+2783. CommunitySales
+2784. CompFinance
+2785. CompInaBox
+2786. Company INFO-sys
+2787. Compass Collections Manager
+2788. Compiere Advanced Pricing
+2789. Compiere Framework
+2790. Compiere JasperReports Integration
+2791. Compiere MRP-II Dynamic Pegging
+2792. Compiere Monitor
+2793. Compiere Webstore & CMS
+2794. Compiere for Russia
+2795. Compiere to pt_BR
+2796. Complete GnuERP for MacOS X
+2797. Component-Catalogue
+2798. CompoundCalc
+2799. Compta
+2800. ComptaHome
+2801. ComptesCopains
+2802. Computer Assembly Management System
+2803. Computer Information Management System
+2804. ConCentric Event Planning Software
+2805. ConDEnSE
+2806. ConPortal
+2807. Conception Collaboration Platform
+2808. Concisus
+2809. ConfISS
+2810. Conference Registration System
+2811. Config Generator
+2812. ConflictSolver Room Scheduler
+2813. Conflux Lite Groupware
+2814. ConjuGNU Grammar Checking
+2815. Connla
+2816. Conrad
+2817. Conscriptus
+2818. Consultant Vendor Management
+2819. Contact
+2820. Contact Organizer
+2821. Contact Wrangler
+2822. Contact and Event Management System
+2823. ContactsDB
+2824. ContasNet
+2825. Contineo
+2826. Continuous Trade
+2827. ContrAll
+2828. Contrack Order Management
+2829. Contrack Project Management
+2830. Contract Modeling Language
+2831. ContractFoundry
+2832. ContractManager
+2833. Control Monedas
+2834. Control asistencias 2007
+2835. ControlTier
+2836. Controle Empresarial
+2837. Controle Integrado Administrativo - ERP
+2838. Controle de estoque
+2839. Convelo Product Lifecycle Management
+2840. Converge
+2841. CoolIS
+2842. Cooper Web Software Factory
+2843. Cooperate
+2844. Cooperative Resource Planning (CooRP)
+2845. Cooperative Trade
+2846. Coral8 Plugin
+2847. CorbaERP
+2848. Core Advanced Project Manager
+2849. CoreCalendar
+2850. CoreProcess
+2851. Corinis CCM
+2852. CorneliOS web OS & application framework
+2853. Cornelius Project Management
+2854. Corporate IT Inventory
+2855. Cosas
+2856. Cosmo DB2
+2857. Costshare Tracker
+2858. CountdownBudgetManager
+2859. Courier Cargo Delivery
+2860. Course Scheduler
+2861. Covide ADD-ONS
+2862. CrNiCKL
+2863. Crackleback
+2864. Craft Show Organizer's Toolbox
+2865. Craigweb Webmail
+2866. Crane
+2867. Credible LOan Tracking System (CLOTS)
+2868. Credit Card Fraud Detection System
+2869. Credit Log
+2870. CreditAnalytics
+2871. Cress Tool Suite
+2872. CrocodileNote
+2873. CrossDef - XDXF Web Dictionary
+2874. CrossXCM
+2875. Crossbar JSF Examples
+2876. Crosswise Web Calendar
+2877. Crumena
+2878. Cryptocoins Blockchain Utilities
+2879. Cryptocurrency Donations Slider
+2880. Cryptopus
+2881. Crystal and Quartz
+2882. Crčme: A Java Addition
+2883. CuReM
+2884. CubeDB
+2885. Cubic
+2886. CubicProject
+2887. CubitPOS
+2888. Cubulus OLAP
+2889. Currency
+2890. Currency to text converter (RU)
+2891. Curricular
+2892. Custom ERP
+2893. Custom: POS, Accounts, Stock Management
+2894. CustomBill Lite
+2895. Customer Help Portal
+2896. Customer Information
+2897. Customer Management J2EE Application
+2898. Customer-Touch CRM
+2899. Cute Java Calendar
+2900. CuteLibrary
+2901. Cyber-Billing
+2902. Cydonia Applications Framework
+2903. Czech localization of Bugzilla
+2904. D2V Reports
+2905. DACAD Gestión de academias
+2906. DATMAP
+2907. DAU - Dokuwiki Administration Utilities
+2908. DAWG Task-Tracker
+2909. DBSchools
+2910. DBiz ECommerce
+2911. DC Energy Resonance Open Source (EROS)
+2912. DF Reporting system
+2913. DG-Server
+2914. DGantt
+2915. DIA2SQL - DIA 2 SQL statements
+2916. DICOM Viewer for Open Hospital
+2917. DISMOD Core
+2918. DIY Reports
+2919. DM Dictionary
+2920. DMSEasy
+2921. DMSystem
+2922. DNS Manager
+2923. DOMSY
+2924. DTPay
+2925. DVA-Profession
+2926. DVD Exchange
+2927. DVD Scheduler
+2928. DVSM
+2929. DWAIN
+2930. DaMaDesk
+2931. Daily Log Analyzer
+2932. Daily Spent
+2933. Daitrix
+2934. Dali
+2935. Dali Scheduler
+2936. Dance Teachers Assistant
+2937. Daodict
+2938. Darga
+2939. Data Atlas for the Community Foundation
+2940. Data Collection And Reporting
+2941. Data Entry Form
+2942. Data Management Suite
+2943. Data MotorWay
+2944. Data/Document WF
+2945. Data4Ever
+2946. DataBaseOne
+2947. DataParser Integration Suite
+2948. Database of our owlish Wisdom
+2949. Datacleaning Open Source
+2950. Dataharbour
+2951. Datapture
+2952. DateCalc
+2953. DateDiff
+2954. Datenator
+2955. DealerSys
+2956. DebtPayoff
+2957. Debtometer
+2958. Debts - Personal debt manager
+2959. DeciGenETL
+2960. DeciGen®
+2961. Decision Analysis
+2962. Decision Tables for Java (dt4j)
+2963. Decouvert is Dead
+2964. DeepSpace
+2965. Defa Protector Allow Mobile Plugin
+2966. DejaVu
+2967. Deleted
+2968. Delightful Labor
+2969. Delphi Accounting Project
+2970. Delphic Restaurant POS
+2971. DemoBuilder
+2972. Dentaku Enterprise Accounting
+2973. Deo Generation
+2974. Dependency Discovery Tool
+2975. DeployAgility
+2976. DeporXest
+2977. DeputyDB
+2978. DesignWorks Project Site
+2979. Desk Alarm
+2980. Desktop Timer
+2981. DesktopAgenda
+2982. DevTimeTracker
+2983. Deveel PIM
+2984. Developer Groupware
+2985. Devproof Portal
+2986. DiBa.pm
+2987. Diakonos
+2988. DicEngRus
+2989. Dict::Russian IT
+2990. Digger
+2991. DigiSAFE
+2992. Digital Planner
+2993. Digital Rights Management Solutions
+2994. Digital World Clock
+2995. Digitization Metadata Editor
+2996. Diligent
+2997. Dimensions
+2998. Dino Resume
+2999. Dionysus
+3000. DirXML-Jabber
+3001. Directi PHP API web interface
+3002. Disa - IP based Geo locator
+3003. DisserTeX
+3004. DistProc
+3005. Distil
+3006. Distributed 3D-Secure MPI
+3007. Distributed Peer Review Plugin for TRAC
+3008. Divide And Do
+3009. Dividing Bills
+3010. Divine Logic
+3011. DjRece
+3012. Django Task Manager (DJTask)
+3013. Do-ME
+3014. DoCASU - Alfresco Custom User Interface
+3015. DoNGO!
+3016. Doc4All2OOo
+3017. DocInfoRetriever
+3018. DocOM
+3019. DocStore - DMS
+3020. DocUMentDS
+3021. DocWay Published Folder for Documentum
+3022. DocsFree
+3023. DoctWeb
+3024. DoctorUna
+3025. Document Manager
+3026. Documentation Electronique SImple (DESI)
+3027. Documentation Enterprise Outsourcing
+3028. Dogfood-A Complete Groupware/CRM System
+3029. DoliMed
+3030. Domus Sim
+3031. DonManolo
+3032. Donorbase
+3033. Dosware Payment Gateway (Dopays.com)
+3034. Dot ERP
+3035. DougDocX
+3036. Dough
+3037. DoveManager
+3038. Download Stock Quotes
+3039. Downwind PMS
+3040. DoxnParts
+3041. Doxygen OpenOffice filter
+3042. Doyen
+3043. Dream Box LMS
+3044. Driver Management
+3045. Drop : Wets Graphical Interface
+3046. DryWare PageTracker
+3047. Durangoo - Gestor Financeiro
+3048. Duty Designer
+3049. DynaDesk (ITSM Tool)
+3050. Dynamic COMPAS (COMPAS Dynamique®)
+3051. Dynamic-IP-Service
+3052. DµMaS
+3053. E-Maku: Qhatu Based ERP
+3054. E-Sportmanager
+3055. E-shop: Magazin Online Inceput 1.0
+3056. E/AS
+3057. EATS
+3058. EBI Neutrino R1 Open Source CRM & ERP
+3059. EBKuS
+3060. ECCS - a note taking application
+3061. ECONZ EService
+3062. ECONZ Timecard
+3063. EDAM
+3064. EDI Dom (EDom)
+3065. EDI Knight
+3066. EDIFIRMA
+3067. EDIReader X
+3068. EEG-Holter
+3069. EES - electronic comerce ecosystem
+3070. EFM Marketing
+3071. EGG crm (Easy Graphical Genuine)
+3072. EGroupware Enterprise Collaboration
+3073. ELibraryManager
+3074. ELock
+3075. EMATPro
+3076. EMIHR
+3077. ENAU Students Booklet
+3078. ENG-Builder
+3079. EPAL to P3P Converter
+3080. EPOS content management system
+3081. EPlanner
+3082. EQ
+3083. ER Manager
+3084. ER/Box
+3085. ERD Enterprise Architecture
+3086. ERIS
+3087. ERP - A webKit application
+3088. ERP CRM Gestão de Cliente e Fornecedor
+3089. ERP Suite
+3090. ERP System in COBOL Source LOGO
+3091. ERP UNIVERSO
+3092. ERP for EyeOS
+3093. ERP php
+3094. ERP to Go
+3095. ERPLibero
+3096. ERPel - ERP easy + lightweighted
+3097. ERPmio
+3098. ERPortal
+3099. ERPyme
+3100. ES Class
+3101. ESPA
+3102. ETL Converter
+3103. EVA Schedule
+3104. EVM Engine
+3105. EZInventory
+3106. EZPunch Client/Server
+3107. EZReader text parsing engine
+3108. EZsneezyCal
+3109. E_Reminder for PHP-Nuke
+3110. EagleFund
+3111. Eaglehour
+3112. EarNoviLab
+3113. EasiHerp
+3114. Eastwood Charts
+3115. Easy Accounting
+3116. Easy Lucene Search for Mediawiki
+3117. Easy Media
+3118. Easy Paypal Module
+3119. Easy Payroll
+3120. Easy Pocket Manager
+3121. Easy SOA
+3122. Easy SVN
+3123. Easy Tax Manager
+3124. Easy Track
+3125. Easy beamer
+3126. EasyAppointment
+3127. EasyBI
+3128. EasyBloX - Open Source Business Solution
+3129. EasyCash
+3130. EasyConference
+3131. EasyNote
+3132. EasyPass
+3133. EasyQuery
+3134. EasyWebDB
+3135. Ebay Bidder Tool
+3136. Ebay Selling Management System
+3137. Eberom
+3138. EccoTools
+3139. Echodata (Эходата)
+3140. Ecis
+3141. EclipseQuote
+3142. EcoJam
+3143. EcoSol
+3144. Econball
+3145. EdenCRM
+3146. Editor para Entidades Locales Españolas
+3147. EduClick-School Management System
+3148. Edumachina Student-information System
+3149. Effacor
+3150. EfficientFrontier
+3151. Eightball Planningstool
+3152. Einkaufstatistik
+3153. Einsatz
+3154. EisMC2
+3155. EkoCalc
+3156. EkonomOS
+3157. Electronic Activities Board
+3158. Electronic Billing in Manitoba
+3159. ElevenTime
+3160. Elio
+3161. Elot
+3162. Elpoint
+3163. Elucida Insurance System
+3164. Elucidate
+3165. EmForge: Workflow Bug-Tracking and Wiki
+3166. Email Management System
+3167. Emblem
+3168. Empersa Libre
+3169. Employee Appraisal
+3170. Employee Time Trakker
+3171. EnKlik časovnice
+3172. Enapex - microERP and HRware
+3173. Encompass Planner
+3174. Endeavour Bug Tracking System
+3175. Enfree
+3176. Eng-DB-2
+3177. Engine-IT Free TimeTracker
+3178. Enigma
+3179. Enterprice-Component-Orchestration (ECO)
+3180. Enterprise Application Shell
+3181. Enterprise Collaboration Suite 2004
+3182. Enterprise Contact Management System
+3183. Enterprise Content Management System
+3184. Enterprise Energy Management
+3185. Enterprise Help Desk
+3186. Enterprise Java CRM
+3187. Enterprise Knowledge Base
+3188. Enterprise Management Architecture
+3189. Entreprize Business Administrator
+3190. Envoyce
+3191. Epic.NET
+3192. Epix Power Support
+3193. EplSite ETL
+3194. Equipment Control
+3195. Equity Analysis Tool
+3196. Eridu - Web based Groupware
+3197. EsAd
+3198. Esol Designs Point Of Sale
+3199. Espartacus
+3200. EssentialScanner
+3201. Estate Agents Manager
+3202. Estetix
+3203. Estimation Reporting
+3204. Etherra CMS
+3205. Eureka CMS
+3206. Euro-Bill-Stats
+3207. European Anti-Corruption Ctre Mob
+3208. Evaluation Server
+3209. Evaluation of GnuCash in Ooo
+3210. Event Calendar Platform
+3211. Event Engine
+3212. Event Photography Server
+3213. Event Planning Scheduling and Management
+3214. Event Registration System
+3215. Event Scheduler
+3216. Event Scheduling Manager
+3217. EventCalendar for Wordpress
+3218. EventRegistrationWebApplication
+3219. EventStaffer
+3220. Events Watch
+3221. Eventual
+3222. EvoTrader
+3223. Evologic Oracle
+3224. Evt Calendar
+3225. Ewaiter
+3226. ExMan
+3227. Exactly.com
+3228. Excalibur Office
+3229. Excel Finance Manager
+3230. Excel Stats Ribbon
+3231. Excel Time Manager
+3232. Excel php import/export tool
+3233. ExcelReports
+3234. ExcelXslReport
+3235. Excelsior Automated Trading Platform
+3236. Exchange data provider for Thunderbird
+3237. ExpTracker
+3238. Expedient Trickle Sync
+3239. Expense Tracker
+3240. Experimental ERP
+3241. Extranator
+3242. Extreme Project Manager
+3243. EzWatt-Billing
+3244. FAQ Management Plugin for Trac
+3245. FAT Auditor
+3246. FCMcolab
+3247. FCalculator
+3248. FDC - Flôr De Cunho
+3249. FDD Project Management Application
+3250. FERP - ERP baseado em software livre
+3251. FIMETO File Merging Tool
+3252. FIREFLY HELPDESK FRAMEWORK
+3253. FIT
+3254. FIXbrix
+3255. FIXtail
+3256. FLEX-db Digital Asset Manager
+3257. FLiRoP
+3258. FMSync
+3259. FNDLOADER
+3260. FOCCAL
+3261. FONIS Sticky Notes
+3262. FP-INN
+3263. FPA Analysis tool
+3264. FPHDB
+3265. FREEBRA - kompletní účetnictví
+3266. FSCMS
+3267. FTAPI
+3268. FUN
+3269. FUSION Profiler (Semantic Web Services)
+3270. FUSION Semantic Registry
+3271. FUST
+3272. FVE Project Manager
+3273. FWHBS
+3274. FXCM API
+3275. FaBeansAndCo
+3276. Facedex Mugbook System
+3277. Faces CRM
+3278. Facilebuy
+3279. Facilities Information Management System
+3280. Factory
+3281. Factunomo
+3282. Factura Libre
+3283. Factura PHP
+3284. FacturaLUX
+3285. Facturacion Libre en CakePHP
+3286. Facturitas
+3287. FalconMail - PHP/MySQL Powered
+3288. Falt4 CMS (content management system)
+3289. Farol
+3290. Fast Point
+3291. Fast calculator
+3292. FastFix Remote Software Maintenance
+3293. FastMicro - Academico
+3294. FastProjectCounter
+3295. Fastaddr
+3296. Fat Free CRM
+3297. Fault Management System
+3298. Fekke's BMI calculator
+3299. Feng
+3300. Feng Office Bulgarian Community
+3301. Fenix gestion
+3302. FenixReport
+3303. FenixSped
+3304. FestMan
+3305. Festibase
+3306. FiMaLib
+3307. FiberParty Access
+3308. Fibiese
+3309. Fieldhockey Match Scheduler
+3310. File folder label organizer
+3311. FileCarriage
+3312. FileClumper
+3313. Filiar
+3314. Filler Studio
+3315. Film Stock Calculator
+3316. Fin Portfolio
+3317. FinMetrics
+3318. Final Distance
+3319. Finance APIs
+3320. Finance Forecaster
+3321. Finance Future
+3322. Finance-Bank-HDFC
+3323. Finance-Quote-LJSE
+3324. Finance::IIF
+3325. Finance::QIF
+3326. Finance::Quote::BehrNL
+3327. FinanceJ
+3328. Finances Manager
+3329. Financial Analysis Framework
+3330. Financial Calculator
+3331. Financial Plumbing
+3332. Financial Portfolio Manager
+3333. Financial System Simulator
+3334. Financial invoices printing
+3335. Financiamento CAIXA (2007)
+3336. Finansial com system
+3337. Finnish localisation of OpenOffice.org
+3338. Fire Fighting Management System
+3339. Fire.now
+3340. FireDictionary
+3341. FireLock
+3342. Firefly UML
+3343. Fireteam: Docflow
+3344. Firetrack
+3345. FishNoMore
+3346. Fisherman
+3347. FitNet Manager
+3348. Fix LogHelper
+3349. FixSuite
+3350. Fixed Asset Management System (FAMS)
+3351. FixedPoint
+3352. Fizzy Cal
+3353. FlashMyAdmin
+3354. FlashRecruit - Job Board/Applicant Track
+3355. Flats
+3356. FleaIM - MSN AJAX Driven Messenger Clone
+3357. Flest Framework
+3358. Flex/Flash Contacts Grabber and Inviter
+3359. FlexFlow
+3360. FlexPay
+3361. FlexShop
+3362. FlexSpaces: RIA Clients for Alfresco
+3363. FlexViews - Materialized Views for MySQL
+3364. FlexeShop
+3365. FlexiSheet
+3366. FlexibleShare: Alfresco RIA Dashboard
+3367. Flexync
+3368. Flight ICS
+3369. Flight Office
+3370. Flisys - The Flisol Open Source System
+3371. Floranta Rich Client Wiki
+3372. Flouse
+3373. FlyDMT
+3374. FlyDict
+3375. FlySite Portal
+3376. Flyspray
+3377. Flywheel Management Science
+3378. FmgFAX
+3379. Fnet - Personal Financial Management
+3380. Follow Up! CRM
+3381. Foo Project
+3382. FooMarker
+3383. Food Tracker
+3384. Food and Exercise Tracking Application
+3385. ForeSite
+3386. Forget-Me-Not 0.9 alpha
+3387. Form Builder Three Tier
+3388. FormatCheck
+3389. Formularmanagement
+3390. Forrest Plugins
+3391. Forth Valley CRM System
+3392. Foruli - The PHP Bookshelf
+3393. Fourth Dimension
+3394. FpML Objects
+3395. Frassino
+3396. Fraud Prevention (App and Txn)
+3397. Fraunhofer SimWebApp
+3398. Fred Server
+3399. Free Digital Money
+3400. Free Market Application
+3401. Free Workgroup Collaboration System
+3402. Free4Project
+3403. FreeATS
+3404. FreeBMA for Freelance Translators
+3405. FreeBSC
+3406. FreeCMIS
+3407. FreeClinic
+3408. FreeDMS
+3409. FreeLMS
+3410. FreeMarket
+3411. FreeMind WorldHello Extension
+3412. FreeMindPDA
+3413. FreePerfect
+3414. FreeProject
+3415. FreeProperty
+3416. FreeQuery
+3417. FreeSign
+3418. FreeTPV
+3419. FreeTab
+3420. FreeTask
+3421. FreeTemplateOffice
+3422. FreeTime
+3423. FreeVRS
+3424. Freeclident
+3425. Freedom ERP Demo
+3426. FreedomCollab
+3427. Freejbiblio, a book for everyone
+3428. Freemailer
+3429. French Accounting Software
+3430. Freya Database
+3431. FriFaktura
+3432. FriFinans
+3433. Friends and Relatives Address Book
+3434. Frijole Web Application Framework
+3435. Frinkiac-8
+3436. Fruity Banking!
+3437. Fryktelig fin faktura
+3438. FuelSurcharge
+3439. Full Controll
+3440. Funambol
+3441. Funambol Earnware Connector
+3442. Funambol Jajah Plug-in
+3443. FundAnt
+3444. Fusion WebShop
+3445. FusionGW
+3446. Fuzzy Workflow Nets
+3447. G+ FinanceC
+3448. G.O.G.S.
+3449. G2 Xoops Modules
+3450. GAL Gestione Aziendale Libera
+3451. GASwerk
+3452. GATMAN - Groupware &amp; Networkmanageme
+3453. GApp
+3454. GBDave's To Do Stickies
+3455. GCS
+3456. GCalSync
+3457. GEAR Econometric Analysis
+3458. GED-i
+3459. GEF Gerenciador financeiro
+3460. GEM PHP
+3461. GESTIME
+3462. GEStione SOci
+3463. GEarthPlot
+3464. GIN Weaver
+3465. GL02---Projet
+3466. GLEAM (formerly ATS-System)
+3467. GMAV
+3468. GMS - Gijima Maintance System
+3469. GNOBB
+3470. GNOME Clipboard Manager
+3471. GNU Hyperbole: The Everyday Info Manager
+3472. GNU Library
+3473. GNUStamp
+3474. GNUmed EMR Live
+3475. GNUmedJ
+3476. GNUshop
+3477. GOL Vote Book Accounting Package
+3478. GPLed Open Box Office
+3479. GPS Vehicle Tracking and Asset Managemen
+3480. GPS+GIS tracking system
+3481. GQLx
+3482. GRAMOOO
+3483. GRIPS
+3484. GRoster
+3485. GSi
+3486. GT Trade
+3487. GTE Note Taker
+3488. GTasks
+3489. GTinyConv
+3490. GWA Global Address Management
+3491. GWT Agent Support Chat
+3492. GWT Pleso Framework
+3493. Galicia Adapt vTiger
+3494. Gameplan business platform
+3495. Gamma AMS
+3496. Gamma PatientOS
+3497. Ganesha LMS by ANEMA
+3498. Gantt-chart based project management
+3499. GanttOnRails
+3500. GanttProject Analytics
+3501. GanttProjectMerge
+3502. Gantter
+3503. Gantty - Project and Task Management
+3504. Gasp
+3505. Gastrofox Restaurant Manager
+3506. Gather DOW Trend Data
+3507. Gchore
+3508. Gcontact
+3509. Gdarim
+3510. GeMDA
+3511. Gederedem
+3512. Geebis
+3513. Geek Credit
+3514. Geek Office
+3515. GeltCalc
+3516. Gemsites
+3517. GenRapReports for SugarCRM
+3518. GenRapReports for osCommerce
+3519. GeneWave
+3520. General ERP
+3521. General Management Emulation Project
+3522. GenerateXLS
+3523. Generic Assessment Tool 2.0
+3524. Generic Data Management System
+3525. Generic Decision Support System
+3526. GeniERP the SMART ERP
+3527. GeniusTrader
+3528. GenomeWiki (GWiki)
+3529. Genus Document Management
+3530. GeoMondrian
+3531. Geographically Independent Office
+3532. Geotex-INN
+3533. Geppetto
+3534. Gereed
+3535. Gesdon
+3536. Gesport
+3537. Gest m3
+3538. GestWeb
+3539. Gestin
+3540. Gestion MGD
+3541. Gestion de Pacientes
+3542. Gestion de stock reparties
+3543. Gestion des Exposants
+3544. Gestionnaire d'interventions via PDA
+3545. Gestión de Incidencias
+3546. Gestión Ágil de PYME
+3547. Gestor Documental Bachue
+3548. Gestor Escuelas
+3549. Gestor d'Actes i Reunions
+3550. Gestão Familiar
+3551. Get It Done
+3552. GetMeDone
+3553. Getting things fast done
+3554. Gfact
+3555. GiMA - Gerenciamento de Meio Ambiente
+3556. Giast Gen
+3557. Gifte
+3558. GilDav
+3559. Giro Explorer
+3560. Glancer
+3561. Global Entity Administrator
+3562. Global Operating System
+3563. Glocal (Intranet)
+3564. Glory-Dream System
+3565. Gmail notifier and more
+3566. GneuManager
+3567. Gnowledge Base
+3568. Gnu Internet Support Center
+3569. GnuCash Export Modifier
+3570. GnuCashToQIF
+3571. Gnujiko 10.1
+3572. GnuplotHelper
+3573. Go! Groupware
+3574. GoDocs
+3575. Golem-Amiga - Program finansowo ksiegowy
+3576. Golibri
+3577. Google Checkout Merchant
+3578. Google Checkout in Perl
+3579. Google Notebook
+3580. GoogleCalSugarCRM
+3581. Goshawk Enterprise Framework
+3582. GourangiBAM
+3583. GovernManagement
+3584. GrafMe
+3585. Grain Traker
+3586. GrandsTand
+3587. Graphical Forum
+3588. Grasp Professional Service Automation
+3589. GratisHR
+3590. GreenMine
+3591. GreenRope Complete CRM
+3592. GreenScape - PIM
+3593. Greenalytix
+3594. Greg's Bank
+3595. Grisbi.app
+3596. GroceryLister
+3597. Groovy ERP/CRM
+3598. GrouCho helps your group decide
+3599. Group Appointment Calendar
+3600. Group Expense Tracker
+3601. GroupOrg Group Management System
+3602. GroupSuite - Open web-based Groupware
+3603. Groupus
+3604. Groupware solution for Python
+3605. GrowthPath Cashflow Simulator
+3606. Grupal - Google Apps integrated Drupal®
+3607. GrupoCorpodatRecords
+3608. GryphonStore
+3609. Gsm Stats
+3610. Gsys
+3611. Gtal
+3612. GuestsHome
+3613. GuideCP
+3614. Gum
+3615. Gumshoe Desktop Search
+3616. Gurmi - Real time data aggregation
+3617. Gwish
+3618. H.F.P Basic-Calculator
+3619. HBCI4Java
+3620. HCM.LT
+3621. HD-SOFT
+3622. HDS - HelpDesk System
+3623. HDataLoader
+3624. HERBIE
+3625. HERMES PHP-Based Business Mgmt
+3626. HERPES
+3627. HEYMon
+3628. HFSchlExtension
+3629. HIP Outpatient Orders and Results
+3630. HM IndiEco CR
+3631. HP 200LX Database Perl modules
+3632. HP's Handy Program
+3633. HP12Web
+3634. HPI PaSaMuF Document-Sharing-Tool
+3635. HR-CRM
+3636. HR-Leave Management
+3637. HR-XSLT
+3638. HRManager
+3639. HSBC XML-API
+3640. HSSFTemplates
+3641. HTMLtools
+3642. HUSST
+3643. HWR Java Option Models
+3644. Halo extension to Semantic MediaWiki SMW
+3645. Hambo
+3646. Handheld, CE, Palm Function Calculator.
+3647. Hanoi Workflow Engine
+3648. HarTS
+3649. HardCoder Competition Conductor
+3650. Harmonize
+3651. Harmony ERP
+3652. Harpagon
+3653. Harto
+3654. Harvasset
+3655. Havurah
+3656. Hebrew To English Dictionary
+3657. HefeWeizen
+3658. HelgAccounting
+3659. Helianthus
+3660. Helium Reporter
+3661. Hellenic Open Office Project
+3662. Help Desk Wiki
+3663. Help Give Thanks Solutions
+3664. Help Tickets
+3665. HelpCORE
+3666. Helpdesk Over Web
+3667. Helper
+3668. Hermes
+3669. Hermes Message Plant
+3670. Hibersap
+3671. Hide my message
+3672. Hiitch (The Social Networking Platform)
+3673. Hijakker
+3674. Himowe
+3675. Hipster
+3676. Hirasoft Accounting System
+3677. Hireway
+3678. Hive-Gamma
+3679. HoldallProduct
+3680. Holmes
+3681. Home Banking System 4
+3682. Home Catalogue
+3683. Home4Money
+3684. HomeFinance
+3685. HomeLAN Bill
+3686. Homebase
+3687. Horace
+3688. Hororus
+3689. Hospice Volunteer Solutions
+3690. Hospital Scenario Generator
+3691. HostControl
+3692. HostedBusiness
+3693. Hostenet3000 (POS - TPV)
+3694. HotTurtles_projet_GL02
+3695. Hotel Inform. & Ctrl. Services
+3696. Hotel de Java
+3697. Hotel+
+3698. HotelAdmin
+3699. HotelMan
+3700. Hotelier
+3701. HourTrak
+3702. Hours to SQL-Ledger
+3703. Household Expense Sharing
+3704. Human Portal
+3705. Human Resource Web Manager
+3706. Humans Management Holding
+3707. Humex - Human Excellence
+3708. Huru Helpdesk
+3709. HybridInferenceEngine
+3710. Hybris Designer
+3711. Hydor
+3712. HyperSquirrel
+3713. Hypersocket FTS
+3714. HypoCalc
+3715. Hystrix
+3716. I(2) Drive server API libraries
+3717. I-Semantec
+3718. IBANC SEPA Software
+3719. IBANpl
+3720. IBContractExtractor
+3721. IBController
+3722. IBS
+3723. IBTools
+3724. ICA model
+3725. ICAT - The Information Catalog
+3726. ICE Protocol Reference Java Code
+3727. ICS Deleter
+3728. IDCMS Inventory
+3729. IDEA Data Environment Approach
+3730. IFRS Taxonomy Modules Manager
+3731. IFRS consolidation tool
+3732. IFX Transaction Switch
+3733. IGSGateway
+3734. INMOBIS
+3735. INSerial
+3736. IOM
+3737. IP Msg for Java
+3738. IP Space Tool
+3739. IPDM
+3740. IPM (Incyte Project Manager)
+3741. IRAlarm
+3742. ISM Search Work
+3743. ISMS Customer Relationship Management
+3744. ISMeralDa
+3745. ISO Control Documental
+3746. IST-Contract
+3747. IT Project Guide- Project Management
+3748. IT Support Jobtrack System
+3749. IT-Department Management System
+3750. ITALIA-Ecommerce
+3751. ITAnyplace
+3752. ITCH (ITCH is not Time Clock Hardware)
+3753. IVJ Logger
+3754. Ice Coral (project)
+3755. Ice Coral - WorkLog
+3756. IceTasks
+3757. Icebear
+3758. Iconic
+3759. IdCREATE
+3760. Idea Box
+3761. Identigrate
+3762. IdeoReport - java reporting solution
+3763. Ifyn CMS
+3764. Igloo Office
+3765. Ignus Commerce
+3766. Iguana - Business Intelligence
+3767. Ikasan Enterprise Integration Platform
+3768. Illunus Data Integration
+3769. ImageFix
+3770. Imagine! Updater
+3771. Imakante ERP
+3772. Imixs Workflow
+3773. Implicit BPM
+3774. Importal
+3775. Improved Outlook
+3776. Improvement
+3777. In Touch Communicator
+3778. InTIME References
+3779. Incasso
+3780. Incident Response System
+3781. Income Tracker
+3782. Incriminata
+3783. Independant Contractor Timer Application
+3784. Indieband
+3785. Industrial Machinery ERP
+3786. Infinity PFM
+3787. Info Sapient
+3788. Info-Gest
+3789. InfoCentral
+3790. InfoNet
+3791. InfoPad
+3792. Infor$ e-shop
+3793. Inforama
+3794. Information Resource Manager
+3795. Informs: Information Management-System
+3796. Infosistema iFlow
+3797. Infrastructure Automation - Engineering
+3798. Ingutie Personal Task Manager
+3799. Inhaler
+3800. InkJournal
+3801. Innovation Lab
+3802. InsideRecruit
+3803. Insight IN
+3804. Inspiration Camper
+3805. Instant Payment Flow
+3806. Instructor
+3807. InsuranceADM
+3808. IntarS mobile Erweiterungen
+3809. Integral Banking System - IBS
+3810. Intelligent Services Layer
+3811. Interactive Brokers Python API (IbPy)
+3812. Interlogy
+3813. Interna
+3814. Internal SQL Library
+3815. International Address Formats
+3816. InternetCafe
+3817. Internetapplikationen-Analyse
+3818. Intervention Pro
+3819. Intopia layer
+3820. Intracreate
+3821. Intranet Project Manager (INject)
+3822. Intrannuity iBilling Client
+3823. Introbrand
+3824. InventSOS
+3825. Investment Company
+3826. Invoice and PS Multi-OS SESHAT
+3827. Invoices For Small Business
+3828. IpDots ERP and Accounting Framework
+3829. Issue Impala
+3830. Issue Tracking System
+3831. Itadaki
+3832. Item Inventory
+3833. Itlabs
+3834. Izen Cargo
+3835. J-ERP
+3836. J-Spa
+3837. J-Tasks
+3838. J2EE Adapters
+3839. J2EE EBusiness Application
+3840. J2ME Memopad
+3841. J2PM
+3842. J2TUTOS
+3843. J2easy. JBoss vmware appliance.
+3844. J3calc
+3845. J4Fry
+3846. JACR - Just Another Checkbook Register
+3847. JAD Manager
+3848. JADIS
+3849. JAFAR - Just Another Framework ARound
+3850. JAHM
+3851. JAK SW project
+3852. JAPS
+3853. JAT Engine-Java Job Application Tracker
+3854. JATSS Time Sheet
+3855. JAW
+3856. JAWS
+3857. JAccount
+3858. JAccountant
+3859. JAdERP
+3860. JAgendax
+3861. JApp
+3862. JBAM
+3863. JBak
+3864. JBalancedSC
+3865. JBerd
+3866. JBiblio
+3867. JBoKe
+3868. JBookings
+3869. JBooks
+3870. JBooky
+3871. JBudgetPlanner
+3872. JCEPS
+3873. JCS CFD (cliente)
+3874. JCS Starbasic bridge
+3875. JCaixa - Controle Financeiro Pessoal
+3876. JCalc
+3877. JCallCenter
+3878. JCatalog
+3879. JCerberus
+3880. JClaim
+3881. JClerk
+3882. JClipShare
+3883. JClubManager
+3884. JCollectIt
+3885. JCounter
+3886. JCreditRate
+3887. JCurrency
+3888. JDBTools
+3889. JDEBidule
+3890. JDataXmlGenerator
+3891. JDatebook
+3892. JDatev
+3893. JDialer
+3894. JDyn
+3895. JEA
+3896. JEE-Generator
+3897. JELEN
+3898. JERP
+3899. JERP
+3900. JES
+3901. JETManager
+3902. JEkran Yakala
+3903. JEquity
+3904. JExchangeClient
+3905. JFX SightMax
+3906. JFeMa
+3907. JFileSplitter
+3908. JFinance
+3909. JFinanceManager
+3910. JFlowchart
+3911. JGCalendar
+3912. JGTD
+3913. JGenesis
+3914. JGraph Diagram Component
+3915. JGuiGen - Java GUI Application Generator
+3916. JGutenberg
+3917. JHTrading
+3918. JHotel
+3919. JHyperMarket
+3920. JIKI
+3921. JL Mapper
+3922. JLabeler
+3923. JLdapAB
+3924. JLemb
+3925. JMX History
+3926. JMakeZtxt
+3927. JMarket
+3928. JMathTools
+3929. JMedia
+3930. JMemoMaker
+3931. JMrTools
+3932. JNetClip
+3933. JOD Snapshot
+3934. JOOMM
+3935. JOSSER
+3936. JOpenComponents
+3937. JOutlookMSG
+3938. JPFBatch
+3939. JPOSBr
+3940. JPic
+3941. JPilotLog
+3942. JProjectMan
+3943. JQBridge
+3944. JReferences
+3945. JReq
+3946. JRestaurant
+3947. JRota
+3948. JS4J - Javascript for Java
+3949. JSP HelpDesk
+3950. JSP WebProject
+3951. JSPSpellCheck
+3952. JSPlanning
+3953. JSchool
+3954. JSiCal
+3955. JSlovo
+3956. JStickyNotes
+3957. JStockAnalizer
+3958. JStockTicker
+3959. JTaskMonitor
+3960. JTax
+3961. JTeam
+3962. JTikZ
+3963. JTimeTrack
+3964. JTimer
+3965. JTimer (Lite Edition)
+3966. JToDoMe
+3967. JToodleAPI
+3968. JTrac Extensions
+3969. JVerein - Open Source Vereinsverwaltung
+3970. JWebCalendar
+3971. JWebTasks
+3972. JWorkBench
+3973. JXTA Team Folder
+3974. JaDy: Codeless - Application Framework
+3975. JaWaH Shopping Cart
+3976. JSPSpellCheck
+3977. JSPlanning
+3978. JSchool
+3979. JSiCal
+3980. JSlovo
+3981. JStickyNotes
+3982. JStockAnalizer
+3983. JStockTicker
+3984. JTaskMonitor
+3985. JTax
+3986. JTeam
+3987. JTikZ
+3988. JTimeTrack
+3989. JTimer
+3990. JTimer (Lite Edition)
+3991. JToDoMe
+3992. JToodleAPI
+3993. JTrac Extensions
+3994. JVerein - Open Source Vereinsverwaltung
+3995. JWebCalendar
+3996. JWebTasks
+3997. JWorkBench
+3998. JXTA Team Folder
+3999. JaDy: Codeless - Application Framework
+4000. JaWaH Shopping Cart
+4001. JaWatch
+4002. JabDone
+4003. Jabapper - Java SAP Bapi Executor
+4004. Jabotabek
+4005. JadeBackup
+4006. JadeReports
+4007. Jafu Lite
+4008. Jaguar Control System
+4009. Jalita
+4010. Jamm Money Manager
+4011. Jasper Open Servlet
+4012. Jasper Reports data provider for Remedy
+4013. Jasper2Docx
+4014. JasperEdit
+4015. JasperPal
+4016. JasperReports JSF Plugin
+4017. JasperSoft Business Intelligence Suite
+4018. JasperTags
+4019. Jaspersoft for CloudFoundry
+4020. Jather
+4021. Jaura simple, flexiable, usefull
+4022. Java Address Book
+4023. Java Based Data Mining Library
+4024. Java Boleto
+4025. Java CAI Framework
+4026. Java CC Payment Library
+4027. Java Countdown
+4028. Java DTAUS API
+4029. Java Data Mining Framework
+4030. Java Document Management System
+4031. Java Gant Chart applet
+4032. Java Graphical Process Designer
+4033. Java Gray Relation Analyses-
+4034. Java Hospital Information System JHIS
+4035. Java List Viewer
+4036. Java Message Broker (JMB)
+4037. Java Object Messaging Server
+4038. Java Open Personal Finance
+4039. Java Open Source for ASsocations
+4040. Java P2P Tools
+4041. Java PIM Library
+4042. Java Personal Accounting Soft.
+4043. Java Personal Accounting Software
+4044. Java Publishing System
+4045. Java Research and Citation Assistant
+4046. Java Small Business
+4047. Java Speadsheet Generator
+4048. Java Task Planner
+4049. Java Universal eXchange
+4050. Java client for Palm project manager Pro
+4051. Java iCal Group Scheduler
+4052. Java implementation of ebInterface
+4053. Java organization chart
+4054. Java-Bean-Examiner
+4055. Java-POS
+4056. Java-WebAdmin
+4057. JavaAgenda
+4058. JavaEye Reporting Tool
+4059. JavaMeeting
+4060. JavaPoint Web App
+4061. JavaPontoPC
+4062. JavaPostIt
+4063. JavaSSS
+4064. JavaScript MultiDim Interactive Tables
+4065. JavaScript Shopping & Crypto
+4066. Javascript Events Calender
+4067. Javascript date range picker
+4068. JawFlow
+4069. Jaws : Jaws is an Another Webtop System
+4070. JayCE (Enterprise Integration Server)
+4071. JayCalc
+4072. JayMed
+4073. JbiLoan
+4074. Jdeluxe
+4075. JeNiFEr
+4076. Jedi
+4077. Jeki
+4078. Jenius
+4079. Jenna Timesheet
+4080. Jenova Scheduler
+4081. JequePHP
+4082. Jerusalem (School of Tech) Tracking Tool
+4083. Jest
+4084. Jesta
+4085. Jetfire
+4086. Jhive
+4087. Jibe Framework
+4088. Jigsaw for iPhone
+4089. JigsawBMS
+4090. Jime-Commerce
+4091. Jingho project management
+4092. Jipes
+4093. Jira Getting Things Done
+4094. Jira Tag-Control Plugin
+4095. Jitendriya
+4096. Jivaro Job Search Manager
+4097. JiveIOB
+4098. Jlue
+4099. Jnestor
+4100. Job Hunt Log
+4101. Job Market
+4102. Job Organization Board System
+4103. Job Search Log
+4104. Job Search and Information System
+4105. Job Tracker
+4106. Job Tracker for Job Seekers
+4107. Join Integration Management System
+4108. Jones Chimera
+4109. JoomCivi
+4110. JoomOrange
+4111. Joomla Timetrack Component
+4112. Jorp
+4113. Jotter
+4114. Journal Entry
+4115. JprojectReporter
+4116. Jsp-Personal Information Manager
+4117. JspCart
+4118. Jtaskflow
+4119. JuST
+4120. JudoTournament
+4121. Juggernaut Trader
+4122. Julian - a Xaraya calendar module
+4123. Jump Scheduler
+4124. Jupiter
+4125. JustIn-Time
+4126. Jxord-Mango
+4127. K-people
+4128. K.I.C.K.
+4129. K12 Address book
+4130. KB Project
+4131. KBarcode
+4132. KCart shopping cart for phpwebsite
+4133. KCite Citation Assistant
+4134. KFZ-KaufenFahrenZahlen
+4135. KI::Chart
+4136. KKKomerce
+4137. KONEP POSFF
+4138. KORG - Kicker (Table Football) Organizer
+4139. KOSBI
+4140. KOffice
+4141. KResourcesWCAP
+4142. KS2D
+4143. KTH TimeTable
+4144. KTiny Erp Client
+4145. KUMULA
+4146. KUTYA
+4147. KaDoSu
+4148. KaPiR
+4149. KaffeeWareHouse
+4150. Kaiten
+4151. Kakilik
+4152. Kalendar
+4153. Kalender
+4154. Kalkulationsschema / trading scheme
+4155. Kalpa
+4156. Kangaroo PFM
+4157. Kash Money Manager
+4158. Kassenabrechnung für Basare
+4159. Kataloga
+4160. Kdeskphp Help Desk
+4161. Kea Framework
+4162. Kempsville Vol Emergency Org IT Project
+4163. Kent
+4164. KerMod - Moderated Online Meetings
+4165. Keywatch
+4166. Khala HR Payroll
+4167. Khartoum Explorer
+4168. KiCsa
+4169. KillBill - Personal Finance Organizer
+4170. Kindergarden
+4171. KineKit
+4172. KirkerSoft Collector
+4173. Kneiphelfer
+4174. Knesset Lobbyist toolkit
+4175. KnoCoP
+4176. Knowledge Box
+4177. Knowledge Keeper
+4178. Knowledge Workbench 2
+4179. KnowledgeTree PDF reports
+4180. Known
+4181. Koala Calendar Project
+4182. Koala Notes
+4183. KongMoneo
+4184. Konnections
+4185. Kontakter
+4186. Kontenrahmen für Deutschland
+4187. Kontoplaner
+4188. Kopeyka
+4189. Kopyalama Panosu v1.0
+4190. Koteros - Sell on sea
+4191. KoutraXform
+4192. KozSal
+4193. Kraftstoffverbrauch 3
+4194. Krass
+4195. KuMaS
+4196. Kuckuck
+4197. Kudos
+4198. Kukki Professional Publishing Platform
+4199. Kunagi
+4200. Kunagi
+4201. L-Dopa Calendar Sync
+4202. L-invoice - Online Invoicing Solutions
+4203. LCMS
+4204. LDAP Administration Console
+4205. LDAP contact manager
+4206. LDS Administrative Tools
+4207. LDS Meeting Manager
+4208. LECS
+4209. LETS Connector
+4210. LIBSEPA
+4211. LIMS-A
+4212. LINC Base
+4213. LInux Pour l'Entreprise
+4214. LIstFOrmatCONverter
+4215. LM-06
+4216. LMCONTRUST
+4217. LOPDFConverter
+4218. LUTECE
+4219. LWI (Light Weight Inventory)
+4220. LaTeX Edit Kit
+4221. Label Typesetter
+4222. Laboratorio de Inversion y Especulacion
+4223. Ladybug
+4224. LambdaTracker
+4225. LanReg
+4226. Landingham
+4227. Lattice - Spreadsheets to JavaBeans
+4228. Laundry Automation
+4229. Lawin Workflow
+4230. Laxe (Laxe Aint an XML Editor)
+4231. Lazy8Ledger
+4232. Ldap Address Book
+4233. Le Facturier
+4234. Leaping Lemming Project Management
+4235. LeaseWatch Mobile
+4236. LectureTime
+4237. Ledger accounting and bookkeeping
+4238. LedgerEdger
+4239. Ledgerdemain Accounting
+4240. Lehrerstunden Verwaltung
+4241. Leilany framework
+4242. Leinenzwang
+4243. Leinenzwang - Part 1
+4244. LemonCRM
+4245. LensFrame
+4246. LetterMan
+4247. Letting Agent Property Management Tools
+4248. Lhotse Lib
+4249. Lib Finance Math GCC (C++) Lotus 123
+4250. Lib Financial Mathematics GCC (C++) Adv
+4251. Libellula
+4252. Libellus
+4253. Liberty Bookstore
+4254. Liberty Calendar
+4255. Library Acquisitions Database
+4256. Library Circulation System
+4257. Library Staff Scheduler
+4258. Library for using WMTransfer API in .Net
+4259. Librazur
+4260. Libre Business
+4261. LibreDoc
+4262. LibreOffice Java MessageBox Class
+4263. LibreOffice North America
+4264. LibreTx
+4265. Libuzic
+4266. Licenses and Medias
+4267. Lidgren Technical Stock Analyzer
+4268. Liederheft
+4269. Liferay Portlets for iQser GIN
+4270. Lifetime
+4271. Light Warehouse
+4272. LightSpeed Notes
+4273. Lightweight Issue/Bug Tracking System
+4274. Lightweight SOA Governance
+4275. Lightweight Service Desk
+4276. Lightweight club calendar
+4277. Lila
+4278. LilyCal
+4279. LimeSurvey - the Online Survey Tool
+4280. LinfCA - Access Control API in Java
+4281. Lingual Quanta
+4282. LinkDB
+4283. Linoratix Groupware
+4284. Linotel, Hotel Sales and Marketing
+4285. Lintory
+4286. Linux Guist - Multi Lingual OS for Asia
+4287. Linux Kontor
+4288. Linux Migration Project
+4289. LinxBooks
+4290. Liquid Frame
+4291. Liquid Office (native Feng Office Apps)
+4292. LiquidFrame Builder
+4293. ListfulThinking
+4294. Lite Outbound Manager
+4295. Lite Weight Reporter
+4296. LitePay integration samples
+4297. Litigation Manager
+4298. Littera Document Management System
+4299. Little Stock Ticker
+4300. LittleProjectManager
+4301. LivCos
+4302. Lived Framework
+4303. Living Resume: Dynamic Resume Software
+4304. Llynix's Point of Sale
+4305. Loan calculation library
+4306. Localization Webteam
+4307. Localization of ADempiere ERP for Serbia
+4308. Location Alarm
+4309. LocationDependentAction
+4310. Lock It
+4311. Lodge Register
+4312. Log4day
+4313. Logbook Management System
+4314. LogiDist
+4315. LogicX HRM
+4316. Logistic
+4317. Logitrack
+4318. Lookin
+4319. Lotus Notes Mail Query
+4320. Lotus Notes Notifier
+4321. Lotus to Outlook calendar converter
+4322. Lousewort
+4323. Lucidium Application Platform
+4324. Lucrative
+4325. Lunch Count
+4326. LunchTime
+4327. Lupix for school
+4328. Lustra
+4329. LyX - The Document Processor
+4330. Lychee Linux
+4331. M-Polis
+4332. M. Vezelis Bits Visualiser
+4333. MACOW. Mandatory AC on Open Worlds
+4334. MAFEA
+4335. MAGNET
+4336. MARVELit DASH
+4337. MAX: Multi-Agents over XML.
+4338. MAgenda
+4339. MCAL - Modular Calendar Access Library
+4340. MCAP Domain Register
+4341. MCM ARS Volunteer Management
+4342. MDReports
+4343. MEDITECH Formatted Text Document Builder
+4344. METAjour
+4345. METI Research and Development
+4346. MF.Invoicer
+4347. MFbyAS - Monitoraggio Finanziario
+4348. MFlash the Java GSM/ SMS Engine
+4349. MH Weblog
+4350. MI-Calculation
+4351. MIDP Calculator
+4352. MIND: Intelligent Webpage Monitor
+4353. MIS Esquipulas
+4354. MIScha Flight Information System
+4355. MJB2 Matching Platform
+4356. MK Consultant Tools
+4357. MKS Interface Projects
+4358. MLM Easy Downline
+4359. MNameSpaceExample
+4360. MOTU
+4361. MP3 Download Coupon Generator
+4362. MPE Money
+4363. MQLTranslator
+4364. MQshake
+4365. MS Exchange Content Provider
+4366. MS Project Schedule
+4367. MS Write Document Filter Library
+4368. MT Manager
+4369. MTC Li
+4370. MUSC
+4371. MWT - Markup Web Toolkit
+4372. MaDoc
+4373. Mac Audit (Open Audit Standalone Script)
+4374. Mac Stop Watch
+4375. MacMoneyMaker
+4376. MacPK7
+4377. MacReference
+4378. MacStockTrader
+4379. Machinity
+4380. Madrigal
+4381. Magento 2 Age Verification Extension
+4382. Magento 2 Daily Deals Extension
+4383. Magento 2 Duplicate Category
+4384. Magento 2 Edit Order Extension
+4385. Magento 2 Force Login
+4386. Magento 2 Image Clean Extension
+4387. Magento 2 Out of Stock Notification
+4388. Magento 2 Product Custom Tabs Extension
+4389. Magento 2 Product Labels Extension
+4390. Magento 2 Refer a Friend Extension
+4391. Magento 2 Xero Integration Extension
+4392. Magento Modules
+4393. Magento Popup
+4394. Magento Russian Adaptation
+4395. MagicDBPrint
+4396. MagicPIM
+4397. Magot
+4398. Maidan Informatics Train Manager
+4399. MailIO
+4400. MailTraffic
+4401. Main Mail Manager
+4402. Main//Pyrus DMS
+4403. Maja
+4404. Majara
+4405. Make faster (computer-aided) decisions.
+4406. Makent Boats - Boat Rental Software
+4407. Mallrat: PHP MVC Shopping Cart
+4408. MalyPenezniDenik
+4409. Mambo Residents
+4410. Manage Studio
+4411. Manage your life!
+4412. Managed Timer
+4413. Management
+4414. Management Project
+4415. Management of the Process -Lawyer Office
+4416. Managing Director
+4417. Manticore
+4418. Mantis Pager
+4419. Manufacturer
+4420. Manuscript Submission Tracker
+4421. Manux Office Suite
+4422. Mapbender
+4423. Maradona A Sure Bets Player...
+4424. Maranatha : Group Management Software
+4425. Margaret
+4426. Mark Six Analyst
+4427. Market and Currency Tools
+4428. Market-Stats
+4429. Marketcetera Trading Platform
+4430. Marmota
+4431. Mascon container management system
+4432. Mass File Renamer
+4433. Mass payment MT-101 for salaries
+4434. Master Planner
+4435. Masters Helpdesk
+4436. MatMan
+4437. MaticMarket
+4438. Matlat
+4439. Matrosdms
+4440. Maui Topic Indexer
+4441. Mavscript
+4442. Max Pass
+4443. MaxCare - Geniuses
+4444. MaxiGroupware
+4445. Maximo Backoffice
+4446. Maximo development tools
+4447. Mayordomo
+4448. Mazeme inventory
+4449. MeFinanz Mobile
+4450. MeMo
+4451. MedAssist
+4452. MedManage
+4453. Media Crawler
+4454. Media Mentions Tracking System
+4455. Mediboard
+4456. Medical Billing Made Easy
+4457. Medical Refunds Tracking &amp; Analysis
+4458. Medol
+4459. Medscribbler Community
+4460. Meet#Web - Portal for Meeting Organizers
+4461. Meeting Request Scheduling & Booking Sys
+4462. Meeting Room Booking System Pro
+4463. Meges
+4464. MelDance Web Enhancer
+4465. Meldware Communications Suite
+4466. MelissaDB
+4467. Member Management for Fire Fighters
+4468. Member Managemet System
+4469. MemberShipManager
+4470. MemberTrack (Member Management System)
+4471. Mendicus
+4472. Mens
+4473. MentaCart
+4474. Menthol
+4475. Mercury Stock Market
+4476. MercuryCRM
+4477. MergeRight
+4478. Meritomony
+4479. Merlin - Modulo de Seguimiento
+4480. Mermoz
+4481. Meruvian Medallion Integration Project
+4482. Meta-Messager
+4483. MetaASO eForms Framework
+4484. MetaChart
+4485. MetaLister
+4486. Metadata tools for OpenOffice.org
+4487. Method Support
+4488. Metis Project Management Module
+4489. Metrics correlation and analysis service
+4490. Metrocoin
+4491. MexRom Call Tracking System
+4492. Mexican hotel system admin
+4493. MiCartera
+4494. MiDataSets
+4495. MiG Financial
+4496. MiVida
+4497. MibianLib
+4498. Micro-Banking Open Architecture Project
+4499. Midas CashDuck
+4500. Midas EDS
+4501. MightyCal: Zope/Cocoon Calendar Product
+4502. Migov Immigration System
+4503. Migration Machine ETL
+4504. MilanasWSClient
+4505. Milestones - Day Countdown
+4506. MilkChurn
+4507. MimerDesk
+4508. MindTree
+4509. Mindliner
+4510. Mini Journal
+4511. Mini Storage Manager
+4512. Mini-CRM
+4513. MiniETL
+4514. MiniPortal
+4515. MiningMart
+4516. MinistrantenPlanManager
+4517. Minor Money
+4518. MinskTransSched
+4519. MinuteMan
+4520. Mira Groupware
+4521. Mirak Knowledge System (MKS)
+4522. MixDEM
+4523. MoDyna
+4524. MoRo Prestamos
+4525. MoToCa - Money To iCalendar
+4526. MobScheduler
+4527. Mobile Egw Timesheet
+4528. Mobile Expense
+4529. Mobile Impress Presentation Controller
+4530. Mobile Liquid Fluids Inventory System
+4531. Mobile Money
+4532. Mobile Money Manager
+4533. Mobile Office
+4534. Mobile Shopper
+4535. Mobile Tracker
+4536. MobileBookViewer
+4537. MobileXpdf
+4538. MoccaSin-POS
+4539. Mocha Studio Cafe
+4540. Model & Process & 3 Resources
+4541. Modelo8
+4542. Modern Merchant
+4543. Modo
+4544. Modular Business Management Platform
+4545. Modularized Information Environment
+4546. Modularized PHP+XHTML Product Catalogue
+4547. Module Banque EuroInformation Prestashop
+4548. Modus - Management of Telecenters
+4549. Mojo ERP
+4550. MokuWiki
+4551. Moment of Genius CM
+4552. Momo
+4553. Monetux
+4554. Money
+4555. Money Manager Ex.Net
+4556. Money manager
+4557. Money manager core library
+4558. MoneyJar
+4559. MoneyPlant
+4560. MoneyRetriever
+4561. MoneyTree
+4562. Monk Computer Vision
+4563. Monkey Manager 2007
+4564. MonteCarlo portfolio simulation
+4565. Monument
+4566. MooN
+4567. Moomis
+4568. MoonShadow (M$)
+4569. Mortgage CRM Processing Software
+4570. MoruTask
+4571. Motiro
+4572. MotoTimer
+4573. Motown Research and Development
+4574. Movie Forms for Filmmaker
+4575. MovieMan
+4576. MovingSpender
+4577. MozeetHR
+4578. Mozeo
+4579. MtxEventManager
+4580. MuJP
+4581. MudMop
+4582. Mudbag
+4583. Mule Collector Designer
+4584. Multi Cron Ftp
+4585. Multi Format Fast Data Storage Finder
+4586. Multi Vendor Marketplace Software
+4587. Multi-lingual E-Commerce System
+4588. MultiCal
+4589. MultiClip
+4590. MultiCountryFreeAmountShipping Modified
+4591. MultiLingual in NetBeans 6.7
+4592. MultiManager
+4593. Munki Majic
+4594. Muntz EA Object Model
+4595. Murray
+4596. Musdoo
+4597. Music Alarm Clock with Sleep Timer
+4598. Music Retailer Management
+4599. Mussarela Financial Manager
+4600. Mutt Sled
+4601. MvxConnectorJ
+4602. My Agile Project
+4603. My Banking Agent
+4604. My Contact Manager
+4605. My Craft Biz! Business Software
+4606. My Event
+4607. My Hotel PMS
+4608. My Network Docs
+4609. My OPM
+4610. My Outlook Add-Ins
+4611. My Team
+4612. My Telco Issues
+4613. My Text is Treasure
+4614. My Trade Wizard
+4615. My Wiki
+4616. My little money
+4617. MyAB
+4618. MyAPP
+4619. MyBookingSpace
+4620. MyCAT
+4621. MyCMDB
+4622. MyCRM
+4623. MyCal
+4624. MyCompany
+4625. MyControl Workflow Server
+4626. MyCosts
+4627. MyCouncil
+4628. MyDocket
+4629. MyEAI
+4630. MyFina - Personal Finance Manager
+4631. MyFinance
+4632. MyFlit
+4633. MyHRMS
+4634. MyJobs
+4635. MyMixedProjects
+4636. MyNewsLetterSuite
+4637. MyOffice
+4638. MyOutlook
+4639. MyPortfolio
+4640. MyPrestations
+4641. MyQuipu
+4642. MyRecords
+4643. MyRx
+4644. MyShiftbook
+4645. MySonet
+4646. MyStopWatch
+4647. MyT - Notifier
+4648. MyTickets
+4649. MyWorkDay
+4650. MyXpense Family
+4651. Mycashflow
+4652. Mysql Addressbook using wxPython
+4653. Mystic Ticket System
+4654. Mênfis
+4655. Módulos empresariales de egroupware
+4656. Mırnav Muhasebe Otomasyonu
+4657. N-Ctrl Work Log Manager
+4658. NAAP
+4659. NARC
+4660. NDim OLAP
+4661. NEOSMAS RentaCar
+4662. NET=MGM
+4663. NEXEN TASK LIST
+4664. NEXUS - small ERP
+4665. NEXUSe2e Business Messaging Server
+4666. NFS ReportSchedule
+4667. NPE Suite
+4668. NPSYS
+4669. NReg
+4670. NSE EOD Synchronizer
+4671. NVBase
+4672. NWAARS
+4673. NWCpen
+4674. NXPlanner
+4675. Nakid CMS
+4676. Narra Appointment Scheduler
+4677. Narrative -- Cocoa Plotting Framework
+4678. NaryLoad - Linux Load Balancer
+4679. Narya Project Incubator and Forum
+4680. NasperReports
+4681. NateOffice
+4682. Nathi
+4683. National flags collection
+4684. Naucratis
+4685. NeRPN
+4686. Nectar Web Platform
+4687. Negest
+4688. Negine GZip XML Mobile Catalog
+4689. Negyedéves ÁFA
+4690. Nehemiah
+4691. NeoJournal - The New Journal
+4692. NeoTracker, the time tracking program
+4693. Neodesk
+4694. NetIntelligence
+4695. NetOffice E.I.S.
+4696. NetQL
+4697. NetSuite Event Notifier
+4698. NetWorth
+4699. Netention
+4700. NetzShop
+4701. NeuClear
+4702. Neutiquam Erro
+4703. Nevrokode ToraOffice
+4704. New Advanced Timetabling Project
+4705. New Repository
+4706. New Zealand Advanced Property Companion
+4707. NewsWare
+4708. Newtik
+4709. NextGRID Adaptive Workflow API
+4710. Nexty
+4711. Nexus: Database WinForm Usercontrol
+4712. NiLe Web Calendar
+4713. Niamara
+4714. Nikita
+4715. Nile Project Management
+4716. Ninut
+4717. NmnNewsletter
+4718. Nmwerp: the free .NET/MONO ERP System
+4719. No Risk Planning
+4720. NoMemory
+4721. NoPrOMS
+4722. Non-Active
+4723. Non-Profit Organization Donation System
+4724. Norris IT Invoice/CRM
+4725. Nota Fiscal Eletronica
+4726. Notable
+4727. Note Pin
+4728. Note Studio plugin
+4729. NoteFinder
+4730. Notenverwaltung
+4731. Notes/Tasks
+4732. Notes2Gcal
+4733. NotesMax
+4734. Notice Publisher plugin for Trac
+4735. Notilo
+4736. NotisApp Change Notification For SAP ERP
+4737. NovaGrid
+4738. Novita
+4739. NuCore
+4740. NukeGold Rencontres
+4741. Number to Language string conversion
+4742. Numbers Speller
+4743. Numerical Gecko Eclipse Plugin
+4744. Nusho
+4745. Nutzenportfolioanalyse
+4746. O3 wallet
+4747. O3-XDS
+4748. OAC Business Process Management
+4749. OASIS CRM/ERP/WMS
+4750. OB translator
+4751. OCP online collaboration platform
+4752. ODBExpress
+4753. ODF-SVN
+4754. ODF-UOF Converter
+4755. ODFviewer
+4756. ODT Accessibility Checker
+4757. ODT Checker
+4758. OERca
+4759. OFBiz - Karobar ERP
+4760. OFBiz MyHome
+4761. OFBiz OSGi Integration
+4762. OFBiz properties in Simplified Chinese
+4763. OFX Export Cafe
+4764. OFX to QFX Converter
+4765. OGSA-DAI
+4766. OIEICMs
+4767. OIM (Online Interview Manager)
+4768. OL-Commerce v5/AJAX
+4769. OLAP Spend Controlling (OLAP-SC)
+4770. OLD CRE Loaded - Shopping Cart
+4771. ONE
+4772. ONess
+4773. OO jDREW
+4774. OOIMapping
+4775. OOSearch
+4776. OOo Acronym Abbreviation Addon
+4777. OOo Package Manager
+4778. OOo Tools
+4779. OOo/LOo Macro Document Converter
+4780. OOoPDFConverter
+4781. OOoPHP
+4782. OOoSVN
+4783. OOoServer
+4784. OPEN HOSPITALITY SYSTEM
+4785. OPEN SOURCE Team Collaboration System
+4786. ORATIO
+4787. ORBiX Compiere
+4788. ORCA
+4789. ORDS
+4790. ORE/Open Rating Environment
+4791. OSBI
+4792. OSCload 2.0 oscommerce new generation
+4793. OSCoM: Open Source Compatibility Metrics
+4794. OSEG - Open Source eGovernment
+4795. OSIRIS::GIR
+4796. OSIS-UP
+4797. OSMOSII
+4798. OSSWorx PLM
+4799. OTRS eXternalDB
+4800. OWB Utility Scripts
+4801. OWL Panel PHPx
+4802. OYSTER Entity Resolution
+4803. Obelus Helpdesk
+4804. Object Documentor
+4805. Object Oriented AR System API
+4806. Object-Canvas Library
+4807. Object-Oriented Widgets
+4808. ObjectLab Kit
+4809. Objectsheet
+4810. Obschet
+4811. Octopus FFW
+4812. Octopus Graphical Editor
+4813. Odalis
+4814. Odyssi Portal
+4815. Ofbiz Based Human Capital Management
+4816. Ofbiz Framework addons
+4817. Office Cart
+4818. Office Jukebox
+4819. Office Online
+4820. Office Works:Work Flow and Collaboration
+4821. Office in a Box
+4822. OfficeLine
+4823. OfficeShare
+4824. OfficeSpace
+4825. Ofx Generator
+4826. Ogre
+4827. Ohlon
+4828. Oiko
+4829. Okupljanje
+4830. Olap Navigator
+4831. Olate
+4832. Oledrion
+4833. Olimpo
+4834. OmegaCart
+4835. OmniCal
+4836. OmniGraffle Stencil for TRAK
+4837. Omonia (formerly Quicksilver)
+4838. On-Call Calendar
+4839. OneMore
+4840. OnePoint
+4841. Oneida: IT Management System
+4842. Online Address Book
+4843. Online Attendance System
+4844. Online Band Manager
+4845. Online Business Management System
+4846. Online CRM
+4847. Online Form and PDF Form Maker
+4848. Online Library Application (OLA)
+4849. Online Rent
+4850. Online Video Net
+4851. Online img2epub
+4852. Online-Recruiter
+4853. OnlineBilling
+4854. Ontimize
+4855. Ontology Testing
+4856. Ontompiere ERP Business Suite
+4857. Opah! - OPen Administration Helpdesk
+4858. Opalo
+4859. Open BRM
+4860. Open Bankruptcy Case Management
+4861. Open Business
+4862. Open Business Engine
+4863. Open Business Software Interfaces
+4864. Open Busisness Process Management Engine
+4865. Open CRM
+4866. Open CRM and ERP for a small Office
+4867. Open Car Configurator
+4868. Open Catalog
+4869. Open Chain Store Solution
+4870. Open Collaborative Documents Editor
+4871. Open Commerce
+4872. Open Computer Reservation System
+4873. Open Dental Software
+4874. Open Dynamic Employee Scheduling
+4875. Open Extract Processor
+4876. Open Eye - Business Process Management
+4877. Open Faktura
+4878. Open Farm Manager
+4879. Open Financial Exchange Data Server
+4880. Open Force QST
+4881. Open Force SI
+4882. Open ITSM
+4883. Open Inventory
+4884. Open Multi-Market for financial admin
+4885. Open Object Dependency Management
+4886. Open PI Initiative (OPI2)
+4887. Open PLM
+4888. Open Palm Desktop
+4889. Open Port Community
+4890. Open Product Life Cycle Management
+4891. Open Production Quality Management
+4892. Open Project Control
+4893. Open Project Management
+4894. Open Project Manager
+4895. Open Project Services (OPS)
+4896. Open Recall
+4897. Open Reservation Management System
+4898. Open SOA - practical design patterns
+4899. Open Scheduler
+4900. Open Second Life Community Code
+4901. Open Shopping Cart
+4902. Open Simplex Project
+4903. Open Slate
+4904. Open Social Content Provider
+4905. Open Source Asset Data Model
+4906. Open Source Auction House
+4907. Open Source Business Inteligence
+4908. Open Source Etailer
+4909. Open Source HR Information System
+4910. Open Source Practice Management Project
+4911. Open Source Promotion & Distribution
+4912. Open Source Warehouse Management System
+4913. Open Stock Guide
+4914. Open Supply Chain
+4915. Open Taxi
+4916. Open Thermostat
+4917. Open Toolkit
+4918. Open Transnote Ink Suite
+4919. Open Warehouse
+4920. Open Web Office
+4921. Open Yield Managment
+4922. Open eSign
+4923. Open for Government
+4924. Open source OMR in MATLAB
+4925. Open source eProcurement system
+4926. Open source recruiter (OSR)
+4927. Open-Data-Vault-Models
+4928. Open-EMR
+4929. Open-Timeclock
+4930. Open-jACOB
+4931. Open22ERP
+4932. OpenAccount
+4933. OpenAdressbook
+4934. OpenApart
+4935. OpenAppFactory
+4936. OpenAspect
+4937. OpenBAM
+4938. OpenBISuite
+4939. OpenBizMap
+4940. OpenBooX
+4941. OpenBusiness
+4942. OpenBux
+4943. OpenCAGO#
+4944. OpenCORE: Open MVC Framework
+4945. OpenCRM
+4946. OpenCRM
+4947. OpenCSP / RIA
+4948. OpenCards
+4949. OpenCart
+4950. OpenCart Türkiye
+4951. OpenChange Project
+4952. OpenCompiere Business Solution
+4953. OpenContent HPI
+4954. OpenContractware
+4955. OpenCustomer
+4956. OpenDAS
+4957. OpenDTS (Open Data Transfer Tool)
+4958. OpenDelay
+4959. OpenDocument Text Library
+4960. OpenDocument2WackoWiki
+4961. OpenEAS
+4962. OpenEBPP - Electronic Bill Pres & Pay
+4963. OpenECM - content & web management
+4964. OpenEMR Mobile
+4965. OpenEOC
+4966. OpenEP
+4967. OpenESM
+4968. OpenEngagement DMS
+4969. OpenEnterprise
+4970. OpenEphyra
+4971. OpenF
+4972. OpenFDD
+4973. OpenFlat
+4974. OpenFlow
+4975. OpenFlyers
+4976. OpenFreezer
+4977. OpenGiga
+4978. OpenHRM - Human Resource Management
+4979. OpenHSP Hosting control panel
+4980. OpenHermes
+4981. OpenIAM Identity Manager
+4982. OpenINS
+4983. OpenIT
+4984. OpenIcarDMS
+4985. OpenImageShop - yet another webshop
+4986. OpenImovel
+4987. OpenInvestor: price/news distribution
+4988. OpenJCR
+4989. OpenJanela CPQ and MTO Configurator
+4990. OpenJeks - a free java spreadsheet
+4991. OpenLSD : Legacy Storage Document
+4992. OpenLife
+4993. OpenLinked
+4994. OpenLogistic
+4995. OpenMatters
+4996. OpenMeet
+4997. OpenMigrate
+4998. OpenMoka, the easy ERP
+4999. OpenMuseau
+5000. OpenNet Media Collaboration Tools Suite
+5001. OpenFreezer
+5002. OpenGiga
+5003. OpenHRM - Human Resource Management
+5004. OpenHSP Hosting control panel
+5005. OpenHermes
+5006. OpenIAM Identity Manager
+5007. OpenINS
+5008. OpenIT
+5009. OpenIcarDMS
+5010. OpenImageShop - yet another webshop
+5011. OpenImovel
+5012. OpenInvestor: price/news distribution
+5013. OpenJCR
+5014. OpenJanela CPQ and MTO Configurator
+5015. OpenJeks - a free java spreadsheet
+5016. OpenLSD : Legacy Storage Document
+5017. OpenLife
+5018. OpenLinked
+5019. OpenLogistic
+5020. OpenMatters
+5021. OpenMeet
+5022. OpenMigrate
+5023. OpenMoka, the easy ERP
+5024. OpenMuseau
+5025. OpenNet Media Collaboration Tools Suite
+5026. OpenFreezer
+5027. OpenGiga
+5028. OpenHRM - Human Resource Management
+5029. OpenHSP Hosting control panel
+5030. OpenHermes
+5031. OpenIAM Identity Manager
+5032. OpenINS
+5033. OpenIT
+5034. OpenIcarDMS
+5035. OpenImageShop - yet another webshop
+5036. OpenImovel
+5037. OpenInvestor: price/news distribution
+5038. OpenJCR
+5039. OpenJanela CPQ and MTO Configurator
+5040. OpenJeks - a free java spreadsheet
+5041. OpenLSD : Legacy Storage Document
+5042. OpenLife
+5043. OpenLinked
+5044. OpenLogistic
+5045. OpenMatters
+5046. OpenMeet
+5047. OpenMigrate
+5048. OpenMoka, the easy ERP
+5049. OpenMuseau
+5050. OpenNet Media Collaboration Tools Suite
+5051. OpenNotary
+5052. OpenNote
+5053. OpenOMS
+5054. OpenOMS
+5055. OpenOffice Search
+5056. OpenOffice.org Report AutoPilot
+5057. OpenOffice.org Shqip - Albanian
+5058. OpenOffice.org Writer pre-export filter
+5059. OpenOffice.org XSLT Filters
+5060. OpenPMS
+5061. OpenPlot Tool
+5062. OpenProj Workgroup Server
+5063. OpenProjectManagement
+5064. OpenQ
+5065. OpenQuality
+5066. OpenRMIS
+5067. OpenRecord
+5068. OpenResort PMS
+5069. OpenRestaurant
+5070. OpenRoom
+5071. OpenRules: Business Rules Development
+5072. OpenSLM
+5073. OpenSOP
+5074. OpenSRS Pure Java Client
+5075. OpenSSA Open Source Software Application
+5076. OpenSalon
+5077. OpenScanServer
+5078. OpenSched
+5079. OpenScout
+5080. OpenScrumTool
+5081. OpenSearchServer Extractor
+5082. OpenSess
+5083. OpenSessame
+5084. OpenShop
+5085. OpenSource ERP Brazilian Localization
+5086. OpenSource Issue Management Software
+5087. OpenSpreadsheets
+5088. OpenStock
+5089. OpenSupport
+5090. OpenSynergy
+5091. OpenTASSEL
+5092. OpenTTT
+5093. OpenTask
+5094. OpenTradingTools
+5095. OpenTrats
+5096. OpenURP
+5097. OpenVet
+5098. OpenVideoBuster
+5099. OpenVrr
+5100. OpenWSS - Open Workgroup Share Service
+5101. OpenXL Web Service / Workflow Middleware
+5102. OpenXME
+5103. OpenYard
+5104. Openbravo POS
+5105. Openquickbooks
+5106. Opentick
+5107. Opentimesheet
+5108. Oplaty
+5109. OptiAuth
+5110. Optimal BPM
+5111. Opyo
+5112. Oratorum
+5113. Orbit FAQ
+5114. Orbit e-Office
+5115. Ordenando
+5116. Order Manager
+5117. Ordinatus
+5118. Ordás
+5119. Orenga
+5120. Org. profiling and competency management
+5121. OrgCharter
+5122. OrganiTask
+5123. Organizer
+5124. Organizers Database - Source Code
+5125. Organosi Church Management System
+5126. OpenXL Web Service / Workflow Middleware
+5127. OpenXME
+5128. OpenYard
+5129. Openbravo POS
+5130. Openquickbooks
+5131. Opentick
+5132. Opentimesheet
+5133. Oplaty
+5134. OptiAuth
+5135. Optimal BPM
+5136. Opyo
+5137. Oratorum
+5138. Orbit FAQ
+5139. Orbit e-Office
+5140. Ordenando
+5141. Order Manager
+5142. Ordinatus
+5143. Ordás
+5144. Orenga
+5145. Org. profiling and competency management
+5146. OrgCharter
+5147. OrganiTask
+5148. Organizer
+5149. Organizers Database - Source Code
+5150. Organosi Church Management System
+5151. OpenXL Web Service / Workflow Middleware
+5152. OpenXME
+5153. OpenYard
+5154. Openbravo POS
+5155. Openquickbooks
+5156. Opentick
+5157. Opentimesheet
+5158. Oplaty
+5159. OptiAuth
+5160. Optimal BPM
+5161. Opyo
+5162. Oratorum
+5163. Orbit FAQ
+5164. Orbit e-Office
+5165. Ordenando
+5166. Order Manager
+5167. Ordinatus
+5168. Ordás
+5169. Orenga
+5170. Org. profiling and competency management
+5171. OrgCharter
+5172. OrganiTask
+5173. Organizer
+5174. Organizers Database - Source Code
+5175. Organosi Church Management System
+5176. OpenXL Web Service / Workflow Middleware
+5177. OpenXME
+5178. OpenYard
+5179. Openbravo POS
+5180. Openquickbooks
+5181. Opentick
+5182. Opentimesheet
+5183. Oplaty
+5184. OptiAuth
+5185. Optimal BPM
+5186. Opyo
+5187. Oratorum
+5188. Orbit FAQ
+5189. Orbit e-Office
+5190. Ordenando
+5191. Order Manager
+5192. Ordinatus
+5193. Ordás
+5194. Orenga
+5195. Org. profiling and competency management
+5196. OrgCharter
+5197. OrganiTask
+5198. Organizer
+5199. Organizers Database - Source Code
+5200. Organosi Church Management System
+5201. OroCRM
+5202. OscMax 1 Page Checkout
+5203. Osmius
+5204. Outliner ME
+5205. Outlook Duplicate Remover
+5206. Ouvert - tools in Java
+5207. OventLX
+5208. Overtime Meter
+5209. Ows
+5210. PA Warehouse
+5211. PAAL
+5212. PAFlow
+5213. PAI
+5214. PANDA (notes and calendar)
+5215. PAOWL
+5216. PCTech
+5217. PDF Optimizer
+5218. PDF Studio Viewer
+5219. PDMWeb
+5220. PEAR Workflow
+5221. PETIC
+5222. PHP Application Framework
+5223. PHP Book Club
+5224. PHP Business
+5225. PHP CalDAV Class
+5226. PHP Check Printer
+5227. PHP Company Directory
+5228. PHP DTAUS
+5229. PHP DocWriter
+5230. PHP Doctors Rooms
+5231. PHP EMS tools
+5232. PHP Easy Life
+5233. PHP Excel Creator
+5234. PHP IPN Interpreter
+5235. PHP Intelligent Mail
+5236. PHP JOB SITE
+5237. PHP LAN Party Administrator
+5238. PHP Label Print tool
+5239. PHP OnCom
+5240. PHP PayMaster
+5241. PHP Point of Sale V2
+5242. PHP Project Management
+5243. PHP Project Manager
+5244. PHP Quote
+5245. PHP Reservation - Online booking system
+5246. PHP Scheduler
+5247. PHP Support Tickets
+5248. PHP Task Manager
+5249. PHP Timecard
+5250. PHP Todo List Manager
+5251. PHP Venue Booking
+5252. PHP VerCon
+5253. PHP Workorders
+5254. PHP Workspace
+5255. PHP-Community
+5256. PHP-ERP
+5257. PHP-OOP :: Site Framework
+5258. PHPAccounts
+5259. PHPAdvocat
+5260. PHPBalanceSheet
+5261. PHPCrypt
+5262. PHPEditTable
+5263. PHPFinance
+5264. PHPGTK InLook
+5265. PHPGroupWorks
+5266. PHPKanban
+5267. PHPKernel
+5268. PHPMetaData
+5269. PHPMyGTD
+5270. PHPMyPME
+5271. PHPPROBIZ
+5272. PHPScrum
+5273. PHPTimeTrak
+5274. PHPVet
+5275. PHPWebCalendar
+5276. PHPXLent
+5277. PHPfreemind2beamer
+5278. PHPiCalWriter
+5279. PHPlan
+5280. PHPmyMoney
+5281. PHProjekt Themeware System
+5282. PHaSQcal
+5283. PHecking
+5284. PICEM
+5285. PIE - Property Investment Evaluation
+5286. PIMSort
+5287. PINBAL
+5288. PITy
+5289. PJbase
+5290. PKA Farm Manager
+5291. PLCM - SDLC
+5292. PLN amount in words (kwota słownie)
+5293. PLOTlet
+5294. PLies
+5295. PM Mind Mapping
+5296. PMSL - Project Management Super Light
+5297. PMT Reconciler
+5298. PMTools
+5299. PMW Purchasing Manager Whoosh
+5300. PMnet Auction Scheduler
+5301. POD-Manager
+5302. POIS - PHP Orders Invoices and Sales
+5303. PONotificationsBuddy
+5304. POOL - SMS
+5305. POOL-OSCommerce
+5306. POOL-Openbravo
+5307. POOL-OrangeHRM
+5308. POOL-SugarCRM
+5309. POS Enhanced
+5310. POS-Tracker 2
+5311. PPSim Production Process Simulator
+5312. PPT Remote
+5313. PROART
+5314. PROC-php
+5315. PROJETO FINAL PUC APS REAL ARCO
+5316. PROfessional VIdeo RENTal Soft
+5317. PSCafePOS
+5318. PSIGHOS
+5319. PTiExecutivo
+5320. PXE Administrators Toolkit - PAT
+5321. PacheName
+5322. PacificTimesheet
+5323. Pacio
+5324. Pages
+5325. Paghe Open
+5326. Painting Contractor database manager
+5327. Palestina
+5328. Palm Lookout
+5329. Palm Time Table
+5330. Palm sync for iCalendar files
+5331. PalmOS Currency Converter
+5332. PanBI
+5333. PanaChart
+5334. PantryPOS
+5335. Pap'rass
+5336. PaperTrail
+5337. Papermark VLE
+5338. Papers Calendar
+5339. Papyrus
+5340. ParEcon Self-Management System
+5341. Paracelso
+5342. Paradigma
+5343. Parking Garage
+5344. Parliamentary procedure helper
+5345. ParsTeX
+5346. Parsley
+5347. Partystic Sheets
+5348. Pashtu Localization Project
+5349. PassRCP
+5350. Passkeyper
+5351. Password Keeper and Encryptor
+5352. Password Saver
+5353. Password Tracker
+5354. PasteQuick
+5355. Pastin' Pastbin
+5356. PatchOwe
+5357. PatoLeonViewer for KnowledgeTree
+5358. Patrimony
+5359. PayBook
+5360. PayRollFileConverter
+5361. Payment Gateway for MBNet and MO/TO
+5362. PaymentOperation
+5363. Payroll
+5364. Payroll Service for the Small Business
+5365. Payroll and HRMS integreted in Compiere
+5366. Payroll for Struts
+5367. PcInventory
+5368. PcService
+5369. PdfAppend
+5370. Peach-PDM
+5371. Pecunia
+5372. PediatricianRpt
+5373. Pegasus CRM
+5374. Pencil Pusher
+5375. Penny Ledger
+5376. Penny Pincher
+5377. PentaGeSys
+5378. Pentaho Personalizer
+5379. People & Project Tracking System
+5380. PerMoTo
+5381. PeregrineWMS
+5382. PerformNet
+5383. Periodic Calendar
+5384. Perkiraan OSA
+5385. Perl Library Sytem
+5386. PerlPoint
+5387. PersianOnlineShop
+5388. PersianType
+5389. Personal Administration
+5390. Personal Budget
+5391. Personal Cash Flow Forecaster
+5392. Personal Document Manager DMS
+5393. Personal Finance API
+5394. Personal Finance Control System
+5395. Personal Finance Manager
+5396. Personal Finance Manager
+5397. Personal Financial Control
+5398. Personal Info, etc. Management (Pieman)
+5399. Personal Manager
+5400. Personal Task Assistant
+5401. Personal Time Tracker
+5402. PersonalGest
+5403. Pervasive Adaptive Advertisement
+5404. Pet Shop &amp; Groom Manager
+5405. PetCare
+5406. PetERP
+5407. Pharma Stock
+5408. Phasis
+5409. Phiscal
+5410. Phoenix Cash Cart
+5411. Phone Assistance
+5412. Phone Bill Parser
+5413. Phone Stats Generator
+5414. Phorpay - A Paymentech SDK for PHP
+5415. Phosphorus
+5416. Photovoltaic Cell Estimator LITE
+5417. Php Work Queue
+5418. PhpAlmanac
+5419. PhpICalendarX
+5420. PhpMyAssistant
+5421. PhpMyCash
+5422. PhpNuke Module Planning
+5423. PhpTax - Free Income Tax Software.
+5424. PhpiCalLib
+5425. PhpwdManager
+5426. Phramework
+5427. Physhun
+5428. Pi Personal Information Manager
+5429. PicoCMS
+5430. Piece of Cake Project Management
+5431. PiggyBook
+5432. Pimp my Whiskyskåp
+5433. Pinrack
+5434. PipeDream (Colton Software)
+5435. Pisces OpenWorks
+5436. Pizza Business
+5437. Pizza Horta POS
+5438. Pizza Online
+5439. PkLasku laskutusohjelma
+5440. Planillas de RT del INS con OpenOffice
+5441. Plannerz
+5442. Platform Independent Presentation
+5443. Player2edu
+5444. Pledge
+5445. Pleno
+5446. Plomino
+5447. Plone Project Management
+5448. Pocketbook
+5449. Podaci
+5450. Point Of Sale - Pyme
+5451. Point of Sale
+5452. Point-of-Sales (Java)
+5453. PointCRM
+5454. Polemian EC-CMS
+5455. Polish phpGroupWare
+5456. Polly
+5457. Polux
+5458. Polylux
+5459. PomRec
+5460. Pomodoro
+5461. Pomodoro Time
+5462. Poor Man's TCO Calculator (PMTC)
+5463. Popp!
+5464. Popsicle - pop3 add-on to SugarCRM
+5465. Poptask
+5466. Porphyry
+5467. Portable Consultant
+5468. PortableNotary
+5469. Portal Emaus
+5470. Portfolio Allocation/Simulation
+5471. Portfolio Manager
+5472. Portfolio Manager for Option Traders
+5473. Portfolio Tracker
+5474. PortfolioAnalyzer
+5475. Portlet Open Source Trading site (POST)
+5476. Portofino TT
+5477. PosERP
+5478. Post Office - SOAP or FTP
+5479. PostProductionOne
+5480. Postbooks PHP API Package
+5481. PotBS: Production Cost Analysis
+5482. Pound Helper
+5483. Power Jax CMS
+5484. PowerFiler
+5485. PowerMaker
+5486. PowerPoint Document Reader
+5487. Practical Tax
+5488. Praetor Server
+5489. Pragmatic CRM
+5490. Prashn
+5491. Pratis
+5492. Praxislexikon
+5493. PreAdmin
+5494. Preisbock Wordpress
+5495. Prenda
+5496. Presagio
+5497. Presence-O-Matic
+5498. Press_EthicsCHM
+5499. PrestaShop & WordPress
+5500. PrestaShop Electronic Brown theme
+5501. PrestaShop Purchase Order Module
+5502. Presto
+5503. Prima Membership
+5504. PrimaveraConnector
+5505. Print 2.0
+5506. Prio
+5507. Prisma Workbench (PSW)
+5508. Private Label Inventory Converter
+5509. Private Wiki
+5510. Prize Giveaway Portlet
+5511. ProHand
+5512. ProMan
+5513. ProWiki wiki engine
+5514. Procelcius BPM
+5515. ProcessComposer
+5516. ProcessTiming
+5517. Prodaric®
+5518. Prodigy - Product Image Gallery
+5519. Productivito
+5520. Productivity Chain
+5521. Profuturus Help Desk
+5522. Programa Engecare Saúde
+5523. Project @ssistant
+5524. Project Assistant
+5525. Project Auction
+5526. Project Complete
+5527. Project Dock!
+5528. Project Dune
+5529. Project Enabler
+5530. Project Fremis
+5531. Project Gaffel
+5532. Project Logger
+5533. Project Management Software System-PRMSS
+5534. Project Management TOOL
+5535. Project Manager Dexea
+5536. Project Manager Galore
+5537. Project Mango
+5538. Project Planner
+5539. Project Status
+5540. Project Time Tracker
+5541. Project Timer
+5542. Project-based Calendaring System
+5543. Project:Sales
+5544. ProjectBench
+5545. ProjectConceptor
+5546. ProjectMan
+5547. ProjectPortal
+5548. ProjectStatus
+5549. ProjectTime
+5550. ProjectVia.net
+5551. ProjectWatcher
+5552. Projectile
+5553. Projection
+5554. Projector Scheduler
+5555. Projectzilla
+5556. Projektuhr
+5557. Projet Project Management Web App
+5558. Promatch Class Registration
+5559. Prometheus Digi Pres Workbench
+5560. Prompt Courier
+5561. ProofReading Markup Language
+5562. PropertyManager
+5563. Proposito
+5564. Props 'n' Prefs Portlet for Liferay
+5565. Prosper: high quality slides in LaTeX
+5566. Proteus EAI/BI Toolkit
+5567. ProtoHRM
+5568. Protocolo
+5569. Protoforge
+5570. Protokoll Manager
+5571. Provision
+5572. Proximity
+5573. Proyecto DANC, Diseńo Antes No Codigo
+5574. Proyecto Konekto
+5575. Proyecto7
+5576. Ptax2001
+5577. Publicidad del Diario Jornada
+5578. PuderPOS
+5579. Puma-Pad
+5580. PunchClock
+5581. Punto de venta Java
+5582. Purchase Order Tracker
+5583. Pure PHP Database Backup for Zen-cart
+5584. Purefect Desktop
+5585. Purple Beanie Web Booking For Joomla
+5586. PushCommerce.org -- Powerful e-commerce
+5587. PushOk SEMA
+5588. Putt Operating Environment
+5589. PyCAFE
+5590. PyCarga
+5591. PyCoin
+5592. PyDaMelo
+5593. PyFian
+5594. PyGestPayCrypt
+5595. PyLiveResponse(moved, see description)
+5596. PyMOPS
+5597. PyNote
+5598. PyOFX
+5599. PyOpenOffice
+5600. PyPayflowPro
+5601. PyStockQuote
+5602. PyToDoList
+5603. Pynance
+5604. Pynta - Flexible Web Framework in Python
+5605. Pysa
+5606. Pythia
+5607. Python Credit Card API
+5608. Python Excel-XLW File-Maker
+5609. Python Personal Data Interchange Project
+5610. Python Remember the Milk API
+5611. PythonOffice - An Excel Spreadsheet API
+5612. Q&A
+5613. QA plugin for DITAOT
+5614. QAL
+5615. QB-Software
+5616. QCI Asset Tracker (QAT)
+5617. QDepo
+5618. QDisco
+5619. QES Management System
+5620. QExchange
+5621. QExchange
+5622. QIWI API .NET C#
+5623. QM Stores Management System
+5624. QMaintenance
+5625. QNewsletterCreator
+5626. QShapes - PLM functional cad
+5627. QTGasComp
+5628. QTrend
+5629. QUESTIONSTAR
+5630. QkBook
+5631. Qmoney
+5632. Qmpare
+5633. Qodo
+5634. Qt Easy Bill
+5635. QtFarm
+5636. QtNotes
+5637. Qtombo
+5638. Quad-Pres
+5639. Qualdev Planning Tool
+5640. Qualinnove Extensions for Egroupware
+5641. QualityPOS
+5642. QuantComponents
+5643. QuantConcepts Financial Analytic Library
+5644. QuantHas
+5645. QuantLib4J
+5646. Quantas
+5647. QuasiWiki
+5648. Query for Free
+5649. QueryReport
+5650. Question
+5651. Quick Book
+5652. Quick Discussion
+5653. Quick Logger
+5654. QuickERP custom, rapid implementation
+5655. QuickInvoice
+5656. QuickLog
+5657. QuickPlace Realm class for Tomcat
+5658. QuickRent
+5659. QuickTicket
+5660. Quicklogs Trouble Ticketing System
+5661. Quiki
+5662. Quilombo
+5663. Quipu
+5664. Quoots
+5665. Quorum
+5666. Quotations
+5667. QuoteReactor
+5668. Quotero
+5669. Quotes Viewer
+5670. Quản Lý Sản Phẩm Đơn Giản
+5671. R-Portfolio
+5672. R6 Home Inventory
+5673. RADAR
+5674. RATSTAR
+5675. RBSLA:Rule Based Service Level Agreement
+5676. RBanking
+5677. RBill
+5678. RC Calendar Plugin
+5679. RCER
+5680. RClock
+5681. RDVz
+5682. RDerivator
+5683. REPtile
+5684. RESUMIDOR: A text summarizer
+5685. RETE-DB
+5686. REVER
+5687. REvision
+5688. RIA Store
+5689. RIVER Volunteer System
+5690. RLE and LRE easy tool
+5691. RLM Log Reader
+5692. ROCS - Robust Complementary Community Cu
+5693. ROLAP server with Palo HTTP API support
+5694. RRSpreadSheet
+5695. RSane Publisher
+5696. RShell
+5697. RTComp Point Of Sale
+5698. RaPid
+5699. Racksmith
+5700. Radiological indexing
+5701. Radium Collaboration System
+5702. Rails Yearbook Management System
+5703. RailsCRM
+5704. Rain
+5705. Rainbow Trading (rgbtrade)
+5706. Raistlin SOA Container
+5707. Rake Software's SuperBravo
+5708. Rally Integrations
+5709. Ranchbe, PDM/PLM for small buisness
+5710. Random Number
+5711. RandomTimer
+5712. Rapid Detail
+5713. Rapid Task Manager
+5714. Rapidminer Onomastics Extension
+5715. Re/Mind
+5716. ReadyBeans
+5717. Real Estate Agency Management
+5718. Real Estate Listing Organizer and Mapper
+5719. Real Events Calendar
+5720. Real estate Network
+5721. Real-POS
+5722. RealCIX Personal Finance / Accounting
+5723. RealCalendar
+5724. RealComputer Pos
+5725. RealEstateManager
+5726. RealizacjaGt
+5727. Realty Manager
+5728. Realty Manager
+5729. RealtyWeb
+5730. Recommender - CRM Personalization Engine
+5731. Recorder
+5732. Recreational Sports Management System
+5733. Recur
+5734. Recursos Humanos
+5735. Recycle
+5736. Red Apple CMS
+5737. Red Heron ERP
+5738. Red Mombin
+5739. Red PMO Mine
+5740. Red Piranha
+5741. RedBaron Network Inventory System
+5742. RedFlux - Intranet for Architects
+5743. RedTooth
+5744. Redpos
+5745. Reefknot
+5746. ReelOffice
+5747. RefApp
+5748. Referee Manager
+5749. Reference And Notation Tools
+5750. RegCashLinux
+5751. RealizacjaGt
+5752. Realty Manager
+5753. Realty Manager
+5754. RealtyWeb
+5755. Recommender - CRM Personalization Engine
+5756. Recorder
+5757. Recreational Sports Management System
+5758. Recur
+5759. Recursos Humanos
+5760. Recycle
+5761. Red Apple CMS
+5762. Red Heron ERP
+5763. Red Mombin
+5764. Red PMO Mine
+5765. Red Piranha
+5766. RedBaron Network Inventory System
+5767. RedFlux - Intranet for Architects
+5768. RedTooth
+5769. Redpos
+5770. Reefknot
+5771. ReelOffice
+5772. RefApp
+5773. Referee Manager
+5774. Reference And Notation Tools
+5775. RegCashLinux
+5776. RealizacjaGt
+5777. Realty Manager
+5778. Realty Manager
+5779. RealtyWeb
+5780. Recommender - CRM Personalization Engine
+5781. Recorder
+5782. Recreational Sports Management System
+5783. Recur
+5784. Recursos Humanos
+5785. Recycle
+5786. Red Apple CMS
+5787. Red Heron ERP
+5788. Red Mombin
+5789. Red PMO Mine
+5790. Red Piranha
+5791. RedBaron Network Inventory System
+5792. RedFlux - Intranet for Architects
+5793. RedTooth
+5794. Redpos
+5795. Reefknot
+5796. ReelOffice
+5797. RefApp
+5798. Referee Manager
+5799. Reference And Notation Tools
+5800. RegCashLinux
+5801. RegForID
+5802. Regatta - Software for schools
+5803. Registro de profesores - allamchz
+5804. Registro profesores escuela
+5805. Relate
+5806. Relief Item Tracking Application
+5807. Remember
+5808. Remember The Things
+5809. RememberTheMilk jSyncManager Plugin
+5810. RememberTheMilk.com Java API
+5811. RemindMe v1.0
+5812. Reminder
+5813. Remus Information Management
+5814. Render 4 Monitoring
+5815. Rendezvous Groupware Suite
+5816. Rentit
+5817. ReplacerText
+5818. Report Builder
+5819. Report Factory
+5820. Report Manager Plugin for CakePHP 2
+5821. Report Viewer Web Package
+5822. Reportmaker
+5823. ReqBook
+5824. Requel
+5825. Requeteur V2
+5826. Requirement Desktop
+5827. Requirements Manager
+5828. ResXML
+5829. ResellerControlPanel RCP
+5830. ReserveSport
+5831. Reservit Resource Booking System
+5832. Resilient systems for financial industry
+5833. Resort Days - Hotel Management System
+5834. Resource Task Schedule Viewer
+5835. Resourcemanager|phpBB
+5836. Restaurant Management System ( RMS )
+5837. RestifiedTrader
+5838. Resumer
+5839. Retail Management System
+5840. Retail POS system
+5841. Retirement planning - Investimento
+5842. Retra - Resource and Activity Tracker
+5843. Retrace
+5844. RetroMessenger: Secure & Serverless Chat
+5845. Retrospectiva
+5846. ReturnMyPicture
+5847. Revamped Chav Car Lot Management Script
+5848. Reverse Mortgage Calcuator
+5849. Rezay
+5850. Ribhus
+5851. Ricerca dei CAP d'Italia - jTrovaCAP
+5852. Riciclanet
+5853. RigChecker
+5854. Ripple
+5855. Risk Quantify Financial Engine
+5856. Risk Register
+5857. Rita
+5858. Ritera Project Management
+5859. Robo Planner
+5860. RoboStopwatch
+5861. Robusta AC
+5862. Rob´s Procedures
+5863. Rodeo Time Reporting System
+5864. Rodion Life Manager
+5865. Rodoo
+5866. RomanRhapsody
+5867. Romanian dictionaries
+5868. RoofTop
+5869. Room Rack Hotel Manager
+5870. Roomba
+5871. RootsTools.org
+5872. Roster Processor
+5873. Rostercheck
+5874. Roswell Secure Content Manager
+5875. Roundup Issue Tracker
+5876. RouteMaster ESB
+5877. Ruby Time Tracker
+5878. Rubysteps Financial Planning Software
+5879. Rugido Project Administrator
+5880. Rules Framework
+5881. RumbleDown
+5882. Rumor for SBVR
+5883. Run
+5884. RunEstates
+5885. Runscho
+5886. Russian Solicitor's Utilities
+5887. Ryan's Electronic Diary Sheet
+5888. Ryan's In/Out Board
+5889. S-integrator
+5890. S5 Management Tools
+5891. SA - Sociedad Anonima
+5892. SAAFE
+5893. SAC2
+5894. SAFMQ: Store and Forward Message Queue
+5895. SAHO DM-272 time records retriever
+5896. SALIX-CRM
+5897. SAO2000 ERP/CRM
+5898. SAP BAPI JCA Adapter
+5899. SAP R/3 Basis - kurgefasst
+5900. SAP RFC PING
+5901. SASHA
+5902. SASHA Packages
+5903. SAT2
+5904. SATS
+5905. SAU - System for Automate Usage
+5906. SBeaVeR - Business Modeller
+5907. SCFJ
+5908. SCIVAM
+5909. SCL Desktop E
+5910. SCOREMATH
+5911. SCP
+5912. SCRAP Video Store
+5913. SCRUM
+5914. SD-Buy
+5915. SDG Toolbox
+5916. SDX
+5917. SEHR
+5918. SEID
+5919. SEPIAX
+5920. SEWOL: Security-oriented Workflow Lib
+5921. SFL Java Trading System Enviroment
+5922. SFOS
+5923. SG ERP
+5924. SGSS
+5925. SIBEP
+5926. SIC (Amberle Module)
+5927. SICHC
+5928. SIGREM
+5929. SIMIA
+5930. SIMPEG (Employee Management System)
+5931. SINV
+5932. SIPES
+5933. SIPS/ATOS for Prestashop
+5934. SIS
+5935. SISIMP
+5936. SIX - Simple Invoices eXtended
+5937. SL-Panel
+5938. SLA@SOI
+5939. SLAM Software Lifecycle Artefact Manager
+5940. SLogistic
+5941. SMS Chat (CChat)
+5942. SMSAPI
+5943. SMSCal
+5944. SMTrade
+5945. SMaCS
+5946. SOFTSIM
+5947. SOLAPLayers
+5948. SOPApplication
+5949. SOSHelpDesk
+5950. SPA-ERP
+5951. SPASE Data Model Explorer
+5952. SPASE Data Model Tools
+5953. SPASE Registry Explorer
+5954. SPASE Registry Services
+5955. SPASE Toolkit
+5956. SPASE Web Server Demonstrator
+5957. SPEPOS - Simple Pliable Extensible POS
+5958. SPInfo HelpDesk
+5959. SPJ - Sist. Perícia Judicial
+5960. SPOT: the Software Process Tracker
+5961. SPS-PDM
+5962. SQL_DataPlotter
+5963. SQlite directory
+5964. SRI DIMM for Web
+5965. SSAF
+5966. STE - Simple Text Editor
+5967. STITCHER
+5968. STRAP
+5969. SW para Oficinas Defensor del Ciudadano
+5970. SWAG (Simple Wireless Auth of Guests)
+5971. SWAG Trading System
+5972. SWAMP
+5973. SWAT
+5974. SWSComposer4BPEL
+5975. SWordy
+5976. SX Watchdog
+5977. SYR<=>SPR
+5978. SaasCash
+5979. Sabancı Univ. Online DSS
+5980. SaberNet DCS
+5981. Sabiola
+5982. Sablures
+5983. Saeed
+5984. Safe Haven Studios
+5985. SafeHRM
+5986. Sagg - A Securities Data Aggregator
+5987. Sagra UI (una semplice cassa per sagre)
+5988. Salary Slip Generator
+5989. SaleForce Mail Daemon
+5990. Salem Automação Comercial
+5991. Sales, Track It!
+5992. SalesLeader
+5993. SalesReporter
+5994. SalesTrace
+5995. SalihiODF
+5996. Salome
+5997. Salvage Manager
+5998. SameDesk
+5999. Samooha - Empowered Business Networks
+6000. Sample
+6001. San Francisco
+6002. Sandman2
+6003. Sanisis Office
+6004. Santafox Shop
+6005. Sapito
+6006. Sapphire LW
+6007. Saramago
+6008. Sare
+6009. Sarman
+6010. Saskia's Shopsystem
+6011. Saturn Writer
+6012. Save My Time
+6013. Saveri - The Project Planner
+6014. Saúde Manager
+6015. Scadenze
+6016. Scalix Funambol Connector
+6017. Scalp
+6018. Scenario Accounting
+6019. Sched-SPM
+6020. Schedule Management System (SMS)
+6021. Scheduling Matrix Professional
+6022. Schedulist
+6023. Schoodule
+6024. School Administration
+6025. School Control System
+6026. School Project SGA
+6027. Scout Tracker
+6028. ScreamingToDos
+6029. ScreenJournal
+6030. Scriba Open Source Service Desk
+6031. ScribusDB
+6032. Scrum Project Scheduler
+6033. Scrum Space
+6034. Scrum Vision
+6035. ScrumBoard
+6036. ScrumManager
+6037. ScutMonkey, MD
+6038. SearchFLAT
+6039. Seata
+6040. SecSy: Security-oriented Log Synthesis
+6041. SecretariaNET
+6042. Secretary
+6043. Secure IDMS Portfolio
+6044. SecureJDMS
+6045. Security Management System
+6046. SecurityPrivacy
+6047. Selenio
+6048. Self Information Manager
+6049. Self-Commerce
+6050. Seljana PHP E-commerce
+6051. SellWin - CRM Sales Application
+6052. SemaRule Navigator
+6053. Semi-Automatic Instance Matcher (SAIM)
+6054. Send Emails to Evernote Notebook
+6055. Sengage DMS
+6056. SepiaPOS
+6057. Seraph
+6058. Sermon Prep Database
+6059. Serotonin Prediction Markets
+6060. Serva
+6061. Serve Me!
+6062. Service Connector
+6063. ServiceSync Service Repair Software
+6064. Sethsoft Utility Suite
+6065. Settle - Workforce Management
+6066. Sfeb
+6067. SgLinuxOS LiveCD
+6068. Shadow Archer's Planbook
+6069. ShareDoc
+6070. ShareSwarm, Community Micro Broking
+6071. ShareThis for Magento
+6072. ShareWatch
+6073. Shared Source Interactive Publishing Sys
+6074. Shareholder and Dividend Manager
+6075. Sharp Tools Spreadsheet
+6076. Sheetster Web Spreadsheet
+6077. Shell Providers Customer/Accounts DB
+6078. Shepherd -- Project Manager
+6079. ShifTracker
+6080. Shift Scheduler
+6081. Shift Work Calendar
+6082. Shinreki Event Calendar
+6083. Shirt Pocket Desktop
+6084. Shootingmanager
+6085. Shop DB
+6086. ShopApp
+6087. ShopNix Translator
+6088. Shopper
+6089. Shopping Centre
+6090. Shopping List Manager
+6091. Shopping Product Database
+6092. Shoptick E
+6093. Short-term courses management
+6094. Shotout
+6095. Shout- Rendezvous Network Message Poster
+6096. Show Management Utility
+6097. Showroom
+6098. Shutdown Timer
+6099. Siafu Manufacturing Intelligence
+6100. Sian2
+6101. Siebel Tool Box
+6102. SigmaSCM
+6103. SignWriter Tiger
+6104. Signet
+6105. Silent Sync
+6106. Silk Collaboration Server
+6107. SilverFish
+6108. Sim Foreign Worker management System
+6109. SimManTools - Web based management tools
+6110. Simacv
+6111. Similarity Algorithm based on WikipediA
+6112. Simone
+6113. Simple Address Book
+6114. Simple Addressbook
+6115. Simple Asset and Repair Manager
+6116. Simple Calendar for Oracle Forms
+6117. Simple Contact Management
+6118. Simple Contact Manager
+6119. Simple Disease Tracking for Daycares
+6120. Simple ERP for the small business
+6121. Simple Faktura
+6122. Simple Internet Cafe Administration
+6123. Simple Inventory System
+6124. Simple Logbook
+6125. Simple Modular ERP
+6126. Simple Money Management for j2me
+6127. Simple Multi User Managed Directory
+6128. Simple Sharp Decission
+6129. Simple Sheet
+6130. Simple Shop Floor System
+6131. Simple Shop System
+6132. Simple Spreadsheet
+6133. Simple Time Card - stc
+6134. Simple Workflow
+6135. Simple shopping cart with AJAX and WB
+6136. Simple task(things) manager
+6137. SimpleCRM
+6138. SimpleCRM
+6139. SimpleClock
+6140. SimpleInvoicer 2.0
+6141. SimpleInvoicer 2.0
+6142. SimpleMailMerge
+6143. SimpleMobStore
+6144. SimpleNote
+6145. SimplePhoneCalendar
+6146. SimpleRes
+6147. SimpleShop
+6148. SimpleTimer
+6149. SimpleTracker
+6150. SimpleWFS
+6151. SimplecoreLogic
+6152. Simpledoc
+6153. Simply ERP
+6154. Simulation d'une File d'attente M/M/1
+6155. Single Login project
+6156. Singularity
+6157. Sino Linux Middleware and Mobile Suites
+6158. Sinus / Cosinus / Calculate triangles
+6159. Sironta
+6160. Sistema Gestione Stage
+6161. Sistema Hubo
+6162. Sistema de Administracion de Talleres
+6163. Sistema de Control Escolar
+6164. Sistema de Gestion de Incidencias
+6165. Sistema de Inventario y Facturación
+6166. Sistema para Control y Gestión de Obras
+6167. SitS Award Manager
+6168. Site Calendar
+6169. Skejula
+6170. Ski Club Booking System
+6171. Skills Evaluator
+6172. Skit - Sponsor Relationship Management
+6173. SkratchPad
+6174. SkratchPad
+6175. SkrubCRM
+6176. Skêd-Schedule-Parser
+6177. Slate Scheduler
+6178. Sleutel: An RCP based Password Manager
+6179. SlideBrowser
+6180. SlimFIX
+6181. SlimTimer4J
+6182. Slyde Essentials Storage
+6183. Small Business Finance
+6184. Small Business Management System
+6185. Small Business Task Manager
+6186. Smart Calendar for Java Applications
+6187. Smart Finance
+6188. Smart Finance and Accounting
+6189. Smart Mailer
+6190. Smart Project
+6191. Smart data library
+6192. SmartExchange Integration Platform
+6193. SmartIMS
+6194. SmartMail
+6195. SmartPOS
+6196. SmartPlan
+6197. SmartStock
+6198. Smarted Project Manager for XOOPS
+6199. SnapCRM
+6200. SnapOA
+6201. Soapod - The light-weight SOA Container
+6202. SoccerHooligan
+6203. Social Networks Analyzer
+6204. Social People Directory
+6205. Social Science Measurement
+6206. Social-InventoryManagement-Module
+6207. Socr3
+6208. SoftPubs CMS
+6209. Softntic Toolkit API
+6210. Software Engineer's Reporting Assistant
+6211. Software License Tracking Database
+6212. Software Quality Reports for Jira/Bugz
+6213. Software for Small Budget Science
+6214. SoftwareSales
+6215. SolarCRM
+6216. Solicont
+6217. Solistic Calendar
+6218. Solstice
+6219. SolventDesk
+6220. Songo
+6221. Soporte Informático del Plan de Metas
+6222. Sortera guiden
+6223. Soul
+6224. Soup Cash
+6225. Sourcekeeper
+6226. Sovereign - Electronic Nerve Center
+6227. Spanakopita
+6228. Spark Suite
+6229. Spark Workflow Language
+6230. Sparx' EA - MDG for TRAK
+6231. SpeaR
+6232. Speaking Alarm
+6233. Spear Solution
+6234. Speechy - HTML Slides with Audio/Video
+6235. Speedy timer
+6236. Spekulatius
+6237. SpiceHire for SugarCRM
+6238. Spider-MPlan
+6239. SpiderWidget
+6240. SpiraClock
+6241. Spire
+6242. Sports Center Course Management System
+6243. Sports Centre Management Tool
+6244. SpotnRides - Uber Clone Script
+6245. Spreadsheet-based BP Tester
+6246. SprinxCRM QuickBooks Connector
+6247. SquitoDoku
+6248. SriOS
+6249. StPenny
+6250. Staamp
+6251. Staff Holiday Manager
+6252. Staff Whereabouts
+6253. StageManagersHelper
+6254. Stalker
+6255. Star/OpenOffice SSP-Extensions
+6256. StarBar
+6257. StarMX
+6258. Stardic X
+6259. StarsSoft
+6260. StatPlot
+6261. State Machine Toolkit
+6262. Statement Administration
+6263. Statement Tracker
+6264. Status Report Tool
+6265. Status Reporter
+6266. StatusQuo
+6267. Step
+6268. StickIt
+6269. Sticky Royale
+6270. Stilbe
+6271. Stint
+6272. Stock Monkey Stock Selector
+6273. Stock ReturnAnalysis
+6274. Stock Returns
+6275. StockChecker
+6276. StockDataImporter
+6277. StockMS
+6278. StockManiac
+6279. StockMiner
+6280. StockRunner
+6281. StockTicker
+6282. Stonefish Portal
+6283. Stopwatch Logger
+6284. Stopwatch for Smartphone 2003
+6285. StoreManager
+6286. Storrito
+6287. Story Server
+6288. StorySurfer IWE
+6289. StoryTestIQ
+6290. Storyweaver Novel-Writing Suite
+6291. Structs And Nodes Development (SAND)
+6292. Struts Time Entry
+6293. Stuck wheel shopping cart
+6294. Student EHR
+6295. Student Management Package
+6296. Studienportal
+6297. StudioMan
+6298. StudioTracker
+6299. Stuff2Do Todo List Manager
+6300. SuGRNcia Panda!
+6301. SubTrack
+6302. Subversion Stabilitäts-Metrik
+6303. Success community version
+6304. SugarCRM JBilling Intergration Module
+6305. SugarDbLib
+6306. SugarSoapLib
+6307. SugarWAP (Wireless for SugarCRM)
+6308. Sugarhouse
+6309. Suite Selectra
+6310. SuiteCRM-Inventory-Management
+6311. Sum-It
+6312. Sunline
+6313. Supacart Shopping Cart System
+6314. SuperASP
+6315. Superior PLanning And Tracking Tool
+6316. Supply Chain Management
+6317. Support Center Task Management System
+6318. Support Knowledge Base
+6319. Support Station
+6320. Support Tracker
+6321. Support, Defects and Knowledge Desk
+6322. Surreal ToDo
+6323. Sushee
+6324. Susync emacs synchronization suite
+6325. SutiHR
+6326. Svarog Call Contact Center
+6327. Sveccha - Free software in Telugu
+6328. Sviw32 POS System - Ventas e Inventarios
+6329. Swedish SQL-ledger
+6330. SweePHP*Stakes
+6331. SweetDBAdmin
+6332. Swift Meeting Management System
+6333. Swift Web Analysis System
+6334. Swing Timetable Platform (gstpl)
+6335. Swiss Open source Accounting Project
+6336. Swiss Tournament
+6337. Swiyp
+6338. SwordLord Dragon Project
+6339. Sybrain Framework1.0
+6340. Sylvan
+6341. Symphaty
+6342. Synchronized Sticky Notes
+6343. Synth
+6344. System to Evaluate Programmer's Work
+6345. System zbierania CV pracowników
+6346. Système de Traitement à Base de Fichie
+6347. T-Banking
+6348. T4SD
+6349. TA Scheduler
+6350. TAB
+6351. TABs
+6352. TALLERSERVICE
+6353. TALOS
+6354. TAO Business Software
+6355. TASK
+6356. TASKete
+6357. TAWS
+6358. TAXI - The Adjustable Xml edItor
+6359. TAXOMO
+6360. TEAP Collections for IBM TWS 8.4
+6361. TEchnical STock Analyzer
+6362. TIAB89 - A better TI 89 Address Book
+6363. TIMEEFFECT
+6364. TMC SmartCard
+6365. TMSLite
+6366. TNK ERP
+6367. TOD
+6368. TODO LazyList
+6369. TOEJAM
+6370. TOSPMS
+6371. TOTUM - Financial Management System
+6372. TR2F
+6373. TSI
+6374. TSNGO
+6375. TT-Commerce
+6376. TTS Data Center
+6377. TTTool
+6378. TUC Document Distribution System
+6379. TVComm
+6380. TX Corona
+6381. TYPE
+6382. TZN's Account Manager
+6383. TaF
+6384. TabSplit iOS App
+6385. TagBook
+6386. Tagged Concept Map editor
+6387. Tahoe MySQL
+6388. Tail - A Java Technical Analysis Lib
+6389. Talend Compiere Component
+6390. Talend job for Job Scheduler implement.
+6391. Talking Digital Clock
+6392. TalkingAbout Communicator
+6393. Tambooroo
+6394. TampamBasic
+6395. Tander ERP
+6396. Tangent
+6397. TapWrite
+6398. TapformsMailet
+6399. TargetPayAds
+6400. Tariff Eye
+6401. Tartarus ERP®
+6402. Taseree
+6403. Task Allocator and Support Controller
+6404. Task Follow Up System
+6405. Task Information Manager
+6406. Task Schedular
+6407. Task Tracking Monitor
+6408. TaskArtist
+6409. TaskBooth
+6410. TaskFreak!
+6411. TaskMeister
+6412. TaskPile
+6413. TaskStack
+6414. TaskTracker
+6415. TaskTracker (SE Design Project)
+6416. TaskTrax
+6417. Taskee
+6418. Tasklist Project Management Software
+6419. Taskmanager
+6420. Taskmania
+6421. Taskr
+6422. Tasks and Projects Management System
+6423. Tasku
+6424. Taskware
+6425. Taskwarrior
+6426. Taskzilla
+6427. TastyFramework
+6428. Tawa
+6429. Tax Code Software
+6430. Tax Free
+6431. Tax Manager CZ
+6432. TaxCloud
+6433. TaxGeek
+6434. Tcalc -- Text Calculator
+6435. Tea Timer
+6436. Team Elements
+6437. Team Maker
+6438. Team Monitor
+6439. TeamForce
+6440. TeamPlanner
+6441. TeamShui
+6442. TeamSpirit
+6443. Teambox
+6444. Teamglide Employee Performance
+6445. Teamtrac
+6446. Teamwerks
+6447. Tech Tickets
+6448. TechniCal
+6449. Technical Services System
+6450. Techno-Masterz CRM
+6451. TechyTax
+6452. TecnoXp
+6453. TeddyBearNotes
+6454. TeeDict
+6455. TekKBase 2.0
+6456. Teknologiaplaneetta Enterprise Solution
+6457. TelDaBase
+6458. Telesoccorso
+6459. Temperature Converter
+6460. Temperature Converter
+6461. Template for Writing Fellowships
+6462. Template for Writing Markets
+6463. Templates for some open sources
+6464. Templatier
+6465. Tempus
+6466. Tennis Ladder Administrator
+6467. Tento
+6468. Teske- Office Management Solutions
+6469. TestCase Management System
+6470. TestCase4j
+6471. Tevere Flow
+6472. TexBeans
+6473. Text Precis Utility
+6474. Text::FixedWidth.pm
+6475. TextMate GTD Bundle
+6476. Textile Printing Production Manager
+6477. Thai OOo KB
+6478. The Address Book Reloaded
+6479. The Apache Open For Business Project
+6480. The Avner Project
+6481. The Business Guide to FLOSS
+6482. The Business Organiser
+6483. The DOPE
+6484. The Daisy CMS project
+6485. The DataConnectServer (DCS) Project
+6486. The Digital PA
+6487. The Elizabeth Home Accountant
+6488. The Empowered Non-Profit
+6489. The Extensible Office Suite
+6490. The Family Address Book
+6491. The Free PIM
+6492. The Helios Engine
+6493. The ISSU Operating System
+6494. The Legal Index Project
+6495. The Microshare Project
+6496. The Most Advanced Timer
+6497. The Naked Objects Framework
+6498. The Nursery Manager
+6499. The Obix Framework
+6500. The Open Source Exchange Server
+6501. The Opulence library
+6502. The Patchy Server
+6503. The Periwinkle Project
+6504. The Planner
+6505. The Plumber
+6506. The Project Architect
+6507. The Real Estate Investors Network
+6508. The Report Matrix
+6509. The STEM Cells of PHP
+6510. The Teamworks Groupware
+6511. The Thumb
+6512. The TimeTracker
+6513. The Window and Door Company
+6514. The Witima ERP project
+6515. The eCommerce Project
+6516. The jSyncManager Project
+6517. The simplest online store ever
+6518. Theatre Manager
+6519. TherapyDoc
+6520. Thesis Contest
+6521. Thetis
+6522. ThinWire Ajax RIA Framework
+6523. ThisTime
+6524. ThoughtStack
+6525. ThoughtThing
+6526. Three by Five
+6527. ThunderGraph
+6528. Thunderknow
+6529. Thyme
+6530. Tick Java Desktop
+6531. TickIt
+6532. Ticket Tracking System
+6533. Ticket Tree plugin for Trac
+6534. Tickky
+6535. Tidbits
+6536. TigerEvents
+6537. TijdR
+6538. TikZ-dependency
+6539. Tikal CRM
+6540. Tikara
+6541. TikiTasks
+6542. TimTicket - Simple php/mysql ticketing
+6543. Time Accounting Management Software
+6544. Time Banker
+6545. Time Control For Consulting Companies
+6546. Time My Project
+6547. Time Recorder
+6548. Time Tracking Tool
+6549. Time and Date Calculator
+6550. Time-Tracker
+6551. Time4U
+6552. TimeAdder
+6553. TimeBoxes
+6554. TimeFlux
+6555. TimeInsight
+6556. TimeItNow
+6557. TimeKeeper
+6558. TimeLord
+6559. TimeManagementFX
+6560. TimeRecording and Management
+6561. TimeSheet4dotProject
+6562. TimeSlotPick
+6563. TimeStamper
+6564. TimeTracker
+6565. TimeTracker
+6566. TimeTracker
+6567. TimeTrak
+6568. TimeTrax
+6569. TimeTrix
+6570. Timelog
+6571. Timely
+6572. Timen
+6573. Timer
+6574. TimesheetMecha
+6575. Timeulator
+6576. Timex
+6577. Timing Projects
+6578. Timmic
+6579. Timmon - Time Monitor
+6580. TimothyDocs
+6581. Tine 2.0
+6582. Tiny Cargo
+6583. TinyERP.UA
+6584. TinyReminder
+6585. Tip Calculator for Mobiles
+6586. Tire Comparator
+6587. Titleless Online
+6588. Titration: Project Tracking Application
+6589. Tlakitki ERP
+6590. To Do Quick
+6591. To-Do List
+6592. To-do File Type For TextWrangler
+6593. ToDo - workorder and task tracking
+6594. ToDo Calendar
+6595. ToDo Manager for Symbian
+6596. ToDoBee
+6597. ToDoBook
+6598. ToDoList-WM5
+6599. ToDoListXP
+6600. TobFlow
+6601. Toba
+6602. Tockit
+6603. Todo Manager
+6604. Todo Manager
+6605. Todo Pad
+6606. Todolist.php
+6607. Todop
+6608. Toes Online
+6609. TogetherShop
+6610. Tomtko
+6611. Toner Coverage Meter
+6612. Tonkin Workflow System
+6613. Tony Riven - Inventory Manager
+6614. TonyPOS
+6615. Too Doo On Rails
+6616. TooShare
+6617. ToolTimeS40
+6618. Toolkit e-formulieren
+6619. Tools for Liberty (LPTools)
+6620. Toolshop
+6621. Toombila
+6622. Top 1 Planner
+6623. TopGun Twitter Analytics
+6624. TorBank
+6625. Tornado Server
+6626. Toro System
+6627. Total Collector
+6628. Touchbase
+6629. Tour Small Busines Booking
+6630. TourManager: holiday cost accounter
+6631. TournamentDirector
+6632. Tourney Clock
+6633. Towers
+6634. TraSer
+6635. Trac NetBeans Plugin
+6636. Trace It
+6637. TrackMyExpenses
+6638. Tracker
+6639. Trade Master
+6640. TradeWind
+6641. Trading Monkey
+6642. Traditional Chinese To Simple Chinese
+6643. Training Diary
+6644. TransProCalc
+6645. TransacEduardo
+6646. Traveler X
+6647. Travels reservation system
+6648. TreDart
+6649. Treasurer
+6650. Treata
+6651. Tree Planter's Record System (TPRS)
+6652. TreeDataViewer
+6653. TreeUtils
+6654. TreehouseCRM
+6655. TriBok
+6656. Trinka Five Books and PM
+6657. Triumvirate
+6658. TrollHammer
+6659. Truck Dispatcher
+6660. True Multi-Vendor Shipping - osCommerce
+6661. TrustMaster trust account manager
+6662. Trym Reporting Services
+6663. Tryton
+6664. Tullibee
+6665. TurboTrader Back Office Suite
+6666. Turbolister Mac OSX eBay
+6667. Turnkey Linux Community Downloads
+6668. TutoTech.org
+6669. Tux Print
+6670. Twister
+6671. Twitter Research
+6672. Two-Tier Online Knowledge Base
+6673. Tyemill
+6674. Tyflokal
+6675. UBLish
+6676. UCSG ERP
+6677. UDDI server in java.
+6678. UDDI4J
+6679. UDML Parser
+6680. UDoc
+6681. UGrammar
+6682. UK Regions Database
+6683. UMAcms
+6684. UNI
+6685. UNIX BILLING SYSTEM
+6686. UPS Schedule
+6687. USPS Bulk Mail Sorter
+6688. Ucetnictvi OnLine (UOL)
+6689. UeberProject Management System
+6690. Uk Tax and Finance
+6691. Ukolnicek
+6692. Ukrainian Linux applications
+6693. Ulbora Blog
+6694. Ulwazi
+6695. UmbrellaCS
+6696. Umfrage
+6697. Unfiled Baby
+6698. UniSklad
+6699. Unicademic
+6700. Unidoc
+6701. Uniscala Business Objects
+6702. Universal Message Buffer
+6703. Universal Point Of Sale
+6704. University Scheduler Engine
+6705. Uniwits Online Reservation System
+6706. UnkleBill
+6707. UnoCarts System
+6708. Unofficial Interactive Brokers Java API
+6709. UpdateAble
+6710. Usque personal finance manager
+6711. Utilities for Abanq
+6712. UwOffice
+6713. V Compiler
+6714. V Uniersity
+6715. V3xx iCal Copy
+6716. V5Cart
+6717. VANPBPTIR
+6718. VCS (Visitor Control System)
+6719. VENSSO
+6720. VGO
+6721. VGames Play From Anywhere on Anything
+6722. VLLasku
+6723. VObject
+6724. VTCalendar
+6725. Va temps
+6726. Vacation Tool
+6727. VacationPlanner
+6728. Valiant E-Commerce Suite
+6729. ValidODF
+6730. Vamos CRM-Groupware
+6731. Vanagandr
+6732. VarPlan
+6733. Vehicle Records Manager
+6734. Vehicle Tracker
+6735. Vendémiaire_1
+6736. Veneer Application Framework
+6737. VentasPHP - A web-based POS system
+6738. Veroxa BPMS
+6739. Vertinum Online Accounting
+6740. Vertretungen
+6741. Vestigo
+6742. VideoRenter
+6743. Virtual Bookshelf
+6744. Virtual Idea Planner
+6745. Virtual Project Management
+6746. Virtual RBS
+6747. Visual Manager
+6748. Visual Portfolio Manager
+6749. Visual SourceSafe for linux(unix)
+6750. VisualMagic
+6751. VisualPerspective
+6752. VisualTODO
+6753. VitalSigns
+6754. Vnomina
+6755. Vogeljäger
+6756. VoiceMail eXtreme
+6757. Voip Billing Faster
+6758. Volbx
+6759. Volunteer Management OpenSource Software
+6760. Volunteer Registrar
+6761. Vtiger Turk
+6762. Vtiger zimlet
+6763. VtigerCRM Portuguese (PORTUGAL) Language
+6764. Vydavky
+6765. Vyper Dynamic Server
+6766. Völuspá
+6767. W.BIZ Personal Accounting
+6768. WAB Client
+6769. WARFARE
+6770. WASTE (modWASTE)
+6771. WCIS
+6772. WEBO
+6773. WECalculator
+6774. WFRecfgAnalyzer
+6775. WG - Web based CRM Software
+6776. WGFP
+6777. WGphone
+6778. WINLibrary.Now
+6779. WJN
+6780. WL-Cash
+6781. WOLFGANG
+6782. WOOPS
+6783. WP-Service
+6784. WP.osC (WP-osCommerce)
+6785. WPF Barcode Software
+6786. WPMU LDAP Plugin
+6787. WSDL2XForms
+6788. WSRP for PHP (WSRP4PHP)
+6789. WT &amp; MF in a Box
+6790. WaWiSys
+6791. Wall Tracker
+6792. Wallet Control
+6793. Wampum Personal Finance
+6794. WarmWinter
+6795. Warsaw Stock Exchange Quotations module
+6796. WasteAdmin
+6797. WaterFlea Database Maintenance Tool
+6798. WaterSnake
+6799. WateringHole
+6800. Wavechain RFID
+6801. Wcal
+6802. We-Skey
+6803. WeOS20
+6804. WeQuest - simple tiny chat-like system
+6805. Weather Fetch
+6806. Web Application Gateway
+6807. Web Cash
+6808. Web Interface for Infranet Billing
+6809. Web Office Suite
+6810. Web PDB
+6811. Web Postal Service
+6812. Web Presentation
+6813. Web Reporting
+6814. Web accountig and managing
+6815. Web based accounting package.
+6816. Web-ERP
+6817. Web-NoteTaker
+6818. Web-Organizer
+6819. Web-based Funding Point
+6820. Web-based Golf Course Reservation
+6821. Web1S
+6822. WebAPSEE - Flexible Process Management
+6823. WebAccountant (Inactive)
+6824. WebArchive
+6825. WebBTeEd
+6826. WebCATILite web based CATI system
+6827. WebChamado
+6828. WebContact
+6829. WebDAV for PHProjekt
+6830. WebEventer
+6831. WebFaktura
+6832. WebFinancialControl
+6833. WebFocus
+6834. WebForm
+6835. WebHD Team
+6836. WebHelp - php CRM system
+6837. WebIssues
+6838. WebMoney
+6839. WebPayAS2019
+6840. WebPresentation
+6841. WebPressoCRM
+6842. WebProject-CRM
+6843. WebResourceScheduler
+6844. WebSpark CMS
+6845. WebTime
+6846. Webager
+6847. Webanizer
+6848. Webbased stock AI
+6849. Webical Plugins
+6850. Webills
+6851. Webshop Components
+6852. Webworks CRM
+6853. Wegaware
+6854. Weight Converter
+6855. Well Accounts
+6856. Werkplaner
+6857. Werm ERP
+6858. Wharton models
+6859. What's That Color
+6860. Where my money go?
+6861. White Box Finance
+6862. WhiteMatter
+6863. Wi-Fi Bank (Mobile Banking)
+6864. Wiaflos Accounting
+6865. Wiki Weasel
+6866. Wiki based note taking system
+6867. WikiBlame
+6868. Wiking CMS
+6869. Wilos - Process orchestration software
+6870. WineDoc
+6871. Winery Management
+6872. Winfaktura
+6873. Winter Scoring
+6874. WintkCart
+6875. WirePhrame
+6876. Wireless Waiter
+6877. Wishlist Manager
+6878. WiteRat Entree Data Tools
+6879. Wolf
+6880. Wood
+6881. Woody
+6882. WorKlock
+6883. Word Html 2 Formatting Objects
+6884. Word Reference Java API
+6885. Word.Net
+6886. WordsGenerator
+6887. Work Order System
+6888. Work Time
+6889. Work Tracker
+6890. Work Tracking Facilitator
+6891. Work2Go: Workflow Manager
+6892. WorkCity - Fatturazione elettronica
+6893. WorkSCo
+6894. Workbench
+6895. Workflow Execution Engine
+6896. WorkflowJunction
+6897. WorkflowOnsite
+6898. Working Suite Deluxe
+6899. Worklog
+6900. Workman
+6901. Worksheet by Creo Studios
+6902. Workshift database
+6903. Workshop resource manager
+6904. World Clock
+6905. World Clock Application
+6906. Worth: Portable finance
+6907. WorxPanel
+6908. Wy@ERP
+6909. WyCel
+6910. Wyatt - Enterprise Resource Planning
+6911. WyattERP-400
+6912. X-Ticket PHP support ticket system
+6913. XBR
+6914. XBRLComposer
+6915. XCAW-Cooperative Agreements Workflow Sys
+6916. XCmail
+6917. XDAT
+6918. XDP To XSL-FO
+6919. XERP
+6920. XForms for UBL
+6921. XIOS Project Mobile
+6922. XLS/Loader
+6923. XLS2ORCL
+6924. XLucene
+6925. XMI Compliant SVG UML Modeller
+6926. XMLSSReportEngine
+6927. XMLToaster
+6928. XP Roadmap
+6929. XP Roundup Template
+6930. XP Studio
+6931. XPMT - eXtreme Project Management Tool
+6932. XPWeb
+6933. XPense
+6934. XPoll
+6935. XSteam, Water and Steam properties
+6936. XT-Commerce - Community made shopping
+6937. XTIX
+6938. XTManual
+6939. XVII
+6940. XVend E-Commerce System
+6941. Xamps
+6942. Xanthin+
+6943. XarConferences-manage conferences
+6944. Xarxa Suport a la Reutilització
+6945. Xc2iCal
+6946. XellPlan
+6947. Xen Intranet
+6948. Xfig2sml
+6949. Xhelpdesk
+6950. Xinity BASE
+6951. XinodWho
+6952. XosC eCommerce module for Xoops
+6953. Xpert.ivy Supplements
+6954. Xylo Woodworking
+6955. Xylophone
+6956. YABSCA
+6957. YACRM
+6958. YACakeS Cart
+6959. YAES
+6960. YAPAB (Yet Another PHP Address Book)
+6961. YAPS
+6962. YARFRAW - Yet Another RSS Feed Reader A
+6963. YASW - Yet Another Stock Watcher
+6964. YATL - Yet Another ToDo List
+6965. YATTA
+6966. YL-PDM
+6967. YOD :: YOur Diary
+6968. Yagel FastForm
+6969. Yahoo CSV Framework
+6970. YahooFinance API
+6971. Yaoqiang Workflow Engine
+6972. Yapmat
+6973. Yapper
+6974. YardSale
+6975. Yascade
+6976. Yet Another Calendar
+6977. Yet Another Conference Management System
+6978. Yet Another GUI Ledger
+6979. Yet Another Java Rules Engine
+6980. Yet Another Library Management SYStem
+6981. Yet Another Meeting Assistant
+6982. Yet Another Million Pixels Script
+6983. YubangHe_Invoice
+6984. ZFPPreno
+6985. ZK Unit
+6986. ZKActiviti
+6987. ZKOlap4j
+6988. ZZR-Chinese donation management system
+6989. Zadolbator
+6990. Zahlemann
+6991. Zambia
+6992. ZappWeb
+6993. Zaval Advanced TV Guide
+6994. ZebraZ - Membership System
+6995. Zekquel CMS
+6996. Zen Cart Norway
+6997. Zen Cart em Português Brasileiro
+6998. Zen Cart en Español
+6999. Zen II
+7000. ZenMagick
+7001. Zenies
+7002. ZephIR
+7003. ZeroContacts
+7004. Zeus Cart V 1.0
+7005. Zeus Stores Management System
+7006. ZigBee Localizer
+7007. Zigapos
+7008. Zillywiggler Suite
+7009. Zimlet Black / White List
+7010. Zimlet Task Panel
+7011. Zinsrechner
+7012. Zion-IT-ERP
+7013. Zip Code Finder
+7014. Zoapiere ERP System
+7015. Zoho plugins
+7016. ZoneIdeas
+7017. Zope Address Book
+7018. Zope Group Calendar
+7019. Zope Inventory Management System
+7020. ZorgloThèque
+7021. Zx Templatez
+7022. Zyuras Strategy
+7023. a
+7024. aDORe Federation
+7025. aWireframeML
+7026. ab
+7027. abs33.com
+7028. acback accounting system
+7029. account-manager
+7030. ackerTodo
+7031. acoma
+7032. actfast
+7033. activecollab-charts
+7034. activeinsight
+7035. activiti-accelerators
+7036. adLIMS
+7037. adamo: address database with openoffice
+7038. adresSQL
+7039. agnostos
+7040. agorum core
+7041. airTODO - Project Management Tool
+7042. airTeamwork
+7043. ajax calendar
+7044. akPhonebookSync
+7045. akshar
+7046. alania CRM
+7047. alfa
+7048. alpenstock
+7049. alterfinance
+7050. am2jtl
+7051. amazon_gateway
+7052. androidstoken
+7053. anotheR Task Manager
+7054. antonomasya
+7055. anyGTD
+7056. anyProcess
+7057. apes2
+7058. apice
+7059. apimenu
+7060. aplicacion para taller de soporte
+7061. aqua theme for TUTOS
+7062. arcana SME portal system
+7063. archi-styledhtml
+7064. archiPEx
+7065. asperger
+7066. asset-eyes
+7067. auditAD
+7068. avids
+7069. b2ePMS
+7070. bBook : Simple software for business
+7071. bWise - EAI Framework
+7072. backup (recover) appln business objects
+7073. badger
+7074. bakaliko
+7075. baker
+7076. bandicut.net Gestión de proyectos
+7077. barcoder
+7078. batch4j
+7079. bcom
+7080. bemtevi project
+7081. best_seller
+7082. better sql
+7083. bgCart - background shopping cart
+7084. bhPro
+7085. bias
+7086. biise
+7087. bilin Information/Knowledge Management
+7088. billbook: emissione fatture tenuta libri
+7089. bitdump
+7090. biweekly
+7091. bkerp
+7092. blah
+7093. blync
+7094. bod-phdf
+7095. bodego
+7096. boheme
+7097. boit
+7098. bookingadmin
+7099. bookings
+7100. bookskept
+7101. boox
+7102. bpmscript
+7103. bradabra
+7104. budgetrequests.com.client
+7105. bugGrinder
+7106. bugTrack
+7107. bugtime
+7108. businetz
+7109. busy
+7110. cBSC - collaborative balanced scorecard
+7111. cFlo Cash Flow Forecaster
+7112. cTrack
+7113. cacao-accounting
+7114. cadms
+7115. calendar for freelancers
+7116. calibration and maintenance for labs
+7117. calsync
+7118. camelbird
+7119. camobird
+7120. camouflage
+7121. campSoft
+7122. candy
+7123. casabierta
+7124. catalogarte
+7125. ccChurn
+7126. ccm20
+7127. celim
+7128. cepra
+7129. cfml-projectDirector
+7130. chiron calendar
+7131. chklinks
+7132. ci4free
+7133. cinamuc
+7134. clearance
+7135. clip5 text clipboard manager
+7136. clyde
+7137. cmappCalendar
+7138. cobold
+7139. cocoafip
+7140. codez
+7141. coffee-pot
+7142. coinmanager
+7143. comitatus-common Business Library
+7144. commerce:SEO
+7145. common-etl
+7146. communik8r
+7147. compete
+7148. conexito
+7149. conlogix
+7150. connecto
+7151. contweb
+7152. convert2iBank
+7153. coreBOS::core Business Operating System
+7154. corecomponent
+7155. cratch
+7156. credit safe uk
+7157. csr-portal
+7158. ctl-dispatch
+7159. cucema
+7160. cvreport
+7161. cvs+
+7162. cwispy
+7163. dOFX
+7164. dProjects - simple version controlling
+7165. dancarto
+7166. dar-gtd
+7167. dashthree
+7168. dataforge
+7169. dataminer01
+7170. dataweb calibration management
+7171. dbaccount
+7172. dcal - dynamic calendar
+7173. deComment
+7174. dePlan
+7175. deepOfix Mail Server
+7176. denaro : simple personal accounting
+7177. deplate
+7178. dhalbe-Admin
+7179. dicom-cs
+7180. dictati
+7181. dictionaries
+7182. dictonarium
+7183. dimension
+7184. dinbrief-fo
+7185. dita-pdf
+7186. djacal
+7187. dnAnalytics
+7188. doXen
+7189. docplan - a clever doctor-duty-scheduler
+7190. doctransformer
+7191. donaciones
+7192. doshlogger
+7193. dotCMS - Java CMS
+7194. dotProject Desktop Tracking
+7195. dotProject Error Tracker
+7196. dotProject iamdentity Authentication
+7197. dotProject news aggregator
+7198. dotProject-CVS
+7199. dotpms
+7200. dplus(D+)
+7201. dpost - abandoned
+7202. drcr
+7203. dutch Zen Cart project
+7204. dvrmodel
+7205. dwit (do-it)
+7206. dxtime
+7207. e-Administration tool, for e-Governance
+7208. e-CAR
+7209. e-Commerce-Pros
+7210. e-Internation Business Support Framework
+7211. e-Shopping Cart
+7212. e-data genius
+7213. e-document for php
+7214. e-kom
+7215. e-rest, Restaurant Managment
+7216. e-scaparate
+7217. e.f.solution
+7218. e107Commerce
+7219. e7o.de CalDAV Project
+7220. eAnalytics
+7221. eBPM
+7222. eBarter
+7223. eComBill
+7224. eCommerce Station
+7225. eCommerce platform
+7226. eContainers
+7227. eContractor
+7228. eCurrencyRate
+7229. eDreamers
+7230. eGogga
+7231. eHotel - Web based booking and managm't
+7232. eHour
+7233. eKnowledge
+7234. eLawyer
+7235. eMeeting
+7236. eMis
+7237. eMoney
+7238. eNetman
+7239. eNetwizard Matrix Server
+7240. ePersonal Financial Manager
+7241. ePoint System
+7242. ePro
+7243. eSKiMoS
+7244. eSeQuest
+7245. eShop lightweight system
+7246. eSuite
+7247. eSuite XIV
+7248. eSupportCenter
+7249. eXerterp software
+7250. earcon ADF
+7251. easy web app
+7252. easy writing
+7253. easyDE
+7254. ebizframe ERP
+7255. ecan
+7256. ecorCRM
+7257. edGenuiti CRM for Higher Education
+7258. edIT-pc HUB/CRM/ERP/BIS
+7259. edidebit
+7260. editlog
+7261. edocias
+7262. edocs
+7263. effka
+7264. ehwaz
+7265. ekkes-corner
+7266. elari mod for oscommerce
+7267. elcAdmin: Early Learning Center Software
+7268. elcora
+7269. eleMentalClinic
+7270. elekto : generic java web voting system
+7271. emAnalyst
+7272. engineering document portal
+7273. engroup
+7274. enterprise integration framework
+7275. enterpriseNMS
+7276. epok lite
+7277. equanda-contact
+7278. equanda-sport
+7279. erphos
+7280. etrader
+7281. evCore PHP Framework
+7282. evalSMSI
+7283. evolution
+7284. eworkspace
+7285. ex95delta - Disaster Response Management
+7286. excitecrm
+7287. exiguus (entreprise platform)
+7288. extensible Life Cycle Management
+7289. extjs4erp
+7290. eyeCRM
+7291. eyeCalendar
+7292. ez-code
+7293. ezDirectory
+7294. ezProfitERP
+7295. ezSoft
+7296. ezUnison file synchronization tool
+7297. fLowRider
+7298. fachri
+7299. facturaSCRIPTS
+7300. facturake
+7301. fantastic
+7302. faslib
+7303. feed4weka
+7304. filexform
+7305. filtrando google sheets
+7306. flcalc
+7307. flexmonitor
+7308. flophase
+7309. flosscr
+7310. flowchartwiki
+7311. fluxmed
+7312. fondoahorro
+7313. for Pentaho RSC no Pentaho cube designer
+7314. fosdem-maemo
+7315. frame2work
+7316. freeCSSinvoice
+7317. freeIPE
+7318. freeTrolley
+7319. frontburner
+7320. fs_bombeiros
+7321. g-pysnc
+7322. g2iCal
+7323. gCal
+7324. gCheckout - Google Checkout PHP API
+7325. gPowerStation
+7326. gSales E/A
+7327. gXMLTV
+7328. gacp
+7329. gadmin4QC
+7330. galdesk
+7331. ganttproject at web
+7332. gbkeeper
+7333. geektodo
+7334. genoma datawarehouse Framework 1.0
+7335. georgescheduler
+7336. gestorTaller
+7337. gestorXML
+7338. gestshin
+7339. get_xyz
+7340. gexpansion
+7341. ghafas
+7342. giServer
+7343. git-reports
+7344. glocula
+7345. gnc2ods
+7346. gnuOLAP
+7347. gnucash budgeteer
+7348. gnumoney
+7349. golfami
+7350. goxgui
+7351. gplPos
+7352. gquote
+7353. grComm
+7354. grace - governance, risk and compliance
+7355. graif
+7356. graph for palm os
+7357. grisbiphp
+7358. grisbisql
+7359. grisk
+7360. group.time 2002
+7361. guanxiCRM Business Solution
+7362. gwloto
+7363. h-money php personal finance
+7364. handytaler
+7365. haxe1s
+7366. helium
+7367. help-desk-ru
+7368. henglian
+7369. hgk
+7370. hibiscus
+7371. hid budget software
+7372. hiringhall
+7373. histopathR
+7374. hitorigoto - soliloquy chat tool
+7375. hordes
+7376. horusERP
+7377. hospiweb
+7378. hotelik
+7379. hrSync
+7380. hragency
+7381. hspell-gui
+7382. htGroupWorks
+7383. htc-py HyperText Converter for Python
+7384. html-ebook
+7385. i-Pony
+7386. i20k (ISO 20000 SoftWare)
+7387. i9web
+7388. iBoss
+7389. iCal Weather Planner
+7390. iCalScheduler
+7391. iChurchLife
+7392. iDR QBApi
+7393. iDeal System
+7394. iDempiere KSYS
+7395. iDex - Contact Management Software
+7396. iDocs
+7397. iGi Reporter
+7398. iGoSyncDocs
+7399. iGrisbi
+7400. iHotel
+7401. iLastic
+7402. iLifeBook
+7403. iLog
+7404. iMAS ERP
+7405. iManufacture
+7406. iMoney
+7407. iNotesMaker
+7408. iOVH
+7409. iPFaces
+7410. iPlanner
+7411. iPortfolio
+7412. iProjectMan
+7413. iPyME
+7414. iRecess
+7415. iRecipe
+7416. iSURF
+7417. iScheduler
+7418. iSeries Popup Calendar & Snooze Alarm
+7419. iSight (Scientific data plotting)
+7420. iTar
+7421. iTeasy
+7422. iTicket
+7423. iWallet
+7424. ibibproc
+7425. ical2ps
+7426. ical2rss - iCalendar to RSS convertor
+7427. icerp
+7428. id-crm
+7429. ifriqiya ERP and CRM
+7430. imaticus
+7431. inalta
+7432. incometax-AU
+7433. infoERP
+7434. inglespadi
+7435. innovasia
+7436. inventory-scoring
+7437. invisiCollab
+7438. invoPoint
+7439. ircd-immortal
+7440. isbay
+7441. isitimelog
+7442. issuedb
+7443. itax
+7444. ivote
+7445. ixmati
+7446. j2Wallet
+7447. jAddress
+7448. jAgenda
+7449. jAutoInvoice
+7450. jBSC
+7451. jBank
+7452. jBeacon
+7453. jBiblioteca
+7454. jBudget
+7455. jCES-D
+7456. jChart
+7457. jCleanCim
+7458. jDTAUS
+7459. jDelfin
+7460. jDepotManager
+7461. jExcelAnnotations
+7462. jExcelWriter
+7463. jFIX FIX manamgement package
+7464. jFMEA
+7465. jGiortes
+7466. jGnash2QIF
+7467. jMagazzino
+7468. jMasterStruts
+7469. jMovieBase
+7470. jNotes
+7471. jOctopus 1.2
+7472. jOpenIT
+7473. jPersist
+7474. jProject
+7475. jRaport
+7476. jRecruiter
+7477. jRivet
+7478. jSemanticService
+7479. jStockQuote
+7480. jTaxEngine
+7481. jTaxi
+7482. jTechnologies FileManager++
+7483. jTelBook
+7484. jTimeClock
+7485. jTodo
+7486. jURS
+7487. jWallet
+7488. jWebApp
+7489. jXchange electronic catalog
+7490. jXchangeRate
+7491. jaMed
+7492. jajones
+7493. jasperCall
+7494. jaspercommand
+7495. jasperreports-scala
+7496. java GUI tool to manage bibliographies
+7497. java-shortkeys
+7498. jbPAL
+7499. jbShop
+7500. jbpmcmdline
+7501. jcengine
+7502. jcharts
+7503. jcheckit
+7504. jedi
+7505. jfoldersync
+7506. jiCalClient
+7507. jinvest
+7508. jira-in-agile
+7509. jitex
+7510. jledger
+7511. jobBuddy
+7512. jodo - jeriks todo
+7513. jodviewer
+7514. jointar CRM
+7515. jorani
+7516. jot-pad
+7517. jpbox
+7518. jr-extension
+7519. jsCalculator
+7520. jshoppinglist
+7521. json4sapnw
+7522. jsugarsoap
+7523. justwork.groupware
+7524. jvacation
+7525. jverein
+7526. jwwm
+7527. jxCAL
+7528. k5nJournal
+7529. kOlab CP Manager
+7530. kalendae widget
+7531. kamparealis
+7532. kassiope
+7533. kbee.workflow
+7534. kfsCzCal
+7535. klinza professional cms
+7536. knowledge base (php / postgresql)
+7537. koinpurse
+7538. lady beetle
+7539. lanchonete
+7540. lantrotter
+7541. laplaya-todo
+7542. leads4web/3 CRM
+7543. letterboard
+7544. libcommerce
+7545. libcwk
+7546. libellule
+7547. libfinance
+7548. libgtasks
+7549. libqcw
+7550. lilyglyphs
+7551. jwwm
+7552. jxCAL
+7553. k5nJournal
+7554. kOlab CP Manager
+7555. kalendae widget
+7556. kamparealis
+7557. kassiope
+7558. kbee.workflow
+7559. kfsCzCal
+7560. klinza professional cms
+7561. knowledge base (php / postgresql)
+7562. koinpurse
+7563. lady beetle
+7564. lanchonete
+7565. lantrotter
+7566. laplaya-todo
+7567. leads4web/3 CRM
+7568. letterboard
+7569. libcommerce
+7570. libcwk
+7571. libellule
+7572. libfinance
+7573. libgtasks
+7574. libqcw
+7575. lilyglyphs
+7576. jwwm
+7577. jxCAL
+7578. k5nJournal
+7579. kOlab CP Manager
+7580. kalendae widget
+7581. kamparealis
+7582. kassiope
+7583. kbee.workflow
+7584. kfsCzCal
+7585. klinza professional cms
+7586. knowledge base (php / postgresql)
+7587. koinpurse
+7588. lady beetle
+7589. lanchonete
+7590. lantrotter
+7591. laplaya-todo
+7592. leads4web/3 CRM
+7593. letterboard
+7594. libcommerce
+7595. libcwk
+7596. libellule
+7597. libfinance
+7598. libgtasks
+7599. libqcw
+7600. lilyglyphs
+7601. lim
+7602. lin-ecs
+7603. lineDOC
+7604. listweb
+7605. little sister
+7606. loCoMoS
+7607. localbitcoins API .NET C#
+7608. logesnea
+7609. logtodo
+7610. loke
+7611. longmedal
+7612. loppe
+7613. lsn
+7614. m2
+7615. mLoopiusGeb
+7616. mSeller
+7617. mac2pc
+7618. madjax, advanced data managment
+7619. magfido
+7620. maket
+7621. mall-platform-wf
+7622. manageXcel
+7623. manticore-trader
+7624. massacration
+7625. matnovak_ETL
+7626. maxlist
+7627. maymyo
+7628. mbravo12
+7629. meBiblio
+7630. mebot, the mindworkers magic stick
+7631. meddix - remote clinic management tool
+7632. medsrvr
+7633. meetzone
+7634. mercury ITMS
+7635. merore
+7636. metaHRM
+7637. metadata.net
+7638. mexico invoice
+7639. mgw TimeTool
+7640. microMoney
+7641. microerp ERP System
+7642. micromanajer
+7643. mileage track
+7644. milliways
+7645. mineSQL
+7646. misthos07
+7647. mixerp
+7648. mntCyber
+7649. modified eCommerce Shopsoftware
+7650. mojo
+7651. money talks
+7652. moneytags - expense tracking with tags
+7653. monket calendar
+7654. monorepo
+7655. monzaCSC
+7656. mopore-togo
+7657. mouseglove
+7658. mrpea data
+7659. mula
+7660. musicexamples
+7661. musichearts
+7662. my-backlog
+7663. my-icalserver
+7664. my123tkShop beta
+7665. myAgent
+7666. myDigiDistro
+7667. myERP
+7668. myGroupManager
+7669. myIPTV - end-to-end IPTV solution on WEB
+7670. myJea
+7671. myOffix
+7672. myOpenERP
+7673. myPHPCalendar
+7674. myPHPbirthday
+7675. myPal
+7676. mySQL Schema Manager
+7677. mySeat Restaurant Reservation System
+7678. mySolidPoint
+7679. myTimes
+7680. mycloudportal.in
+7681. mycompta online
+7682. mydbaccess - MySQL Web-GUI in PHP/JS
+7683. mylivo
+7684. mymerp
+7685. mymogo
+7686. myphpim
+7687. mystiqueXML
+7688. mywork
+7689. nFix
+7690. nLabsEdi
+7691. naarani Personal Access
+7692. nanowawi
+7693. natti
+7694. neoHort5 iText (v.5.*)&JExcel&ApachePOI
+7695. neofacture
+7696. nervalreports
+7697. netOffice Dwins
+7698. netflux
+7699. netflux
+7700. netxilia
+7701. nexusbpm
+7702. ngcalsync
+7703. ngcommerce
+7704. nightshift
+7705. niouseo
+7706. noneauctstfwr
+7707. nonguiStopwatch
+7708. nossoerpbr
+7709. notepad
+7710. notepapers
+7711. notime
+7712. nxRTS
+7713. nym
+7714. nynok
+7715. oFavs
+7716. oNotes
+7717. oWOT
+7718. obantoo
+7719. obantoo
+7720. obliquid
+7721. octopus-project
+7722. octpgfpl - 2D diagrams for LaTeX
+7723. odfgrep
+7724. oepos
+7725. officereport
+7726. offstageArts
+7727. ofos
+7728. oj! Algorithms
+7729. ol-commerce
+7730. once:radix
+7731. online webmailer, calendar, addressbook
+7732. onlus
+7733. onmail
+7734. ooCommerce
+7735. ooRexx/JVM
+7736. oogalleryimport
+7737. oops-easytrack
+7738. opaals tools
+7739. open SAND framework generator
+7740. open shoe managment system
+7741. open-erp-ware
+7742. openADAMS
+7743. openAirfield
+7744. openBoat
+7745. openCAPA
+7746. openCollab
+7747. openConta
+7748. openDigger
+7749. openFRM
+7750. openHospiz
+7751. openITSM
+7752. openJGroup
+7753. openJean
+7754. openLilyLib
+7755. openM2
+7756. openMOO
+7757. openMagnus
+7758. openPOS System
+7759. openRevman
+7760. openSDC
+7761. openShutUp!
+7762. openTeamWare CRM & Collaboration
+7763. openbil
+7764. openbiz
+7765. openbooks
+7766. openedit
+7767. openformula
+7768. opengroupware
+7769. openhcm
+7770. openhelpdesk
+7771. openhelpdeskejb
+7772. openhrm
+7773. openminer
+7774. openospc
+7775. openpay
+7776. opensesame
+7777. opensind
+7778. opensoft
+7779. opentradesman
+7780. openworship
+7781. optionscat
+7782. orange Ticket
+7783. organize your life
+7784. oroborus
+7785. osCommerce in Brazilian Portuguese
+7786. osCommerce with Contributions Pack
+7787. osFaktura
+7788. osFlowerCart - an OS e-commerce project
+7789. osSmartyCommerce
+7790. osbl
+7791. osc Support System
+7792. osc::modified e-Commerce Software
+7793. oschart - Open Source Charting using Qt4
+7794. oscjman
+7795. owl - open source dictionaries
+7796. ownpos
+7797. oxerp
+7798. pERP
+7799. pInvite
+7800. pMH
+7801. pOrganizer - Palm Organizer
+7802. pPhoneSearch
+7803. pVigil
+7804. pair-trading-view
+7805. palm2ical
+7806. pamDMS
+7807. paocap test
+7808. papalango
+7809. paperAssistor
+7810. paychk
+7811. pdf-glue
+7812. pdfrecycle
+7813. pdftable
+7814. pdftotif
+7815. pebamod
+7816. peersite
+7817. pennylender
+7818. pepperPM
+7819. perl KolabObjects
+7820. perl fitness manager
+7821. persoweb
+7822. phPIMap
+7823. phPhone
+7824. phacturaE
+7825. phlow
+7826. phoca - project time tracker
+7827. phonebox
+7828. php Call Center
+7829. php aufgabenmanager
+7830. php calendar
+7831. php dashboard toolkit
+7832. php virtual table
+7833. php-autobilling
+7834. php-pagebuilder
+7835. phpAV - AktienVerwaltung
+7836. phpBPM
+7837. phpBusinessPlan
+7838. phpByteBazar
+7839. phpCalendarium
+7840. phpChangeWeb
+7841. phpCheckZ
+7842. phpChecklist
+7843. phpClientManager (phpCM)
+7844. phpClinic
+7845. phpCompany
+7846. phpCubeMachine
+7847. phpDate
+7848. phpDesktop
+7849. phpDocAdmin
+7850. phpEWS Enterprise Web Services API
+7851. phpEZAccounting
+7852. phpEasyPayPal
+7853. phpEasyProject
+7854. phpEasyReport
+7855. phpFAM
+7856. phpFaktura
+7857. phpFido
+7858. phpFinancials
+7859. phpFreeLog
+7860. phpGroupWare Themes
+7861. phpHF
+7862. phpIDIS
+7863. phpIntranet for Business
+7864. phpJobScheduler
+7865. phpKalender
+7866. phpLanParty
+7867. phpLendMe - ressource reservation system
+7868. phpMerch - Retail Merchandise Planning
+7869. phpMoney - Financial Planning Tool
+7870. phpMyBooks
+7871. phpMyCV (PHP My Cirriculum Vitae)
+7872. phpMyCoins is a php coin suite.
+7873. phpMyContact
+7874. phpMyContacts
+7875. phpMyContacts - A PHP Contact Manager
+7876. phpEZAccounting
+7877. phpEasyPayPal
+7878. phpEasyProject
+7879. phpEasyReport
+7880. phpFAM
+7881. phpFaktura
+7882. phpFido
+7883. phpFinancials
+7884. phpFreeLog
+7885. phpGroupWare Themes
+7886. phpHF
+7887. phpIDIS
+7888. phpIntranet for Business
+7889. phpJobScheduler
+7890. phpKalender
+7891. phpLanParty
+7892. phpLendMe - ressource reservation system
+7893. phpMerch - Retail Merchandise Planning
+7894. phpMoney - Financial Planning Tool
+7895. phpMyBooks
+7896. phpMyCV (PHP My Cirriculum Vitae)
+7897. phpMyCoins is a php coin suite.
+7898. phpMyContact
+7899. phpMyContacts
+7900. phpMyContacts - A PHP Contact Manager
+7901. phpMyFirm
+7902. phpMyITAsset Keep track of your IT bits
+7903. phpMyIdea
+7904. phpMyJobs
+7905. phpMyLingvo
+7906. phpMyOrganiser
+7907. phpMyPIM
+7908. phpMyQBE
+7909. phpMyShop
+7910. phpNDT
+7911. phpOps
+7912. phpOrganisation
+7913. phpPOS
+7914. phpProjectManager
+7915. phpProjectMaster
+7916. phpProjectSite
+7917. phpReportLib
+7918. phpRequests
+7919. phpScoutmaster
+7920. phpSyncML
+7921. phpTVV
+7922. phpTask Management System
+7923. phpTasks
+7924. phpTimeClock
+7925. phpVV
+7926. phpWebMLM
+7927. phpWfMS
+7928. phpWorkSchedule
+7929. phpZ4
+7930. phpaga
+7931. phpbb-Auction
+7932. phpbiz
+7933. phpdf
+7934. phpfastnews a forum,news,article,review
+7935. phpfilmes
+7936. phpgroupware palm sync
+7937. phpgw Time Tracking Add On App
+7938. phplanning
+7939. phpopendocument
+7940. phpopensurvey
+7941. phptally - A simple Accounting Software
+7942. phpwsCommerce phpWebSite Commerce Module
+7943. phpwsContacts - phpWebSite Contacts Mod
+7944. phxEventManager
+7945. phxUseTrack
+7946. pic-cooler
+7947. piere
+7948. piglet
+7949. pimc
+7950. pimory
+7951. pizza-shop
+7952. pizzaria-online
+7953. pizzasoft
+7954. plausj
+7955. playerdb
+7956. plebis commercium
+7957. pleder
+7958. plugapress
+7959. pn-commerce
+7960. pomodoro
+7961. portus managerial
+7962. pose
+7963. posps web service
+7964. postLog
+7965. postnuke bastard files
+7966. potter-litux
+7967. ppalCart
+7968. ppmsystem
+7969. pragmaTo - pragmatical task manager
+7970. preset content publishing
+7971. proManager
+7972. process sustaining database
+7973. profitCode Shopping Cart
+7974. project 18 10
+7975. project whiteboard
+7976. projectION
+7977. project_SEARCH
+7978. projtimer
+7979. propiedades1000
+7980. proyectodeprueba
+7981. ps_googlebaseshopping
+7982. ptPOS
+7983. ptadb
+7984. punch
+7985. pwdrill
+7986. py5250
+7987. py8583
+7988. pyBuero
+7989. pyCRM
+7990. pyERP
+7991. pyFinancials
+7992. pyKasse
+7993. pyLedger
+7994. pyNDT
+7995. pyOffice
+7996. pyPYME
+7997. pyPets
+7998. pyShop
+7999. pyStock
+8000. pyTiger CRM
+8001. pyXLWriter
+8002. py_etl
+8003. pyactuarial
+8004. pybag
+8005. pyexcel
+8006. pygantt
+8007. pyofxlib
+8008. pysyncml
+8009. pytc the opensource python ERP
+8010. python reporting tools
+8011. qbc-sia
+8012. qhacc
+8013. qinoa
+8014. qnetwork
+8015. qtium
+8016. quaneko
+8017. queXM
+8018. quickpay
+8019. quickpoll
+8020. rMayam
+8021. rMayamSVN
+8022. racked
+8023. raidmaxx
+8024. rapidoaudit
+8025. rbConverterServer
+8026. rcal
+8027. rcpmoney
+8028. readbarcode
+8029. readenglish
+8030. red-open
+8031. redhorn
+8032. renTrack
+8033. retail sales system pos
+8034. rhomobile
+8035. ribook
+8036. roger
+8037. rolodap
+8038. rsgestion
+8039. ru-wiki
+8040. rubymarket
+8041. runus
+8042. russian-names-decliner
+8043. s.o.n.a.r.
+8044. s5edit
+8045. sKWash
+8046. sWIB
+8047. salescube
+8048. salesforge
+8049. salesmart
+8050. salesphorce
+8051. saltation
+8052. sameit
+8053. samproj
+8054. sapJ - Java Extensions for SAP
+8055. savepex
+8056. sayphil
+8057. school planner
+8058. scooter
+8059. scpfw
+8060. scriptella
+8061. scrumBan
+8062. scrumza
+8063. scyshop
+8064. secureDATA
+8065. serial startup kit
+8066. seta
+8067. sfMultiSolutionPortal
+8068. shaktikendra
+8069. shiatsuka
+8070. shiphp
+8071. showList
+8072. showlister
+8073. sigepweb
+8074. signERP
+8075. sillylist
+8076. simDoqs
+8077. simple accounting for mobile phones
+8078. simpleBusiness
+8079. simpleTracker
+8080. simplebookstore
+8081. simplecmms
+8082. simpleflow
+8083. simtrain
+8084. simuBiz
+8085. sistema de validação fiscal
+8086. sisvec
+8087. skynix OpenCIM
+8088. sliver crm
+8089. small-erp
+8090. snurtle
+8091. soap4xtc
+8092. socklib++
+8093. solidXML
+8094. sophie-free
+8095. soroa
+8096. sosxmn
+8097. span
+8098. speedTracker - mobile software
+8099. speedforge
+8100. sphere initiative
+8101. spprotect2
+8102. spule
+8103. ssCRM
+8104. stasi time reporting tool
+8105. statJ
+8106. statproof
+8107. steuer
+8108. storm
+8109. susies
+8110. svnlive
+8111. swapp
+8112. swdev-software-consulting
+8113. syntax
+8114. t-77.com Operational Management System
+8115. tab calendar
+8116. tagazan
+8117. tagfs
+8118. tagnotes
+8119. talweenAlharakat
+8120. taobao.crm
+8121. tascal
+8122. taskcal
+8123. taskmanage
+8124. tasktimer
+8125. tatoolj
+8126. taxEstimator
+8127. taxMadad
+8128. tbroot Business Management Portal
+8129. tbvs
+8130. tckpos
+8131. teachers organizer
+8132. telPHP
+8133. tesorero
+8134. test project
+8135. theBox
+8136. think-erp
+8137. threepio
+8138. tiCube
+8139. time-o-meter
+8140. timeboss
+8141. timestamper
+8142. tiny auction
+8143. tinyCRM
+8144. tinyHeb
+8145. tinyPayroll
+8146. tipio
+8147. tkacal
+8148. to be deleted (has moved)
+8149. tock
+8150. todoplan
+8151. todu
+8152. toolkit for jbpm
+8153. topTMS
+8154. topentms
+8155. totalinsight
+8156. trainwreq - authorized fork of wreq
+8157. transERP
+8158. transacMirtha
+8159. travel management
+8160. tribok
+8161. tsilkast
+8162. tvidoo-cms
+8163. twCash
+8164. twiggi web-based groupware
+8165. tyl-project
+8166. tyme
+8167. u-Fish (micro-fish)
+8168. uBrain
+8169. uCal - Arabic/English Hijri/Greg Date
+8170. uEasy
+8171. uEngine BPMN Modeler
+8172. uMonitor
+8173. uOffice
+8174. u_bookmark
+8175. unit converter java
+8176. uop
+8177. urok3
+8178. urok4
+8179. vCalendar Extractor
+8180. vTiger - FreeSWITCH Integration
+8181. vTiger CRM Greek Translation
+8182. vTiger Italiano
+8183. verdantium
+8184. vermiva
+8185. vieW4 (vienna World Wide Web Workgroups)
+8186. viewportfolio
+8187. vimat
+8188. vision2
+8189. vista podcast alarm clock
+8190. voltmsg
+8191. vteddy
+8192. vtiger Brazilian Portuguese Lang Pack
+8193. vtiger CRM 5.2.1 Bulgarian Language pack
+8194. vtiger crm greek translation
+8195. wGest - Solution libre de gestion
+8196. wa Booking
+8197. wa DocExchange
+8198. wallstreet9
+8199. watano InfoCenter
+8200. wcash
+8201. uop
+8202. urok3
+8203. urok4
+8204. vCalendar Extractor
+8205. vTiger - FreeSWITCH Integration
+8206. vTiger CRM Greek Translation
+8207. vTiger Italiano
+8208. verdantium
+8209. vermiva
+8210. vieW4 (vienna World Wide Web Workgroups)
+8211. viewportfolio
+8212. vimat
+8213. vision2
+8214. vista podcast alarm clock
+8215. voltmsg
+8216. vteddy
+8217. vtiger Brazilian Portuguese Lang Pack
+8218. vtiger CRM 5.2.1 Bulgarian Language pack
+8219. vtiger crm greek translation
+8220. wGest - Solution libre de gestion
+8221. wa Booking
+8222. wa DocExchange
+8223. wallstreet9
+8224. watano InfoCenter
+8225. wcash
+8226. wd2epub
+8227. weAudit
+8228. web research crunch
+8229. web(b)h FiBu fuer deutsches Steuerrecht
+8230. webBRIEFCASE Excel Toolkit
+8231. webBooks
+8232. webERPpos
+8233. webETB
+8234. webcallidus
+8235. webdao
+8236. weberp-china
+8237. webical - web based iCalendar editing
+8238. webstat
+8239. webzash
+8240. weka outlier
+8241. welcomesoft ERP for Joomla, Drupal and LAMP 迎新ERP軟件LAMP版, Joomla版, Drupal版
+8242. wfyd
+8243. whitemammoth
+8244. wiTicket Help Desk Front-End
+8245. windEPAF
+8246. winepassion
+8247. wip5
+8248. wirnif
+8249. wiwwu LaTeX styles
+8250. wizard4j
+8251. wjue Xoops Collection
+8252. wmenu
+8253. wnom projects
+8254. woops2
+8255. wordcheck
+8256. workbase.
+8257. workingReport
+8258. worky
+8259. wsProject
+8260. wticker for the Pocket PC
+8261. wtime
+8262. wxGComp
+8263. wxOutliner - Outliner based on wxWindows
+8264. x-scope
+8265. x2html
+8266. xCal CGI Calendaring Application
+8267. xOrangeJuice
+8268. xParrot
+8269. xTracker Project Management System
+8270. xbrl-open
+8271. xjt
+8272. xls2oracle
+8273. xmlreport
+8274. xpnsqt
+8275. xsltcms.org
+8276. xumpa
+8277. yKes
+8278. yaDing
+8279. yaTax
+8280. yapa-accounting - Accounting made simple
+8281. yaphobia
+8282. yet another notekeeper
+8283. youAdmin
+8284. z9
+8285. z9basic
+8286. zD-X Framework
+8287. zKup
+8288. zaiko
+8289. zcal
+8290. zdesk
+8291. zenPlanner
+8292. zenTrackXoops
+8293. zena CMS
+8294. zeroexchange
+8295. {IBA}Miner
+8296. Überweisungsformulargenerator
+8297. π (PI)
+8298. 
+8299. 
+8300. AstBill-Asterisk Billing and Management
+8301. Helix PHP Framework
+8302. MozPos
+8303. My Handy Restaurant
+8304. Toutateam Groupware
+8305. VTiger Arabic Language Pack
+8306. Free Stock Exchange
+8307. Frugal
+8308. Jerpa
+8309. Maximo developer
+8310. StudioDix - Recording Studio Management
+8311. phpScheduleEm
+8312. phpTimeSheet - timetracking organizer
+8313. AgileTrack
+8314. Auto Tracker
+8315. Lite Billing
+8316. phpAlumni
+8317. CatWin NET
+8318. MyPhpMoney
+8319. e-Svaasthya
+8320. Annada Event Management Software
+8321. Ticket System written in PHP
+8322. teamwork
+8323. Online Airline Booking System
+8324. Dr Assistant
+8325. MediStore
+8326. Helix PHP Framework
+8327. MozPos
+8328. My Handy Restaurant
+8329. Toutateam Groupware
+8330. VTiger Arabic Language Pack
+8331. Free Stock Exchange
+8332. Frugal
+8333. Jerpa
+8334. Maximo developer
+8335. StudioDix - Recording Studio Management
+8336. phpScheduleEm
+8337. phpTimeSheet - timetracking organizer
+8338. AgileTrack
+8339. Auto Tracker
+8340. Lite Billing
+8341. phpAlumni
+8342. CatWin NET
+8343. MyPhpMoney
+8344. e-Svaasthya
+8345. Annada Event Management Software
+8346. Ticket System written in PHP
+8347. teamwork
+8348. Online Airline Booking System
+8349. Dr Assistant
+8350. MediStore
+8351. Helix PHP Framework
+8352. MozPos
+8353. My Handy Restaurant
+8354. Toutateam Groupware
+8355. VTiger Arabic Language Pack
+8356. Free Stock Exchange
+8357. Frugal
+8358. Jerpa
+8359. Maximo developer
+8360. StudioDix - Recording Studio Management
+8361. phpScheduleEm
+8362. phpTimeSheet - timetracking organizer
+8363. AgileTrack
+8364. Auto Tracker
+8365. Lite Billing
+8366. phpAlumni
+8367. CatWin NET
+8368. MyPhpMoney
+8369. e-Svaasthya
+8370. Annada Event Management Software
+8371. Ticket System written in PHP
+8372. teamwork
+8373. Online Airline Booking System
+8374. Dr Assistant
+8375. MediStore
+8376. PDF Viewer Reader
+8377. Cgminer
+8378. License Generator
+8379. webems
+8380. E-Certificate
+8381. GanttPV - Project Scheduling Software
+8382. File Shredder
+8383. Great Little Book Shelf
+8384. Mail-Bomber
+8385. Json to Excel
+8386. maxview document management
+8387. Pharmacy Manager
+8388. Inventory Manager

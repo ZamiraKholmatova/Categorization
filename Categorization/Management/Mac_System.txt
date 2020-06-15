@@ -1,0 +1,3825 @@
+1. Scrollout F1
+2. Etcher
+3. Info-ZIP project
+4. TurboVNC
+5. DeSmuME
+6. PINN
+7. GParted
+8. Webmin
+9. Clover EFI bootloader
+10. libusb
+11. opentrack
+12. Asuswrt-Merlin
+13. ReactOS
+14. V2Ray
+15. Darik's Boot and Nuke
+16. Catacombae
+17. S.M.A.R.T. Monitoring Tools
+18. GPT fdisk
+19. boot-repair-disk
+20. Double Commander
+21. rEFInd
+22. GNS3
+23. Alt-F
+24. Angry IP Scanner
+25. GrandPerspective
+26. VisualBoyAdvance
+27. Burn
+28. RetroArch
+29. VICE
+30. LAME (Lame Aint an MP3 Encoder)
+31. Iperf
+32. LxPup - Puppy Linux + LXDE
+33. android-x86
+34. FCEUX
+35. Wine
+36. BluestarLinux
+37. VoodooHDA
+38. Archman Linux
+39. PowerShell
+40. macam - USB webcam driver for Mac OS X
+41. GSmartControl
+42. rEFIt
+43. Pandora FMS: Flexible Monitoring System
+44. DocFetcher
+45. Zabbix
+46. JXplorer - A Java Ldap Browser
+47. Iometer
+48. Bochs x86 PC emulator
+49. FLAC-Free Lossless Audio Codec
+50. Privoxy
+51. OctoPi
+52. Homebrew
+53. libnet-dev
+54. BRL-CAD
+55. UPnP PortMapper
+56. STAR
+57. CoRD
+58. VeraCrypt
+59. NFS
+60. Bowtie
+61. Nagios Core
+62. JBoss Community
+63. Swiss File Knife
+64. Synology Open Source Project
+65. Gutenprint - Top Quality Printer Drivers
+66. FreeRTOS Real Time Kernel (RTOS)
+67. FileBot
+68. Ghostscript fonts
+69. Postfix Admin
+70. nestopiaue
+71. HexEdit
+72. Open Visual Traceroute
+73. FreeFileSync
+74. Atmel USB DFU Programmer
+75. cdrecord
+76. Linux Mint Deutsch
+77. Rockstor
+78. AppleJack:Troubleshooting Tool for Macs
+79. Synkron
+80. TightVNC
+81. OptiPNG
+82. Poweradmin
+83. antergos
+84. Apcupsd UPS control software
+85. Launch4j Executable Wrapper
+86. ettercap
+87. ExifCleaner
+88. Fink
+89. OpenOCD - Open On-Chip Debugger
+90. mcrcon
+91. The Contiki Operating System
+92. Whited00r
+93. LogicalDOC Document Management - DMS
+94. ExtendedUI
+95. android-backup-extractor
+96. RAR Expander
+97. SocketTest - Test My Socket
+98. SCOWL (and friends)
+99. Fuse - the Free Unix Spectrum Emulator
+100. Zero Install
+101. Precision Time Protocol daemon
+102. SnmpB
+103. Greenstone
+104. AdvanceMAME
+105. Talend Open Studio for Data Integration
+106. WINE for Darwin and Mac OS X
+107. frp
+108. CLISP - an ANSI Common Lisp
+109. AutoMySQLBackup
+110. XMLStarlet command line XML toolkit
+111. netatalk
+112. Cryptomator
+113. wl500g
+114. QP Real-Time Embedded Frameworks & Tools
+115. tuntaposx
+116. JJSplit
+117. Yet Another Java Service Wrapper
+118. Open Object Rexx
+119. synergy-stable-builds
+120. nagiosgraph
+121. cuda-z
+122. Chicken of the VNC
+123. restic
+124. MicroEmulator
+125. DPCIManager
+126. PeerGuardian
+127. Chicken
+128. Windows 10 Lite (Better Privacy)
+129. sstp-client
+130. Cerebro
+131. Elasticsearch
+132. aMule AdunanzA
+133. WANem - Wide Area Network Emulator
+134. A native Mac OS X port of MAME
+135. PHP Server Monitor
+136. EJBCA, JEE PKI Certificate Authority
+137. IPMItool
+138. IKVM.NET
+139. AROS Research Operating System
+140. EmuTOS
+141. PC-BASIC - a GW-BASIC emulator
+142. HWSensors
+143. Logging Framework for C
+144. FAR - Find And Replace
+145. scrcpy
+146. AIO Boot
+147. Netrunner OS
+148. Logstash
+149. DAR - Disk ARchive
+150. GeoNetwork - Geographic Metadata Catalog
+151. SQLiteManager
+152. Pydio Cells
+153. Windows X App Remover
+154. ksar : a sar grapher
+155. Kernelloader
+156. Métamorphose File and Folder Renamer
+157. The FreeDOS Project
+158. Arm Mbed OS
+159. Zenoss Community Edition
+160. RackTables
+161. luckyBackup
+162. NTFS-FREE for Mac OS X
+163. Game Extractor
+164. BackupPC
+165. Tomato USB
+166. Netcat
+167. Pinguy OS
+168. System Stability Tester
+169. VVV (Virtual Volumes View)
+170. VTun - Virtual Tunnels
+171. LDAP Explorer Tool
+172. Phoebetria
+173. VMsvga2
+174. Linuxfx Operational System
+175. OpenNMS
+176. jNetMap
+177. Srelay - the SOCKS proxy and Relay
+178. Toutoulinux
+179. Beats
+180. Phoronix Test Suite
+181. an Object Oriented Neural Engine
+182. refracta
+183. Fuse for macOS
+184. Ganglia
+185. IIDC Camera Control Library
+186. Runtu
+187. LDAP Account Manager
+188. 7-Zip-JBinding
+189. TeemIp - IPAM and DDI solution
+190. Arduino ASCOM Focuser Pro DIY
+191. STUN Client and Server
+192. iHarder.net
+193. Endian Firewall Community
+194. File Splitter
+195. CLucene - a C++ search engine
+196. NFDUMP - Netflow processing tools
+197. FullSync
+198. dmg2iso
+199. Digital Forensic Tool Testing
+200. HariSree Malayalam Software Pack
+201. RebornOS
+202. SimplyBurns
+203. Directory Synchronize Pro (DirSync Pro)
+204. Barman for PostgreSQL
+205. GAG, the Graphical Boot Manager
+206. FileZilla®
+207. duply (simple duplicity)
+208. Cooperative Linux
+209. Hermes
+210. Bacula
+211. MacPorts
+212. mameplus
+213. IPhone Analyzer
+214. dvdisaster
+215. Grsync
+216. searchmonkey
+217. CurlFtpFS
+218. Amanda Network Backup
+219. tcpreplay
+220. Gens
+221. Matriux
+222. Zentyal, Linux Small Business Server
+223. DarwiinRemote
+224. RecordEditor
+225. NagiosQL - Nagios configuration tool
+226. BatteryCat
+227. phpPgAdmin
+228. Live Raizo - Linux for Virtual SysAdmin
+229. SSLScan - Fast SSL Scanner
+230. Hyperic SIGAR
+231. BASE
+232. BitMeter OS
+233. Vifm
+234. i-doit - Open Source CMDB & ITSM Tool
+235. TinTin++ Mud Client
+236. bash debugger
+237. bandwidthd
+238. libusbx
+239. Dynagen: Dynamips / Pemu Front-End
+240. Nanolinux
+241. PHP Shell
+242. Easy CNC
+243. cdrdao
+244. ModSecurity
+245. UFTP
+246. Fsum frontend
+247. Software-based TPM Emulator
+248. ISTool
+249. IPplan IP address management system
+250. LinPHA PHP Photo Gallery
+251. vRenamer
+252. GPS Datalogger Device Control
+253. UPX - a powerful executable packer
+254. SNMP Trap Translator
+255. SharpPcap
+256. Keka
+257. aMSN
+258. OpenXenManager
+259. BrazilFW Firewall and Router
+260. EfonVNC
+261. Bit-Twist (Packet Generator)
+262. WP 34s
+263. ASH Viewer
+264. NiceCopier
+265. PHPfileNavigator
+266. owfs and owhttpd
+267. KeePassSync
+268. libdnet
+269. AlienVault OSSIM
+270. exGENT 64 bit Linux Live DVD
+271. BlueCove
+272. DMX Library for Arduino
+273. AutoSet
+274. Yabause
+275. EasyHotspot
+276. J7Z
+277. Netdisco
+278. ZEsarUX
+279. Udis86 Disassembler for x86 and x86-64
+280. arRsync (A Mac OS X frontend)
+281. Vine Server (OSXvnc)
+282. parchive
+283. SSHTOOLS
+284. PNG and MNG tools
+285. fuse-ext2
+286. Cluster SSH - Cluster Admin Via SSH
+287. LuninuxOS
+288. PyUSB
+289. PuppyRus-A
+290. SerialToIP
+291. BenchmarkSQL
+292. Untangle
+293. udt
+294. OpenSearchServer search engine
+295. RebeccaBlackOS
+296. md5deep and hashdeep
+297. openSUSE Education
+298. usbpicprog: Simple USB PIC programmer
+299. stm32flash
+300. File Read Test
+301. lpc21isp
+302. acsccid
+303. 7z Cracker
+304. phpSysInfo
+305. Network Packet Capture Facility for Java
+306. phpMyBackupPro
+307. FATSort
+308. jxl
+309. File Master
+310. VPNC Front End
+311. HTTPTunnel
+312. GlobalPlatform
+313. q4wine
+314. CUDA GPU memtest
+315. iBench
+316. Gammu
+317. PHP LDAP class for Active Directory
+318. Alluxio
+319. Crunch
+320. Sonic
+321. Launchy
+322. XBOOT-Multi Boot Manager for Boot Master
+323. Mac Boy Advance
+324. Java SIP softphone
+325. Jacksum
+326. Hyenae
+327. Java Service Wrapper
+328. WAV-PRG
+329. Apache ActiveMQBrowser
+330. MinePeon
+331. AutoIndex PHP Script (Directory Indexer)
+332. Orbada - Database manager
+333. UK-International Keyboard Layouts
+334. Simple Log Watcher
+335. Kwok Information Server
+336. The Sleuth Kit
+337. jDiskMark
+338. BashEclipse
+339. ION-DTN
+340. Hyperic Application & System Monitoring
+341. justbrowsing
+342. DaedalusX64
+343. Render Farm Manager, Project Tracker.
+344. Layout de Teclado ABNT2 para Mac OS X
+345. PHP - Net_RouterOS
+346. M.A.M.E. Catalog / Launcher II
+347. Core13
+348. LCDproc
+349. Xena - Digital Preservation Software
+350. Turgen System
+351. siproxd - SIP proxy/masquerading daemon
+352. DSpace
+353. Encode Explorer
+354. dvbsnoop
+355. DICE
+356. LetoDMS
+357. Mac OS X Packages
+358. Libnids - NIDS E-component library
+359. x48 - HP48 calculator emulator
+360. Gambatte
+361. Eagle Mode
+362. File Watcher Utilities
+363. NuttX
+364. Kali Linux Polish Edition
+365. GenericUSBXHCI
+366. HTTP Test Tool
+367. MX4J
+368. Wiiji
+369. OpenJNLP
+370. Heritrix: Internet Archive Web Crawler
+371. Disk Manager
+372. NConf - Enterprise Nagios configurator
+373. OFF System
+374. rkflashtool
+375. Python Knowledge Engine (PyKE)
+376. The Open ISES Project
+377. HTTP Anti Flood/DoS Security Module
+378. NTLM Authorization Proxy Server
+379. Rifidi - Connect the Internet of Things
+380. nload
+381. phpLDAPadmin
+382. NuTyX GNU/Linux
+383. BGINFO4X - BGINFO for X and for Windows!
+384. GRBL for RAMPS 1.4
+385. PelicanHPC
+386. z390 Portable Mainframe Assembler
+387. Concordance
+388. ToastMount
+389. Apache GUI
+390. QNAP NAS GPL Source
+391. Windows 7 Booster
+392. IP Monitor
+393. qtmib
+394. LDAP Address Book
+395. JavaCPC Desktop - Java CPC Emulator
+396. The Nemesis Project
+397. Lingon
+398. MoviX
+399. MultiBootUSB-Live
+400. JOSSO
+401. The Open ISES Project
+402. HTTP Anti Flood/DoS Security Module
+403. NTLM Authorization Proxy Server
+404. Rifidi - Connect the Internet of Things
+405. nload
+406. phpLDAPadmin
+407. NuTyX GNU/Linux
+408. BGINFO4X - BGINFO for X and for Windows!
+409. GRBL for RAMPS 1.4
+410. PelicanHPC
+411. z390 Portable Mainframe Assembler
+412. Concordance
+413. ToastMount
+414. Apache GUI
+415. QNAP NAS GPL Source
+416. Windows 7 Booster
+417. IP Monitor
+418. qtmib
+419. LDAP Address Book
+420. JavaCPC Desktop - Java CPC Emulator
+421. The Nemesis Project
+422. Lingon
+423. MoviX
+424. MultiBootUSB-Live
+425. JOSSO
+426. fuse-xfs
+427. Venom Linux
+428. Borg
+429. KA9Q Mirror
+430. Zephyr Project
+431. Modfs
+432. Button Masher
+433. OneCMDB
+434. Mantaray
+435. bitfarm-Archiv Document Management - DMS
+436. cryptcat - encrypting netcat
+437. netwox
+438. hexinject
+439. phpMorphy
+440. Tagstoo
+441. ESP Easy
+442. dfu-util
+443. The Chromium Project
+444. SnapRAID
+445. Barnyard
+446. ASAP - Another Slight Atari Player
+447. Advanced Persistent Security
+448. docx2txt
+449. FlashForth: for PIC and Atmega
+450. Resara Server
+451. Macbuntu2020
+452. ZZIPlib Library
+453. OPNsense
+454. MeD's Movie Manager
+455. TwistedSNMP
+456. GDuplicateFinder
+457. licas
+458. moscrack
+459. Pearl Desktop (PDE) 8
+460. TORO kernel
+461. JNotify
+462. WPA2Gen
+463. Dopus5 – Directory Opus 5 (Amiga)
+464. CrococryptFile
+465. Lethe - GPL Partition Freezing Software
+466. Coccinellida
+467. FTimes
+468. UnRarX
+469. sdltrs
+470. The OpenAntivirus Project
+471. JavaQemu
+472. Virtual T
+473. Pantheios - The C/C++ Logging Sweetspot
+474. openthinclient.org
+475. JPPF
+476. ELKS
+477. Krusader
+478. ROKOS Bitcoin Full node OS
+479. HP/Aruba simple VLAN management
+480. CCISS
+481. Lightning Linux
+482. uumate
+483. HimemX
+484. HxC Floppy Drive Emulator
+485. JGroups
+486. Modular Audio Recognition Framework
+487. AspeQt
+488. Posadis DNS Server
+489. SonicReader
+490. SHOUTcast Management Interface
+491. ERPXE
+492. Simple Movie Catalog
+493. JarInstaller
+494. srcpd: modular SRCP server
+495. Monolingual
+496. netool toolkit 4.6
+497. AVFS: A Virtual Filesystem
+498. Appupdater
+499. Ultimate Settings Panel
+500. SSHGuard
+501. Netdiscover, ARP Scanner
+502. JsonRpc-Cpp
+503. LLRP toolkit
+504. mintyMac
+505. Mouse Rate
+506. AriOS
+507. JME C64
+508. Daemonlogger
+509. Network Grep
+510. AppMaker
+511. OVAL Interpreter
+512. JFileSync - Java File Synchronization
+513. Crowbar
+514. Facilino
+515. TinyRadius
+516. OBD-II for Arduino
+517. BALZ
+518. Dragora GNU/Linux-Libre
+519. Fake86
+520. Rezilla
+521. openMSX
+522. FUSE for macOS
+523. AutoScan-Network
+524. The NitrOS-9 Project
+525. vouchergenerator
+526. LinuxBBQ
+527. Locomotive
+528. EasyModbusTCP/UDP/RTU Python
+529. IOJones
+530. The Neverhood Restoration
+531. Cryptic Allusion DCDev
+532. iF.SVNAdmin
+533. PogoShell + libpogo
+534. Zervit HTTP/Web Server
+535. Putty MSI Installer
+536. Sesame
+537. ljArchive
+538. Java Remote Desktop
+539. Stuck Pixel Sweeper
+540. COBOL copybook to XML converter
+541. droiD64
+542. ApcCtrl software para nobreak APC Brasil
+543. Unattended Resolution in A Nutshell - OS
+544. httpfs: mount a http url as a file
+545. Linux UPnP Internet Gateway Device
+546. VMware Infrastructure (vSphere) Java API
+547. Universal Android Toolkit
+548. openQRM - Cloud Computing Platform
+549. Xenta OS Packages
+550. Super CSV
+551. DROID
+552. cPanel Proxy
+553. VNCed
+554. star
+555. Java Embedding Plugin
+556. mkisofs-md5
+557. SNMP library for Python
+558. Dioscuri - modular emulator
+559. IBM Websphere MQ Admin Tool
+560. NDW - Network Data Wiping Hard Disks HDD
+561. Web KeePass Password Safe
+562. Privacy and Anonymity in the Internet
+563. QBrowser for GlassFish JMS / WebLogic MQ
+564. jManage
+565. L2J
+566. a8cas
+567. zipdiff
+568. Denise
+569. Mednafen
+570. DreamStudio by Volocian Studios
+571. LightBlue
+572. xosview
+573. Database Test Suite
+574. MentDB Weak
+575. Capivara - Java filesync
+576. IMDbPY
+577. Symbian DOSBox
+578. switchmap
+579. OpenSAF
+580. Stuntman - STUN server and client
+581. Dibbler - a portable DHCPv6
+582. Phex - P2P Gnutella filesharing program
+583. TwoMbit
+584. AwardMod
+585. ForceBindIP GUI
+586. Easy-HotSpot
+587. OpenSOC86
+588. Thrustmaster Mac OS X Driver
+589. RackMonkey
+590. acx100 - Wireless chipset Linux driver
+591. MiXiM
+592. Genode OS Framework
+593. iRiver iFP driver
+594. BakAndImgCD
+595. dhcpstatus
+596. qpxtool
+597. freeRTOS & libraries for AVR ATmega
+598. NET-Simulator
+599. Loki Render
+600. AcerHK GUI
+601. gditools
+602. UnboundID LDAP SDK for Java
+603. AZip
+604. Free Academic Timetable Software
+605. JPC
+606. Java SID Player Music Library V2
+607. RealmForge (now Visual3D Game Engine)
+608. Basilisk II
+609. .NET SerialPort library
+610. Diskless Embedded Technology PC
+611. Ipfilter-X Tools by Nexus23 Labs
+612. Super OS
+613. hercules-390
+614. mintyMac-Cinnamon-32bit-14.04
+615. PHP Web Proxy
+616. xpd-ebike
+617. Route_Serial_TCP_UDP
+618. K8055 Driver - Provides /proc/k8055
+619. Ex-K3
+620. MaxUAE
+621. beye
+622. Cockatrice III
+623. GeigerLog
+624. Quick-Save-Live
+625. hbaseexplorer
+626. Antec Kuhler 920 Linux Driver/Control
+627. lilith
+628. smartsuite
+629. open2300
+630. Logsurfer
+631. phpMyAdmin
+632. JsDOSBox
+633. CuteMouse - lightweight DOS mouse driver
+634. DCP Setup Maker
+635. MEWUI
+636. PTools
+637. eChanter
+638. wview Weather System
+639. Hans
+640. Linfo
+641. SVNManager
+642. jbig2dec
+643. Cambridge Z88
+644. ArchOne
+645. The ASN.1 Compiler
+646. KSetiSpy
+647. Ethernut Embedded Ethernet
+648. Jadex BDI Agent System
+649. SSL-Explorer
+650. My Simple LogBook
+651. nmap4j
+652. pam_ssh_agent_auth
+653. Portable Java Launcher
+654. X-41 - an HP-41CV Simulator
+655. drobo-utils
+656. KahelOS
+657. Simple Reliable UDP
+658. slitaz
+659. nQuake
+660. OpenACS
+661. NetTool
+662. csv2ldif2
+663. MC4J JMX Console
+664. MaraDNS
+665. SEGA Dreamcast VMU Tools
+666. frr
+667. W-Bus library and applications
+668. LOG4PLSQL
+669. State Threads Library
+670. Wake On Lan via PHP
+671. e-hris
+672. ldap-csvexport
+673. Command-line File Verify
+674. STM32 USART Bootloader
+675. SlackEX Linux Live DVD
+676. nmap4j
+677. pam_ssh_agent_auth
+678. Portable Java Launcher
+679. X-41 - an HP-41CV Simulator
+680. drobo-utils
+681. KahelOS
+682. Simple Reliable UDP
+683. slitaz
+684. nQuake
+685. OpenACS
+686. NetTool
+687. csv2ldif2
+688. MC4J JMX Console
+689. MaraDNS
+690. SEGA Dreamcast VMU Tools
+691. frr
+692. W-Bus library and applications
+693. LOG4PLSQL
+694. State Threads Library
+695. Wake On Lan via PHP
+696. e-hris
+697. ldap-csvexport
+698. Command-line File Verify
+699. STM32 USART Bootloader
+700. SlackEX Linux Live DVD
+701. TAPClean
+702. ryu
+703. Defa Protect HTML5 Video From Download
+704. HarmonyHubControl
+705. livecd-openbsd
+706. repcached
+707. Arch XFerience
+708. CSV Comparator
+709. SimpleID
+710. xinco - Document Management System, DMS
+711. DISK DOCTOR recovery toolkit
+712. LeopardAssist
+713. Portable Virtual Hotspot
+714. libieee1284
+715. Java GB
+716. MenuCracker
+717. Java Network Browser
+718. Ficl - small systems scripting with OO
+719. OpenPAM
+720. VTD-XML: The Future of XML Processing
+721. CONNECTINY Hotspot
+722. Blazegraph (powered by bigdata)
+723. AContent
+724. Sushi, huh? - Linux package downloader
+725. Quick Uninstaller
+726. GroundWork Monitor
+727. axelhahn
+728. Ocean Optics Sample Pack
+729. WinHide
+730. OpenRemote
+731. ACPI
+732. Smartcard Lib for Arduino compat. boards
+733. A free penetration testing toolkit
+734. Alien-OS
+735. SBW (Systems Biology Workbench)
+736. Free File Renamer
+737. janus-UAE
+738. C-BIOS
+739. Duplicate-File-Eraser
+740. dktools - Dirk Krauses tools
+741. dos-tasker
+742. NetFlow/IPFIX iptables module
+743. Fuduntu
+744. Femto OS
+745. muCommander
+746. Aperture
+747. CacheGuard Web Gateway Appliance
+748. OpenSE BASIC
+749. EmuLinker - NetPlay Emulation
+750. Round Robin Database Framework
+751. Virtual Smart Card Architecture
+752. alphaOS
+753. svn-access-manager
+754. Cacti-ReportIt
+755. JNode: new Java Operating System
+756. Mysql Monitor Tool
+757. SLOCCount
+758. ASProxyWing
+759. Snort
+760. Sphider-plus
+761. balance
+762. SulinOS
+763. UNICORE
+764. libivykis async I/O-assisting library
+765. pgBadger
+766. The PSP Manager
+767. UNFS3 [moved to GitHub]
+768. XOSL-OW
+769. justniffer
+770. Libusb Java
+771. BT-Sim
+772. Free Queue Manager
+773. acpiclient
+774. jSLP
+775. Phobia
+776. Munin
+777. Simple Open EtherCAT Master
+778. PureDarwin
+779. qsynergy
+780. Proxy Tester and WPAD Generator
+781. MicroZip
+782. One-Wire Weather
+783. Platform Initialization SCT
+784. 3rd Party RobotC Drivers
+785. Oracle Dump Viewer
+786. Battery Saver
+787. scmRTOS
+788. CopyMastro
+789. Pearl Xfce 7
+790. PrinterManager
+791. RarFile
+792. SIP swiss army knife
+793. Zhcon
+794. cdpr
+795. virtual-ubuntu
+796. Cobol and RPG data reader and converter
+797. Zip-Ada
+798. mtop-MySQL terminal based query monitor
+799. netboot Network booting environment
+800. Eclipse Zip Editor
+801. Munin
+802. Simple Open EtherCAT Master
+803. PureDarwin
+804. qsynergy
+805. Proxy Tester and WPAD Generator
+806. MicroZip
+807. One-Wire Weather
+808. Platform Initialization SCT
+809. 3rd Party RobotC Drivers
+810. Oracle Dump Viewer
+811. Battery Saver
+812. scmRTOS
+813. CopyMastro
+814. Pearl Xfce 7
+815. PrinterManager
+816. RarFile
+817. SIP swiss army knife
+818. Zhcon
+819. cdpr
+820. virtual-ubuntu
+821. Cobol and RPG data reader and converter
+822. Zip-Ada
+823. mtop-MySQL terminal based query monitor
+824. netboot Network booting environment
+825. Eclipse Zip Editor
+826. CyanogenMod 13
+827. Mecrisp-Stellaris Unofficial User Doc
+828. Naraeon Secure Erase
+829. Prime
+830. Raspbian
+831. The openwince project
+832. X-window processes tree display
+833. wKillcx
+834. XenWebManager
+835. littleutils
+836. ArduEMS-328
+837. BACpypes
+838. BELKIN F5U103 driver for Mac OS X
+839. Firefox 3 History Recovery (outdated!)
+840. JFF Network Management System (NMS)
+841. SoftPear PC/Mac interoperability
+842. vmsmount
+843. Nostromo N50 on Vista,Seven, XP 32&64 !
+844. Ship's Clock
+845. Mac OS X Ext2 Filesystem
+846. Mind Guard Linux
+847. Tcl/Tk Aqua Batteries-Included
+848. apk-tools
+849. DirListing (Portable)
+850. Speedtouch USB for *nix
+851. Empty Directories Finder
+852. INDI Astronomical Control Protocol
+853. Big Sister
+854. detox
+855. netsim
+856. Arduino WiFly Driver
+857. RemoteBox
+858. DiskImagery64
+859. ESIA
+860. FlowDoh
+861. JFSplit - File Splitter and Joiner
+862. ISP Control Panel
+863. BYU EDIF Tools
+864. Format-USB
+865. Talend Spatial Module
+866. AppleCommander
+867. JStella Atari 2600 Emulator
+868. Open source Algol 68 implementations
+869. Rockbox - Open Source Jukebox Firmware
+870. Yahoo Group archiver
+871. omniEvents
+872. rsvndump
+873. Clu-Linux-Live
+874. Excalibur
+875. LUnix Next Generation
+876. Meganet OS-3
+877. Pearl Linux MATE 5.2
+878. RDOS operating system
+879. ROKOS Crypto Full Node OS
+880. Visopsys
+881. OpenVMPS
+882. OS X BlueStacks Uninstaller
+883. Puggle
+884. xmlsh
+885. CrabEmu
+886. JMibBrowser
+887. WIDE-DHCPv6
+888. javaNetSim
+889. IpodCopy
+890. dicom4j
+891. PlusOS (Plus Operating System)
+892. SSVPN
+893. TinHat
+894. amforth: Interpreter on Microcontrollers
+895. bin64ed
+896. innoextract
+897. ojnk
+898. os9exec - os9 emulator
+899. dps8m
+900. Restore, backup and recovery
+901. AMaViS - A Mail Virus Scanner
+902. DVD2Xbox
+903. GATOS
+904. GeeXboX
+905. Log4Qt - Logging for C++/Qt
+906. OpenLD
+907. ZX Pokemaster
+908. evtViewer
+909. nipper - network infrastructure parser
+910. openjms
+911. psyBNC
+912. Canaima GNU/Linux
+913. LINE
+914. MyVD Virtual Directory
+915. PDOS
+916. Pinoy Pup Linux OS
+917. SPID Statistical Protocol IDentification
+918. iScroll2
+919. labrea
+920. phpEasyVCS
+921. Ranish Boot and Partitioning Tools
+922. SNMP JManager
+923. TPCAT
+924. X-Share
+925. Free PHP/CI User Login and Management
+926. Apple Disk Transfer ProDOS
+927. FreeDOS Shell
+928. MacFCEU
+929. Prex Embedded Real-time OS
+930. Toktocker Auto Clicker & Typer 0.2.7.2 B
+931. Wiitar
+932. mintyMac-Cinnamon
+933. GSport
+934. Quotero
+935. CruxEX 64 bit Linux Live USB
+936. Foresight Linux
+937. Hex File Loader
+938. JarFinder
+939. Led Display Controller
+940. PerfMon
+941. Slogger - Syslog Generator
+942. emuStudio
+943. jConfig
+944. AlphaServer ES40 Emulator
+945. Barada
+946. DEVS-Suite Simulator
+947. Davenport WebDAV-CIFS (SMB) Gateway
+948. Fx702p
+949. VMware Tools Client
+950. ccsrch
+951. lxSplit
+952. mac-robber
+953. mbldr (Master Boot LoaDeR)
+954. phpLicenseWatcher
+955. FreeDOS-32
+956. Java Log Viewer
+957. Sharp Serialization Library
+958. TabletMagic for Mac OS X
+959. dispy
+960. nwGTPv2 - eGTP Stack Library
+961. Angel Linux
+962. Bandwidth Monitor NG
+963. Tarifa
+964. Visual diff and merge tool
+965. javascriptRRD
+966. mysql-auth_ldap
+967. Catakig
+968. Jags - Just Another GTK+ Samba Client
+969. Likewise Open
+970. PRM80 firmware
+971. Pearl Kfce 7
+972. TailBlazer
+973. Unix GNU Windows
+974. env2
+975. yersinia multiattack network tool
+976. Open Emu
+977. jTomtom
+978. Audacity-Extra
+979. Configuration Backup (ConfiBack)
+980. MIB Navigator
+981. Nucleus OS Kernel
+982. Opera OS
+983. Z80Sim
+984. ZLib for Ada thick binding.
+985. netx
+986. svarog86
+987. Axis network camera emulator
+988. F.H.C. live
+989. FREMO Streckenblock
+990. Grub4DOS AHCI / NVMe patch
+991. Matriux-VM
+992. Packet Sniffer
+993. UEFI GPT fdisk
+994. myGPS Arduino Nano DIY
+995. picusb
+996. portable-ftp-server
+997. Digital Preservation Recorder
+998. AliyaLinux
+999. DOS-C: an MS-DOS compatible OS
+1000. Document Summarization
+1001. FreeBSD LiveCD by fugspbr
+1002. GK3 Tools
+1003. HP Scanjet 3900 series
+1004. HyenaeFE
+1005. JSmex
+1006. LainOS
+1007. MBR Boot Manager
+1008. MicroLua DS
+1009. Slax
+1010. TinyOS
+1011. freedomotic
+1012. p2pfire: super p2p driver firewall
+1013. zeroconf
+1014. OpenTCP
+1015. PGRFileManager
+1016. Haiku
+1017. VMTCE
+1018. A. L. I. C. E. and AIML
+1019. AVirCap (CodeHunt )
+1020. Advanced Renaming of pictures
+1021. Explorer PC
+1022. IIOP.NET
+1023. Inventory
+1024. Urdl C++ Library
+1025. cputemp
+1026. FreeBSD LiveCD by fugspbr
+1027. GK3 Tools
+1028. HP Scanjet 3900 series
+1029. HyenaeFE
+1030. JSmex
+1031. LainOS
+1032. MBR Boot Manager
+1033. MicroLua DS
+1034. Slax
+1035. TinyOS
+1036. freedomotic
+1037. p2pfire: super p2p driver firewall
+1038. zeroconf
+1039. OpenTCP
+1040. PGRFileManager
+1041. Haiku
+1042. VMTCE
+1043. A. L. I. C. E. and AIML
+1044. AVirCap (CodeHunt )
+1045. Advanced Renaming of pictures
+1046. Explorer PC
+1047. IIOP.NET
+1048. Inventory
+1049. Urdl C++ Library
+1050. cputemp
+1051. diff2html
+1052. libpam-pgsql
+1053. m0n0wall
+1054. wifree
+1055. PiWriter
+1056. eyecare
+1057. Cisco-centric Open Source Initiative
+1058. Compukit UK101 Simulation
+1059. CuteBoy
+1060. Free software for BeOS, Haiku etc.
+1061. PS/2 Keyboard Controller on AVR - ps2avr
+1062. RHQ
+1063. Web-based Asset Tracking System
+1064. Zip Recovery
+1065. fpart
+1066. Cosign: Web Single Sign-On
+1067. Jarsync - a Java rsync implementation.
+1068. sqlline
+1069. wmping
+1070. AppLoader
+1071. Darwin Source Repository
+1072. ICMP Shell
+1073. PCAPAnalyzer
+1074. Snal Linux
+1075. Syslog Viewer
+1076. WeirdX
+1077. android-backup-splitter
+1078. iPod-Linux Installer
+1079. jTCPfwd
+1080. HWID Changer
+1081. Javinder
+1082. C# Spectrum Emulator
+1083. File Size Changer
+1084. Gladys Project
+1085. Hurd LX Installer
+1086. Movie-Detailer-Organiser-API
+1087. Perix Operating System - 16/32/64 Bit
+1088. Perl Packages Manager
+1089. Plato OS
+1090. PrintMyFolders
+1091. RMF-DOS - Reduced Memory Footprint DOS
+1092. SeaBreeze
+1093. jazzlib - a pure java java.util.zip
+1094. jpam
+1095. openSNMP
+1096. unity-idm
+1097. wolfSSL
+1098. Oddjob
+1099. h-inventory
+1100. ( pro ping )pinger network alert monitor
+1101. CUPS related stuff
+1102. Y.O.D.A. - Yaro`s Oracle Data Admin
+1103. pyCompry
+1104. External diff Tool (Eclipse Plugin)
+1105. Etherboot
+1106. MEBis
+1107. MakeISO
+1108. The OpenHMS Project
+1109. Torrent Search Engine
+1110. XMail PHP Admin Interface (XPAI)
+1111. memory stick backup
+1112. unaceX
+1113. µOS++ (micro OS plus plus)
+1114. DansGuardian Webmin Module
+1115. HaCi - IP Address Administration
+1116. C-GM Counter
+1117. CN=Monitor
+1118. Java NRPE Server
+1119. Ortro
+1120. Pom1
+1121. SING
+1122. cLaunch for PocketPC
+1123. can4linux
+1124. CANUSB Library written in C#
+1125. AquariusOS
+1126. BitLocker EasyLock
+1127. CP210x Programmer
+1128. Handy TCP/IP Server/Client Tools
+1129. JMX Console Tools
+1130. MEOS
+1131. Media Tester & Multicast Monitoring
+1132. Open XKMS
+1133. PACtory Proxy Auto Config Generator
+1134. PHP Code Snippet Library
+1135. PRM-DUL-Oracle
+1136. Parallel Port Control
+1137. Power Daemon
+1138. RPyC (remote python call)
+1139. Raspberry Pi Emulator (legacy)
+1140. TCNOpen
+1141. hebuntu - hebrew ubuntu
+1142. kasai
+1143. multiOTP open source
+1144. pj-net-tools
+1145. Addressing
+1146. AvRtos
+1147. DIBS: Distributed Internet Backup System
+1148. Debian-Mate
+1149. IceWM Control Panel
+1150. MINT - Multicast Packet Generator
+1151. BitLocker EasyLock
+1152. CP210x Programmer
+1153. Handy TCP/IP Server/Client Tools
+1154. JMX Console Tools
+1155. MEOS
+1156. Media Tester & Multicast Monitoring
+1157. Open XKMS
+1158. PACtory Proxy Auto Config Generator
+1159. PHP Code Snippet Library
+1160. PRM-DUL-Oracle
+1161. Parallel Port Control
+1162. Power Daemon
+1163. RPyC (remote python call)
+1164. Raspberry Pi Emulator (legacy)
+1165. TCNOpen
+1166. hebuntu - hebrew ubuntu
+1167. kasai
+1168. multiOTP open source
+1169. pj-net-tools
+1170. Addressing
+1171. AvRtos
+1172. DIBS: Distributed Internet Backup System
+1173. Debian-Mate
+1174. IceWM Control Panel
+1175. MINT - Multicast Packet Generator
+1176. Mailman Module for Webmin
+1177. OurMovies
+1178. PHP Shell Terminal
+1179. ProM Import Framework
+1180. SmartRouter Project
+1181. VNCSara
+1182. WBEM Services
+1183. hibernate-jconsole
+1184. iSub Fix
+1185. mspsim
+1186. Oliver (formerly Webshare)
+1187. jFileCrypt
+1188. FastCGI / CGI C++ library
+1189. Alien-OS²
+1190. Brutezip
+1191. Calimero
+1192. DAleK
+1193. E-UAE PowerPC JIT
+1194. Java USB
+1195. Linux-based Network Bootmanager
+1196. OpenCL-Z
+1197. Packet Flood Generator
+1198. PolyglotMan
+1199. PyNuker
+1200. QOS
+1201. RHex Robot Control Software Libraries
+1202. Son of Grid Engine (SGE)
+1203. SystemSound Extension
+1204. Tftpy, a pure Python TFTP Library
+1205. Tiny Bit Bang
+1206. WCM Commander
+1207. ZXSpectr
+1208. base64 file encoder/decoder
+1209. iCMS
+1210. mintyMac-Mate
+1211. pdaXrom
+1212. pinx
+1213. tnv
+1214. zasm - z80 assembler
+1215. pash
+1216. JmDNS
+1217. Google Hack Honeypot
+1218. Lilac-Reloaded - Nagios Configuration
+1219. LDAPManager
+1220. Interleave
+1221. JMStella Atari 2600 Emulator for J2ME
+1222. Serveur Multicartes IPX800
+1223. System and Network Monitor
+1224. drcom-client
+1225. A Python based ICAP server & IRML parser
+1226. ASP .Net viewstate decoder / encoder +
+1227. CakeOS
+1228. DHCP Explorer
+1229. Dapple Emulator Series
+1230. Dokumentationsreihe Linuxhandbuch
+1231. Embedded LocoNet
+1232. FSD Amoeba
+1233. Java RADIUS Client
+1234. PSP Tools
+1235. Pearl Linux MATE 6.0 (Artful) Alpha
+1236. Pizza
+1237. SimpLC Simulator
+1238. SimplyBurns
+1239. elFinder for Drupal
+1240. glsof
+1241. winSHA1Sum
+1242. Ajax VNC
+1243. Archimede
+1244. Expect.pm
+1245. GXemul
+1246. HBA API
+1247. Junzip (unzip utility for J2ME devices)
+1248. NeDi
+1249. Nosleep Software Open Source (Inactive)
+1250. PAUD - Parted And Utilities Disk
+1251. SquidGuard Webmin Interface
+1252. Zipios
+1253. comFramework
+1254. dbMaintain
+1255. joeSNMP
+1256. xfilesharing
+1257. PiCloner
+1258. Web-based Firewall Log Analyzer
+1259. 360-FAAR Firewall Analysis Audit Repair
+1260. ATasm: 6502 cross-assembler
+1261. Bias :: Versatile Information Manager
+1262. FunkOS
+1263. Net Tools for Development
+1264. Network Analyzer
+1265. Sync
+1266. Syncmin
+1267. UFFS
+1268. Wordpie Python Based Brute Force
+1269. jHelpDesk
+1270. led (LDAP Editor)
+1271. uSmartX RTOS
+1272. vchanger
+1273. FreeOSEK RTOS
+1274. Remote Tea
+1275. rims-arduino-library
+1276. Embedded System Simulator
+1277. Ethernet POWERLINK XDD Tool Suite
+1278. Game Patch Distributor
+1279. IPCAD - IP traffic accounting daemon
+1280. JavaGear
+1281. Jawk
+1282. JoomlaPack
+1283. LSMS SNMP to MRTG toolset
+1284. MBSE for MagicDraw
+1285. MTX: Media Changer Tools
+1286. Manifest Maker
+1287. NSS MySQL Library
+1288. Native Oberon
+1289. NetworkLore Monitoring Pack
+1290. P112 software
+1291. PanDocElectron
+1292. Raindrop
+1293. ReSizeable RAMDisk
+1294. Small Device Scalable OS
+1295. Smtp Open Relay Checker
+1296. USB-GPIB
+1297. USB-LED-Control
+1298. Viewglob
+1299. WOMP!
+1300. WoTerm
+1301. cbenchmark
+1302. fileaxy
+1303. iBoot (the Interactive BOOTmenu system)
+1304. mctool
+1305. netwag
+1306. php syslog viewer
+1307. rubyzip
+1308. snmpjaag
+1309. vcardsplitter
+1310. wtraf
+1311. yydecode -- decodes yEnc/uuencoded binar
+1312. DuMP3 - duplicate & similar file finder
+1313. ASN.1 for java
+1314. BSBM Tools
+1315. Common Resource Grep - crgrep
+1316. Fork of Letodms V2.02
+1317. GridSim: A Grid Simulation Toolkit
+1318. IDLE - Lisa Emulator
+1319. Kewlio Looking Glass
+1320. LPC214x USB stack
+1321. MatLinks/Chorus
+1322. Nagisk
+1323. OSR USB FX2 Learning Kit device driver
+1324. SRG - Squid Report Generator
+1325. SSH System Administration Tool
+1326. SharpOS
+1327. TclSOAP
+1328. Waha Linux
+1329. Westhawk's Java SNMP stack
+1330. Wine Doors : winedoors repository
+1331. desproxy - a TCP tunnel for HTTP proxies
+1332. jadetex
+1333. liblogger
+1334. phpDHCPAdmin
+1335. scr_ipfm
+1336. shasummer
+1337. squitch p.u.r.e.
+1338. xsocket
+1339. zfind
+1340. PHP Certificate Authority
+1341. USB HID Ir Remote Receiver
+1342. Galsoft Linux
+1343. MobileZX
+1344. Radmind
+1345. TemplateLite
+1346. VSIDO
+1347. cult
+1348. AppExplorer
+1349. ApproxAdderLib
+1350. Bonjour Browser
+1351. CoSMoSim
+1352. DocSynch
+1353. ExecROM
+1354. IP Blocker
+1355. Instalador
+1356. Java Network Monitor
+1357. Julian Date calculator
+1358. Linux for 68k Macintoshes
+1359. MBJ
+1360. MinopsOS
+1361. MySQL-Admin
+1362. NES ROM Tool
+1363. Netdude
+1364. Open Spam
+1365. PearlX
+1366. PocketNester
+1367. PoliArch
+1368. Process Hacker Plugins
+1369. ResKnife
+1370. Resource Monitor
+1371. Semitone Lighting Controllers
+1372. Simple ad hoc creator
+1373. TomTom GO Linux
+1374. ToolShed
+1375. VJDBC
+1376. VirtualBox Player
+1377. Wireless Network Manager
+1378. asyncoro
+1379. faces
+1380. iRiver iFP Manager
+1381. ldif-extract
+1382. log4jdbc
+1383. mintyMac-Mate 14.04
+1384. nOS
+1385. sntop - simple network top
+1386. stm32f7nucleo-eastrising-7inch-lcd-spi
+1387. ttylog - a serial port logger
+1388. Duplicate Files Searcher
+1389. Virtual TI Emulator
+1390. PyWBEM
+1391. Compact Internet Protocol Suite
+1392. ARMboot
+1393. Alien-OS MNML
+1394. AquaISO
+1395. Attract-Mode Emulator Frontend
+1396. BACnet for Dynamic C
+1397. BRLix
+1398. Backup Monitor
+1399. Blue Mirror DVD/CD Indexer
+1400. CS Linux
+1401. Canon CanoScan Parallel Driver
+1402. ClusterIt
+1403. CryptPad
+1404. Dual BCD to Hex 7-Seg Driver
+1405. EfiPy
+1406. FD-FDD
+1407. FDNPKG
+1408. FOXY
+1409. FileNamer for EML
+1410. FreeRename
+1411. Freeloader Linux
+1412. IPgrab
+1413. IngestList
+1414. JHyenae
+1415. LAN Over IP
+1416. MatlabSimulink2CPP
+1417. Nifty Clean
+1418. Open Finite Element Analysis
+1419. PHPRPC
+1420. PRTOS Preemptive RTOS for bare metal aps
+1421. PUB! Programmable USB Button
+1422. PnP Server
+1423. RRAKStudio
+1424. Rapid Application Development Library
+1425. SAP-JCO Support
+1426. SCard4Wine
+1427. System-Config-Vsftpd
+1428. TinyTcl, Tcl for embedded applications
+1429. VScan
+1430. Websieve
+1431. altuhov.su's open source projects
+1432. iUPX
+1433. jinx linux
+1434. man2web
+1435. netwib
+1436. ownOS: MacBuntu
+1437. pancham
+1438. proctools
+1439. tpl
+1440. vdcron
+1441. Data Crow
+1442. Autostatus
+1443. CactiPhone
+1444. Cinux
+1445. Delay Tolerant Networking
+1446. HA-JDBC
+1447. IPCop 2.0.6 Url Filter
+1448. Jetpack MOD
+1449. NetworkTrafficMeter
+1450. RKH - State Machine Framework
+1451. Status Menus
+1452. WBSAirback
+1453. WebSystem
+1454. Wellenreiter wireless penetration tool
+1455. blob, a StrongARM boot loader
+1456. jc
+1457. jpathwatch
+1458. libpaxos - General purpose Paxos library
+1459. logcheck
+1460. openhip
+1461. All About Network Infrastructur
+1462. Apple Game Server 3.1
+1463. Basic Facebook Login Source
+1464. CBQ.init traffic management script
+1465. Clicker 32
+1466. Cloudium OS
+1467. DTP's EMulator FIles Runner
+1468. Digital Preservation Software Platform
+1469. DropYet
+1470. Emutils
+1471. Enigma Console and Shell
+1472. Grdc - GTK+/Gnome Remote Desktop Client
+1473. HOFAT - Hash Of File And Text calculator
+1474. Internet Protocol Address Calculator
+1475. Java IP (InetAddress) Locator
+1476. NasBackup backup to network disks
+1477. Network Simulation Creator and Animator
+1478. Pharos
+1479. Powerpc-utils
+1480. Riverdrums Load Balancer
+1481. S4PM
+1482. SEG-Y Zip
+1483. Simple Event Correlator
+1484. Web Services Console Eclipse Plugin
+1485. WebScraper - Web Data Extraction
+1486. XOSL2
+1487. You lose
+1488. dalle
+1489. exl100
+1490. freenas-tempreport
+1491. innotop
+1492. pyTarget
+1493. tcpview (aka wirefox)
+1494. uniread
+1495. usb8x
+1496. yptransitd
+1497. Ldap Address Book
+1498. Network Keylogger
+1499. ASN1 Editor for Eclipse
+1500. Applet 2 Application
+1501. ArdvtLedBoard
+1502. Autorun Cleaner
+1503. Avis event router
+1504. Bluetooth Instant Messenger Valhallachat
+1505. CANopen for LabVIEW
+1506. Computerized Telescope
+1507. Csv2SQL
+1508. Database Web Admin
+1509. DavUtils
+1510. Dowser Web Search
+1511. FireFly-Server
+1512. GeneSyS Middleware
+1513. GnGeo-pb
+1514. HackPack
+1515. ISPBill
+1516. InterMap - web ArcIMS and WMS client
+1517. Java Network Scanner
+1518. Linux on iPod
+1519. MMC/SDSC/SDHC/SDXC card driver
+1520. Mechanical ID - Password Generator
+1521. Netflow
+1522. OSSIM - Open Source Software Image Map
+1523. Oyranos
+1524. Paranoid Linux
+1525. ProFTPd Php/MySQL administrations tool
+1526. RPM for Darwin
+1527. RTuinOS
+1528. Realtek RTL8101 packet driver for DOS
+1529. SendTrap
+1530. Sensa
+1531. Sercos UCC Ethernet Network Driver
+1532. Sistema Controle de Vendas de Passagens
+1533. SmartSieve
+1534. Tap Dancer
+1535. TempleOS
+1536. The Gobbler
+1537. Toggle Hidden Files
+1538. UEFI fdisk
+1539. VIMINAL
+1540. Virtual interactive experiments (vexp)
+1541. Vista ReadyBoost Monitor Gadget
+1542. What's Open
+1543. Yet Another File Integrity Checker
+1544. ZooLinux
+1545. drm_tools
+1546. fprint
+1547. kegs-sdl
+1548. mintyMac minny
+1549. namefix.pl, 1st and best batch renamer
+1550. no-adb-backup-app-lister
+1551. openbsd-iso
+1552. pkgbuild
+1553. portable ICOM PCR1000 control software
+1554. smbfs
+1555. tomos
+1556. wxJavaScript
+1557. AntInstaller
+1558. MenuDesigner
+1559. Wizard's Apprentice
+1560. Computer Inventory Management System
+1561. Connec8
+1562. NetLink Sockets C++ Library
+1563. MobileJustice
+1564. VMime
+1565. JBoss Nagios Integration
+1566. Open Automation
+1567. PL2303 USB to Serial Driver for Mac OS X
+1568. Employee Scheduler
+1569. 14all - a mrtg CGI frontend
+1570. A collection of open-source utilities
+1571. AVR Butterfly MP3 Player
+1572. Access Point Utilites for Unix
+1573. AdmIRC - ircd & services administration
+1574. Archmbox
+1575. Arduino Si4735 radio library
+1576. Arduino fridge control
+1577. Ardurail
+1578. Argus JMX Browser
+1579. Autoconf Macro Archive
+1580. BizHawk
+1581. CP1-Simulator
+1582. CRUSH
+1583. Cacti URL Monitoring Plugin (mURLin)
+1584. Call of Duty RCON console
+1585. Can I Hack with Bluetooth
+1586. Compiere MFG + SCM (Manufacturing)
+1587. Equalizer - Parallel Rendering
+1588. FNS-RADIUS
+1589. FPGA C Compiler
+1590. Fonteditfs
+1591. GIMI
+1592. Gentoo CNC
+1593. GoodFET
+1594. ISG Tools
+1595. Indic Keyboard
+1596. IpWay/HOST free Tcp/Ip Stack Library
+1597. JINX - java multi-user unix-like system
+1598. JX - A flexible Java OS
+1599. Java MTF Reader
+1600. Java NIO Socket Framework
+1601. Java NTLM Proxy
+1602. LipeRMI - a light-weight RMI alternative
+1603. Logitech iFeel Mouse Driver
+1604. MATLAB spectral clustering package
+1605. MaarchRM
+1606. MacFilelight
+1607. Makent Hotels - Hotel Booking Software
+1608. Maven Plugins
+1609. MonPoly
+1610. NINO - Network Management
+1611. Next Generation Banner Grabbing
+1612. Novint Falcon Open Source Library
+1613. OoeyGUI MESS Launcher
+1614. OpenVPN-Status
+1615. PWhere
+1616. Pearl MATE STUDIO 7.1
+1617. Pkcs11Admin
+1618. PyURLSnooper
+1619. RSMeter
+1620. SD-Card and ATMEL ATmega microcontroller
+1621. SO1
+1622. SSD Benchmark
+1623. STonX
+1624. Satan-AnyWhere
+1625. Scommunication
+1626. Seksen
+1627. SmartIRC
+1628. Switzerland
+1629. TPTEST - Internet performance test suite
+1630. Testability Measurement Tool
+1631. Torque Network Library
+1632. URI C++ library
+1633. VMware Infrastructure Perl Toolkit
+1634. VMware SVGA Device Developer Kit
+1635. WAR Deployer
+1636. WebJob
+1637. WinHotspot
+1638. Wonder Backup
+1639. XBOX360 ION Drum Rocker to MIDI
+1640. Yerase's TNEF Stream Reader
+1641. ZipSnapNG
+1642. ZooKeeper
+1643. androidx86-openstack
+1644. apboot
+1645. driveinfo
+1646. dyn2stat
+1647. jnettop
+1648. jo2emLauncher
+1649. jpegant
+1650. ldif2vcard
+1651. libchipcard
+1652. libz80
+1653. logtail
+1654. mcast-tools
+1655. micrOSEK
+1656. ocr2data
+1657. phpMSAdmin
+1658. raddump RADIUS packet analyzer
+1659. safelock
+1660. tclterm
+1661. truecrypt-wxGTK3
+1662. txOS
+1663. x-hyp free
+1664. Osmius
+1665. XStreamOS
+1666. ArchivistaVM
+1667. Edera HotSpot Kiosk server
+1668. EverSync
+1669. File Renamer
+1670. Gspoof
+1671. Gui Java WakeOnLan
+1672. Hexpatcher
+1673. Hoster
+1674. Infinispan
+1675. Infodomestic Objects
+1676. JBit
+1677. JPedal JBIG2 Image Decoder
+1678. Java Batch Job Framework
+1679. Ldap Log Analyser
+1680. Multi-Threaded DAAP Daemon
+1681. MyUAE
+1682. NanoStack 6lowpan
+1683. Network Leak Finder
+1684. OpenLGTV BCM
+1685. PWman
+1686. PasswordGenerator
+1687. Php Log Analyzer
+1688. Protomatter Software Project
+1689. Punch Clock
+1690. Punjabi Keyboard
+1691. Python RRDTool module
+1692. REST Style Web Service Enabler for RDBMS
+1693. RSTunnel ( Reliable SSH Tunnel )
+1694. SA Network Connection Profiler
+1695. SATIS
+1696. SNMP proxy forwarder
+1697. SSEPlus
+1698. Security Tools Collection
+1699. Spong
+1700. TCP-Switch
+1701. The Paradigm Futilities
+1702. WBSVision
+1703. Warp Pipe Project: GameCube Online
+1704. Wireshark Zigbee Utility
+1705. ZX Tape tool
+1706. checkpassword-pam
+1707. colorForth
+1708. eBus
+1709. finddup
+1710. minimalmodbus
+1711. oobash
+1712. openRelax
+1713. phpInv
+1714. ppc-evtd
+1715. tew-652brp_v2_wcl
+1716. thrulay
+1717. tunnelbroker
+1718. ziparchive
+1719. Blender-boot
+1720. FRODO 2
+1721. K8055 User Interface and Library (Mac)
+1722. Proxyma: Reverse-Proxy with URL-Rewriter
+1723. SaraB
+1724. TRMSim-WSN
+1725. pmcyg
+1726. pyrotate
+1727. Mindtree Insight
+1728. File Explorer
+1729. SCAN
+1730. 32-BIT GENERAL PURPOSE INTEGER PROCESSOR
+1731. A2-Oberon
+1732. AFROS-update
+1733. ARDOS
+1734. Aperture Linux
+1735. Appalm ][ (formerly PalmApple)
+1736. Arduino DRV8833 Motor Controller Library
+1737. Arduino Doodles
+1738. Artica For Samba Appliance
+1739. Authoxy authenticating proxy server
+1740. AutoResponder
+1741. Avrora
+1742. Bash Shell Scripting in a Minute
+1743. Blitzed Open Proxy Monitor
+1744. Blowfish VHDL Core
+1745. Blueper
+1746. Breeze::OS
+1747. Build FW1 Cisco Netscreen PolicyFromLogs
+1748. Cam for FreeDOS
+1749. Change Password Utility
+1750. Cisco Connection Analyzer
+1751. CoreMan
+1752. DIY Arduino Boards IO I2C
+1753. Darwin SDHCI Driver for JMicron Devices
+1754. DefendLineII
+1755. Delta GNU/Linux
+1756. Directory Manager
+1757. Distributed SIP Analyzer
+1758. Dixie: DNS and DHCP Config Tool
+1759. DotNetOpenServer SDK
+1760. ECG (Emulation Code Generator)
+1761. EU-Commander
+1762. ElymOs
+1763. Em::Blocks STM32F4-Discovery USB CDC
+1764. Fast Secure File System
+1765. File Organizer
+1766. Follow
+1767. FrameCode.NET
+1768. General Graphics Interface
+1769. GoBang Linux
+1770. GroundWork Monitor Architect
+1771. HashSum
+1772. Hatari
+1773. Hybrid OpenMP MPI Benchmark
+1774. Hyperic HQ简体中文
+1775. IFCX
+1776. IMAP Storage Filesystem
+1777. IPDR.org
+1778. Ida - Intrusion Detection for Apache
+1779. JDataCom
+1780. Java JVM/KVM Jabber Client Library
+1781. JavaPPP
+1782. L2TP client / daemon
+1783. Log4j Viewer
+1784. LogMon
+1785. LogSplitter
+1786. MD5Sum-gui
+1787. MRTG-PME
+1788. MacGLide - 3Dfx hardware emulation
+1789. Mailchecker
+1790. Net Responsibility
+1791. Net::Telnet::Cisco
+1792. NetCalcTools
+1793. Network Management in Java.
+1794. Network Security Analysis Tool
+1795. Nimbus Perfeito
+1796. Nmap::Scanner
+1797. Oh My Fan!
+1798. Open-MQ
+1799. OpenLDAP ILM/FIM Management Agent
+1800. PAQ GUI Project
+1801. PC Server Realtime Date Time Updater
+1802. PHP output translation to many languages
+1803. PigC
+1804. PlumeOS
+1805. PsyncX - Mac OS X Backup Utility
+1806. RCDP - Network Mapper
+1807. RISC OS Samba Server
+1808. Random MAME Launcher
+1809. Raspberry Pi OS Image Repository
+1810. Remote Services for OSGi
+1811. SDN-Toolkit
+1812. ScorchOS
+1813. SeMA Architecture
+1814. Serial Wire Debug Open Library
+1815. ShoX
+1816. ShutDowner
+1817. Simple network configuration tool
+1818. SimpleAVROS
+1819. Sleutel: An RCP based Password Manager
+1820. Speed
+1821. Squid-Log-Analyzer
+1822. Strike HA
+1823. TCP Simple Gateway
+1824. TUPA - The Ultimate PowerDNS Admin
+1825. TagCentric
+1826. Telnet over HTTP
+1827. TinyScan
+1828. USBSearch
+1829. UpClient - The Uptimes Project
+1830. VDT - Visual Disk Test
+1831. WOscLib
+1832. Waik for Windows
+1833. Web Console
+1834. Wifislax-zh-CN
+1835. WinDS
+1836. X-evian
+1837. YaKa
+1838. Zillion distributed computing Project
+1839. apcupsd java gui front-end
+1840. cpanspec
+1841. file system checksum checker
+1842. hNix OS
+1843. iBatt
+1844. iSFV
+1845. iot2000-debian
+1846. jFirewallSim
+1847. jIBS
+1848. jNetStream Protocol Decoder
+1849. mCode
+1850. macOS-temperature
+1851. msvpn
+1852. netscript
+1853. omniifr
+1854. openChecksum
+1855. openDLX
+1856. pMap
+1857. packit
+1858. pgCluu
+1859. pheonixOS
+1860. pico]OS
+1861. pipestatus for UNIX/POSIX shell
+1862. popcornlinux
+1863. portable 68000 emulator
+1864. prtpacker--Portable Resource Tree Packer
+1865. roboadmin
+1866. rtl8192cu-fixes
+1867. scannerz pentesting os
+1868. split.pl
+1869. sz81
+1870. usb-resetter
+1871. zxgate
+1872. Acegi Security System for Spring
+1873. Afraid.org IP Updater
+1874. Cancerbero (The watchdog of the ports)
+1875. Cefarix Operating System
+1876. DatacenterManager
+1877. DruidBSD
+1878. Duplicate File Fixer 1.00g
+1879. HPCC Systems
+1880. LogView4j Log4J Event Viewer
+1881. LumberJack4Logs
+1882. MediaEncodingCluster
+1883. NasControl
+1884. PHPDevShell - MOVED
+1885. Personal Backup Appliance
+1886. PocketInsanity
+1887. RTSP Proxy
+1888. SNMP::Info
+1889. Sharp AutoUpdater
+1890. Shinken
+1891. Simulator Virtual Net for Web 2.0
+1892. The HDL Complexity Tool
+1893. Transparent network over HTTP
+1894. Unununium
+1895. Up the Sync
+1896. YACY distributed WWW search engine
+1897. Yunus Linux
+1898. iSCSISim
+1899. phpMyInventory
+1900. OpenDMTP
+1901. SILVERCODERS DocToText
+1902. A tool for tracking computer servicing.
+1903. ANSI Print
+1904. AQA-AODV
+1905. AVR based modchip for SMP8634
+1906. AWBot
+1907. AirKey
+1908. Amilo Linux
+1909. Analysis Console for Intrusion Databases
+1910. Antorca
+1911. Atmel AT90USB 802.11g Wireless Project
+1912. Auto Nice Daemon
+1913. AutoUpdater
+1914. BSC PACK ADDONS
+1915. BabyOS
+1916. Baud Rate Tool (Java)
+1917. Bench Pi
+1918. BlackLib
+1919. Bluetail Ticket Tracker
+1920. Bluetooth ad-hoc network simulator
+1921. BuildMultiboot
+1922. Business Continuity Visualization Tool
+1923. C++ Portable Types Library (PTypes)
+1924. CANpie
+1925. CCCPF
+1926. Cache-Optimized Concurrent Skip List
+1927. Cherry network monitoring
+1928. Chrubix
+1929. CloverETL
+1930. CognitiveWeb
+1931. CompactBSD
+1932. DBReplicator
+1933. DGHMux-Java
+1934. DVD/CD UDF Tools (especially RRD Drive)
+1935. Database Record Selector and Editor
+1936. Dayon! (active)
+1937. Deep Network Analyzer (DNA)
+1938. Delayter
+1939. Deleter
+1940. Disk Garden
+1941. Distributor load balancer
+1942. Document Dropper
+1943. DreamOS
+1944. Dynamic Cooling
+1945. Dynamips GUI frontend
+1946. EMOTIVE Cloud
+1947. EduMIPS64
+1948. El Torito Extractor
+1949. Embedded Filesystems Library
+1950. Entangled
+1951. Eskwela OS v2 PenTester 64bit
+1952. Exim Ldap Mail Administrator
+1953. FFFF - Fast Floating Fractal Fun
+1954. File Compare (for binary files)
+1955. File Lister
+1956. Filekit
+1957. FirmMod
+1958. FlexTest
+1959. FreakUSB
+1960. FreeBSD firewall module for webmin
+1961. Freecom Traveller USB Driver for MacOS X
+1962. Fujitsu Application Panel driver
+1963. GNU Embedded Libraries for HC11/HC12
+1964. GTBACKUP
+1965. GUI Qt pour aircrack-ng
+1966. Gajj Linux
+1967. GarcomIdeal
+1968. Geek In a Can
+1969. Generate
+1970. GetWinAdminPassword
+1971. Gnome Toaster
+1972. GnuTI
+1973. GroupKit
+1974. Hammerhead
+1975. Hyper9 VMM
+1976. IBAM, the Intelligent Battery Monitor
+1977. IP Reg
+1978. IPv6SubnetCalc
+1979. IRK! Infrared Remote USB Keyboard
+1980. Internet Account Replication (IAR)
+1981. JABS
+1982. JAP4CPANEL
+1983. JCR Controller / Connector
+1984. JCmd - Pure Java Command Shell
+1985. JDStream Reader Client Library
+1986. JHBashDebug
+1987. JMS Distributed Object Framework
+1988. JMyAdmin
+1989. JSP File Manager
+1990. Java Backup Utility
+1991. Java implementation of the Styx protocol
+1992. JavaGX4000
+1993. KIDS (KCS Interface Driver Study)
+1994. KnockIt!
+1995. Korg controllers library for processing
+1996. LAN-MANAGER
+1997. LFN/FAT32 support for the FreeDOS OS.
+1998. LiKee
+1999. Linux Mint Japanese ISO Images
+2000. Linux on the Palm Tungsten E
+2001. Linux/FBSD Westell DSL Modem Diagnostics
+2002. LinuxCPUBurn
+2003. LogMiner
+2004. Lopica
+2005. MBeanMonitor
+2006. MGSyn
+2007. MacOS X/Darwin IOKit 802.11 WirelessDriv
+2008. MakeLogic Tail - Tail for windows
+2009. Matahari reverse HTTP shell
+2010. Maui Scheduler
+2011. Media storage meter
+2012. Mistral-IdM
+2013. MyServer
+2014. NCron – .NET scheduling service
+2015. NDMJOB
+2016. NLog - Advanced .NET Logging
+2017. NagMIN - Network Monitoring System
+2018. NetXMS
+2019. Netflow v5 Collector
+2020. NetopsToolkit
+2021. Netwatcher - simple network monitor
+2022. NewDOS
+2023. Nmap Parser
+2024. Oemu
+2025. Open Robotics Peripheral Platform
+2026. Open Source Data Logger
+2027. Open Source Database Benchmark
+2028. OpenDir Protocol
+2029. OpenID
+2030. OpenXCI
+2031. Opsi Updater
+2032. P3: The Portable Unix Programming System
+2033. PBNJ
+2034. PHP IMAP Migration Tool
+2035. PHP Sysadmin Script Collection
+2036. PIAPARA LiveCD
+2037. PalmAVR
+2038. Pen Loadbalancer
+2039. Perl for WinCE
+2040. PfPro
+2041. Photo-Manager
+2042. PigZip
+2043. Plait command-line jukebox
+2044. Potator
+2045. PowerFolder
+2046. Pretty Damn Quick Queueing Model Package
+2047. Project 2003
+2048. Prototype™ Kernel
+2049. PyBat
+2050. QEMU Server Tools
+2051. QSpeedTest
+2052. Quota Manager
+2053. RYMOS
+2054. RandLM
+2055. RealtekR1000
+2056. Redpin
+2057. Retic EAI Server
+2058. RetroPC-SIM
+2059. RhinoLINUX KDE Edition
+2060. SCommander - A file manager for Symbian
+2061. SINP (SINP Is Not Portage)
+2062. SLAng
+2063. SLOGBASE
+2064. SNMP for Spring
+2065. SQUID Account Management System
+2066. STARCAT
+2067. Secure netcat
+2068. SecurityFilter
+2069. Simplified VFD
+2070. SlackX
+2071. Slinux
+2072. Snort IDS Library for Python
+2073. Snort2Pf
+2074. SocketLib++
+2075. Spice
+2076. SpiffChorder
+2077. Startup Helper
+2078. StateOS
+2079. Stemm-es: A spanish stemmer
+2080. Sudoscript - Audited Shells
+2081. SysBackup
+2082. TCP re-engineering tool
+2083. TFTP for TINI
+2084. Teaseme Java Virtual Machine
+2085. The GWO library
+2086. The XE Toolkit
+2087. Tiny Calculator
+2088. TinyLDAP
+2089. Tuner List CDC Emulator
+2090. URBI Project
+2091. Universe OS
+2092. VelisphereClientSDK
+2093. Viapps
+2094. Virtual Wifi
+2095. War WiFi+
+2096. Web interface for DNSmasq / Mikrotik
+2097. WebCastellum
+2098. WebPortal-Intranet System
+2099. WhoisUP
+2100. WiFiMon
+2101. Windows 7 Lock Screen Changer
+2102. WritTorrent
+2103. X4L RELOAD TOOLS
+2104. XFree86 Project
+2105. Zaurus Synchronization Repository
+2106. abd
+2107. angst
+2108. arclog
+2109. arqlib
+2110. clzw
+2111. deimachine
+2112. deploy.NET
+2113. di
+2114. doorman daemon
+2115. dumpnet
+2116. duti
+2117. embedded Single Timer Wheel (eSTW)
+2118. ergatis
+2119. flex-fw
+2120. fqzcomp
+2121. gziplite
+2122. jShrinker
+2123. jTPCC
+2124. java-json-rpc
+2125. jns - Java Network Simulator
+2126. jperfmeter
+2127. jsMSX - Javascript MSX Emulator
+2128. kobjects
+2129. ldif-preg_replace
+2130. libbash
+2131. liblzg
+2132. linpais
+2133. localcfg
+2134. lpACLib
+2135. mediOS
+2136. microHAL
+2137. mintyMac-Xfce4-64bit-14.04
+2138. mq-console
+2139. myBench
+2140. najitool
+2141. netgraphp
+2142. npk
+2143. oricutron
+2144. php DHCP hosts list
+2145. phpCollect
+2146. phpIP Management
+2147. realpaths
+2148. rover
+2149. s3DAV
+2150. scanPorts
+2151. smartIDS
+2152. smbldap-tools addons
+2153. snmpAdaptor4j
+2154. squitch pentest
+2155. srvx-admin
+2156. supermon
+2157. surblhost
+2158. txt2xml: parsing text to xml
+2159. uC/IP - TCP/IP for microcontrollers
+2160. unpack with password list
+2161. usb-robot
+2162. usbpipe
+2163. vCardBlaster
+2164. vfs-utils
+2165. wimaxsim
+2166. wodim
+2167. yourCMDB
+2168. AOKP for VISION
+2169. AdsmTape
+2170. Advanced Bot Framework
+2171. Alchemy WebSockets
+2172. Archeotes
+2173. Arduino Sketch Chooser
+2174. Ascii Art for Java
+2175. Associative Indexing Service
+2176. B.lu BOS
+2177. CertForge
+2178. Chordless
+2179. Clavier français élargi
+2180. Concluder
+2181. Creative Nomad JukeBox KIO::Slave
+2182. DeepArc
+2183. FSG Free Web-Interface
+2184. FUSE for the Xbox
+2185. Flickr Backup
+2186. ForceFeedback Joystick Driver for Java
+2187. Free Focused Scroll
+2188. Freedows OS Project
+2189. Frodo for PalmOS
+2190. Gateway Anti-Virus
+2191. Glider Operating System Kernel
+2192. High Interaction Honeypot Analysis Tool
+2193. Hog-A3XN-r
+2194. IMP Render Farm
+2195. IP-Updater
+2196. Interactive Room Software Infrastructure
+2197. Internet Host Status Monitor Application
+2198. JADE Inter-Platform Mobility Service
+2199. JENNOM
+2200. JRTG SNMP Poller
+2201. JUnit PDF Report
+2202. Java HTML/XML Compressor
+2203. Java HTTP Proxy Library
+2204. Java NetFlow Collect-Analyzer
+2205. Keyboard Upgrade
+2206. LOGalyze CLI
+2207. Lazy File Sorter
+2208. Lazy Wavelet Transform
+2209. Liberum Help Desk
+2210. Lisp Operating System
+2211. MM File Utility
+2212. MQTT Erlang client
+2213. MVP Open Source Project
+2214. Macis Puppy Linux
+2215. Mandarax
+2216. Minecraft Add-On Manager
+2217. Modular Syslog
+2218. Mojo Webstats
+2219. Moodle LDAP SSO Authentication Plugin
+2220. MyZCI
+2221. NaWui
+2222. NedoPC SDK
+2223. Open-USB-IO board
+2224. PHPaccess
+2225. POP3/IMAP Access Limiter
+2226. Passive Asset Detection System
+2227. PostgreSQL Tools for MacOS X
+2228. QT WebDav Explorer
+2229. QUAD
+2230. Raddle SNMP network emulator
+2231. ReMove to Waste
+2232. Revival/2k
+2233. SICvm - A SIC Based Virtual Machine
+2234. Scarlet
+2235. School Management Xp
+2236. Shilosh OS
+2237. SiPS - Simple TCP Port Scanner
+2238. Snazzy Backup
+2239. Sphere LogStats
+2240. SpokePOV
+2241. Squeezer Squid Optimization Analyzer
+2242. Squidalyser
+2243. Test Suites Results Parser and Browser
+2244. The JavaBluetooth Stack
+2245. UMU-XACML-Editor
+2246. UPCASE
+2247. VNC Viewer for Symbian
+2248. VNCProxy
+2249. VNUML Graphical User Interface
+2250. Value
+2251. brainypdm
+2252. dynipdrop
+2253. i-Installer
+2254. jwall
+2255. mintyMac-StarStudio
+2256. ntorrent - an rtorrent GUI
+2257. phpLicenseWatcherExtension
+2258. pyadselfservice
+2259. qop
+2260. sssh (super ssh)
+2261. viewssld - SSL traffic decryption daemon
+2262. wakawa
+2263. xbcast, an X broadcast receiver program
+2264. zapcat Zabbix JMX bridge
+2265. Summa
+2266. TFSplit-Java File Splitter and Joiner
+2267. Debian Install System
+2268. MyIP IP Management System
+2269. NAS4Free raid controller patch
+2270. OpenVPN Control
+2271. UTAC USB TempER Device Control
+2272. Java Commander
+2273. .NET Linpack and Whetstone CPU Benchmark
+2274. 1-Wire Net PD Kit
+2275. 3d mosix monitor
+2276. 64128 Graphics LCD Driver
+2277. 64NET/2
+2278. 67-80-85, the openCPU (open CPU)
+2279. A PHP beanstalkd Client
+2280. A.M.P. File Browser
+2281. AAST: Assembly ANSI Serial Terminal
+2282. ACTIface
+2283. AEPgb
+2284. APR Virtual File System
+2285. ARNUX
+2286. AVR C++ Lib
+2287. AVR-Computer
+2288. AVRMegaTools
+2289. AccSoft
+2290. Accent Tool Suite
+2291. Access Road
+2292. AddressBook
+2293. Advanced Upload Script (PHP)
+2294. Agnix Embedded Real-time OS Kernel
+2295. All My Documents
+2296. Anix
+2297. AntForm
+2298. Antdepo
+2299. Apache Management Console
+2300. Apache mod_statistics
+2301. Aracnis
+2302. Artica Statistics Appliance for Squid
+2303. Asterisk AD integration \ VQ monitoring
+2304. Astmontray
+2305. Authentication Manager
+2306. Automated Security Tools
+2307. BK Unix
+2308. BTnode System Software
+2309. BURDShell
+2310. Bahasa Patch
+2311. Balancing Load Across Systems (Ballast)
+2312. Basic Operating System
+2313. BatchSpot'em
+2314. BeOS RDP Client
+2315. BiGZiP
+2316. BibleOs
+2317. Big Brother
+2318. Birdseye
+2319. Blackfisk
+2320. Blueport
+2321. Bluetooth Tools
+2322. C++ Stream Compatible TCP/IP Sockets
+2323. CADI Software
+2324. CArtAgO
+2325. CIDRMerge
+2326. CIMHA
+2327. CIniFile
+2328. CMakeFiles
+2329. CSSSave for Mathematica 4
+2330. CW20ISO
+2331. ChallengeOS
+2332. Chameleon
+2333. Check-Mate, serial check-printer control
+2334. Chestnut Dialer
+2335. Chestnut Package Manager
+2336. ChipKit RealTime Clock & Calendar
+2337. Cisco Perl Tools
+2338. CitInfo
+2339. Cluster101
+2340. Color Changer
+2341. Come Back 64
+2342. Copymark
+2343. Cultix
+2344. Cyclone - Task Automation
+2345. DACS - Distributed Access Control System
+2346. DAXFi - Dynamic XML Firewall
+2347. DCON
+2348. DIY Zoning
+2349. Dark Rose OS
+2350. DataBase Migration Tool
+2351. Desktop Timer
+2352. Dessy
+2353. DirViewer Disk-Usage
+2354. Dirt
+2355. DiscRotate
+2356. Disk Optimizer
+2357. Disk Usage Viewer
+2358. Display Dumper
+2359. DmaParallel
+2360. DomainSearch
+2361. DropboxMQ
+2362. DummyFile Creator
+2363. DupSynch
+2364. E-Plug: Eclipse Plugin Repository
+2365. EMacro
+2366. EOS
+2367. EQ Track
+2368. EQUIP
+2369. EWSD Console
+2370. Eddie
+2371. Electronic Document Discovery
+2372. Elliott 803 Simulation
+2373. Embedded Bathroom Control System
+2374. Embedded PowerPC Linux Boot Code
+2375. Embedded Web Radio
+2376. Encrypti! v2.0
+2377. Extplorer for Drupal 7
+2378. F-Talk P2P Encrypted Secure Voip
+2379. FAT filesystem for PIC
+2380. FFMQ
+2381. FM tuner daemon
+2382. FOX for Tn
+2383. FP-QInterface
+2384. FROST operating system
+2385. FUSE for JAVA
+2386. FVIK
+2387. Fernando's Corner @ SF
+2388. File Arranger
+2389. File Chopper
+2390. File Control
+2391. File Copier
+2392. File Extension Corrector - Unix/DOS
+2393. File Rename Utilites
+2394. FileCommander
+2395. FileDrop
+2396. FileSpliter
+2397. FireLink
+2398. Firewall Tester
+2399. Flash Closed Captioner (Captioner.fla)
+2400. Flightdeck-UI
+2401. Floodlight
+2402. FlowVR
+2403. FontHack123
+2404. FrakeOS
+2405. FreePFW - FreeBSD IPFW Web Interface
+2406. GC lejos emulator
+2407. GDBServer Extender (gdbx)
+2408. GEMS IoT
+2409. GIVE ME FREEDOM!
+2410. GLPI Nedi Import
+2411. GMI
+2412. GMenu2X
+2413. GNet Server
+2414. GTreeMap
+2415. Ganimede
+2416. Gemini Nucleus
+2417. GetPerfmon
+2418. Gherkin network scan manager
+2419. Glovebox Server Management
+2420. Gnucula
+2421. Graphic Long Term Monitoring
+2422. GroundWork Foundation
+2423. GtkSysinfo
+2424. Guber
+2425. Générateur d'arborescence
+2426. HDDtempNC
+2427. HSTR
+2428. Hacking the iriver T10
+2429. HelenOS
+2430. HyperPool
+2431. IP2ISP
+2432. IPHPLog
+2433. IT-Inventory
+2434. IaaSMon
+2435. ImapArchiver
+2436. Immersion Cooker
+2437. Infinity OS
+2438. IntOS Web Operating System
+2439. Intrusion Block
+2440. IpTables Front End - IpTablesFE
+2441. Isectd, message oriented middleware
+2442. IslandEv
+2443. J/CoMM - Java RS232 Device Control
+2444. J2EE Session Admin. & Message Sending
+2445. J2ME VNC Client
+2446. JBacula
+2447. JCataloger
+2448. JChassis
+2449. JDHCPD
+2450. JDiskCat
+2451. JFindx1K
+2452. JFontTools
+2453. JHexDump
+2454. JMS for j2ms
+2455. JOST
+2456. JPackIt
+2457. JRF
+2458. JRadius
+2459. JSGB - a JavaScript GameBoy Emulator
+2460. JaC64
+2461. Jace
+2462. Jar Ajar
+2463. Java Backup
+2464. Java Exception Parser
+2465. Java Port Mapping
+2466. Java libusb/libusb-win32 wrapper 1.4.2
+2467. JavaTB
+2468. Jaybird
+2469. Jcapi - Java wrapper for CAPI
+2470. Jeeva folder utility
+2471. Jemfis
+2472. Jinx OS
+2473. JoeAgent
+2474. Jolinux
+2475. Jxtray - Java Database Explorer
+2476. Karma Load Balancer
+2477. Keapux
+2478. Keysoft
+2479. Kojoney (Koret SSH Honeypot)
+2480. L2TP LAC and LNS
+2481. LC2 ISA Simulator
+2482. LFS in EPUBs Project
+2483. LHA Decompressor for Java
+2484. LSE/OS nano-kernel
+2485. LazWinServiceMgr
+2486. LibCPUID
+2487. LibOSDK
+2488. Linguine Watch
+2489. Links OS: Swift, Secure, Straightforward
+2490. Linpro RRD
+2491. Linux Distros Graveyard
+2492. LogMeFree
+2493. Lolix Remix of Manjaro
+2494. LookingGlass
+2495. Lua FLTK
+2496. Lumbermill - Log4J/JSR47 GUI
+2497. MACMonitor
+2498. MAG Server
+2499. MATLAB Batch System
+2500. MCManager
+2501. MIDAS Network Monitoring Server
+2502. MIDP SMTP Client
+2503. MOTION
+2504. MPLS Simulator
+2505. MRTG Spike Remover
+2506. MStorage
+2507. MUCLM - My Uber Cool LDAP Manager
+2508. Mac Finder
+2509. Mac OS X Synergy Configurator
+2510. MacNetCalc - IP Calculator for OS X
+2511. Madara
+2512. Main//Pyrus DMS
+2513. Make Custom Debian DVD
+2514. Mass Password Generator
+2515. Max Event Interface client daemon
+2516. Mercury
+2517. MessagE//:
+2518. Metadot Portal Server
+2519. Mickey Hex Editor
+2520. Middle Earth OS
+2521. MikeOS x86 operating system
+2522. MiniKakofonix
+2523. MiniReg
+2524. Mnet
+2525. MobiSim
+2526. Modular Access Control System
+2527. Momoko
+2528. Moodle RADIUS Authentication Plugin
+2529. MotOrBAC
+2530. MultiColor
+2531. MyRTOS
+2532. MySQL Administration Tools
+2533. NGrid - Grid Computing for .Net
+2534. NIBObee Library
+2535. NXTMOTE
+2536. Nagios Control PaneL (NCPL)
+2537. NagiosGrapher
+2538. NeDi2GraphML
+2539. Neptune OS
+2540. Nessconnect
+2541. Network Management Information System
+2542. Network Management System Helper Tools
+2543. Network/User Realtime Interface
+2544. Nexus Tools
+2545. NiboRoboLib
+2546. Nmap report Tool
+2547. NoAds FileUnpacker
+2548. NoCatAuth
+2549. NodeBrain
+2550. Notenschrank
+2551. Nucle-DOS
+2552. OAS
+2553. ODIE
+2554. OPEN BootKnife
+2555. OSE
+2556. OSLib
+2557. OVAL Utilities
+2558. Object Component Desktop (OCD)
+2559. Onda
+2560. OnireonSimpleSpot
+2561. Open EzBasic
+2562. Open GameBoy Games
+2563. Open Source Motor Control Software
+2564. Open Source NetWare Kernel (MANOS)
+2565. OpenBSD VPN
+2566. OpenBee
+2567. OpenBrainy
+2568. OpenBroad
+2569. OpenCms ANT Build
+2570. OpenDRIM
+2571. OpenEJB
+2572. OpenHC (Opensource Home Control)
+2573. OpenMapper
+2574. OpenOTP Authentication Plugin RoundCube
+2575. OpenSimMPLS (Visit http://goo.gl/ADQ2hl)
+2576. OpenTail
+2577. OrbDuino
+2578. Oxygen
+2579. P2P@i
+2580. PC IR Linc Control
+2581. PDF Meta
+2582. PDM - PHP Dump Maker - Smart Backup Tool
+2583. PDMWeb
+2584. PHP Checksum Checker
+2585. PHP Packager
+2586. PHP TarBackup
+2587. PHP Ticket
+2588. PHP Toolbox
+2589. PHP-CMDB
+2590. PHP-RconCommander
+2591. PHPresolver
+2592. PHUnzip
+2593. PS2Dev
+2594. Package Drone
+2595. Painel de Monitoramento
+2596. PanDAV - a WebDAV library and server
+2597. Password quality checker for LDAP
+2598. Patchamama
+2599. PearlOS XFCE4 for Odroid C1
+2600. Peepo
+2601. Perl based mp3 archive tool set
+2602. Personal Python Webmail
+2603. Phoinix, Gameboy Emulator for Palm OS
+2604. Phosphor Peer-to-Peer File Sharer
+2605. Pi Calculus for SOA
+2606. Pisces
+2607. Pixel OS
+2608. Plinko - the smart parser
+2609. PluSHS. Pluf Simple Hostname Scanner
+2610. Powerkuff
+2611. Proxyp
+2612. Pulse: The Hardware Health Monitor
+2613. Punix
+2614. PyAwk: Awk style processing in python
+2615. PyDiskImage
+2616. PyJdbc driver
+2617. PyQFiler
+2618. PySocks - a SOCKS proxy in Python
+2619. Pydusa- Parallel Programming in Python
+2620. Pythońol: Spanish Language Learning Sof
+2621. QSquid
+2622. Qeasy
+2623. Qtfw - FreeBSD ip firewall gui frontend
+2624. RAReXtract
+2625. RAZip Bitstream Format
+2626. REQADM Helpdesk Request Ticket System
+2627. RLE compression pack
+2628. ROS4iOS
+2629. RTKER and ATMEGA128 Operating system
+2630. RXVSAM
+2631. RadHOT
+2632. RanMon
+2633. Raspberry Pi Emulator on Windows
+2634. Rdx File Manager
+2635. ReMon
+2636. ReName File Application
+2637. RealTek network driver for MacOSX/Darwin
+2638. Recursive Network Execute
+2639. RegWatch
+2640. Regexp Automatic Downloader
+2641. Remote Log Viewer
+2642. RemoteWAP
+2643. RevolvingProxy
+2644. RpyConfig
+2645. Ruby Nmap::Parser Library
+2646. Ruse Linux
+2647. S/Key Generator for J2ME architecture
+2648. SAGE
+2649. SBCD
+2650. SBMD - Backup MySQL Database
+2651. SHELLcast
+2652. SHython
+2653. SIS analysis Toolkit
+2654. SImple Microkernel Distributed OS
+2655. SQL Cache Daemon
+2656. SQL File Executor
+2657. SRFExtra
+2658. SSHWebProxy - SSH via HTML
+2659. STED - Transliterator
+2660. Samba DAnCE
+2661. Scanmap3D
+2662. ScheduleIT- Crossplatform Task Scheduler
+2663. Script Echo Color
+2664. Searchy
+2665. Secure Socket File Transfer
+2666. Secure VNC
+2667. Server Scout
+2668. Show disk usage with postscript
+2669. Shut the Box
+2670. SimCloud
+2671. SimIS
+2672. SimpLex Lexical Parser
+2673. Simple DDC/CI on AVR
+2674. Simple Holidays
+2675. Simple Random Disk/File Read Test
+2676. SimpleAssets
+2677. Simply GNUstep
+2678. Smart Python Simulation Environment
+2679. SmartIrc4net: the C# IRC library
+2680. Smoothkoops - Traffic Mod Addon
+2681. SoftLed
+2682. SpaceNet
+2683. SplitFire - The IRC Script
+2684. Squid Log Analyzer and Report Generator
+2685. Startx Administration System
+2686. Surface Tracker
+2687. Surreal 64
+2688. SweetHome
+2689. Syncoco
+2690. SysInfo-DC for HP-UX
+2691. Sysmon
+2692. T Four
+2693. TCP Flow Recorder
+2694. TER software
+2695. THE - The Hex Editor
+2696. TMPL
+2697. TR Data Sync
+2698. Tail
+2699. TemperatureMonitor
+2700. The Adam Speech Recognition Server
+2701. The Belkin Router Log Extractor
+2702. The GREDIA Project
+2703. The Programmable Chip EEG BCI
+2704. The X-Files
+2705. The X-Log Library (xlib)
+2706. Time Track
+2707. Tomcat SPNEGO/Active Directory Authnz
+2708. Toolkit for OpenSSH Key Administration
+2709. Total ISP
+2710. TraffStats
+2711. Traffic Monitoring And Counting Daemon
+2712. TurboW
+2713. Unidockynapse Kx Studio 12.04
+2714. Universal Peer-to-Peer
+2715. Unix iPod utility
+2716. V86 mode support for 64-bit Linux
+2717. Vectorius
+2718. Visual Disk Diet
+2719. Volterra2.0
+2720. Vulnerability Scanning Cluster
+2721. WGetWebUI
+2722. WMibBrowser
+2723. WarpTunnel
+2724. We! Analyze By Or Cohen
+2725. Web Pentesting Environment
+2726. Webmin/CBQ
+2727. Wii Applications
+2728. Windows OEM Information Editor
+2729. Wireless Access Point Monitor
+2730. Wolfpack Emu
+2731. X10Controller
+2732. XFlow
+2733. XLOG
+2734. XML-Parser Library for BR-Automation PLC
+2735. XRap
+2736. XSINAS
+2737. Xamba Network Integration Project
+2738. Ximinez
+2739. Xis
+2740. Xubuntu EDU
+2741. YARP - Yet Another Robot Platform
+2742. YourAss OS
+2743. ZED OS
+2744. Zenipex Library
+2745. Zenoss/MindTouch Mashup
+2746. Zeroconf-to-Zeroconf Toolkit (z2z)
+2747. Zipbox
+2748. ZoomStats (Web Traffic Analysis)
+2749. ZorOS boot manager
+2750. ak File Organiser
+2751. akiraLINUX
+2752. android-timestamp-keeper
+2753. anti firewall
+2754. anyProcess
+2755. appFirewall
+2756. apt-wet
+2757. autoCode4
+2758. avia
+2759. avrprog2
+2760. avrsvf0
+2761. bSyslogAgent
+2762. beSee
+2763. binpatch
+2764. burn-cd
+2765. cURL based networking toolkit
+2766. cfg2html
+2767. chainssh
+2768. cinc
+2769. cingb
+2770. comal-linux
+2771. commons-vfs-grid
+2772. coolcommand (expert)
+2773. crcRepair
+2774. csart - Clever-Search-And-Replace-Text
+2775. dTools' JConsole
+2776. dababix
+2777. data recovery tools
+2778. dhcp-gen
+2779. dosbox-ppcjit
+2780. dsdGSM
+2781. eCos Freescale
+2782. eVAX - A VAX emulator
+2783. filecmp
+2784. fsyst
+2785. getTunes
+2786. gkismet
+2787. google photos backup
+2788. groowiki
+2789. hackOS
+2790. hadie
+2791. hdump
+2792. iHook
+2793. imote2-linux
+2794. ipex
+2795. jEmbryoS
+2796. jMorse
+2797. jNAT-PMPlib
+2798. jar dependency analyzer
+2799. java nio server
+2800. java-wakeonlan
+2801. javascript port scanner
+2802. jbmgen
+2803. jinix
+2804. jiz
+2805. js-filebrowser
+2806. kfManager
+2807. lazyread
+2808. lbackup Java Backup
+2809. libcurl-edk2
+2810. libpq for PalmOS
+2811. lin-billing
+2812. linux monitor
+2813. log mail analyzer
+2814. log4sh
+2815. logdistiller
+2816. m0n0wall-CMI
+2817. mailqui
+2818. marcel
+2819. metasystem
+2820. mhu-hair
+2821. minios
+2822. mintyMac xfce4-light 64bit 14.04
+2823. mkreadmes
+2824. mod_psldap
+2825. msh (M shell)
+2826. multiping
+2827. nag2web
+2828. neroconv
+2829. nflow-collector
+2830. open82
+2831. openSAFETY Demo
+2832. pIap
+2833. pam-anyauth
+2834. peter-dwarf
+2835. pfdisk
+2836. phpLogFacility (a working log4php)
+2837. phpNMAP
+2838. phpRPC
+2839. phpelf
+2840. pingb
+2841. pkt
+2842. pocketpc ping utility
+2843. portdowngrade for FreeBSD
+2844. posix
+2845. proxyTools
+2846. pushloc
+2847. pycos
+2848. pyrouter
+2849. qwpr keylayout and layout translator
+2850. rEdEyEs
+2851. reg-runner
+2852. rezo
+2853. rslib
+2854. sLog
+2855. sPBM - Simple PHP Backup Manager
+2856. scandiff
+2857. setuplib
+2858. simple-forth-c
+2859. simpleMVC
+2860. snippetsource
+2861. snr
+2862. squid-group-ldap-auth
+2863. sshproxy
+2864. subsynth
+2865. swet: sustained workload efficiency test
+2866. synaptic
+2867. sysinfo-snapshot
+2868. taco
+2869. tar-binary-splitter
+2870. tcptrace
+2871. theWall
+2872. tpkg Application Packaging & Deployment
+2873. tweaker
+2874. txObject ATK for C++ / Python
+2875. vmmonitor
+2876. webwatch
+2877. whitehack
+2878. xlife
+2879. yaftp
+2880. zxmmcfid
+2881. CloneManager
+2882. DupLichaSe
+2883. Photo Cop
+2884. brichip
+2885. WIFI-BOX - WRT54G(s) GPL Firmware
+2886. Jar File Updator
+2887. geneyeOS
+2888. !Hell Учет картриджей
+2889. "Connect Four"
+2890. (ACT-) RBOT + MRS
+2891. (Slack) Attitude
+2892. (UDPM) User Dialog Perl Modules
+2893. ---
+2894. -INACTIVE-
+2895. 1337 Fireworks
+2896. 1C Backaper
+2897. 2Fast BitTorrent
+2898. 389 DS Graph
+2899. 3Com3C90x for 10.6 intel 32-64
+2900. 3D Controller Drivers
+2901. 3D Network Visualiser
+2902. 3DM XML diff and merge tool
+2903. 3d network monitor
+2904. 3dfx I/O Kit Driver
+2905. 3ff hardened gateway
+2906. 512DevOS
+2907. 5DT DataGlove Driver
+2908. 68360 Boot Loader
+2909. 6mop, Dynamic 6in4 tunnel manager
+2910. 6vm
+2911. 7-Zip-NBinding
+2912. 911 Radio and Equipment Tracker
+2913. 9200 Communicator Mouse
+2914. A BSD-like Ports System for Mac OS X
+2915. A Crossplatform Remote Monitoring System
+2916. A LemonLdap Plugin for Sympa.org
+2917. A Simple Software Audio Pipe
+2918. A WeatherMap GUI interface
+2919. A simple SSO
+2920. A-line
+2921. AA Search Engine
+2922. AAAadmin
+2923. AACLS Backend for OpenLDAP Software
+2924. AAG TechPlat Desktop
+2925. AAltSys Server
+2926. ABBS (Agent Based Backup System)
+2927. ACAD
+2928. ACPI CPU Throttling driver for MacOS X
+2929. ADAPC
+2930. ADE
+2931. ADEN
+2932. ADFlib : free + opensource Amiga filesys
+2933. ADRS
+2934. ADS1115 I2C XBee
+2935. ADSP
+2936. ADopenPOWERLINK
+2937. AFID: Firewall Information DB Viewer
+2938. AFix
+2939. AGInstaller
+2940. AGV-simulator
+2941. AIDE Reporting
+2942. AIDEN (AIx Documentation ENgine)
+2943. AIM Firewall Proxy With Direct-Connect
+2944. AIVIS
+2945. AIX Partitions and Systems Performance
+2946. AIX Storage Presentation
+2947. AIXResourceCollector
+2948. AJCT
+2949. ALF (VE) - A Functional Agent System
+2950. ALF for Java
+2951. ALM Migrator
+2952. AMASP Arduino Library
+2953. AMQP Gateway
+2954. ANDURAS SurfProtect
+2955. ANet
+2956. AODV Simulator
+2957. AONIC Framework
+2958. AONS
+2959. APscanner
+2960. ARIO
+2961. ARMed Advanced Gameboy Emulator
+2962. ARP Scout
+2963. ARPTable
+2964. ART_LVM
+2965. ASAT
+2966. ASBench
+2967. ASIP Synthesis
+2968. ASMIMUX
+2969. ASP.Net TypeKey authentication module
+2970. ASP.net System Information
+2971. ASUS RT-N13U with 3.5G support
+2972. ATFinder
+2973. ATFinder (lib)
+2974. ATFrogs
+2975. ATOMATRIX
+2976. ATOS for 8051
+2977. AVL Array
+2978. AVR32 Ecos
+2979. AVR32-FreeRTOS for AP700x
+2980. AVRILOS
+2981. AVRLCD
+2982. AWOS
+2983. Aaron: the app, service, and net monitor
+2984. Abandoned/Moved
+2985. Abschalttimer/Shutdowntimer
+2986. Absolute Commander
+2987. Abxolute Library
+2988. AcOS
+2989. Accada HAL
+2990. Accada TDT
+2991. AccesStream
+2992. Access Control Designer
+2993. Access Mode Interpreter
+2994. AccessWeb
+2995. Account Lockout Realm for Tomcat
+2996. Account Services Manager
+2997. AccounteX
+2998. Ace OS
+2999. Acgvision System Monitoring Software
+3000. Achelous
+3001. Acquaintance OS
+3002. Acquired Virtual Distribution
+3003. Active Directory Info Entry Utility
+3004. Active Directory Password Tools for PHP
+3005. Active Life Synchronization System
+3006. Active Object real-time OS
+3007. Active Virtual Network Management
+3008. ActiveODMA
+3009. ActiveWire Driver & Interfaces for OS X
+3010. Ad Hoc Network for iPod
+3011. AdN
+3012. AdXen
+3013. AdZHosts
+3014. Ada-spread
+3015. AdaptiveCells J2EE
+3016. Adaptivity XML Tools
+3017. Adara Java MUD Project
+3018. Addons for IOSEC - DoS HTTP Security
+3019. AdmiNIBS
+3020. Admin Mod Webacces
+3021. Admin Secure
+3022. AdminAgents
+3023. AdminSpy: Administer Multiple Games
+3024. AdminStack
+3025. AdminTool
+3026. Administrate Teamspeak by Perl
+3027. Administrative AppleScripts
+3028. Advanced Irrigation Controller
+3029. Advanced Mathematics Suite
+3030. Advanced Network Library
+3031. Advanced Storage Management Layer
+3032. Advanced Upload and Email Script
+3033. Advanced eXtended OS Loader
+3034. AdvancedOS
+3035. Advisory Check
+3036. AerFM - php/AJAX based file manager
+3037. AerOS
+3038. Affelio
+3039. AgLat
+3040. Agent M. Bean
+3041. Agent.X implementation for Java
+3042. Agentless Universal Shutdown
+3043. Agentopia
+3044. Agile Author
+3045. Agile Toolkit
+3046. Agnix
+3047. Agoo
+3048. AirPort Connectivity
+3049. Ajax - A-quality JAva eXtensions
+3050. Ajax Network Map
+3051. Ajax Portal (WebOS and Portal)
+3052. AjaxJ
+3053. Akalon Embedded OS (RTOS)
+3054. Akogrimo
+3055. Albuquerque Integrated Reporting System
+3056. Alchemy OS
+3057. AlertLog
+3058. Algernon
+3059. Aligator 427
+3060. Alist System Inventory Software
+3061. Allonany (all on any)
+3062. Almafuerte ADSL CrazyLink
+3063. Aloofix
+3064. Altsteon
+3065. Amacdys
+3066. Amalgam: Centralized software management
+3067. Amavis Notfy Parser
+3068. Amazon EC2 Query API
+3069. Ambient Composite Framework
+3070. AmiWall
+3071. Amiant Navigator
+3072. Amiga emulator for PalmOS 5.
+3073. Amino
+3074. Amoeba role playing game engine
+3075. AmorodLinux
+3076. AmpCentral
+3077. Amylase: Structured File HTML/XMLizer
+3078. An LDIF grep tool that returns records i
+3079. An OSGi-Based FIPA Implementation
+3080. An Open Implementation of IEEE 1451
+3081. An Python script that make backups
+3082. Anacon
+3083. Analog4J
+3084. AndersTool
+3085. Andestá
+3086. Android Applications Manager
+3087. Android-STS
+3088. Andutteye
+3089. Anemasys
+3090. Anjolog
+3091. Another Gallery
+3092. Ant WebUI
+3093. Anthias
+3094. Antim
+3095. Antinat
+3096. Antiquity
+3097. Anubis Gate
+3098. AnyTerminal
+3099. AnyfileBrowser
+3100. Aorta p2p Tasklet cluster
+3101. ApTop
+3102. Apache Commander
+3103. Apache Configuration Tools
+3104. Apache Log Parser
+3105. Apache Log Rotator
+3106. Apache VirtualHost Transfer Counter
+3107. ApacheBuilder
+3108. Apex Compare
+3109. Aphid Apache Installer
+3110. Apostle Project
+3111. App QuitTimer
+3112. App::MBUtiny
+3113. App::MonM
+3114. AppLaunch
+3115. AppRover
+3116. AppV Repository
+3117. Apple Airport Extreme MAC spoof
+3118. Apple Game Server (moved to sourceforge)
+3119. Apple One replica
+3120. AppleIntelX4500
+3121. Appleverse Wizard
+3122. Application Heartbeat Monitor
+3123. Application Level Environment4Networking
+3124. Application Version Manager
+3125. Applications via XML
+3126. ApplyPolicy
+3127. AppsLink Demo Applications
+3128. Apricot
+3129. April
+3130. AqDomus
+3131. AquaPiPi
+3132. Aquaduino
+3133. Aquos Operating System
+3134. Arabic OS
+3135. ArcAngel Backup Utility
+3136. Arcade Snake Game using verilog
+3137. ArchMan
+3138. Architeuthis
+3139. Archive Buddy
+3140. Archive Manager Framework
+3141. ArchiveXindex
+3142. Arduino ShiftBrite Library
+3143. Arduino Solar Controller
+3144. Ares Face Recognition
+3145. Argante
+3146. Argonaute File Explorer
+3147. Argos Middleware Container
+3148. Args
+3149. Argus Monitor
+3150. Ariadne Project
+3151. Ariejan's MySQL Backup Tool
+3152. Arise
+3153. Armalyte
+3154. Armian OS
+3155. Armpit Scheme
+3156. Arquitectura de Altas Prestaciones - UGR
+3157. Array Disk
+3158. Ars TestBench 2.0
+3159. Artificial Intelligence Experimentation
+3160. Ascent
+3161. Asimba
+3162. Assimilator
+3163. Assorted projects
+3164. Asterisco Settings
+3165. Asterisk Call Viewer
+3166. Asynchronous Invocations Global
+3167. Atari ST data depackers
+3168. Atlantis Operating System
+3169. Atmel WLAN Driver for QNX
+3170. Atomic Backup
+3171. Atomic OS
+3172. AtomicDate
+3173. Atrax microkernel OS
+3174. Atreyu DVD Manager
+3175. AttansicL1Ethernet
+3176. Attic file synchronization tool
+3177. Audio File Name Fixer
+3178. Aures Nmap GUI Notifier
+3179. Auth MemCache Cookie
+3180. AuthClassed
+3181. Authen::Krb5::Simple
+3182. Authentication & Authorization System
+3183. Auto Adaptive Channel
+3184. Auto Migrator
+3185. Auto Proxy Filter Test
+3186. Auto Switch Off
+3187. Auto-Case
+3188. AutoDeFrag
+3189. AutoFileRelease
+3190. AutoGlow
+3191. AutoGreen
+3192. AutoIcon
+3193. AutoImage
+3194. AutoIndex.PHP
+3195. Autologging
+3196. Automated Backup System for Websites
+3197. Automated Configuration Documentation
+3198. Automated Perl Deprovisioner
+3199. Automatic Service
+3200. Automatic Tcp Port Monitor
+3201. Aveos
+3202. Avie Online Framework
+3203. Awesome-Install
+3204. Awesum
+3205. B&B 232SDA12 Data Logger
+3206. BASE+
+3207. BASE2
+3208. BASICS Web Publishing Framework
+3209. BASTRAMA - Backup Strategy Manager
+3210. BASys 2003
+3211. BCR2000 sysex converter
+3212. BDD compression
+3213. BEMIS
+3214. BES
+3215. BEUS Message of the Day
+3216. BIFI Bacula Intuitive Friendly Interface
+3217. BIND9admin
+3218. BIOS for Samsung S3C4510B
+3219. BIS-Grid
+3220. BLUpgrade for Dlink T Series
+3221. BMTools
+3222. BMW: Multiple Bags of Words
+3223. BOFHms System Management (PAM / DB)
+3224. BONK
+3225. BORG - BORG Open Rendering GUI
+3226. BOX-Bash Over XMPP
+3227. BPF based traffic analyser
+3228. BPML
+3229. BRST - Border Router Security Tool
+3230. BRiX - Operating System
+3231. BS4j
+3232. BSD File Alteration Monitor (FAM)
+3233. BSD SAM-BA
+3234. BSD Scripts Project
+3235. BSD process limiter
+3236. BSDCHANNEL
+3237. BSDSAR
+3238. BSDStep
+3239. BSDcentralfirewall
+3240. BTFile 2007
+3241. BTnodeRFID
+3242. BU - NFS/ssh BackUp and CDRW dump tool
+3243. BXR File Management System
+3244. BZoo
+3245. Babya System
+3246. Bacard
+3247. BackTrac Backup System
+3248. Backalaika
+3249. BackuPXE
+3250. Backup ARchiver
+3251. Backup Grid
+3252. Backup4j
+3253. BackupCleaner
+3254. BackupNetClone
+3255. BackupPC_report
+3256. BackupRotator
+3257. Backwards Compatible BSD restore
+3258. BaconMap - IT Resource Manager
+3259. Bacula-Web
+3260. Baculejo
+3261. Badger
+3262. Bagegees
+3263. Bagf Bae
+3264. Bajjer - Java Jabber Project
+3265. Banana Kernel
+3266. Bandwidth Charge Analyzer
+3267. Baseline Observation Of Your Assets
+3268. Bash Environment Variable Manager
+3269. Bash Navigation Utilities
+3270. Bash Startup Library
+3271. Bash-Toolbox
+3272. BashBurn
+3273. Basic Backup
+3274. Batavia Plugins
+3275. Batavia file manager
+3276. Batch Kit
+3277. Batch file renaming tool
+3278. BatchRename'em
+3279. BatchSSH
+3280. Battery Monitor
+3281. Battlement Kingdom Private Server
+3282. Battlement Kingdom Private Server - Temp
+3283. BaverBurner
+3284. BeCPiA
+3285. BeFree
+3286. BeLogin
+3287. BeOS IDE controllers driver
+3288. BeOS PPPoE/PPtP
+3289. BeOS drivers (SiS, USB, etc ...)
+3290. BeaNES
+3291. BeaST Quorum
+3292. Bean Bowl
+3293. BeanQuery
+3294. BeeOS: A small RTOS for the HC12 MCU
+3295. Beebox for Java
+3296. Bella Operating System
+3297. Ben's Picture Gallery
+3298. Benchmark Editor
+3299. Benchmarking SQL Testing
+3300. Benson Distributed Monitoring System
+3301. BeoZip
+3302. BerkeleyConnector
+3303. Bernhards IP Accounting
+3304. Better CD
+3305. Better Network
+3306. BeyondInstall
+3307. BiMOS
+3308. Biblioteca Virtual de Imagens Médicas
+3309. Big Grid Wireless Super Computer
+3310. BigBlue
+3311. BiggestBlue
+3312. BinEditor
+3313. BinToo
+3314. Binary I/O stream class library
+3315. Binary Writer
+3316. Binary XML
+3317. BinaryVerse MMORPG
+3318. Binomial Compression
+3319. BioGB
+3320. Biocentrica Voyager Antivirus
+3321. Bionanny
+3322. BiosDiskIO Library
+3323. Birch: a Metadata Search File System
+3324. BirdOS
+3325. BitByter OS
+3326. BitComp - Compressing bits
+3327. BitCoop
+3328. BitRot Monitor
+3329. BitTorrent Queue Manager
+3330. Biz-3XPLORER
+3331. BizTalk Monitord
+3332. Blaapps Application Framework
+3333. Black Mirror
+3334. Black scalpel
+3335. BlackPearl Open Manager
+3336. Blackbeard Linux
+3337. Blackberry USB Modem for OS X
+3338. Blackboard messaging library
+3339. Blackfin Test Project
+3340. Blah.security J2EE Security Framework
+3341. Blindensehersatzsystem SeebyTouch
+3342. Blindeye Security Monitoring
+3343. Blitz JavaSpaces
+3344. Blitzer
+3345. Bloat - Extractor Selector
+3346. Block Based Encryption aka 2Bx4Bx2B
+3347. Blue Linux
+3348. BlueFusion
+3349. BlueJADE
+3350. BlueJinx - bluetooth knife
+3351. BluePalm2X
+3352. BlueRock
+3353. BlueTooth at Work
+3354. BlueX
+3355. Bluebian
+3356. Bluesfield
+3357. Bluesite
+3358. Bluetooth Reader
+3359. Bob-clock
+3360. BobTail
+3361. Body Monitoring Services Platform
+3362. Boggo Spaces
+3363. Bogmog
+3364. Boiler
+3365. BonAHA
+3366. Bongoyo
+3367. Bonswing
+3368. BookMark.inc
+3369. Boomrang SDK
+3370. Boot image fallback
+3371. Bootpack
+3372. Bork File Encrypter
+3373. Bossman
+3374. Botanix
+3375. Boxi
+3376. Boy Pages
+3377. Braille library
+3378. Brain Boost
+3379. Branches
+3380. Brasil IP
+3381. Brett Guarnieri
+3382. Broadcom 440X driver for QNX
+3383. Broadcom replacement firmware
+3384. Broodling
+3385. BrowserMob JavaScript Validator VNC
+3386. Brutus-IDS
+3387. Bryn's Code Pile
+3388. Buendia
+3389. Bugflow
+3390. Buggyware
+3391. Bugkilla - J2EE Functional Test Suite
+3392. Build Installer
+3393. Build Template System
+3394. BuildSys
+3395. Bukkit Log Viewer
+3396. Bulk Rename
+3397. BullyJMS
+3398. Bunny Proxy
+3399. BunnyX Dynamic XML Proxy
+3400. Bushcraft Linux
+3401. Business bots
+3402. Buzz Web Server Administration Utility
+3403. ByteArray
+3404. Bytemark benchmark results
+3405. C implementation of Getopt::Long
+3406. C# Scripts
+3407. C# Web Management System
+3408. C++ Communication Services Framework
+3409. C++ Log Engine Library
+3410. C-Cramp
+3411. C-ONE boot code
+3412. C.O.R.E.
+3413. C.O.R.E. server
+3414. C15105
+3415. C2CBench: Cache-to-Cache Benchmark
+3416. C4I: Network Command & Control
+3417. CAC - Crab Access Control
+3418. CACANMS
+3419. CAILogin
+3420. CAM API
+3421. CANDB DEV
+3422. CBurner
+3423. CCC Cron Cluster
+3424. CCFLDimmer
+3425. CD Catalog
+3426. CDAutoTool
+3427. CDBurn
+3428. CDChamber
+3429. CDKeeper
+3430. CDRX.pl burner script
+3431. CDRecBox
+3432. CDX - Set default optical drive symlinks
+3433. CD_SERVER
+3434. CDalogue
+3435. CENSUB
+3436. CFMove
+3437. CF_CheckForm
+3438. CFshell
+3439. CGIgen
+3440. CHAC
+3441. CHAPS
+3442. CICC Grid
+3443. CIS Benchmark for OS X
+3444. CJ2EETools
+3445. CLAME
+3446. CLIChart
+3447. CLINT Command Interface to System Calls
+3448. CLIPS++
+3449. CLOCK 3W
+3450. CMIS FileShare
+3451. CMR Namespace Project
+3452. CODO
+3453. COFILOS
+3454. COLOR
+3455. COMJAT.NET Logger (Release Thread)
+3456. COMJAT.NET Remotor (Release Thread)
+3457. COMPAS J2EE
+3458. COMPILIBRE
+3459. CONECT
+3460. CORBA Step-By-Step
+3461. CORBA for PHP
+3462. COS - Component Operating System
+3463. COS - Server
+3464. CP1251 Clipboard Converter
+3465. CPE Reference Implementation
+3466. CPU Gigahertz Calculator
+3467. CPU Informer
+3468. CPU-TomRoeDotCom
+3469. CPUID Library for Win32
+3470. CPUptodate
+3471. CPWMgr
+3472. CPx86
+3473. CRM114 Discriminator - Controllable Rege
+3474. CS CLI Logger
+3475. CSESD-Archiving
+3476. CSharpShredder
+3477. CTrace
+3478. CUG user management
+3479. CVS virt file system for Hurd
+3480. CVSBrowser
+3481. CWADS
+3482. CWebDAV
+3483. CZed
+3484. CaChars
+3485. CabFE - The Arcade Cabinet Frontend
+3486. Cachier
+3487. Cacti-SNMPAgent
+3488. Cadaz GNU/Linux
+3489. Cairo tool
+3490. Calcsys
+3491. Calculator using CORBA and Socket
+3492. CalebOS
+3493. Caller Identification System
+3494. Calypte
+3495. CamelCrate
+3496. CanTcl
+3497. Canary
+3498. Candows
+3499. CanoScan FB630U SANE backend
+3500. Capacitive Touch TFT Board
+3501. Capacitor OS
+3502. Capibara Distributed Url Cloaking Kit
+3503. Capra
+3504. Capsaicin
+3505. Capybara package system
+3506. Caracal
+3507. Caracal Boot Loader
+3508. Caramba Mobile RSS Reader
+3509. Carbon AS - J2EE Application Server
+3510. Carbon Copy
+3511. CarlaBackup
+3512. CarlaSync
+3513. CarrierIn.pm
+3514. Carthag PHP platform
+3515. CastMapper
+3516. Casub
+3517. Cataclysmic
+3518. Catalog Merger
+3519. Catweasel MK3 and MK4 Mac OS X Drivers
+3520. Cave Canem
+3521. Cdcat- the extensible CD Catalog
+3522. CellAO DataLogging
+3523. Cellocity LInux Operating System
+3524. Centanya
+3525. Central Administration ToolBox
+3526. CentralWire
+3527. Centralized RealBasicPlugin/Classes Site
+3528. Centralized package manager
+3529. Cerber -- security module for FreeBSD
+3530. Cerber Grid
+3531. Cerbero Systems
+3532. Cerberus Test Control System 2
+3533. Cerces - a Knights of Linux OS
+3534. Cerebrum
+3535. Ceres Disaster Management System
+3536. CertBook
+3537. Chai Library
+3538. ChallengeOS
+3539. Challenger CrOS
+3540. Check Files
+3541. Check MRTG Traffic
+3542. CheckMD5
+3543. CheckPower
+3544. CheckSite
+3545. CheckSum
+3546. CheckSummer
+3547. Checkdirs
+3548. Checklist Linux
+3549. Checkpoint Commander
+3550. Checksum Directory
+3551. Cherubim
+3552. Cheshire3
+3553. Cheval
+3554. Chiken OS
+3555. ChipKit GLCD
+3556. ChipKit Network
+3557. Chirp
+3558. ChmodPro
+3559. Chor
+3560. Chrome-Cut
+3561. Chronorename
+3562. Chucho
+3563. ChumbOS Launcher
+3564. CimStream
+3565. Ciphon
+3566. CircuitAnalyzer
+3567. Cisco ACL Replicator
+3568. Cisco Config Parser
+3569. Cisco IP Accounting Fetcher
+3570. Cisco voice web interface
+3571. Cislog
+3572. Citizen Privacy Service
+3573. CityLAN
+3574. Clairvoyance
+3575. ClamJ AntiVirus Package
+3576. ClamX
+3577. Clan Vault
+3578. Clan management and war arrange
+3579. Classic Lint
+3580. Clawlib
+3581. Clean Nuke
+3582. ClinkerAdmin
+3583. ClipboardShare
+3584. Clipshare
+3585. Clix
+3586. Clockwork Eye
+3587. Cloud Export
+3588. Cloud-Oriented Lan Disk
+3589. CloudToolbox
+3590. Cloudium OS
+3591. ClusTerm
+3592. Cluster Networks
+3593. ClusterTools
+3594. Clustered Remoting for Spring framework
+3595. Clusters for Everyone
+3596. CmdDist
+3597. CmdPlus - Windows Console Enhancement
+3598. Cmmi ( installation manager )
+3599. CoCoBoot
+3600. CoDeK - Concurrent Development frameworK
+3601. CocTunnel
+3602. Cocalores
+3603. Cocoa GenServer
+3604. Cocoa PSQL
+3605. Cocoa VNC
+3606. Cocoon 2 NetKernel Adaption Kit
+3607. Code Red Sim
+3608. CodeTime Parallel Software Platform
+3609. Coded Debug Print
+3610. Codemart Installer Framework
+3611. Codename Circumference
+3612. Codex
+3613. Coding Explorer
+3614. Coffeearc
+3615. Cohort p2p file storage
+3616. CoinOPS Toolbox
+3617. Coins Management
+3618. Collaborative writing tools
+3619. Collaborilla
+3620. Colle: The glue of good web applications
+3621. Colleague Folder Share
+3622. College Laboratory Integration
+3623. Colmeia Gerenciador de Curriculos
+3624. Comandante Moz
+3625. Combat Bot OS
+3626. CommGen: Component Integration Platform
+3627. Command Agent
+3628. Command Line Tools
+3629. Commander64
+3630. Commodore CBM-II DOS Wedge
+3631. Common Configuration Service
+3632. Common Information Object Protocol
+3633. Common Lisp SNMP
+3634. Common Portal Platform
+3635. Common Scripting Interface
+3636. Commons-SSH
+3637. CompactIS
+3638. CompareFiles
+3639. Compensato
+3640. Compiere-NMA Network Management + Acct
+3641. Compl\'s ODS Client
+3642. Complete Audit Report Center
+3643. Complex of Adaptors and Terminals(CAT)
+3644. Component Based Distributed Simulation
+3645. ComprLib Data Manipulation Library
+3646. Comprehensive Common Lisp Archive Net
+3647. Computer Assembly Management System
+3648. Computer Room Manager
+3649. Computer System Monitor
+3650. ConFUSEd
+3651. Concisus
+3652. ConcurrencySuite
+3653. Condensation
+3654. CondorNodeManager
+3655. CondorStatistics
+3656. Conexant Admin Toolkit
+3657. Conexion
+3658. ConfiMM
+3659. Config4J - A Configuration Framework
+3660. ConfigPatch
+3661. ConfigSafe
+3662. Configurable Lightweight Config Language
+3663. Configuration
+3664. Configuration Management Tools
+3665. Configuration Manager
+3666. Configuration Repository System
+3667. Configuration Tools
+3668. Confix: A Build Tool on Top of Automake
+3669. Conflict Resolution Markup Language
+3670. Connection Manager for Squid HTTP Proxy
+3671. Connie
+3672. Conscriptus
+3673. ConsoleX
+3674. Context Sensitive Layout Hack
+3675. Contineo
+3676. Control-Freak
+3677. ControlTier
+3678. Controlix
+3679. Converse
+3680. Cookie DestrucTor
+3681. Cooperative Data Sharing, BCR flavor
+3682. Cooperator
+3683. CopyCat
+3684. Copy_Plus
+3685. CorReactive
+3686. Corazones web Toolbox
+3687. CorbaTrace
+3688. CoreSec Linux Operating System (HaCore)
+3689. Cork Project
+3690. Corruption Corrector
+3691. Cortex GNAT Run Time Systems
+3692. Cos
+3693. Count
+3694. Covert Linux
+3695. Cowry
+3696. CoyoteMonitoring
+3697. CppMyLogger
+3698. CrayCore
+3699. Crc32.NET
+3700. CreateBAK
+3701. CredentialCompiler
+3702. Cricket Cage
+3703. Crocus CSV Reader
+3704. Cross-Platform System Library
+3705. Cross-platform TCP/IP relay
+3706. CrossIP
+3707. CrossPather
+3708. Crossplatform Filemanager
+3709. Crow's Nest
+3710. Crowd Control
+3711. Cryogen Operating System
+3712. CrypTunnel
+3713. Cryptic Plus
+3714. Cryptix SASL Library
+3715. Cryptographic disk driver for FreeBSD
+3716. Crystal Installer
+3717. Crystal Releaser
+3718. Cs-ObexFtp
+3719. CsCommander
+3720. Cthulhu
+3721. CubTrix a Cubical Real-Time Kernel
+3722. Cube Platform
+3723. Cube Platform
+3724. Cube42 System Framework
+3725. Cuckoo Resource Adapter for SAP
+3726. Customer Management J2EE Application
+3727. Customiser
+3728. Customização Endian
+3729. CvJMirror
+3730. CyaSSL
+3731. CyberPower 320 SL Daemon
+3732. CyberPower UPS PowerPanel CGI
+3733. Cybermen - SPC
+3734. Cyberstorm
+3735. Cyborg
+3736. Cylindrical BLAST Viewer
+3737. Cyrph Grid Management System
+3738. Cyrus WebAdmin Tools
+3739. Cytrun Linux Secure Server
+3740. D.home.otic
+3741. D7 SMS - Nagios
+3742. D7 SMS - Zabbix
+3743. DAFS, Direct Access File System
+3744. DAMS OS
+3745. DAP2
+3746. DAR Runtime and Tools
+3747. DASM_Tool
+3748. DAVTECH-Apps
+3749. DB Schema Change Notifier
+3750. DB Util
+3751. DBCP
+3752. DBDOM
+3753. DBE Studio
+3754. DBI
+3755. DBMail Admin
+3756. DBPF Extractor
+3757. DCS
+3758. DCT 911Agent
+3759. DCTM VFS Provider
+3760. DDGP Grid Platform
+3761. DDS Example Use Cases
+3762. DDTUnit
+3763. DDnsEditor
+3764. DESMon
+3765. DESTROY
+3766. DEX Extensible Operating System
+3767. DFS - Distributed File System
+3768. DG-100 Manager for Mac
+3769. DIASER
+3770. DIASgrid
+3771. DIET Agents
+3772. DJ Tagger
+3773. DMG Encapsulator
+3774. DMOZ whitelist generator
+3775. DMP4X
+3776. DMSEasy
+3777. DMZ Backup
+3778. DND Rename - easy file renamer
+3779. DNS Manager
+3780. DNS Multiplexer
+3781. DNS rewriter
+3782. DNavigator
+3783. DOG - The DOG Operating Ground
+3784. DOGLESS
+3785. DOL DataLoggin
+3786. DOS Install System
+3787. DPML
+3788. DQuery Tool
+3789. DREK
+3790. DROTI Email Admin
+3791. DReAMSim
+3792. DReport
+3793. DS Password Tools
+3794. DS4J
+3795. DSICM network monitoring tools
+3796. DSO to connect with PC
+3797. DShield.org
+3798. DT9834Driver
+3799. DTraceToolkit
+3800. DUMMYNET traffic shaping script
+3801. DUQU - The Document Management System
+3802. DVD Web Service
+3803. DVD-Raid
+3804. DVDPacker
+3805. DaDiSi
+3806. DaVinci OS
+3807. Daemon4J - Java Virtual Machine Daemon
+3808. Daemonic
+3809. Daemons from Crom
+3810. DaisyLib
+3811. Daitrix
+3812. Damon
+3813. Danber
+3814. DanielBoone
+3815. Danshell
+3816. DarSens
+3817. Darkfire Security Project
+3818. Darwin on ARM
+3819. DashOffOn
+3820. Dashboard for Hyperic Alerts
+3821. DashboardX
+3822. Data Integrity Monitor
+3823. DataFission
+3824. DataMiningGrid
+3825. DataSiphon

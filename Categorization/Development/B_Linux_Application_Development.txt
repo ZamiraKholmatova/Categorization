@@ -1,0 +1,79 @@
+1. Zulu Enterprise
+2. Zulu Embedded
+3. Zing
+4. Newired
+5. TestRail
+6. DBmaestro DevOps Platform
+7. Enterprise Universal ERP API
+8. Amazon ECS
+9. Google Kubernetes Engine (GKE)
+10. Red Hat OpenShift
+11. Kubernetes
+12. Wappler
+13. 1C:Enterprise
+14. Sublime Text
+15. Jira Software
+16. CloudApp
+17. MuPDF
+18. Theum
+19. Visual Studio Code
+20. RAD Studio
+21. Qliktag Platform IoT Connected Products
+22. Rethink Workflow
+23. Felgo
+24. ArcESB
+25. ComponentOne Studio Enterprise
+26. Wijmo
+27. Spread
+28. Adzerk
+29. Xojo
+30. Odoo Studio
+31. Scriptcase
+32. EiffelStudio
+33. Document APIs
+34. PVS-Studio analyzer
+35. Bird Eats Bug
+36. Scalingo
+37. UXCloud
+38. Simitless
+39. JRebel
+40. Artifactory
+41. Entando
+42. Nuxeo Platform
+43. Resilio Connect
+44. IronWorker
+45. Witbe
+46. Omnis Studio
+47. Dragonglass
+48. UrbanCode Deploy
+49. Delphi
+50. Entity Framework Profiler
+51. SAP Cloud Platform
+52. D2iQ
+53. InnSpect
+54. Progress Kendo UI
+55. Sheetgo
+56. Userfeel.com
+57. C++Builder
+58. Gravity
+59. Apache Mesos
+60. Nomad
+61. CData API Server
+62. BeBop Cloud Platform
+63. CData Python Connectors
+64. Plesk
+65. QMetry
+66. CommentSold
+67. pixolution
+68. IBM Cloud Kubernetes Service
+69. Azure Kubernetes Service (AKS)
+70. Container Service for Kubernetes (ACK)
+71. Wavefront
+72. Oracle Container Cloud Service
+73. Cloud Foundry
+74. Photon OS
+75. Oracle Cloud
+76. Workday Cloud Platform
+77. Chetu
+78. SVN MultiSite Plus
+79. Capriza

@@ -1,0 +1,60 @@
+1. Ethereum Wallet and Mist Browser
+2. EasyMiner
+3. Go Ethereum
+4. Monero
+5. Bitcoin
+6. Corda
+7. StakedWallet
+8. ROKOS Bitcoin Full node OS
+9. Bitcoin Exchange Script
+10. Coinbase Pro Desktop
+11. ROKOS Crypto Full Node OS
+12. Bytecoin (BCN)
+13. BitCrazy's Faucet-in-a-Box Mod
+14. Decentralized Internet
+15. devcoin
+16. DFD Cryptocoin Values
+17. PPCoin
+18. riecoin
+19. Speedcoin CryptoCurrency CAPTCHA
+20. Crypto Converter
+21. Dogecoin
+22. Okcash
+23. coinScripter
+24. rotki
+25. BitcoinSuite
+26. CryptoFlouze
+27. zCharter
+28. BitOK Coin E-Wallet
+29. CryptoExchangeIWidget
+30. Cryptocurrency Donations Slider
+31. DFD Crypto Ticker
+32. InflationCoin (IFLT)
+33. Neuro
+34. Statercoin
+35. BOOM POOL
+36. Deutsche eMark
+37. BBmine
+38. Crypto CPUMiner GUI
+39. FoxCoin
+40. NamecoinJ
+41. Primecoin
+42. QuazarCoin
+43. Royalcoin
+44. StableCoin
+45. Weacoin
+46. "I am" by Infobeing
+47. Bitrapt - Bitcoin Trading Software
+48. CherryNote [CRR]
+49. Cudo Miner
+50. Dashcoin
+51. Forknote
+52. Instalux
+53. Primecoin
+54. Royalcoin Original Version
+55. cryptik
+56. dopecoin
+57. heartcoin
+58. indocoin
+59. ypcoin
+60. zTrader
