@@ -50,9 +50,9 @@ uncategorized = [x.lower().strip().strip('\r') for x in inf.read().split('\n')]
 
 try:
     connection = psycopg2.connect(user="postgres",
-                                  password="1nn0M3tr1c5",
-                                  host="10.90.138.244",
-                                  port="5432",
+                                  password="",
+                                  host="",
+                                  port="",
                                   database="postgres")
     cursor = connection.cursor()
     '''
